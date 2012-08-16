@@ -1,0 +1,30 @@
+configuration: 
+  name: helloqa
+  author: oaqa
+  
+configuration:
+  inherit: db.local-cse-config
+
+collection-reader:
+  inherit: helloqa.io.collection-reader
+  dataset: GUTENBERG
+  
+pipeline:
+  - inherit: ecd.phase  
+    name: keyterm-extractor
+    options: |
+      - inherit: helloqa.keyterm.simple
+  
+  - inherit: ecd.phase 
+    name: retrieval-strategist
+    options: |
+      - inherit: helloqa.retrieval.simple-solr-strategist
+
+  - inherit: eval.default-retrieval-aggregator-consumer
+
+post-process: 
+  - inherit: eval.default-retrieval-evaluator-consumer
+  - inherit: report.csv-report-generator
+    builders: |
+      - inherit: report.default-f-measure-report-component
+  

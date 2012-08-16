@@ -1,0 +1,7 @@
+class: edu.cmu.lti.oaqa.openqa.hello.retrieval.SimpleSolrRetrievalStrategist
+hit-list-size: 1000
+embedded: true
+core: data/guten
+
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider
