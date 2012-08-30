@@ -48,10 +48,5 @@
       	</exclusion>
       </exclusions>
     </dependency>
-    <dependency>
-      <groupId>mx.bigdata.streaming</groupId>
-      <artifactId>streaming</artifactId>
-      <version>1.0.0</version>
-    </dependency>
 	</dependencies>
 </project>

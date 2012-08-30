@@ -1,8 +1,0 @@
-class: edu.cmu.lti.oaqa.openqa.hello.collection.FileCollectionReader
-file: /input/small.txt
-
-#decorators: |
-#  - inherit: internal.collection.retrieval-gs-decorator
-  
-persistence-provider: |
-  inherit: ecd.default-experiment-persistence-provider
