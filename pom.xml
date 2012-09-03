@@ -33,9 +33,9 @@
 
 	<dependencies>
     <dependency>
-      <groupId>edu.cmu.lti.oaqa.bio.core</groupId>
-      <artifactId>baseqa</artifactId>
-      <version>1.6.1-SNAPSHOT</version>
+      <groupId>edu.cmu.lti.oaqa.framework.impl</groupId>
+      <artifactId>jdbc-providers</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>edu.cmu.lti.oaqa.core.provider</groupId>

@@ -1,0 +1,4 @@
+inherit: jdbc.db.experiment-persistence-provider
+url: derby://
+username:
+password:

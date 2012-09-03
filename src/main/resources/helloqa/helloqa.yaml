@@ -2,8 +2,8 @@ configuration:
   name: helloqa
   author: oaqa
   
-configuration:
-  inherit: db.local-cse-config
+persistence-provider:
+  inherit: db.local-persistence-provider
 
 collection-reader:
   inherit: fs.fs-collection-reader
@@ -21,10 +21,10 @@ pipeline:
     options: |
       - inherit: helloqa.retrieval.simple-solr-strategist
 
-  - inherit: eval.default-retrieval-aggregator-consumer
+  - inherit: jdbc.eval.retrieval-aggregator-consumer
 
 post-process: 
-  - inherit: eval.default-retrieval-evaluator-consumer
+  - inherit: jdbc.eval.retrieval-evaluator-consumer
   - inherit: report.csv-report-generator
     builders: |
       - inherit: report.default-f-measure-report-component
