@@ -3,7 +3,7 @@ configuration:
   author: oaqa
   
 persistence-provider:
-  inherit: db.local-persistence-provider
+  inherit: helloqa.db.local-persistence-provider
 
 collection-reader:
   inherit: fs.fs-collection-reader

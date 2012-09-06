@@ -1,4 +1,2 @@
-inherit: jdbc.db.experiment-persistence-provider
-url: derby://
-username:
-password:
+inherit: jdbc.h2.db.experiment-persistence-provider
+url: jdbc:h2:data/db
