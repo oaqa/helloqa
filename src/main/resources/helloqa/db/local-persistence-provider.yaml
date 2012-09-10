@@ -1,2 +1,5 @@
-inherit: jdbc.h2.db.experiment-persistence-provider
-url: jdbc:h2:data/db
+inherit: jdbc.sqlite.db.experiment-persistence-provider
+url: jdbc:sqlite:/home/mog/development/helloqa/data/oaevalution
+
+username: admin
+password: admin
