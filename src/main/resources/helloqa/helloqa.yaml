@@ -11,12 +11,12 @@ collection-reader:
   file: /input/small.txt
   
 pipeline:
-  - inherit: ecd.phase  
+  - inherit: jdbc.sqlite.cse.phase  
     name: keyterm-extractor
     options: |
       - inherit: helloqa.keyterm.simple
   
-  - inherit: ecd.phase 
+  - inherit: jdbc.sqlite.cse.phase 
     name: retrieval-strategist
     options: |
       - inherit: helloqa.retrieval.simple-solr-strategist
