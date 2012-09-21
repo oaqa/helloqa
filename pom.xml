@@ -50,7 +50,7 @@
     <dependency>
     	<groupId>edu.cmu.lti.oaqa.core.provider</groupId>
     	<artifactId>solr-provider</artifactId>
-    	<version>1.0.3</version>
+    	<version>1.0.4</version>
       <exclusions>
         <exclusion>  <!-- declare the exclusion here -->
           <groupId>com.google.guava</groupId>

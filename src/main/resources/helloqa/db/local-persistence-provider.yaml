@@ -1,5 +1,5 @@
 inherit: jdbc.sqlite.db.experiment-persistence-provider
-url: jdbc:sqlite:/home/mog/development/oaqa2/helloqa/data/oaevalution
+url: jdbc:sqlite:data/oaevalution
 
 username: admin
 password: admin
