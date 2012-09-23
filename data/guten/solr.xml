@@ -39,6 +39,6 @@
     If 'null' (or absent), cores will not be manageable via request handler
   -->
   <cores adminPath="/admin/cores" defaultCoreName="collection1">
-    <core name="guten" instanceDir="data/guten" dataDir="data/guten/data" />
+    <core name="collection1" instanceDir="." />
   </cores>
 </solr>

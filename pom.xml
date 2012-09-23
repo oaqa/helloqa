@@ -48,25 +48,19 @@
     
   
     <dependency>
-    	<groupId>edu.cmu.lti.oaqa.core.provider</groupId>
-    	<artifactId>solr-provider</artifactId>
-    	<version>1.0.4</version>
-      <exclusions>
-        <exclusion>  <!-- declare the exclusion here -->
-          <groupId>com.google.guava</groupId>
-          <artifactId>guava</artifactId>
-        </exclusion>
-        <exclusion>  <!-- declare the exclusion here -->
-          <groupId>commons-io</groupId>
-          <artifactId>commons-io</artifactId>
-        </exclusion>
-        </exclusions>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
     	<groupId>edu.cmu.lti.oaqa.bio.core</groupId>
     	<artifactId>baseqa</artifactId>
     	<version>1.7.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>edu.cmu.lti.oaqa.core.provider</groupId>
+    	<artifactId>solr-provider</artifactId>
+    	<version>1.0.5</version>
+    </dependency>
+    <dependency>
+    	<groupId>com.google.guava</groupId>
+    	<artifactId>guava</artifactId>
+    	<version>13.0</version>
     </dependency>
 	</dependencies>
 </project>

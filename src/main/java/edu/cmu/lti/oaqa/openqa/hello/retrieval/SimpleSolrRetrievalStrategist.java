@@ -31,7 +31,7 @@ import edu.cmu.lti.oaqa.framework.data.RetrievalResult;
 import edu.cmu.lti.oaqa.mergeqa.retrieval.AbstractRetrievalStrategist;
 
 /**
- * 
+ *  
  * @author Zi Yang <ziy@cs.cmu.edu>
  * 
  */
