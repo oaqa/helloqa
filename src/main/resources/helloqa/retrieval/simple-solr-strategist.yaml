@@ -1,7 +1,7 @@
 class: edu.cmu.lti.oaqa.openqa.hello.retrieval.SimpleSolrRetrievalStrategist
 hit-list-size: 10
-server: http://peace.isri.cs.cmu.edu:9080/guten/
-port: 9080
+embedded: true
+core: data/guten
 
 persistence-provider: |
   inherit: ecd.default-log-persistence-provider
