@@ -62,5 +62,10 @@
     	<artifactId>guava</artifactId>
     	<version>13.0</version>
     </dependency>
+    <dependency>
+    	<groupId>edu.cmu.lti.oaqa.cse</groupId>
+    	<artifactId>cse-framework</artifactId>
+    	<version>2.2.1</version>
+    </dependency>
 	</dependencies>
 </project>
