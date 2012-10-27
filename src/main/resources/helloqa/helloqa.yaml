@@ -24,6 +24,11 @@ pipeline:
     name: retrieval-strategist
     options: |
       - inherit: helloqa.retrieval.simple-solr-strategist
+      
+  - inherit: jdbc.sqlite.cse.phase  
+    name: passage-extractor
+    options: |
+      - inherit: helloqa.passage.simple
 
   - inherit: jdbc.eval.retrieval-aggregator-consumer
 
