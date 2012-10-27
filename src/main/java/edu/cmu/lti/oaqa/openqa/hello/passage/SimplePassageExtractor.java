@@ -4,7 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.solr.client.solrj.SolrServerException;
+import org.apache.solr.client.solrj.embedded.EmbeddedSolrServer;
 import org.apache.uima.UimaContext;
+import org.apache.uima.analysis_engine.AnalysisEngineProcessException;
 import org.apache.uima.resource.ResourceInitializationException;
 
 import com.google.common.base.Function;
@@ -62,4 +64,10 @@ public class SimplePassageExtractor extends AbstractPassageExtractor {
 		return result;
 	}
 
+  @Override
+  public void collectionProcessComplete() throws AnalysisEngineProcessException {
+    super.collectionProcessComplete();
+    wrapper.close();
+  }
+  
 }
