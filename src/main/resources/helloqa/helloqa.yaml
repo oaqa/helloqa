@@ -31,10 +31,17 @@ pipeline:
       - inherit: helloqa.passage.simple
 
   - inherit: jdbc.eval.retrieval-aggregator-consumer
+  
+  - inherit: helloqa.eval.passage-map-aggregator-consumer
 
 post-process: 
   - inherit: jdbc.eval.retrieval-evaluator-consumer
   - inherit: report.csv-report-generator
     builders: |
       - inherit: jdbc.report.f-measure-report-component
+      
+  - inherit: helloqa.eval.passage-map-evaluator-consumer
+  - inherit: report.csv-report-generator
+    builders: |
+      - inherit: helloqa.report.map-report-component
   
