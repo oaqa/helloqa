@@ -13,10 +13,10 @@ import com.google.common.base.Function;
 import com.google.common.collect.Lists;
 
 import edu.cmu.lti.oaqa.core.provider.solr.SolrWrapper;
+import edu.cmu.lti.oaqa.cse.basephase.ie.AbstractPassageExtractor;
 import edu.cmu.lti.oaqa.framework.data.Keyterm;
 import edu.cmu.lti.oaqa.framework.data.PassageCandidate;
 import edu.cmu.lti.oaqa.framework.data.RetrievalResult;
-import edu.cmu.lti.oaqa.mergeqa.ie.AbstractPassageExtractor;
 
 public class SimplePassageExtractor extends AbstractPassageExtractor {
 

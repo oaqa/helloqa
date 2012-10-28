@@ -22,8 +22,8 @@ import java.util.List;
 import org.apache.uima.UimaContext;
 import org.apache.uima.resource.ResourceInitializationException;
 
+import edu.cmu.lti.oaqa.cse.basephase.keyterm.AbstractKeytermExtractor;
 import edu.cmu.lti.oaqa.framework.data.Keyterm;
-import edu.cmu.lti.oaqa.mergeqa.keyterm.AbstractKeytermExtractor;
 
 /**
  * 
@@ -51,7 +51,7 @@ public class SimpleKeytermExtractor extends AbstractKeytermExtractor {
     String[] questionTokens = question.split("\\s+");
     List<Keyterm> keyterms = new ArrayList<Keyterm>();
     for (int i = 0; i < questionTokens.length; i++) {
-      keyterms.add(new Keyterm(questionTokens[i], i, Keyterm.TOKEN));
+      keyterms.add(new Keyterm(questionTokens[i]));
     }
 
     return keyterms;

@@ -82,7 +82,7 @@ public class PassageCandidateFinder {
 				double score = scorer.scoreWindow( begin , end , matchesFound , totalMatches , keytermsFound , totalKeyterms , textSize );
 				PassageCandidate window = null;
 				try {
-					window = new PassageCandidate( docId , begin , end , score , null );
+					window = new PassageCandidate( docId , begin , end , (float) score , null );
 				} catch (AnalysisEngineProcessException e) {
 					e.printStackTrace();
 				}
@@ -100,9 +100,9 @@ public class PassageCandidateFinder {
 		public int compare( Object o1 , Object o2 ) {
 			PassageCandidate s1 = (PassageCandidate)o1;
 			PassageCandidate s2 = (PassageCandidate)o2;
-			if ( s1.getScore() < s2.getScore() ) {
+			if ( s1.getProbability() < s2.getProbability() ) {
 				return 1;
-			} else if ( s1.getScore() > s2.getScore() ) {
+			} else if ( s1.getProbability() > s2.getProbability() ) {
 				return -1;
 			}
 			return 0;
