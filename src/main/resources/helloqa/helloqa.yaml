@@ -13,33 +13,40 @@ collection-reader:
 #  dataset: GUTENBERG
 #  suffix: txt
 #  dir: /input
-  
+
 pipeline:
   - inherit: jdbc.sqlite.cse.phase  
     name: keyterm-extractor
     options: |
       - inherit: helloqa.keyterm.simple
-  
+
   - inherit: jdbc.sqlite.cse.phase 
     name: retrieval-strategist
     options: |
       - inherit: helloqa.retrieval.simple-solr-strategist
-      
+          
   - inherit: jdbc.sqlite.cse.phase  
     name: passage-extractor
     options: |
       - inherit: helloqa.passage.simple
+      
+  - inherit: helloqa.eval.keyterm-aggregator-consumer
 
   - inherit: jdbc.eval.retrieval-aggregator-consumer
-  
-  - inherit: helloqa.eval.passage-map-aggregator-consumer
-
+      
+  - inherit: helloqa.eval.passage-map-aggregator-consumer      
+    
 post-process: 
+  - inherit: helloqa.eval.keyterm-evaluator-consumer
+  - inherit: report.csv-report-generator
+    builders: |
+      - inherit: helloqa.report.keyterm-report-component
+
   - inherit: jdbc.eval.retrieval-evaluator-consumer
   - inherit: report.csv-report-generator
     builders: |
       - inherit: jdbc.report.f-measure-report-component
-      
+          
   - inherit: helloqa.eval.passage-map-evaluator-consumer
   - inherit: report.csv-report-generator
     builders: |

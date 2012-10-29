@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.framework.eval.KeytermGoldStandardDecorator
+
+persistence-provider: |
+  inherit: helloqa.collection.keyterm-gs-persistence-provider

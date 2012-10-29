@@ -1,0 +1,20 @@
+class: edu.cmu.lti.oaqa.framework.eval.retrieval.impl.JdbcRetrievalEvalPersistenceProvider
+select-passage-aggregates-query: |
+  SELECT experimentId, traceId, relevant_retrieved, retrieved,
+   relevant, avep, count, binary_relevant, stage
+  FROM keyterm_aggregates WHERE experimentId = ? AND stage = ?
+insert-f-measure-eval-query: |
+  INSERT INTO keyterm_eval
+   (experimentId, traceId, evaluator, prec, recall, f1, 
+   map, binary_recall, count, stage, traceHash) 
+  VALUES (?,?,?,?,?,?,?,?,?,?,?)
+delete-f-measure-eval-query: |
+  DELETE FROM keyterm_eval WHERE experimentId = ? AND stage = ?
+insert-passage-aggregates-query: |
+  INSERT INTO keyterm_aggregates (experimentId, traceId, 
+   aggregator, relevant_retrieved, retrieved, relevant, 
+   avep, count, binary_relevant, sequenceId, stage, traceHash) 
+  VALUES (?,?,?,?,?,?,?,?,?,?,?,?)
+delete-passage-aggr-eval-query: |
+  DELETE FROM keyterm_aggregates 
+  WHERE experimentId = ? AND traceHash = ? AND aggregator = ? AND sequenceId = ?  

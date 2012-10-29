@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.framework.eval.TraceConsumer
+name: retrieval-measures-evaluator 
+experiment-listeners: |
+  - inherit: helloqa.eval.keyterm-evaluator

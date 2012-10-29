@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.framework.eval.PassageDatasetDecorator
+
+persistence-provider: |
+  inherit: helloqa.collection.passage-gs-persistence-provider
