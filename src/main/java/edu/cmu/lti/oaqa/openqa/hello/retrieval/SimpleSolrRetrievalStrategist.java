@@ -31,7 +31,7 @@ import edu.cmu.lti.oaqa.framework.data.Keyterm;
 import edu.cmu.lti.oaqa.framework.data.RetrievalResult;
 
 /**
- *  
+ * 
  * @author Zi Yang <ziy@cs.cmu.edu>
  * 
  */
@@ -40,7 +40,7 @@ public class SimpleSolrRetrievalStrategist extends AbstractRetrievalStrategist {
   private Integer hitListSize;
 
   protected SolrWrapper wrapper;
-  
+
   @Override
   public void initialize(UimaContext aContext) throws ResourceInitializationException {
     super.initialize(aContext);
@@ -83,8 +83,8 @@ public class SimpleSolrRetrievalStrategist extends AbstractRetrievalStrategist {
     try {
       SolrDocumentList docs = wrapper.runQuery(query, hitListSize);
       for (SolrDocument doc : docs) {
-    	  String text = (String)doc.getFieldValue( "text" );
-        RetrievalResult r = new RetrievalResult((String) doc.getFieldValue("id"), (Float) doc.getFieldValue("score"), query);
+        RetrievalResult r = new RetrievalResult((String) doc.getFieldValue("id"),
+                (Float) doc.getFieldValue("score"), query);
         result.add(r);
         System.out.println(doc.getFieldValue("id"));
       }
