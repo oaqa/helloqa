@@ -69,7 +69,6 @@ public class SimplePassageExtractor extends AbstractPassageExtractor {
         List<String> keytermStrings = Lists.transform(keyterms, new Function<Keyterm, String>() {
           public String apply(Keyterm keyterm) { return keyterm.getText(); }
         });
-        // List<PassageCandidate> passageSpans = finder.extractPassages( (String[])keyterms.toArray() );
         List<PassageCandidate> passageSpans = finder.extractPassages( keytermStrings.toArray(new String[0]) );
         for ( PassageCandidate passageSpan : passageSpans )
           result.add( passageSpan );
