@@ -36,7 +36,7 @@ import edu.cmu.lti.oaqa.framework.data.RetrievalResult;
 
 public class SimplePassageExtractor extends AbstractPassageExtractor {
 
-  SolrWrapper wrapper;
+  protected SolrWrapper wrapper;
 
   @Override
   public void initialize(UimaContext aContext) throws ResourceInitializationException {
@@ -64,6 +64,7 @@ public class SimplePassageExtractor extends AbstractPassageExtractor {
       try {
         // @Alkesh: can you add this call to the SolrWrapper API? - Now work with solr-provider 1.0.5-SNAPSHOT
         String text = wrapper.getDocText( id );
+        System.out.println(text);
         PassageCandidateFinder finder = new PassageCandidateFinder( id , text , new KeytermWindowScorerSum() );
         // @EHN: to avoid ClassCastException: [Ljava.lang.Object; cannot be cast to [Ljava.lang.String;
         List<String> keytermStrings = Lists.transform(keyterms, new Function<Keyterm, String>() {
