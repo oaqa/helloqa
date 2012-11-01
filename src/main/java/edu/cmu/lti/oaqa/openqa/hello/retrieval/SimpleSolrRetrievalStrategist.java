@@ -37,7 +37,7 @@ import edu.cmu.lti.oaqa.framework.data.RetrievalResult;
  */
 public class SimpleSolrRetrievalStrategist extends AbstractRetrievalStrategist {
 
-  private Integer hitListSize;
+  protected Integer hitListSize;
 
   protected SolrWrapper wrapper;
 
