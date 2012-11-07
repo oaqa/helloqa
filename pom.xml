@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.oaqa.openqa</groupId>
 	<artifactId>helloqa</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
   <parent>
     <groupId>org.sonatype.oss</groupId>
     <artifactId>oss-parent</artifactId>
