@@ -78,7 +78,7 @@ public class SimpleSolrRetrievalStrategist extends AbstractRetrievalStrategist {
     return query;
   }
 
-  private List<RetrievalResult> retrieveDocuments(String query) {
+  protected List<RetrievalResult> retrieveDocuments(String query) {
     List<RetrievalResult> result = new ArrayList<RetrievalResult>();
     try {
       SolrDocumentList docs = wrapper.runQuery(query, hitListSize);
