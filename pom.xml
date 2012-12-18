@@ -3,7 +3,7 @@
 <modelVersion>4.0.0</modelVersion>
 <groupId>edu.cmu.lti.oaqa.openqa</groupId>
 <artifactId>helloqa</artifactId>
-<version>1.0.3</version>
+<version>1.0.4-SNAPSHOT</version>
 
 <name>Hello World QA Pipeline</name>
 <url>https://github.com/oaqa/helloqa</url>
