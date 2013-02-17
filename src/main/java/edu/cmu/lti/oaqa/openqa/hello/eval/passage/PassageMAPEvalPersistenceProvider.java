@@ -37,7 +37,7 @@ import edu.cmu.lti.oaqa.framework.persistence.AbstractPassageMAPEvalPersistenceP
 public class PassageMAPEvalPersistenceProvider extends AbstractPassageMAPEvalPersistenceProvider {
 
   @Override
-  public void deletePassageAggrEval(final Key key, final int sequenceId) {
+  public void deletePassageAggrEval(final Key key, final String sequenceId) {
     final String name = getClass().getSimpleName();
     String insert = getDeletePassageAggrEval();
     DataStoreImpl.getInstance().jdbcTemplate().update(insert, new PreparedStatementSetter() {
@@ -45,13 +45,13 @@ public class PassageMAPEvalPersistenceProvider extends AbstractPassageMAPEvalPer
         ps.setString(1, key.getExperiment());
         ps.setString(2, key.getTrace().getTraceHash());
         ps.setString(3, name);
-        ps.setInt(4, sequenceId);
+        ps.setString(4, sequenceId);
       }
     });
   }
 
   @Override
-  public void insertPartialCounts(final Key key, final int sequenceId, final PassageMAPCounts counts)
+  public void insertPartialCounts(final Key key, final String sequenceId, final PassageMAPCounts counts)
           throws SQLException {
     final String eName = getClass().getSimpleName();
     String insert = getInsertPassageAggregates();
@@ -65,7 +65,7 @@ public class PassageMAPEvalPersistenceProvider extends AbstractPassageMAPEvalPer
         ps.setFloat(5, counts.getPsgavep());
         ps.setFloat(6, counts.getAspavep());
         ps.setFloat(7, counts.getCount());
-        ps.setInt(8, sequenceId);
+        ps.setString(8, sequenceId);
         ps.setInt(9, key.getStage());
         ps.setString(10, trace.getTraceHash());
       }
