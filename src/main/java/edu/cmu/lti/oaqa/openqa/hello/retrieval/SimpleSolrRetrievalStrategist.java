@@ -27,7 +27,6 @@ import org.apache.uima.resource.ResourceInitializationException;
 
 import edu.cmu.lti.oaqa.core.provider.solr.SolrWrapper;
 import edu.cmu.lti.oaqa.cse.basephase.retrieval.AbstractRetrievalStrategist;
-import edu.cmu.lti.oaqa.framework.data.Keyterm;
 import edu.cmu.lti.oaqa.framework.data.RetrievalResult;
 
 /**
@@ -62,16 +61,16 @@ public class SimpleSolrRetrievalStrategist extends AbstractRetrievalStrategist {
   }
 
   @Override
-  protected final List<RetrievalResult> retrieveDocuments(String questionText,
-          List<Keyterm> keyterms) {
-    String query = formulateQuery(keyterms);
+  protected final List<RetrievalResult> retrieveDocuments(String qid, String question, 
+                                                          List<String> keyTerms, List<String> keyPhrases) {
+    String query = formulateQuery(keyTerms);
     return retrieveDocuments(query);
   };
 
-  protected String formulateQuery(List<Keyterm> keyterms) {
+  protected String formulateQuery(List<String> keyTerms) {
     StringBuffer result = new StringBuffer();
-    for (Keyterm keyterm : keyterms) {
-      result.append(keyterm.getText() + " ");
+    for (String keyterm : keyTerms) {
+      result.append(keyterm + " ");
     }
     String query = result.toString();
     System.out.println(" QUERY: " + query);

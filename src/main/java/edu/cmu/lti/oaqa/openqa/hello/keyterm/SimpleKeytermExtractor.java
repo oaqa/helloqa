@@ -23,7 +23,6 @@ import org.apache.uima.UimaContext;
 import org.apache.uima.resource.ResourceInitializationException;
 
 import edu.cmu.lti.oaqa.cse.basephase.keyterm.AbstractKeytermExtractor;
-import edu.cmu.lti.oaqa.framework.data.Keyterm;
 
 /**
  * 
@@ -38,7 +37,7 @@ public class SimpleKeytermExtractor extends AbstractKeytermExtractor {
   }
 
   @Override
-  protected List<Keyterm> getKeyterms(String question) {
+  protected List<String> getKeyterms(String question) {
 
     question = question.replace('?', ' ');
     question = question.replace('(', ' ');
@@ -49,11 +48,16 @@ public class SimpleKeytermExtractor extends AbstractKeytermExtractor {
     question = question.replace('\'', ' ');
 
     String[] questionTokens = question.split("\\s+");
-    List<Keyterm> keyterms = new ArrayList<Keyterm>();
+    List<String> keyTerms = new ArrayList<String>();
     for (int i = 0; i < questionTokens.length; i++) {
-      keyterms.add(new Keyterm(questionTokens[i]));
+      keyTerms.add(questionTokens[i]);
     }
 
-    return keyterms;
+    return keyTerms;
+  }
+  
+  @Override
+  protected List<String> getKeyphrases(String question) {
+    return new ArrayList<String>();
   }
 }

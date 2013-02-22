@@ -14,7 +14,6 @@ import com.google.common.collect.Lists;
 
 import edu.cmu.lti.oaqa.core.provider.solr.SolrWrapper;
 import edu.cmu.lti.oaqa.cse.basephase.ie.AbstractPassageExtractor;
-import edu.cmu.lti.oaqa.framework.data.Keyterm;
 import edu.cmu.lti.oaqa.framework.data.PassageCandidate;
 import edu.cmu.lti.oaqa.framework.data.RetrievalResult;
 
@@ -56,7 +55,9 @@ public class SimplePassageExtractor extends AbstractPassageExtractor {
   }
 
   @Override
-	protected List<PassageCandidate> extractPassages( String question, List<Keyterm> keyterms, List<RetrievalResult> documents ) {
+	protected List<PassageCandidate> extractPassages(String qid, String question,
+                                                   List<String> keyTerms, List<String> keyPhrases, 
+                                                   List<RetrievalResult> documents) {
 		List<PassageCandidate> result = new ArrayList<PassageCandidate>();
 		for ( RetrievalResult document : documents ) {
 			System.out.println( "RetrievalResult: " + document.toString() );
@@ -67,8 +68,8 @@ public class SimplePassageExtractor extends AbstractPassageExtractor {
         System.out.println(text);
         PassageCandidateFinder finder = new PassageCandidateFinder( id , text , new KeytermWindowScorerSum() );
         // @EHN: to avoid ClassCastException: [Ljava.lang.Object; cannot be cast to [Ljava.lang.String;
-        List<String> keytermStrings = Lists.transform(keyterms, new Function<Keyterm, String>() {
-          public String apply(Keyterm keyterm) { return keyterm.getText(); }
+        List<String> keytermStrings = Lists.transform(keyTerms, new Function<String, String>() {
+          public String apply(String keyterm) { return keyterm; }
         });
         List<PassageCandidate> passageSpans = finder.extractPassages( keytermStrings.toArray(new String[0]) );
         for ( PassageCandidate passageSpan : passageSpans )
