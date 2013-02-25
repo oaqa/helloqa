@@ -30,22 +30,22 @@ pipeline:
     options: |
       - inherit: helloqa.passage.simple
       
-  - inherit: helloqa.eval.keyterm-aggregator-consumer
+  #- inherit: helloqa.eval.keyterm-aggregator-consumer
 
-  - inherit: jdbc.eval.retrieval-aggregator-consumer
+  #- inherit: jdbc.eval.retrieval-aggregator-consumer
       
   - inherit: helloqa.eval.passage-map-aggregator-consumer      
     
 post-process: 
-  - inherit: helloqa.eval.keyterm-evaluator-consumer
-  - inherit: report.csv-report-generator
-    builders: |
-      - inherit: helloqa.report.keyterm-report-component
+  #- inherit: helloqa.eval.keyterm-evaluator-consumer
+  #- inherit: report.csv-report-generator
+  #  builders: |
+  #    - inherit: helloqa.report.keyterm-report-component
 
-  - inherit: jdbc.eval.retrieval-evaluator-consumer
-  - inherit: report.csv-report-generator
-    builders: |
-      - inherit: jdbc.report.f-measure-report-component
+  #- inherit: jdbc.eval.retrieval-evaluator-consumer
+  #- inherit: report.csv-report-generator
+  #  builders: |
+  #    - inherit: jdbc.report.f-measure-report-component
           
   - inherit: helloqa.eval.passage-map-evaluator-consumer
   - inherit: report.csv-report-generator
