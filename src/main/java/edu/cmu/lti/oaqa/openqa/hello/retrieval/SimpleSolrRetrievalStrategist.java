@@ -83,7 +83,7 @@ public class SimpleSolrRetrievalStrategist extends AbstractRetrievalStrategist {
       SolrDocumentList docs = wrapper.runQuery(query, hitListSize);
       for (SolrDocument doc : docs) {
         RetrievalResult r = new RetrievalResult((String) doc.getFieldValue("id"),
-                (Float) doc.getFieldValue("score"), query);
+                (Float) doc.getFieldValue("score"), query, null);
         result.add(r);
         System.out.println(doc.getFieldValue("id"));
       }
