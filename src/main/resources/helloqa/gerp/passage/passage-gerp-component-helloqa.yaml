@@ -1,0 +1,11 @@
+class: edu.cmu.lti.oaqa.openqa.hello.gerp.passage.PassageGerpComponent
+generators: | 
+        - inherit: helloqa.gerp.passage.passage-generator
+evidencers: |
+        - inherit: helloqa.gerp.passage.passage-evidencer-sum
+rankers: |
+        - inherit: helloqa.gerp.passage.passage-ranker
+pruners: |
+        - inherit: helloqa.gerp.passage.passage-pruner
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider

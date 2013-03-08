@@ -66,11 +66,8 @@ public class SimplePassageExtractor extends AbstractPassageExtractor {
         String text = wrapper.getDocText( id );
         System.out.println(text);
         PassageCandidateFinder finder = new PassageCandidateFinder( id , text , new KeytermWindowScorerSum() );
-        // @EHN: to avoid ClassCastException: [Ljava.lang.Object; cannot be cast to [Ljava.lang.String;
-        List<String> keytermStrings = Lists.transform(keyterms, new Function<Keyterm, String>() {
-          public String apply(Keyterm keyterm) { return keyterm.getText(); }
-        });
-        List<PassageCandidate> passageSpans = finder.extractPassages( keytermStrings.toArray(new String[0]) );
+       
+        List<PassageCandidate> passageSpans = finder.extractPassages( keyterms );
         for ( PassageCandidate passageSpan : passageSpans )
           result.add( passageSpan );
       } catch (SolrServerException e) {

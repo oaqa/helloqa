@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.openqa.hello.gerp.passage.PassageKeytermWindowEvidencer
+scorer: edu.cmu.lti.oaqa.openqa.hello.passage.KeytermWindowScorerProduct
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider

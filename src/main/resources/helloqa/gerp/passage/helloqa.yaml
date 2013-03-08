@@ -28,7 +28,8 @@ pipeline:
   - inherit: jdbc.sqlite.cse.phase  
     name: passage-extractor
     options: |
-     - inherit: helloqa.gerp.passage.passage-gerp-component-helloqa
+      - inherit: helloqa.passage.simple
+      
   - inherit: helloqa.eval.keyterm-aggregator-consumer
 
   - inherit: jdbc.eval.retrieval-aggregator-consumer

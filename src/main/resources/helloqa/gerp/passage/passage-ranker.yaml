@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.openqa.hello.gerp.passage.PassageKeytermRanker
+weights: [0.4,0.6]
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider

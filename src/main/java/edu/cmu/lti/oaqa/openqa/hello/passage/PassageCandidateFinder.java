@@ -24,6 +24,7 @@ import java.util.regex.Pattern;
 
 import org.apache.uima.analysis_engine.AnalysisEngineProcessException;
 
+import edu.cmu.lti.oaqa.framework.data.Keyterm;
 import edu.cmu.lti.oaqa.framework.data.PassageCandidate;
 
 public class PassageCandidateFinder {
@@ -43,13 +44,14 @@ public class PassageCandidateFinder {
 		this.textSize = text.length();
 		this.scorer = scorer;
 	}
-	public List<PassageCandidate> extractPassages( String[] keyterms ) {
+
+	public List<PassageCandidate> extractPassages( List<Keyterm> keyterms ) {
 		List<List<PassageSpan>> matchingSpans = new ArrayList<List<PassageSpan>>();
 		List<PassageSpan> matchedSpans = new ArrayList<PassageSpan>();
 		
 		// Find all keyterm matches.
-		for ( String keyterm : keyterms ) {
-			Pattern p = Pattern.compile( keyterm );
+		for ( Keyterm keyterm : keyterms ) {
+			Pattern p = Pattern.compile( keyterm.getText() );
 			Matcher m = p.matcher( text );
 			while ( m.find() ) {
 				PassageSpan match = new PassageSpan( m.start() , m.end() ) ;
@@ -94,10 +96,10 @@ public class PassageCandidateFinder {
 					}
 					if ( thisKeytermFound ) keytermsFound++;
 				}
-				double score = scorer.scoreWindow( begin , end , matchesFound , totalMatches , keytermsFound , totalKeyterms , textSize );
+			//	double score = scorer.scoreWindow( begin , end , matchesFound , totalMatches , keytermsFound , totalKeyterms , textSize );
 				PassageCandidate window = null;
 				try {
-					window = new PassageCandidate( docId , begin , end , (float) score , null );
+					window = new PassageCandidate( docId , begin , end , 0 , null );
 				} catch (AnalysisEngineProcessException e) {
 					e.printStackTrace();
 				}
@@ -107,6 +109,7 @@ public class PassageCandidateFinder {
 		
 		// Sort the result in order of decreasing score.
 		// Collections.sort ( result , new PassageCandidateComparator() );
+		//System.out.println(result);
 		return result;
 
 	}
@@ -145,10 +148,10 @@ public class PassageCandidateFinder {
 		PassageCandidateFinder passageFinder2 = new PassageCandidateFinder( "1" , "The quick brown fox jumped over the quick brown fox." ,
 				new KeytermWindowScorerSum() );
 		String[] keyterms = { "quick" , "jumped" };
-		List<PassageCandidate> windows1 = passageFinder1.extractPassages( keyterms );
-		System.out.println( "Windows (product scoring): " + windows1 );
-		List<PassageCandidate> windows2 = passageFinder2.extractPassages( keyterms );
-		System.out.println( "Windows (sum scoring): " + windows2 );
+	//	List<PassageCandidate> windows1 = passageFinder1.extractPassages( keyterms );
+		//System.out.println( "Windows (product scoring): " + windows1 );
+		//List<PassageCandidate> windows2 = passageFinder2.extractPassages( keyterms );
+		//System.out.println( "Windows (sum scoring): " + windows2 );
 	}
 	
 
