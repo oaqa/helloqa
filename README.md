@@ -15,3 +15,13 @@ keep it in the repository, bad practice and all).
 3.  Copy the resulting files into the data directory inside your HelloQA
 project such that your helloqa/data/guten directory contains bin, conf, data,
 lib, etc.
+
+You're now ready to run the pipeline.
+
+1.  Open project in Eclipse.
+
+2.  Expand the directory tree under the project and look for "launches".
+
+3.  Expand "launches" and right-click on test.launch > Run As > test.  This
+launch should now be the default behavior whenever you click the "Run" button
+in the toolbar while you're in the helloqa project.
