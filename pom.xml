@@ -21,6 +21,7 @@
 </licenses>
 
 
+
 <scm>
 <connection>scm:git:git@github.com:oaqa/helloqa.git</connection>
 <developerConnection>scm:git:git@github.com:oaqa/helloqa.git</developerConnection>
@@ -39,23 +40,23 @@
 <repositories>
 <repository>
 <id>oaqa</id>
-<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-dependencies</url>
+<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/releases</url>
 </repository>
 </repositories>
 
 
 <dependencies>
-<dependency>
+<dependency> 
 <groupId>edu.cmu.lti.oaqa.framework.impl</groupId>
 <artifactId>jdbc-providers</artifactId>
-<version>2.3.2-SNAPSHOT</version>
-</dependency>
+<version>2.3.2</version> 
+</dependency> 
 <dependency>
 <groupId>org.xerial</groupId>
 <artifactId>sqlite-jdbc</artifactId>
 <version>3.7.2</version>
 </dependency>
-<dependency>
+<dependency> 
 <groupId>edu.cmu.lti.oaqa.bio.core</groupId>
 <artifactId>baseqa</artifactId>
 <version>1.9.1</version>
