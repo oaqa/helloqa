@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysisEngineDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <frameworkImplementation>org.apache.uima.java</frameworkImplementation>
+  <primitive>false</primitive>
+  <delegateAnalysisEngineSpecifiers>
+    <delegateAnalysisEngine key="OAQACompatSentDetectAnnotator">
+      <import name="edu.cmu.lti.oaqa.experimental_impl.xmiretriever.OAQACompatSentDetectAnnotator"/>
+    </delegateAnalysisEngine>
+    <delegateAnalysisEngine key="IBM-ED-CasInitializer">
+      <import name="edu.cmu.lti.oaqa.experimental_impl.xmiretriever.IBM-ED-CasInitializer"/>
+    </delegateAnalysisEngine>
+    <delegateAnalysisEngine key="IBM-EDAsyncAEforIC">
+      <import name="edu.cmu.lti.oaqa.experimental_impl.xmiretriever.IBM-EDAsyncAEforIC"/>
+    </delegateAnalysisEngine>
+  </delegateAnalysisEngineSpecifiers>
+  <analysisEngineMetaData>
+    <name>OnDemandAnnotationAggregate</name>
+    <description/>
+    <version>1.0</version>
+    <vendor/>
+    <configurationParameters searchStrategy="language_fallback"/>
+    <configurationParameterSettings/>
+    <flowConstraints>
+      <fixedFlow>
+        <node>OAQACompatSentDetectAnnotator</node>
+        <node>IBM-ED-CasInitializer</node>
+        <node>IBM-EDAsyncAEforIC</node>
+      </fixedFlow>
+    </flowConstraints>
+    <typePriorities/>
+    <fsIndexCollection/>
+    <capabilities>
+      <capability>
+        <inputs/>
+        <outputs/>
+        <languagesSupported/>
+      </capability>
+    </capabilities>
+    <operationalProperties>
+      <modifiesCas>true</modifiesCas>
+      <multipleDeploymentAllowed>true</multipleDeploymentAllowed>
+      <outputsNewCASes>false</outputsNewCASes>
+    </operationalProperties>
+  </analysisEngineMetaData>
+  <resourceManagerConfiguration/>
+</analysisEngineDescription>

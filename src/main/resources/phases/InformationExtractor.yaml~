@@ -1,0 +1,7 @@
+class: edu.cmu.lti.oaqa.openqa.dso.phase.ie.InformationExtractor
+isServer: false
+indexLocation: res/rdf_dbpedia_labels_indri_index 
+sparqlServer: http://dawn.isri.cmu.edu:3030/dataset
+
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider

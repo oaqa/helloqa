@@ -1,0 +1,6 @@
+class: edu.cmu.lti.oaqa.experimental_impl.passage.searcher.LocalCorpusSearcher
+enabled: true
+locations: xmirepo/dso/index
+
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider

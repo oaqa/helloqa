@@ -1,0 +1,6 @@
+class: edu.cmu.lti.oaqa.experimental_impl.passage.searcher.RDFSearcher
+enabled: true
+
+
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider

@@ -1,0 +1,8 @@
+class: edu.cmu.lti.oaqa.openqa.hello.passage.SimplePassageExtractor
+hit-list-size: 10
+embedded: true
+core: data/guten
+keytermWindowScorer: edu.cmu.lti.oaqa.openqa.hello.passage.KeytermWindowScorerSum
+
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider

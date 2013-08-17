@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collectionReaderDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <frameworkImplementation>org.apache.uima.java</frameworkImplementation>
+  <implementationName>edu.cmu.lti.oaqa.framework.QuestionReader</implementationName>
+  <processingResourceMetaData>
+    <name>Question Collection Reader</name>
+    <description>Reads question files from the filesystem.  This CollectionReader 
+          may be used with or without a CAS Initializer.  If a CAS Initializer is 
+          supplied, it will be passed an InputStream to the file and must populate 
+          the CAS from that InputStream.  If no CAS Initializer is supplied, this 
+          CollectionReader will read the file itself and set treat the entire 
+          contents of the file as the document to be inserted into the CAS.</description>
+    <version>1.0</version>
+    <vendor>CMU</vendor>
+    <configurationParameters>
+      <configurationParameter>
+        <name>QuestionFile</name>
+        <description>Directory containing input files</description>
+        <type>String</type>
+        <multiValued>false</multiValued>
+        <mandatory>true</mandatory>
+      </configurationParameter>
+    </configurationParameters>
+    <configurationParameterSettings/>
+    <typeSystemDescription>
+      <imports>
+        <import name="org.apache.uima.examples.SourceDocumentInformation"/>
+        <import location="OAQATypes.xml"/>
+      </imports>
+    </typeSystemDescription>
+    <capabilities>
+      <capability>
+        <inputs/>
+        <outputs>
+          <type allAnnotatorFeatures="true">org.apache.uima.examples.SourceDocumentInformation</type>
+        </outputs>
+        <languagesSupported/>
+      </capability>
+    </capabilities>
+    <operationalProperties>
+      <modifiesCas>true</modifiesCas>
+      <multipleDeploymentAllowed>false</multipleDeploymentAllowed>
+      <outputsNewCASes>true</outputsNewCASes>
+    </operationalProperties>
+  </processingResourceMetaData>
+</collectionReaderDescription>
