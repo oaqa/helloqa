@@ -1,4 +1,0 @@
-class: edu.cmu.lti.oaqa.openqa.dso.answer.EphyraAnswerGenerator
-
-persistence-provider: |
-  inherit: ecd.default-log-persistence-provider
