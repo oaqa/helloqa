@@ -1,0 +1,83 @@
+1001	Did the shipping container in the Gioia Tauro incident of 18 October 2001 arrive via sea?
+1001-a	Did the shipping container in the Gioia Tauro incident of 18 October 2001 arrive via overland?
+1001-b	Which country did the shipping container in the Gioia Tauro incident of 18 October 2001 arrive from?
+1002	Does the JI or ASG have underwater capabilities?
+1003	Who is associated with Osama bin Laden?
+1003-a	How are they related?
+1004	Did the terrorists in the Ashdod incident of 16 March 2002 hide in a container that was shipped via sea?
+1004-a	Did the terrorists in the Ashdod incident of 16 March 2002 hide in a container that was shipped via overland?
+1004-b	Where was the container that the terrorists hid in the Ashdod incident of 16 March 2002 shipped from?
+1005	What are the names of the bombers who took part in the 7 Jul bombing of the London transport system?
+1006	Who are the masterminds of the 7 Jul bombing of the London transport system?
+1007	Who are the perpetrators of the 7 Jul bombing of the London transport system?
+1008	Who are the immediate support group of the 7 Jul bombing of the London transport system?
+1009	Who are the financiers of the 7 Jul bombing of the London transport system?
+1010	Who are the foot-soldiers of the 7 Jul bombing of the London transport system?
+1011	Who are the likely homegrown terrorists in Singapore?
+1012	What are the key terrorist groups that can affect the global terrorism trends?
+1013	Who are the known members of al Qaeda?
+1014	What are the various individual's participation in the 1993 train bombing in Mumbai?
+1015	How many terrorist attacks took place in Southeast Asia from 2000 to 2003?
+1016	How many terrorist attacks took place in Southeast Asia from 2004 to the present?
+1017	How many incidents of maritime terrorism have occurred in the world?
+1018	What were the explosives used in the Marriott bombing in 2003 in Indonesia?
+1019	Where was the explosive hidden in the Superferry 14 bombing?
+1020	What kind of boat did Lu'ai Sakra plan to use to target the Israeli cruise ships?
+1021	What explosive was used in the London bombing incident?
+1022	What explosives were used in the Bali bombings I and II?
+1023	What was the IED used in the Bali bombings I and II?
+1024	What is Osama bin Laden also known as?
+1025	What are Osama bin Laden's aliases?
+1026	Which are the terrorist groups involved in the southern Thailand unrest?
+1027	What terrorist incidents is Abu Hafiza involved in?
+1028	What are the major attacks attributed to al Qaeda?
+1029	What are the terrorist groups likely to emerge in the region?
+1030	Who is Zulkarnaen?
+1031	Who is Umbra Kato?
+1032	How much damage resulted from the USS Cole incident?
+1032-a	How much damage resulted from the Limburg incident?
+1033	What happened to the masterminds and other operatives involved in the USS Cole incidents?
+1033-b	What happened to the masterminds and other operatives involved in the Limburg incidents?
+1034	How is the group organized?
+1035	What was the plan?
+1036	What was the group's intention for this terrorist attack?
+1037	What are the damages?
+1038	What is the significance of day?
+1039	What is the significance of timing?
+1040	What are the Singaporean targets (within Singapore or Singaporean assets overseas) that terrorist groups will target?
+1041	What will the situation in Iraq be when U.S. pulls out from Iraq?
+1042	What is the impact of current developments in Iraq on future terrorism trends?
+1043	What is the terrorism trends in Western Europe?
+1044	What is the terrorism trends in North Africa?
+1045	What is nexus between criminal and terrorist groups?
+1046	How is Internet shaping the region's groups modus operandi?
+1047	What is Ayman al-Zawahiri's role in al Qaeda?
+1048	What is Abu Taha al-Sudan's expertise?
+1049	Has the Sydney Opera House ever been the target of a terrorist plot?
+1050	Does the LTTE have underwater capabilities?
+1051	Was the Dona Ramona incident a terrorist incident?
+1052	Has there been any underwater attack conducted by terrorists?
+1053	Did Al Qaeda carry out another attack before USS Cole?
+1054	Have there been incidents of piracy that involved the use of high tech gadgets?
+1055	Have there been any cyberterror attacks?
+1056	Have there been foreign terrorists involved in the southern Thailand unrest?
+1057	Is the capability conventional?
+1058	Is the capability non-conventional?
+1059	Did the terrorists achieve their goals?
+1060	Did al Qaeda claim responsibility of the 2006 train bombing in Mumbai?
+1061	How many people died in the Bali bombing in October 2002?
+1062	Who is the leader of al-Qaeda in the Arabian peninsular?
+1063	Where is Jack Roche?
+1064	How many years in prison did Abu Bakar Baasyir serve?
+1065	Who was the mastermind behind the USS Cole incident?
+1065-a	Who was the mastermind behind the Limburg incident?
+1066	How much oil spilled into the sea as a result of the Limburg incident?
+1067	How long did the pirates steer the ship in the Dewi Madrim case before they escaped?
+1068	Who is the de'facto leader?
+1069	Who is the de'jure leader?
+1070	How many factions?
+1071	How many died?
+1072	How many killed?
+1073	Who financed the arms deal?
+1074	Who organized the attack?
+1075	Where are al Qaeda funds kept?

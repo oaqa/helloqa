@@ -1,0 +1,25 @@
+{
+ "AnswerTypeExtractor" :{id:"stable"},
+ "KeytermExtractor"    :{id:"stable"},
+ "RetrievalStrategist" :{id:"stable", 
+  isServer:"false", 
+  locations:["C:\\TDDOWNLOAD\\wikipedia-index\\wikipedia"]},
+ "InformationExtractor":{id:"stable"},
+ "AnswerGenerator"     :{id:"stable"},
+}
+
+/////////////////////////////////////////////////////////////////////////
+// README
+// This file is written in JSON format which syntax is documented at 
+// http://www.json.org
+// The file is read by edu.cmu.lti.oaqa.framework.OAQAFramework and 
+// then by edu.cmu.lti.oaqa.factory.*
+// Do not commit this file with unstable settings.
+// Avoid making this file too complicated. If you have many parameters, 
+// use .properties files as you see at "conf/*.properties"
+// 
+// For Retrieval Strategist, use the following parameters for the local 
+// index mode.
+// "RetrievalStrategist" : {id:"stable", 
+//  isServer:"false", 
+//  locations:["C:\\TDDOWNLOAD\\wikipedia-index\\wikipedia"]},

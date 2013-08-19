@@ -1,0 +1,1849 @@
+#passages: 10000
+
+xml space preserve > <PO> <TO>
+#correct: 2456
+#incorrect: 7544
+
+xml space preserve >The <PO> <TO>
+#correct: 1740
+#incorrect: 8260
+
+<PO> ECG or <TO>
+#correct: 371
+#incorrect: 9629
+
+<PO> ECG <TO>
+#correct: 330
+#incorrect: 9670
+
+of Colombia to the <PO> <TO>
+#correct: 301
+#incorrect: 9699
+
+ambassador of Colombia to the <PO> <TO>
+#correct: 298
+#incorrect: 9702
+
+the US <PO> <TO>
+#correct: 298
+#incorrect: 9702
+
+<PO> <TO> and other
+#correct: 294
+#incorrect: 9706
+
+agreements such as the <PO> <TO>
+#correct: 291
+#incorrect: 9709
+
+<PO> or <TO>
+#correct: 278
+#incorrect: 9722
+
+<PO> ECG <TO> as
+#correct: 275
+#incorrect: 9725
+
+trade agreements such as the <PO> <TO>
+#correct: 271
+#incorrect: 9729
+
+Congress formally creates the <PO> <TO>
+#correct: 270
+#incorrect: 9730
+
+<PO> <TO> during
+#correct: 258
+#incorrect: 9742
+
+joining the <PO> <TO>
+#correct: 258
+#incorrect: 9742
+
+joined the <PO> <TO>
+#correct: 258
+#incorrect: 9742
+
+of the <PO> <TO>
+#correct: 254
+#incorrect: 9746
+
+member countries of the <PO> <TO>
+#correct: 251
+#incorrect: 9749
+
+<PO> <TO> defibrillation
+#correct: 250
+#incorrect: 9750
+
+or <PO> <TO>
+#correct: 249
+#incorrect: 9751
+
+negotiations of the <PO> <TO>
+#correct: 248
+#incorrect: 9752
+
+renegotiating the <PO> <TO>
+#correct: 245
+#incorrect: 9755
+
+by the <PO> <TO>
+#correct: 245
+#incorrect: 9755
+
+<PO> <TO> goes into effect
+#correct: 243
+#incorrect: 9757
+
+and the <PO> <TO> have
+#correct: 240
+#incorrect: 9760
+
+Syndrome or <PO> <TO>
+#correct: 239
+#incorrect: 9761
+
+such as <PO> <TO>
+#correct: 237
+#incorrect: 9763
+
+<PO> <TO> begins broadcasting
+#correct: 236
+#incorrect: 9764
+
+joined the <PO> <TO> in
+#correct: 234
+#incorrect: 9766
+
+<PO> <TO> and National
+#correct: 234
+#incorrect: 9766
+
+to join the <PO> <TO>
+#correct: 234
+#incorrect: 9766
+
+of <PO> <TO> during
+#correct: 229
+#incorrect: 9771
+
+for the <PO> <TO>
+#correct: 227
+#incorrect: 9773
+
+<PO> <TO> which
+#correct: 226
+#incorrect: 9774
+
+under contract with the <PO> <TO>
+#correct: 223
+#incorrect: 9777
+
+<PO> <TO> between Canada
+#correct: 220
+#incorrect: 9780
+
+secretary general of the <PO> <TO>
+#correct: 220
+#incorrect: 9780
+
+to the <PO> <TO> in Washington DC
+#correct: 212
+#incorrect: 9788
+
+<PO> <TO> has
+#correct: 210
+#incorrect: 9790
+
+Ambassador to the <PO> <TO>
+#correct: 206
+#incorrect: 9794
+
+<TO> i <PO>
+#correct: 205
+#incorrect: 9795
+
+conducted by the <PO> <TO> during the
+#correct: 205
+#incorrect: 9795
+
+ratification of the <PO> <TO>
+#correct: 205
+#incorrect: 9795
+
+The <PO> <TO> and other
+#correct: 204
+#incorrect: 9796
+
+the <PO> <TO> and other
+#correct: 204
+#incorrect: 9796
+
+risk of <PO> <TO>
+#correct: 204
+#incorrect: 9796
+
+to the <PO> <TO>
+#correct: 203
+#incorrect: 9797
+
+to the <PO> <TO> in Washington
+#correct: 202
+#incorrect: 9798
+
+director of the <PO> <TO>
+#correct: 198
+#incorrect: 9802
+
+Director of the <PO> <TO>
+#correct: 198
+#incorrect: 9802
+
+were transferred to the <PO> <TO> and
+#correct: 195
+#incorrect: 9805
+
+passage of the <PO> <TO>
+#correct: 194
+#incorrect: 9806
+
+Administrator of the <PO> <TO>
+#correct: 192
+#incorrect: 9808
+
+administrator of the <PO> <TO>
+#correct: 192
+#incorrect: 9808
+
+including the <PO> <TO>
+#correct: 191
+#incorrect: 9809
+
+include the <PO> <TO>
+#correct: 191
+#incorrect: 9809
+
+and the <PO> <TO>
+#correct: 189
+#incorrect: 9811
+
+<PO> <TO> in Washington
+#correct: 189
+#incorrect: 9811
+
+<PO> <TO> was established
+#correct: 187
+#incorrect: 9813
+
+the <PO> <TO> in Washington DC
+#correct: 186
+#incorrect: 9814
+
+the passage of the <PO> <TO>
+#correct: 186
+#incorrect: 9814
+
+the <PO> <TO> and the
+#correct: 186
+#incorrect: 9814
+
+the <PO> <TO> on July
+#correct: 184
+#incorrect: 9816
+
+the <PO> <TO> in Washington
+#correct: 184
+#incorrect: 9816
+
+organizations as the <PO> <TO>
+#correct: 184
+#incorrect: 9816
+
+use of <PO> <TO>
+#correct: 183
+#incorrect: 9817
+
+<PO> <TO> and the
+#correct: 183
+#incorrect: 9817
+
+position at the <PO> <TO>
+#correct: 182
+#incorrect: 9818
+
+at the <PO> <TO> in Washington
+#correct: 180
+#incorrect: 9820
+
+performing <PO> <TO>
+#correct: 180
+#incorrect: 9820
+
+manager in the <PO> <TO>
+#correct: 179
+#incorrect: 9821
+
+opposition to the <PO> <TO>
+#correct: 178
+#incorrect: 9822
+
+the <PO> <TO> and the National
+#correct: 174
+#incorrect: 9826
+
+both the <PO> <TO> and
+#correct: 173
+#incorrect: 9827
+
+<PO> <TO> and the National
+#correct: 173
+#incorrect: 9827
+
+<PO> or <TO> which
+#correct: 173
+#incorrect: 9827
+
+The <PO> <TO>
+#correct: 172
+#incorrect: 9828
+
+the <PO> <TO>
+#correct: 172
+#incorrect: 9828
+
+<PO> <TO> during the
+#correct: 170
+#incorrect: 9830
+
+into <PO> <TO>
+#correct: 168
+#incorrect: 9832
+
+the <PO> <TO> through their
+#correct: 166
+#incorrect: 9834
+
+the <PO> <TO> was established by the
+#correct: 165
+#incorrect: 9835
+
+at the <PO> <TO>
+#correct: 165
+#incorrect: 9835
+
+against <PO> <TO>
+#correct: 165
+#incorrect: 9835
+
+from the <PO> <TO>
+#correct: 165
+#incorrect: 9835
+
+with the <PO> <TO>
+#correct: 162
+#incorrect: 9838
+
+the <PO> <TO> during
+#correct: 160
+#incorrect: 9840
+
+died of <PO> <TO>
+#correct: 159
+#incorrect: 9841
+
+of the <PO> <TO> which
+#correct: 159
+#incorrect: 9841
+
+and the <PO> <TO> have also
+#correct: 158
+#incorrect: 9842
+
+recognized by the <PO> <TO>
+#correct: 158
+#incorrect: 9842
+
+<PO> <TO> as the
+#correct: 156
+#incorrect: 9844
+
+<PO> <TO> as
+#correct: 156
+#incorrect: 9844
+
+the <PO> <TO> since
+#correct: 156
+#incorrect: 9844
+
+work <PO> <TO>
+#correct: 154
+#incorrect: 9846
+
+establishing the <PO> <TO>
+#correct: 152
+#incorrect: 9848
+
+<PO> <TO> is an
+#correct: 152
+#incorrect: 9848
+
+under the <PO> <TO>
+#correct: 152
+#incorrect: 9848
+
+to the <PO> <TO> and the
+#correct: 151
+#incorrect: 9849
+
+the <PO> <TO> which
+#correct: 149
+#incorrect: 9851
+
+The <PO> <TO> which
+#correct: 149
+#incorrect: 9851
+
+signed the <PO> <TO>
+#correct: 148
+#incorrect: 9852
+
+later became the <PO> <TO>
+#correct: 146
+#incorrect: 9854
+
+of <PO> <TO>
+#correct: 146
+#incorrect: 9854
+
+by <PO> <TO>
+#correct: 143
+#incorrect: 9857
+
+<PO> <TO> Washington
+#correct: 143
+#incorrect: 9857
+
+on the <PO> <TO>
+#correct: 141
+#incorrect: 9859
+
+<PO> <TO> he
+#correct: 139
+#incorrect: 9861
+
+<PO> <TO> Chapter
+#correct: 138
+#incorrect: 9862
+
+by the <PO> <TO> in
+#correct: 137
+#incorrect: 9863
+
+the <PO> <TO> and the World
+#correct: 137
+#incorrect: 9863
+
+to the <PO> <TO> which
+#correct: 136
+#incorrect: 9864
+
+of the <PO> <TO> during
+#correct: 136
+#incorrect: 9864
+
+<PO> <TO> have
+#correct: 136
+#incorrect: 9864
+
+Committee of the <PO> <TO>
+#correct: 132
+#incorrect: 9868
+
+of the <PO> <TO> as
+#correct: 132
+#incorrect: 9868
+
+as well as <PO> <TO>
+#correct: 132
+#incorrect: 9868
+
+of the US <PO> <TO>
+#correct: 131
+#incorrect: 9869
+
+the <PO> <TO> and its
+#correct: 131
+#incorrect: 9869
+
+a <PO> <TO> Chapter
+#correct: 130
+#incorrect: 9870
+
+<PO> <TO> in
+#correct: 129
+#incorrect: 9871
+
+<TO> is an acronym <PO>
+#correct: 129
+#incorrect: 9871
+
+such as the <PO> <TO>
+#correct: 129
+#incorrect: 9871
+
+for <PO> <TO>
+#correct: 129
+#incorrect: 9871
+
+<PO> <TO> or
+#correct: 128
+#incorrect: 9872
+
+meeting of <PO> <TO>
+#correct: 128
+#incorrect: 9872
+
+<PO> <TO> has published
+#correct: 126
+#incorrect: 9874
+
+<PO> <TO> ports
+#correct: 126
+#incorrect: 9874
+
+the <PO> <TO> as
+#correct: 125
+#incorrect: 9875
+
+provided by the <PO> <TO>
+#correct: 125
+#incorrect: 9875
+
+as the <PO> <TO>
+#correct: 124
+#incorrect: 9876
+
+<PO> <TO> after
+#correct: 123
+#incorrect: 9877
+
+active in the <PO> <TO>
+#correct: 123
+#incorrect: 9877
+
+the <PO> <TO> along
+#correct: 121
+#incorrect: 9879
+
+the <PO> <TO> he
+#correct: 120
+#incorrect: 9880
+
+as <PO> <TO>
+#correct: 120
+#incorrect: 9880
+
+on <PO> <TO>
+#correct: 120
+#incorrect: 9880
+
+<PO> <TO> are
+#correct: 120
+#incorrect: 9880
+
+against the <PO> <TO>
+#correct: 119
+#incorrect: 9881
+
+<PO> <TO> and
+#correct: 118
+#incorrect: 9882
+
+from the <PO> <TO> because
+#correct: 118
+#incorrect: 9882
+
+the <PO> <TO> the United
+#correct: 118
+#incorrect: 9882
+
+<PO> s <TO>
+#correct: 118
+#incorrect: 9882
+
+<PO> <TO> National
+#correct: 117
+#incorrect: 9883
+
+For example the <PO> <TO>
+#correct: 113
+#incorrect: 9887
+
+<PO> <TO> with the
+#correct: 112
+#incorrect: 9888
+
+like the <PO> <TO>
+#correct: 112
+#incorrect: 9888
+
+the <PO> <TO> at its
+#correct: 111
+#incorrect: 9889
+
+the <PO> <TO> in the late
+#correct: 110
+#incorrect: 9890
+
+<PO> <TO> published
+#correct: 108
+#incorrect: 9892
+
+against the <PO> <TO> and
+#correct: 108
+#incorrect: 9892
+
+by the <PO> <TO> the
+#correct: 108
+#incorrect: 9892
+
+<PO> <TO> can be
+#correct: 108
+#incorrect: 9892
+
+of a <PO> <TO>
+#correct: 107
+#incorrect: 9893
+
+the <PO> <TO> and
+#correct: 107
+#incorrect: 9893
+
+The <PO> <TO> and
+#correct: 107
+#incorrect: 9893
+
+the <PO> <TO> which in
+#correct: 107
+#incorrect: 9893
+
+both the <PO> <TO> and the
+#correct: 106
+#incorrect: 9894
+
+<PO> <TO> is a
+#correct: 106
+#incorrect: 9894
+
+of the <PO> <TO> in
+#correct: 106
+#incorrect: 9894
+
+uses the <PO> <TO>
+#correct: 106
+#incorrect: 9894
+
+the <PO> <TO> in
+#correct: 105
+#incorrect: 9895
+
+The <PO> <TO> in
+#correct: 105
+#incorrect: 9895
+
+president of <PO> <TO>
+#correct: 105
+#incorrect: 9895
+
+<PO> <TO> is
+#correct: 104
+#incorrect: 9896
+
+at <PO> <TO>
+#correct: 103
+#incorrect: 9897
+
+the <PO> <TO> and most
+#correct: 103
+#incorrect: 9897
+
+a member of the <PO> <TO>
+#correct: 103
+#incorrect: 9897
+
+the <PO> <TO> and of
+#correct: 103
+#incorrect: 9897
+
+the <PO> <TO> as the
+#correct: 102
+#incorrect: 9898
+
+in the <PO> <TO>
+#correct: 102
+#incorrect: 9898
+
+supported the <PO> <TO>
+#correct: 99
+#incorrect: 9901
+
+<PO> <TO> with
+#correct: 98
+#incorrect: 9902
+
+to the <PO> <TO> the
+#correct: 98
+#incorrect: 9902
+
+at the <PO> <TO> in
+#correct: 97
+#incorrect: 9903
+
+an <PO> <TO>
+#correct: 96
+#incorrect: 9904
+
+the <PO> <TO> he was
+#correct: 96
+#incorrect: 9904
+
+member of the <PO> <TO>
+#correct: 95
+#incorrect: 9905
+
+by the <PO> <TO> and
+#correct: 94
+#incorrect: 9906
+
+in the <PO> <TO> and in
+#correct: 93
+#incorrect: 9907
+
+including the <PO> <TO> and
+#correct: 93
+#incorrect: 9907
+
+the <PO> <TO> and later
+#correct: 92
+#incorrect: 9908
+
+in the <PO> <TO> and
+#correct: 92
+#incorrect: 9908
+
+by the <PO> <TO> and the
+#correct: 91
+#incorrect: 9909
+
+of the <PO> <TO> between
+#correct: 91
+#incorrect: 9909
+
+the <PO> <TO> have
+#correct: 91
+#incorrect: 9909
+
+<PO> <TO> was
+#correct: 90
+#incorrect: 9910
+
+as the <PO> <TO> the
+#correct: 90
+#incorrect: 9910
+
+The <PO> <TO> is an
+#correct: 90
+#incorrect: 9910
+
+as the <PO> <TO> and the
+#correct: 89
+#incorrect: 9911
+
+the <PO> <TO> decided to
+#correct: 89
+#incorrect: 9911
+
+formed <PO> <TO>
+#correct: 89
+#incorrect: 9911
+
+the <PO> <TO> the National
+#correct: 89
+#incorrect: 9911
+
+<PO> <TO> on the
+#correct: 89
+#incorrect: 9911
+
+is the <PO> <TO>
+#correct: 88
+#incorrect: 9912
+
+the <PO> <TO> from
+#correct: 88
+#incorrect: 9912
+
+<PO> <TO> and at
+#correct: 88
+#incorrect: 9912
+
+of the <PO> <TO> from
+#correct: 85
+#incorrect: 9915
+
+to <PO> <TO>
+#correct: 85
+#incorrect: 9915
+
+when the <PO> <TO>
+#correct: 84
+#incorrect: 9916
+
+<TO> <PO> or
+#correct: 83
+#incorrect: 9917
+
+of the <PO> <TO> and
+#correct: 83
+#incorrect: 9917
+
+with the <PO> <TO> and
+#correct: 83
+#incorrect: 9917
+
+<PO> <TO> on
+#correct: 83
+#incorrect: 9917
+
+by the <PO> <TO> in the
+#correct: 83
+#incorrect: 9917
+
+to the <PO> <TO> and
+#correct: 82
+#incorrect: 9918
+
+the <PO> <TO> or
+#correct: 81
+#incorrect: 9919
+
+<PO> <TO> but
+#correct: 80
+#incorrect: 9920
+
+known as the <PO> <TO>
+#correct: 79
+#incorrect: 9921
+
+the <PO> <TO> with the
+#correct: 79
+#incorrect: 9921
+
+<TO> or <PO>
+#correct: 79
+#incorrect: 9921
+
+the <PO> <TO> voted
+#correct: 79
+#incorrect: 9921
+
+the <PO> <TO> on
+#correct: 79
+#incorrect: 9921
+
+<PO> <TO> has been
+#correct: 77
+#incorrect: 9923
+
+<PO> <TO> are also
+#correct: 76
+#incorrect: 9924
+
+<PO> <TO> USA
+#correct: 76
+#incorrect: 9924
+
+the <PO> <TO> in the
+#correct: 76
+#incorrect: 9924
+
+the <PO> <TO> between
+#correct: 75
+#incorrect: 9925
+
+of <PO> <TO> in
+#correct: 75
+#incorrect: 9925
+
+the <PO> <TO> which was
+#correct: 75
+#incorrect: 9925
+
+for the <PO> <TO> and
+#correct: 75
+#incorrect: 9925
+
+The <PO> <TO> has
+#correct: 74
+#incorrect: 9926
+
+the <PO> <TO> has
+#correct: 74
+#incorrect: 9926
+
+with the <PO> <TO> which
+#correct: 73
+#incorrect: 9927
+
+an <PO> ECG <TO>
+#correct: 72
+#incorrect: 9928
+
+the <PO> <TO> led
+#correct: 72
+#incorrect: 9928
+
+from <PO> <TO>
+#correct: 72
+#incorrect: 9928
+
+<PO> <TO> between
+#correct: 72
+#incorrect: 9928
+
+of the <PO> <TO> in the
+#correct: 72
+#incorrect: 9928
+
+<PO> <TO> World
+#correct: 71
+#incorrect: 9929
+
+the <PO> <TO> and in
+#correct: 71
+#incorrect: 9929
+
+<PO> <TO> led
+#correct: 70
+#incorrect: 9930
+
+<PO> <TO> had
+#correct: 69
+#incorrect: 9931
+
+of <PO> <TO> or
+#correct: 68
+#incorrect: 9932
+
+<PO> <TO> from
+#correct: 68
+#incorrect: 9932
+
+<PO> <TO> and in
+#correct: 68
+#incorrect: 9932
+
+of the <PO> <TO> and the
+#correct: 67
+#incorrect: 9933
+
+<PO> <TO> announced
+#correct: 66
+#incorrect: 9934
+
+<PO> <TO> that
+#correct: 66
+#incorrect: 9934
+
+into the <PO> <TO>
+#correct: 66
+#incorrect: 9934
+
+<PO> or <TO> is
+#correct: 66
+#incorrect: 9934
+
+between the <PO> <TO> and
+#correct: 65
+#incorrect: 9935
+
+<PO> <TO> working
+#correct: 63
+#incorrect: 9937
+
+s <PO> <TO>
+#correct: 63
+#incorrect: 9937
+
+publisher <PO> <TO>
+#correct: 63
+#incorrect: 9937
+
+between the <PO> <TO>
+#correct: 62
+#incorrect: 9938
+
+former <PO> <TO>
+#correct: 62
+#incorrect: 9938
+
+<PO> <TO> does
+#correct: 60
+#incorrect: 9940
+
+to the <PO> <TO> in
+#correct: 60
+#incorrect: 9940
+
+The <PO> <TO> was
+#correct: 60
+#incorrect: 9940
+
+the <PO> <TO> was
+#correct: 60
+#incorrect: 9940
+
+to the <PO> <TO> with
+#correct: 59
+#incorrect: 9941
+
+new <PO> <TO>
+#correct: 58
+#incorrect: 9942
+
+<PO> including <TO>
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO>
+#correct: 56
+#incorrect: 9944
+
+the <PO> <TO> that
+#correct: 56
+#incorrect: 9944
+
+are <PO> <TO>
+#correct: 55
+#incorrect: 9945
+
+by the <PO> <TO> to
+#correct: 55
+#incorrect: 9945
+
+of the <PO> <TO> as a
+#correct: 55
+#incorrect: 9945
+
+the <PO> <TO> formed
+#correct: 55
+#incorrect: 9945
+
+as the <PO> <TO> in
+#correct: 54
+#incorrect: 9946
+
+as the <PO> <TO> and
+#correct: 54
+#incorrect: 9946
+
+<PO> <TO> is also
+#correct: 54
+#incorrect: 9946
+
+the <PO> <TO> and was
+#correct: 53
+#incorrect: 9947
+
+the <PO> <TO> with
+#correct: 52
+#incorrect: 9948
+
+the <PO> <TO> as a
+#correct: 52
+#incorrect: 9948
+
+<TO> <PO>
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO>
+#correct: 51
+#incorrect: 9949
+
+<PO> <TO> formed
+#correct: 51
+#incorrect: 9949
+
+the <PO> <TO> at
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO>
+#correct: 50
+#incorrect: 9950
+
+of the <PO> <TO> the
+#correct: 49
+#incorrect: 9951
+
+of the <PO> <TO> was
+#correct: 49
+#incorrect: 9951
+
+the <PO> <TO> the
+#correct: 48
+#incorrect: 9952
+
+and the <PO> <TO> to
+#correct: 47
+#incorrect: 9953
+
+<PO> <TO> party
+#correct: 44
+#incorrect: 9956
+
+and the <PO> <TO> and
+#correct: 42
+#incorrect: 9958
+
+<PO> <TO> for
+#correct: 41
+#incorrect: 9959
+
+<PO> <TO> of the
+#correct: 40
+#incorrect: 9960
+
+of <PO> <TO> and
+#correct: 38
+#incorrect: 9962
+
+The <PO> <TO> is the
+#correct: 38
+#incorrect: 9962
+
+the <PO> <TO> is
+#correct: 37
+#incorrect: 9963
+
+The <PO> <TO> is
+#correct: 37
+#incorrect: 9963
+
+the <PO> <TO> to
+#correct: 35
+#incorrect: 9965
+
+at the <PO> <TO> and
+#correct: 35
+#incorrect: 9965
+
+in the <PO> <TO> in
+#correct: 34
+#incorrect: 9966
+
+the <PO> <TO> on the
+#correct: 33
+#incorrect: 9967
+
+<PO> <TO> is the
+#correct: 32
+#incorrect: 9968
+
+of the <PO> <TO> a
+#correct: 31
+#incorrect: 9969
+
+of the <PO> <TO> to
+#correct: 31
+#incorrect: 9969
+
+the <PO> <TO> from the
+#correct: 29
+#incorrect: 9971
+
+<PO> <TO> by
+#correct: 25
+#incorrect: 9975
+
+the <PO> <TO> s
+#correct: 24
+#incorrect: 9976
+
+The <PO> <TO> s
+#correct: 24
+#incorrect: 9976
+
+The <PO> <TO> had
+#correct: 23
+#incorrect: 9977
+
+the <PO> <TO> had
+#correct: 23
+#incorrect: 9977
+
+of the <PO> or <TO>
+#correct: 22
+#incorrect: 9978
+
+<PO> <TO> to
+#correct: 21
+#incorrect: 9979
+
+of the <PO> <TO> is
+#correct: 19
+#incorrect: 9981
+
+and <PO> <TO>
+#correct: 16
+#incorrect: 9984
+
+<PO> <TO> s
+#correct: 14
+#incorrect: 9986
+
+A <PO> <TO>
+#correct: 13
+#incorrect: 9987
+
+a <PO> <TO>
+#correct: 13
+#incorrect: 9987
+
+in the <PO> <TO> the
+#correct: 12
+#incorrect: 9988
+
+<TO> <PO>
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO>
+#correct: 3
+#incorrect: 9997
+
+president of the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+President of the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+the <PO> <TO> the American
+#correct: 1
+#incorrect: 9999
+
+organizations such as the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+<PO> <TO> and the American
+#correct: 1
+#incorrect: 9999
+
+the <PO> <TO> and the American
+#correct: 1
+#incorrect: 9999
+
+was president of the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+published by the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+of these were the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+The <PO> <TO> published a
+#correct: 1
+#incorrect: 9999
+
+the <PO> <TO> published a
+#correct: 1
+#incorrect: 9999
+
+the <PO> <TO> and the Pan
+#correct: 1
+#incorrect: 9999
+
+<PO> <TO> published a
+#correct: 1
+#incorrect: 9999
+
+protocol is the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+the unbanning of the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+run by the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+military wing of the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+The <PO> <TO> is a
+#correct: 1
+#incorrect: 9999
+
+sponsored by the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+military wing of the <PO> <TO> in
+#correct: 1
+#incorrect: 9999
+
+organizations such as the <PO> <TO> and
+#correct: 1
+#incorrect: 9999
+
+member of the <PO> <TO> he
+#correct: 1
+#incorrect: 9999
+
+by the <PO> <TO> which
+#correct: 1
+#incorrect: 9999
+
+executive director of the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+<PO> <TO> found
+#correct: 1
+#incorrect: 9999
+
+<PO> <TO> founded
+#correct: 1
+#incorrect: 9999
+
+Maury helped launch the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+given by the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+the <PO> <TO> and several
+#correct: 1
+#incorrect: 9999
+
+the <PO> <TO> of South
+#correct: 1
+#incorrect: 9999
+
+magazine published by the <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+such as the <PO> <TO> and
+#correct: 1
+#incorrect: 9999
+
+with the ruling <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+the <PO> <TO> or the
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> and several other
+#correct: 0
+#incorrect: 10000
+
+is a member of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+elected a Fellow of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+Fellow of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> issued a statement
+#correct: 0
+#incorrect: 10000
+
+a Fellow of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+and co founder of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+director of the <PO> <TO> from
+#correct: 0
+#incorrect: 10000
+
+wing of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+such as the <PO> <TO> and the
+#correct: 0
+#incorrect: 10000
+
+including the <PO> <TO> and the
+#correct: 0
+#incorrect: 10000
+
+was elected a Fellow of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> called
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> the European
+#correct: 0
+#incorrect: 10000
+
+by the <PO> <TO> that
+#correct: 0
+#incorrect: 10000
+
+leadership of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+leadership of the <PO> <TO> and
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> issued a
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> called
+#correct: 0
+#incorrect: 10000
+
+party the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+meeting of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> between North
+#correct: 0
+#incorrect: 10000
+
+notably the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+affiliated with the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> leader and
+#correct: 0
+#incorrect: 10000
+
+<PO> or <TO> is an
+#correct: 0
+#incorrect: 10000
+
+that the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+such as the <PO> <TO> of
+#correct: 0
+#incorrect: 10000
+
+<TO> the internets <PO>
+#correct: 0
+#incorrect: 10000
+
+just south of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+by the <PO> <TO> with the
+#correct: 0
+#incorrect: 10000
+
+the NWA the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+according to the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+after the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> removed homosexuality from
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> and served as
+#correct: 0
+#incorrect: 10000
+
+an <PO> <TO> operating location on Maui
+#correct: 0
+#incorrect: 10000
+
+the ruling <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+The <PO> <TO> has filed
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> Fellow
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> whom
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> site
+#correct: 0
+#incorrect: 10000
+
+filed by the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+leader of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> where
+#correct: 0
+#incorrect: 10000
+
+banned <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+of the <PO> <TO> who
+#correct: 0
+#incorrect: 10000
+
+of the <PO> <TO> in its
+#correct: 0
+#incorrect: 10000
+
+the Korean <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+is an <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+exiled <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> at a
+#correct: 0
+#incorrect: 10000
+
+national director of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> Council
+#correct: 0
+#incorrect: 10000
+
+of the Korean <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+has been criticized by the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+south of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+chapter of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> in its
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> filed a
+#correct: 0
+#incorrect: 10000
+
+>The <PO> or <TO> is
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> leadership
+#correct: 0
+#incorrect: 10000
+
+Korean <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+the Vietnamese <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+between the <PO> <TO> and the
+#correct: 0
+#incorrect: 10000
+
+of the <PO> <TO> and is
+#correct: 0
+#incorrect: 10000
+
+in the <PO> winning the <TO> World
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> won the
+#correct: 0
+#incorrect: 10000
+
+located near the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+of the <PO> <TO> of
+#correct: 0
+#incorrect: 10000
+
+near the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> in a
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> in their
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> who
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> are
+#correct: 0
+#incorrect: 10000
+
+south of the <PO> <TO> and
+#correct: 0
+#incorrect: 10000
+
+which the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> leader
+#correct: 0
+#incorrect: 10000
+
+by the <PO> <TO> against
+#correct: 0
+#incorrect: 10000
+
+in the <PO> <TO> in the mid
+#correct: 0
+#incorrect: 10000
+
+The <PO> <TO> has been
+#correct: 0
+#incorrect: 10000
+
+competed in the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> government
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> government
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> and a
+#correct: 0
+#incorrect: 10000
+
+across the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+to the <PO> <TO> that
+#correct: 0
+#incorrect: 10000
+
+known as the <PO> or <TO>
+#correct: 0
+#incorrect: 10000
+
+The <PO> <TO> describes the
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> but
+#correct: 0
+#incorrect: 10000
+
+align left <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> describes
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> by
+#correct: 0
+#incorrect: 10000
+
+in the <PO> <TO> in the
+#correct: 0
+#incorrect: 10000
+
+in the <PO> <TO> as
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> <ref>cite
+#correct: 0
+#incorrect: 10000
+
+astrophysicist at the <PO> <TO> <ref>cite web
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> for
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> the
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> a
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> a
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> the
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO> of
+#correct: 0
+#incorrect: 10000
+
+The <PO> <TO> of
+#correct: 0
+#incorrect: 10000
+
+the <PO> the <TO>
+#correct: 0
+#incorrect: 10000
+
+in <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> to
+#correct: 0
+#incorrect: 10000
+
+the <PO> or <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> of
+#correct: 0
+#incorrect: 10000
+
+the <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000

@@ -1,0 +1,373 @@
+#passages: 10000
+
+<TO> was born in <PO>
+#correct: 157
+#incorrect: 9843
+
+<TO> Born <PO>
+#correct: 127
+#incorrect: 9873
+
+<TO> born <PO>
+#correct: 127
+#incorrect: 9873
+
+<TO> was born <PO>
+#correct: 123
+#incorrect: 9877
+
+<TO> was born in <PO>
+#correct: 100
+#incorrect: 9900
+
+<TO> <PO>
+#correct: 70
+#incorrect: 9930
+
+<TO> was born on <PO>
+#correct: 54
+#incorrect: 9946
+
+<TO> <PO>
+#correct: 50
+#incorrect: 9950
+
+<TO> was born on <PO> in
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO>
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO>
+#correct: 48
+#incorrect: 9952
+
+<TO> was born on <PO> in Ulm
+#correct: 45
+#incorrect: 9955
+
+<TO> was born on <PO> in Braunau
+#correct: 40
+#incorrect: 9960
+
+<TO> <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> was born in <PO> in
+#correct: 33
+#incorrect: 9967
+
+<TO> was born in <PO> and
+#correct: 32
+#incorrect: 9968
+
+<TO> Born <PO> and
+#correct: 26
+#incorrect: 9974
+
+<TO> born <PO> and
+#correct: 26
+#incorrect: 9974
+
+<TO> was born in <PO> in the
+#correct: 20
+#incorrect: 9980
+
+<TO> was born in <PO> died
+#correct: 20
+#incorrect: 9980
+
+<TO> <PO>
+#correct: 20
+#incorrect: 9980
+
+<TO> <PO>
+#correct: 19
+#incorrect: 9981
+
+<TO> <PO>
+#correct: 18
+#incorrect: 9982
+
+Born in <PO> <TO>
+#correct: 14
+#incorrect: 9986
+
+<TO> <PO>
+#correct: 13
+#incorrect: 9987
+
+Born <PO> <TO>
+#correct: 13
+#incorrect: 9987
+
+BORN <PO> <TO>
+#correct: 13
+#incorrect: 9987
+
+<TO> was born in <PO> died in
+#correct: 12
+#incorrect: 9988
+
+<PO> <TO> was born
+#correct: 11
+#incorrect: 9989
+
+<TO> <PO>
+#correct: 11
+#incorrect: 9989
+
+<TO> <PO>
+#correct: 8
+#incorrect: 9992
+
+<PO> <TO> was
+#correct: 5
+#incorrect: 9995
+
+<TO> <PO>
+#correct: 5
+#incorrect: 9995
+
+<TO> born <PO>
+#correct: 4
+#incorrect: 9996
+
+<TO> Born <PO>
+#correct: 4
+#incorrect: 9996
+
+<TO> was born in <PO> died on
+#correct: 3
+#incorrect: 9997
+
+<TO> in <PO>
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO>
+#correct: 2
+#incorrect: 9998
+
+<TO> Born <PO> lyrics
+#correct: 2
+#incorrect: 9998
+
+<TO> Born <PO>
+#correct: 2
+#incorrect: 9998
+
+<TO> Born <PO> dr dre
+#correct: 2
+#incorrect: 9998
+
+<TO> was born in <PO> married
+#correct: 2
+#incorrect: 9998
+
+<TO> Born <PO> are
+#correct: 1
+#incorrect: 9999
+
+<TO> Born <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> Born <PO> lyrics
+#correct: 1
+#incorrect: 9999
+
+<TO> born <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> lyrics Born <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> Born <PO> for
+#correct: 1
+#incorrect: 9999
+
+in <PO> <TO>
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> was born in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> born <PO> download
+#correct: 1
+#incorrect: 9999
+
+<TO> Born <PO> music video
+#correct: 1
+#incorrect: 9999
+
+<TO> Born <PO> video
+#correct: 1
+#incorrect: 9999
+
+<TO> was born in <PO> died before
+#correct: 1
+#incorrect: 9999
+
+<TO> Born <PO> by
+#correct: 1
+#incorrect: 9999
+
+<TO> Born <PO> NBKZ
+#correct: 1
+#incorrect: 9999
+
+<TO> Born <PO> CD
+#correct: 1
+#incorrect: 9999
+
+<TO> Born <PO> LP
+#correct: 1
+#incorrect: 9999
+
+<TO> was born in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> Born <PO> s
+#correct: 1
+#incorrect: 9999
+
+<TO> Born <PO> music
+#correct: 1
+#incorrect: 9999
+
+Born <PO> by <TO>
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> was born in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> was born in <PO> ca
+#correct: 0
+#incorrect: 10000
+
+<TO> born <PO> download
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO> from
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> was born <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> was born in <PO> and died in
+#correct: 0
+#incorrect: 10000
+
+<TO> born <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Jr <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> was born in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO> for mp
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> ? April
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> a April
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Born <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> was born in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO>
+#correct: 0
+#incorrect: 10000

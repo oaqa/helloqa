@@ -1,0 +1,11 @@
+NEnone:NEproperName
+NEdate:NEdate->NEyear
+NEdate->NEday:NEdate
+NElocation:NElocation->NEcity
+NElocation->NEairport:NEproperName
+NElocation->NEnationalPark:NEproperName
+NEduration:NEnumber
+NErate:NEpercentage
+NEproperName->NEperson:NEproperName
+NEproperName->NEperson->NEauthor:NEproperName
+NEproperName->NEorganization:NEproperName

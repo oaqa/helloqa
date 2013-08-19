@@ -1,0 +1,195 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd"> 
+<html> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>OAQA Run Stats - navigation</title>
+<style type="text/css"> 
+<!--
+A:link    {text-decoration: none; color: #FFCC00; }
+A:visited {text-decoration: none; color: #FFCC00; }
+A:active  {text-decoration: none; color: #FFCC00; }
+A:hover   {text-decoration: underline; color: #FFCC00;}
+body {
+	background-color: #222222;
+}
+body,td,th {
+	color: #FFFFFF;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.box {
+	border-bottom-width:1px;
+	border-bottom-style:dotted;
+	border-bottom-color:#666666;
+	padding-bottom:8px;
+	margin-bottom:8px;
+	padding-left: 10px;
+}
+.q {
+	border: 1px solid #FFFFFF;
+	padding: 5px;
+	background-color: #FFCCCC;
+	font-family: "Courier New", Courier, mono;
+	margin-left:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.bullet {
+	font-family: "Courier New", Courier, mono;
+}
+.q A:link    {text-decoration: none; color:#000000; }
+.q A:visited {text-decoration: none; color: #000000; }
+.q A:active  {text-decoration: none; color: #000000; }
+.q A:hover   {text-decoration: underline; color: #000000;}
+ul {
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 20px;
+	margin: 0px 0px 0px 0px;
+	list-style-type: none;
+}
+ 
+.list{
+	padding-left: 10px;
+}
+.date{ font-style: italic; font-size:11px; }
+ 
+-->
+</style> 
+<script type="text/javascript"> 
+function setVisible(id){
+	if(document.all){
+		OBJ = document.all(id).style;
+	}else if(document.getElementById){
+		OBJ = document.getElementById(id).style;
+	}
+	if(OBJ){
+		OBJ.display=='none' ? OBJ.display='' : OBJ.display='none';
+	}
+} 
+op="-";
+cl="+";
+function replaceSymbol(id){
+	if(document.all){
+		OBJ = document.all(id).style;
+	}else if(document.getElementById){
+		OBJ = document.getElementById(id).style;
+	}
+	if(OBJ){
+		OBJ.innerHTML==cl ? OBJ.innerHTML==op : OBJ.innerHTML==cl;
+	}
+	
+	if(document.all){
+		if(document.all(id).innerHTML==cl){
+			document.all(id).innerHTML = op;
+		}else{
+			document.all(id).innerHTML = cl;
+		}
+	}else if(document.getElementById){
+		if(document.getElementById(id).innerHTML==cl){
+			document.getElementById(id).innerHTML = op;
+		}else{
+			document.getElementById(id).innerHTML = cl;
+		}
+	}
+} 
+</script> 
+</head> 
+ 
+<body> 
+<strong>Summary</strong><br> 
+<div class="box">
+<a href="summary.html" target="main">Performance metrics</a><br>
+</div>
+
+<strong>Log</strong><br> 
+<div class="box">
+<a href="process-time.html" target="main">Process time stats</a><br>
+<a href="OAQA-pipeline.log" target="main">Log4j log</a><br>
+</div>
+
+<!--
+<strong>Evaluation Log </strong><br> 
+<div class="box">	
+	<a href="qa_log.txt" target="main">QA</a><br> 
+	<a href="rs_log.txt" target="main">RS</a><br> 
+	<a href="ix_log.txt" target="main">IX</a><br> 
+	<a href="ag_log.txt" target="main">AG</a><br> 
+	<a href="overall_log.txt" target="main">Overall</a><br> 
+</div> 
+-->
+ 
+<strong>System Outputs</strong><br> 
+<div class="box">
+	<div class="list"> 
+	<a href="javascript:void(0)" onclick="setVisible('all');replaceSymbol('b_all')"> 
+	<span id="b_all" class="bullet">-</span> All questions</a> 
+	<div class="q" id="all" style="display:;"> 
+	<TMPL_VAR NAME=ALL_QUESTIONS> 
+	</div> 
+	</div> 
+	
+<!--
+	<br> 
+	<strong>Questions Failed in</strong><br> 
+	<div class="list"> 
+		<a href="javascript:void(0)" onclick="setVisible('atype');replaceSymbol('b_atype')"> 
+		<span id="b_atype" class="bullet">+</span> QA (Atype)</a><br> 
+		<div id="atype" class="q" style="display:none;">  <a href="detail_1.html#26" target="main">026</a> 
+  <a href="detail_2.html#57" target="main">057</a> 
+  <a href="detail_4.html#200" target="main">200</a> 
+</div> 
+		
+	</div> 
+		
+	<br> 
+	<strong>Top1 correct</strong><br> 
+	<div class="list"> 
+		<a href="javascript:void(0)" onclick="setVisible('top1_r');replaceSymbol('b_top1_r')"> 
+		<span id="b_top1_r" class="bullet">+</span> Supported</a><br> 
+		<div id="top1_r" class="q" style="display:none;">  <a href="detail_1.html#5" target="main">005</a> 
+  <a href="detail_1.html#22" target="main">022</a> 
+</div> 
+		<a href="javascript:void(0)" onclick="setVisible('top1_u');replaceSymbol('b_top1_u')"> 
+		<span id="b_top1_u" class="bullet">+</span> Unsupported</a> 
+		<div id="top1_u" class="q" style="display:none;">  <a href="detail_1.html#8" target="main">008</a> 
+  <a href="detail_1.html#18" target="main">018</a> 
+</div> 
+	</div> 
+	
+	<br> 
+	
+	<strong>Questions by Atype</strong><br> 
+	<div class="list"> 
+		<a href="javascript:void(0)" onclick="setVisible('organization');replaceSymbol('b_organization')"> 
+		<span id="b_organization" class="bullet">+</span> ORGANIZATION</a><br> 
+		<div class="q" id="organization" style="display:none;"> 
+		  <a href="detail_3.html#103" target="main">103</a> 
+ 
+		</div> 
+		
+ 
+	<a href="javascript:void(0)" onclick="setVisible('numex');replaceSymbol('b_numex')"> 
+	<span id="b_numex" class="bullet">+</span> NUMEX</a><br> 
+	<div class="q" id="numex" style="display:none;"> 
+	  <a href="detail_1.html#25" target="main">025</a> 
+  <a href="detail_2.html#65" target="main">065</a> 
+  <a href="detail_2.html#87" target="main">087</a> 
+ 
+	</div> 
+	</div> 
+-->
+
+</div> 
+
+<strong>Download</strong><br> 
+<div class="box">
+<a href="xmi.zip" target="main">Zipped XMI</a>
+<!-- (@@XMI_ZIP_SIZE@@MB) --><br>
+<a href="analysis-sheet.xls" target="main">Analysis Sheet</a>
+
+</div>
+<div class="date">Created:<br><TMPL_VAR NAME=DATE></div>
+</body> 
+</html>

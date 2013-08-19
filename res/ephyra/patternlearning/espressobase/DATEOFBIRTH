@@ -1,0 +1,113 @@
+#passages: 10000
+
+<TO> <PO>
+#correct: 4012
+#incorrect: 5988
+
+<PO> in music <TO> born
+#correct: 798
+#incorrect: 9202
+
+<TO> born <PO>
+#correct: 637
+#incorrect: 9363
+
+<TO> German composer b <PO>
+#correct: 532
+#incorrect: 9468
+
+<TO> Jamaican singer and musician b <PO>
+#correct: 526
+#incorrect: 9474
+
+<PO> in music <TO>
+#correct: 497
+#incorrect: 9503
+
+<PO> <TO> German composer d
+#correct: 489
+#incorrect: 9511
+
+<TO> <PO> April
+#correct: 453
+#incorrect: 9547
+
+<TO> <PO>
+#correct: 444
+#incorrect: 9556
+
+<PO> <TO> German political philosopher d
+#correct: 440
+#incorrect: 9560
+
+<PO> <TO> German composer
+#correct: 432
+#incorrect: 9568
+
+<PO> <TO> Indian politician and spiritual leader
+#correct: 431
+#incorrect: 9569
+
+<PO> <TO> born
+#correct: 412
+#incorrect: 9588
+
+<TO> composer <PO>
+#correct: 411
+#incorrect: 9589
+
+<PO> <TO> German
+#correct: 367
+#incorrect: 9633
+
+<PO> <TO> Jamaican
+#correct: 325
+#incorrect: 9675
+
+<TO> Austrian composer b <PO>
+#correct: 198
+#incorrect: 9802
+
+<TO> was born in <PO>
+#correct: 187
+#incorrect: 9813
+
+<PO> <TO> Austrian composer d
+#correct: 175
+#incorrect: 9825
+
+<TO> <PO>
+#correct: 174
+#incorrect: 9826
+
+<TO> <PO>
+#correct: 101
+#incorrect: 9899
+
+<TO> <PO>
+#correct: 99
+#incorrect: 9901
+
+<TO> composer musician <PO>
+#correct: 92
+#incorrect: 9908
+
+<PO> <TO> Hungarian pianist and composer d
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO>
+#correct: 45
+#incorrect: 9955
+
+<TO> <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO>
+#correct: 0
+#incorrect: 10000

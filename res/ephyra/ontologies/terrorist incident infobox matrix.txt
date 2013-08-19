@@ -1,0 +1,301 @@
+#Incident	#Data	#Location	#Target	#Fatalities	#Injuries	#Perps	#AttackType
+Columbine_High_School_massacre	April 20, 1999	Columbine, Colorado|Columbine, Colorado, United States	Students and faculty at Columbine High School.	15 (including the 2 perpetrators)	24	Eric Harris and Dylan Klebold	School shooting, mass murder, massacre, murder-suicide, suicide attack, shootout, improvised explosive device|attempted bombing
+Myyrmanni_bombing	October 11, 2002	Vantaa, Finland (near Helsinki)	Shopping mall	7 (including the perpetrator)	166	Petri Erkki Tapio Gerdt	bombing
+King_David_Hotel_bombing	July 22, 1946	Jerusalem, British Mandate for Palestine|Mandate Palestine	King David Hotel	91	46	Irgun	Bomb
+2002_Zamboanga_City_bombings	null	Four separate locations in Zamboanga City	Two department stores, Fort Pillar shrine and a karaoke bar/restaurant opposite a military base.	at least 11	at least 180	unknown (Moro Islamic Liberation Front|MILF, Abu Sayyaf, and Jemaah Islamiyah suspected)	
+Omagh_bombing	15 August 1998	Omagh, Northern Ireland	Courthouse	29	About 220 initially reported,	Real Irish Republican Army|Real IRA (RIRA)	Car bomb
+Moscow_theater_hostage_crisis	23&acirc;&euro;&ldquo;26 October 2002	Moscow, Russia	Dubrovka theater	At least 170 in total (including some 129 hostages)	Over 700	Special Purpose Islamic Regiment|SPIR, Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs|Riyadus-Salikhin, Islamic International Brigade|IIPB	hostage taking, threats of execution and subsequent response by Russian government
+Passover_massacre	March 27, 2002	Netanya		30 (+ 1 suicide bomber)		Hamas claimed responsibility	suicide bomber
+1992_Israeli_Embassy_attack_in_Buenos_Aires	March 17, 1992	Buenos Aires, Argentina	Israeli embassy	29	242	null	suicide bombing
+1993_Bombay_bombings	12 March 1993	Bombay, Maharashtra, India	Hotels, office buildings, banks, etc.	257	713	Underworld criminal groups affliated with Islamic groups with training in Pakistan (D-Company)	13 car bombs (RDX) containing Fragmentation (weaponry)|shrapnel.
+Russian_apartment_bombings	September 4&acirc;&euro;&ldquo;16, 1999	Russia	Low-income apartment buildings	293	More than 1,000		Time bombings
+Shmuel_HaNavi_bus_bombing	August 19, 2003	Jerusalem		23	130+	Hamas	suicide bombing
+21_April_2004_Basra_bombings	April 21, 2004	Samarra, Iraq	Police stations	74	100+		car bombs
+Warrington_bomb_attacks	26 February 1993	Warrington, Cheshire, England	1st attack: a district pressure gas storage facility	2	56	null	Bombing
+Alma	null	null	null	null	null	null	null
+2008_Bin_Salman_Mosque_bombing	May 2, 2008	Sa'dah Governorate, Yemen	Security forces	15	55	Unknown	Bombing
+Deer_Creek_Middle_School	April 7, 1982	Littleton, Colorado|Littleton, Colorado, United States		1	0	Jason Rocha	School shooting
+2004_Australian_embassy_bombing_in_Jakarta	9 September 2004	{{Coord|6|13|5.4|S|106|49|52|E|type:landmark|displayinline,title|nameJakarta Embassy Bombing}}	Australian embassy	9		Jemaah Islamiyah	car bombing
+1996_Manchester_bombing	15 June 1996	Corporation Street, Manchester|Corporation Street,	Manchester city centre	0	212	Provisional IRA	Car bomb|Vehicle bomb
+Sbarro_restaurant_suicide_bombing	August 9, 2001	Jerusalem	Sbarro pizza restaurant	15	130	Hamas	suicide bomber
+Guildford_pub_bombings	5 October 1974	Horse and Groom Public House,	null	5	65	null	Time bombs
+11_April_2007_Algiers_bombings	April 11, 2007	Algiers, Algeria		33		Al-Qaeda	Suicide bombings
+Bath_School_disaster	May 18, 1927	Bath Township, Michigan|Bath Township, Clinton County, Michigan|Clinton County, Michigan, USA	Bath Consolidated School	45 (38 children, 2 teachers, 4 other adults and the perpetrator)	58	Andrew Kehoe|Andrew P. Kehoe	explosives, suicide bombing, Shooting, fire
+7_July_2005_London_bombings	Thursday, 7 July 2005	Aboard London Underground trains and a bus in central London	General public	56 (including 4 suicide bombers)	Approximately 700	Hasib Hussain	Mass murder; suicide attack; terrorism
+Bojay¨¢_massacre	null	null	null	null	null	null	null
+1996_Docklands_bombing	9 February 1996	South Quay DLR station|South Quay station, Isle of Dogs, London	Canary Wharf financial district	2	39	null	Truck bomb
+2003_Jordanian_embassy_bombing_in_Baghdad	August 7, 2003	Baghdad, Iraq	Jordanian embassy	17	40	Jama'at al-Tawhid wal-Jihad}}	truck bomb
+2003_Karbala_bombings	December 27, 2003	Karbala, Iraq	Coalition military barracks	5 Bulgarian soldiers	200 injured (including 36 coalition soldiers)	Tawhid al-Jihad	suicide bombings
+2004_Irbil_bombings	February 16, 2004	Irbil, Iraq	Headquarters of PUK and KDP	117	133	Al-Qaeda in Iraq}}	Suicide bombings
+2006_Bangkok_bombings	31 December 2006&acirc;&euro;&ldquo;1 January 2007	Bangkok, Thailand	9 locations ( http://newsimg.bbc.co.uk/media/images/42401000/gif/_42401971_thailand_bangkok.gif  map) :	3	~ 38		Multiple bombings
+2006_Hat_Yai_bombings	September 16, 2006	Hat Yai, Thailand	Various	4	82	possibly Pattani Province|Pattani insurgents	multiple bombings
+2007_Ankara_bombing	May 22, 2007	Ankara, Turkey	Shopping Centre	9	121	G&Atilde;&frac14;ven Akku&Aring;&Yuml;	Bombing|Suicide Bombing
+2007_Karachi_bombing	October 18, 2007	Karachi, Pakistan	Benazir Bhutto and her supporters	139+	450+	Unknown	Suicide attack, bomb
+2007_Karbala_bombings	April 14, 2007	Karbala, Iraq	Shiite pilgrims	42		null	suicide bombing
+2007_Kirkuk_bombings	16 July 2007	Kirkuk, Iraq	Patriotic Union of Kurdistan|PUK office and a crowded market	86	136		Suicide bombing and car bombs
+2007_Zahedan_bombings	14 February 2007	Zahedan, Iran		18		Jundallah (responsibility claimed)	Car bombing
+25_August_2003_Mumbai_bombings	25 August 2003	Mumbai, India		52}}	null	null	Car Bombing
+26_July_2007_Baghdad_market_bombing	26 July 2007	Baghdad, Iraq	Karrada	92	127	Unknown: legal proceedings have not yet taken place.	Car bomb, rockets
+Ahvaz_bombings	sporadically from 12 June 2005 to 3 March 2006	Ahvaz, Iran	various government of Iran|government and public buildings	at least 28	at least 225	responsibility claimed by the Ahvazi Revolutionary Martyrs' Brigades; Iran alleges United Kingdom|UK and United States|US involvement	bombings
+Black_Sea_hostage_crisis	January 16&acirc;&euro;&ldquo;19, 1996	Trabzon, Turkey and the Black Sea	null	None	13 (including sicknessses)		Hostage crisis
+8_December_2009_Baghdad_bombings	8 December 2009	Baghdad, Iraq	Multiple	127+	440+	null	Car bombs
+Ramat_Gan_bus_20_bombing	July 24, 1995	Jabotinsky Street, Ramat Gan, Israel		6	30	Hamas, unnamed operative	Suicide attack
+La_Gabarra_Massacre	June 16, 1996	La Gabarra, Tib&Atilde;&ordm;|Municipality of Tib&Atilde;&ordm;, Norte de Santander Department|Norte de Santander	Civilians in a crossfire	43		FARC|FARC guerrillas	shooting, mass murder, Wiktionary:massacre|massacre
+May_2010_attacks_on_Ahmadi_mosques_in_Lahore	28 May 2010	Lahore, Pakistan		86	120+	Tehrik-i-Taliban Punjab	Grenades
+Deltona_massacre	August 6, 2004	Deltona, Florida|Deltona, Volusia County, Florida|Volusia County, Florida, United States|USA		6		Troy Victorino, Jerone Hunter, Robert Cannon, Michael Salas	Home invasion, mass murder, Wiktionary:massacre|massacre
+Kharkiv_supermarket_bombings	22 April 2006	Kharkiv, Ukraine	2 supermarkets	0	14		
+September_11_attacks	Tuesday, September 11, 2001	New York City; Arlington County, Virginia; and near Shanksville, Pennsylvania.	null	Approximately 3,000 (including 19 hijackers)	More than 6,000	Al-Qaeda led by Osama bin Laden	Aircraft hijacking, mass murder, suicide attack, terrorism
+Jerusalem_bus_19_suicide_bombing	January 29, 2004	Jerusalem		11	50+	Al-Aqsa Martyrs' Brigades, Hamas	suicide bombing
+2008_Danish_embassy_bombing_in_Islamabad	June 2, 2008	Islamabad, Pakistan	Denmark|Danish Embassy	6 to 8	24	al-Qaeda	Suicide attack|Suicide car bomb
+Tapuah_junction_stabbing	February 10, 2010	Tapuah junction, Road 60, West Bank	Israel Defense Forces|IDF soldier	1	1 (perpetrator)	Palestinian police|Palestinian Authority police officer Muhammad Hatib	stabbing
+El_Aro_massacre	October 22, 1997	municipality of Ituango, Department of Antioquia|Antioquia	Civilians / presumed guerrillas	15		United Self-Defense Forces of Colombia (AUC)	shooting, mass murder, Wiktionary:massacre|massacre
+February_13	null	null	null	null	null	null	null
+Munich_massacre	5&acirc;&euro;&ldquo;6 September 1972	Munich, West Germany	Israeli Israel at the Olympics|Olympic team	17 total	null	Black September (group)|Black September	mass murder, massacre, hostage-taking
+2002_Mombasa_attacks	November 28, 2002	Mombasa, Kenya	Israelis; hotel and plane	13 victims (3 Israelis, 10 Kenyans) + 3 suicide bombers	80		car bomb, surface-to-air missile
+2002_Karachi_bus_bombing	May 8, 2002	Karachi, Pakistan	Westerners	13	40	null	Suicide attack
+2004_Madrid_train_bombings	11 March 2004	Madrid, Spain	Cercan&Atilde;&shy;as Madrid|Madrid Commuter Train System	191	2050	null	Backpack bombs
+Admiral_Duncan_pub	30 April 1999	Old Compton Street, Soho, London	Admiral Duncan pub	3	approximately 70	David Copeland	Nail bomb
+2005_Bali_bombings	1 October 2005	Bali, Indonesia	Main square in central Kuta, warungs along the Jimbaran beach	26	More than 100 people		Suicide attack|Suicide bombings
+Red_Lake_massacre	Monday, March 21, 2005	Red Lake, Minnesota, United States	Red Lake Senior High School	10 (including the perpetrator)	5	null	School shooting, murder-suicide, massacre, spree killer|spree killing
+1999_Istanbul_bombings	March 13/March 14, 1999	Istanbul, Turkey (geographical coordinates {{Coord|41.01224|28.976018|type:event}})		13		Kurdistan Workers Party suspected	bombings and arson attack
+2003_Marriott_Hotel_bombing	August 5, 2003	South Jakarta|Jakarta, Indonesia	{{coord|6|13|37.3|S|106|49|37|E|type:landmark_region:ID|displayinline,title|nameMarriot Hotel}}	12	150	Jemaah Islamiyah	Suicide attack|Suicide bombing, car bomb, and other bombing
+Camp_Grant_massacre	April 30, 1871	Camp Grant, Arizona	null	144 killed		null	Mass murder
+Concordia_University_massacre	August 24, 1992	{{flagicon|Canada}} Montreal, Quebec, Canada	Concordia University	4	1	Valery Fabrikant	school shooting, massacre
+February_2004_Moscow_metro_bombing	February 6, 2004	Moscow, Russia	Moscow Metro train	41	102 to 120	Muslim Society No 3 led by Nikolai Kipkeyev	Suicide attack
+11_July_2006_Mumbai_train_bombings	Tuesday {{Start date and years ago|dfyes|2006|07|11}}	Mumbai, India	Western Railway (India)|Mumbai	209	Approximately 714	Students Islamic Movement of India), Lashkar-e-Taiba (LeT), Indian Mujaheedin|IM.	Bombings
+17_August_2005_Baghdad_bombings	August 17, 2005	Baghdad, Iraq	bus station, road to hospital	43	76	no one claimed responsibility}}	car bombs
+18_February_2007_Baghdad_bombings	February 18, 2007	Baghdad, Iraq		63	120+		Car bombings
+1964_Brinks_Hotel_bombing	| date  December 24, 1964	| location  Saigon, South Vietnam	null	| fatalities  2	| injuries  53&acirc;&euro;&ldquo;63	| perps  Vietcong}}	| type  Bombing
+2005_Sharm_el-Sheikh_attacks	July 23, 2005	Sharm el-Sheikh, Egypt	A market in downtown Sharm and the Ghazala Gardens hotel	64-88	~ 150	Bedouin militants	Suicide attack|Suicide bombings
+1972_Aldershot_Bombing	22 February 1972	List of army barracks around Aldershot|British Army barracks, Aldershot,	British Army barracks	7	18	null	car bomb
+1983_United_States_Senate_bombing	November 7, 1983	Washington, D.C.	United States Senate	0	0	Resistance Conspiracy	bombing
+2001_Indian_Parliament_attack	13 December 2001	New Delhi, India	Parliament of India building	7 (and 5 militants)	18	Lashkar-e-Taiba|LeT	Shooting
+2001_anthrax_attacks	Letters postmarked September 18, 2001 and October 9, 2001; some were opened at a later date	New York	ABC News, CBS News, NBC News, ''New York Post'', ''National Enquirer'', United States Senate|Senators Tom Daschle and Patrick Leahy	5	17 others infected	null	Bioterrorism
+2002_Grozny_truck_bombing	December 27, 2002	Grozny, Chechnya (Russia)	Chechen government HQ	83	210	Riyadus Salihiin	Car bombs
+2003_Red_Square_bombing	December 9, 2003	Red Square, Moscow	Unknown	6	44	''Riyadus-Salihiin''	Suicide attack
+2004_Sinai_bombings	7 October 2004	Taba (Egypt)|Taba and Nuweiba, Sinai Peninsula, Egypt	hotels popular with tourism|tourists	34	171	masterminded by Iyad Saleh and carried out by a Palestinian territories|Palestinian group	car bombings
+2005_Jaunpur_train_bombing	28 July 2005	near Jaunpur, Uttar Pradesh|Jaunpur,	Civilian passenger train	13	50	Unknown organisation	Bombing
+2005_Musayyib_bombing	July 16, 2005	Musayyib, Iraq	market	100	150	al-Qaeda in Iraq}}	suicide bombing
+2006_Moscow_market_bombing	August 21, 2006	Moscow, Russia	Outdoor market	13	47	Russian ultranationalism|ultra-nationalists	Time bombing
+2007_London_car_bombs	29 June 2007	London, United Kingdom	Haymarket (London)|Haymarket,	null	0	2,	car bomb
+2007_Yazidi_communities_bombings	August 14, 2007	Qahtaniya and Jazeera, Iraq	Yazidis	796	1,562	null	Car bombs
+22_January_2007_Baghdad_bombings	January 22, 2007	Bab Al-Sharqi market of Baghdad, Iraq	Shi'a Islam|Shiite marketplace	88	160	Unknown: legal proceedings have not yet taken place.	Car bombs
+28_July_2003_Mumbai_bus_bombing	28 July 2003	Mumbai, India		4}}	null	null	Bus Bombing
+3_August_2001_Ealing_bombing	3 August 2001	Ealing, London, United Kingdom	Ealing Broadway	0	7	Real IRA	Car bomb
+Afula_Bus_suicide_bombing	April 6, 1994	Afula, Israel		9 (including the perpetrator)	55	Hamas,	Suicide attack
+Banana_massacre	December 6, 1928	Cienaga, Magdalena|Cienaga, Department of Magdalena|Magdalena	Union workers of the United Fruit Company	Unknown (estimated 47 to 2,000)			shooting, massacre
+Claudy_bombing	31 July 1972	Main Street, Claudy,	Unknown	9	30	null	Car bombing
+Christmas_Eve_2000_Indonesia_bombings	24 December 2000	Medan, North Sumatra; Bandung and Ciamis, West Java; Mataram (city)|Mataram, West Nusa Tenggara	null	18	null	null	null
+Candlemas_Massacre	| date         early 1692	| location     York, Maine|York, District of Maine|Maine district of the Province of Massachusetts Bay	null	| fatalities   ~100 killed	| injuries	| perps        France	| type         Mass murder
+2008_Weliveriya_bombing	April 6, 2008	Weliveriya, Sri Lanka		15	90		Improvised explosive device|Roadside bomb
+Haifa_bus_37_suicide_bombing	March 5, 2003	Haifa	bus	17	53	Hamas	suicide attack
+2002_Jaunpur_train_crash	13 May 2002	Jaunpur, Uttar Pradesh|Jaunpur,	Civilian passenger train	12	80	Student's Islamic Movement of India suspected	Deliberate derailment of train
+2006_Toronto_terrorism_plot	June 2nd, 2006 - planned to do; never executed	Toronto, Ontario, Canada	Various places in Canada and Southwestern Ontario, including the Toronto Stock Exchange, Parliament Hill in Ottawa, and the Prime Minister of Canada	null	none	Toronto 18 suspects	Conspiracy (crime)|Conspiracy
+Y?ld?z_assassination_attempt	null	null	null	null	null	null	null
+R¨ªo_Piedras_massacre	null	null	null	null	null	null	null
+Harrods_bombing	17 December 1983	Hans Crescent,	Harrods department store	6	90	null	Car bomb
+1_February_2008_Baghdad_bombings	1 February 2008	Baghdad, Iraq		98	208	Unknown: legal proceedings have not yet taken place.	Suicide bombs
+April_2010_Baghdad_bombings	23&acirc;&euro;&ldquo;24 April 2010	Baghdad, Iraq	Mostly Shiite gatherings	85+	145+		coordinated bomb detonations
+Imam_Ali_Mosque_bombing	August 29, 2003	Najaf, Iraq	Imam Ali Mosque	83	500+	Jama'at al-Tawhid wal-Jihad}}	car bomb
+Long_Run_Massacre	September 13, 1781	Floyd's Fork, Kentucky	null	~60 killed		United Kingdom	Mass murder
+1987_grenade_attack_in_the_Sri_Lankan_Parliament	| date         {{Start date|1987|08|18}}	| location     Parliament of Sri Lanka, Sri Jayawardenepura	null	| fatalities   2	| injuries     16	| perps        Janatha Vimukthi Peramuna	| type         Hand grenade|Grenade attack
+Mapirip¨¢n_Massacre	null	null	null	null	null	null	null
+Leighton_case	October 6, 1975	Rome, Italy	Bernardo Leighton	0	2	Direcci&Atilde;&sup3;n de Inteligencia Nacional|DINA, National Vanguard (Italy)|Avanguardia Nazionale	shooting
+3_March_2010_Baqubah_bombings	3 March 2010	Baqubah, Iraq		33	55		Car bombs/Suicide bombs
+2009_Kabul_Indian_embassy_attack	8 October 2009	Embassy of India, Malalai Watt, Shahr-e-Nau, Kabul, Afghanistan	Indian embassy	17	83	Taliban	Suicide attack|Suicide car bomb
+U.S._Embassy	null	null	null	null	null	null	null
+Camp_Chapman_attack	December 30, 2009	Khost Province, Afghanistan	Central Intelligence Agency|CIA facility	10 (including the attacker)	6	null	Suicide attack|Suicide bombing
+1985_Newry_mortar_attack	28 February 1985	Newry, Northern Ireland	Royal Ulster Constabulary|RUC station	9	37	null	Mortar
+2002_Bali_bombings	12 October 2002	Bali, Indonesia	Two nightclubs with Western clientele, US Consular office	202	209	Jemaah Islamiyah members,	Suicide attack|Suicide bombing, car bomb, and other bombing
+Centennial_Olympic_Park_bombing	July 27, 1996	Atlanta, Georgia (U.S. state)|Georgia, United States	Centennial Olympic Park	2	111	Eric Robert Rudolph	bombing
+Canal_Hotel_bombing	August 19, 2003	Baghdad, Iraq	United Nations headquarters	22 plus a suicide bomber	100+	Al-Qaeda in Iraq|Jama'at al-Tawhid wal-Jihad	truck bomb
+2001_shoe_bomb_plot	{{start-date|December 22, 2001}}	En route to Miami, Florida, U.S. from Paris, France	American Airlines Flight 63	null	0	Richard Reid (shoe bomber)|Richard Reid	Shoe bomb
+2003_Casablanca_bombings	| date  8 April 2008	Casablanca, Morocco	Western culture|Western and Jewish targets in the bustling tourist city	45	More than 100	Salafia Jihadia	suicide attack
+Sarin_gas_attack_on_the_Tokyo_subway	{{Start date|1995|03|20}}	Tokyo, Japan	Tokyo Metro	13	6,252(''50 severe; 984 temporary vision problems'')	Aum Shinrikyo	Chemical warfare
+Wall_Street_bombing	September 16, 1920	New York City, New York	Wall Street	38	400	Galleanist anarchists are suspected	car bombing|bomb concealed in horse-drawn wagon
+2_March_2004_Iraq_Ashura_bombings	March 2, 2004	Karbala and Baghdad, Iraq	Shi'a Muslims commemorating the Day of Ashura|Ashura festival, including the Kazimiya shrine	at least 178	at least 500	al-Qaeda in Iraq; attacks directed by Abu Abdallah al Hassan Ben Mahmoud	bombing (including car bombs and suicide bombers); mortar (weapon)|mortar, grenade and rocket attacks
+2003_Istanbul_bombings	November 15, 2003 and November 20, 2003	Istanbul, Turkey	two synagogues, HSBC Bank (Turkey)|HSBC Bank, British Consulate	57 civilians; 4 suicide bombers	over 700	null	car bombing|truck bombing
+2007_Casablanca_bombings	March 11, 2007	Casablanca, Morocco	Internet cafe	1	4	Unknown	suicide attack
+Ben_Yehuda_Street_bombings	February 22, 1948	Ben Yehuda Street, Jerusalem	Pedestrian shopping mall	58	123		car bombs
+Killough_massacre	October 5, 1838	near Larissa, Texas	null	6 killed		Cherokee	Mass murder
+Aramoana_massacre	13&acirc;&euro;&ldquo;14 November 1990	Aramoana, New Zealand		14 (including the perpetrator)	3	null	spree killing|Spree Killing
+2007_Fort_Dix_attack_plot	Planned; never executed;	Fort Dix, New Jersey,	Fort Dix military personnel	null			Conspiracy (crime)|Conspiracy
+Big_Bottom_massacre	January 2, 1791	near Stockport, Ohio	null	11 killed		Lenape	Mass murder
+M62_coach_bombing	4 February 1974	Near Hartshead Moor services|Hartshead Moor service area, M62 motorway,	null	12 (9 soldiers, 3 civilians)	38 (soldiers and civilians)	null	Time bomb (explosive)|Time bomb
+2008_Mogadishu_bombings	August 3, 2008	Mogadishu, Somalia	Somali women	at least 21	46+		roadside bombing
+First_Magdalena_Massacre	November 3, 1757	Magdalena de Kino, Sonora, New Spain	null	31	unknown	Seri people|Seri	Mass murder
+Patt_Junction_Bus_Bombing	June 18, 2002	Jerusalem	Egged bus	19	74+	Hamas	suicide bomber
+13_March_2003_Mumbai_train_bombing	13 March 2003	Mumbai, India		10}}	null	null	Bombing
+18_April_2007_Baghdad_bombings	18 April 2007	Baghdad, Iraq	Sadriya, Sadr City, Karrada, al-Shurja	198	251	Unknown: legal proceedings have not yet taken place.	Car bombs
+1993_World_Trade_Center_bombing	Friday, February 26, 1993	New York City, New York {{Coord|40.711452|N|74.011919|W|}}	World Trade Center	7	1042	Ramzi Yousef and co-conspirators	car bomb|Car Bombing
+1_July_2006_Sadr_City_bombing	1 July 2006	Sadr City, Baghdad, Iraq	Market	62	114}}	null	Suicide car bombing
+2003_Stavropol_train_bombing	December 5, 2003	Stavropol Krai	regional rail|Regional train	At least 46	More than 170	Riyadus-Salihiin	Suicide bombing
+2004_Baqubah_bombing	null	null	null	null	null	null	null
+2004_Forward_Operating_Base_Marez_bombing	December 21, 2004	Mosul, Iraq	Forward Operating Base Marez	14 U.S. soldiers	72 (including 51 U.S. soldiers)	Army of Ansar al-Sunna}}	suicide bombing
+2006_Dahab_bombings	Avril 24, 2006	Dahab, Egypt	Resort, Nelson Restaurant, Aladdin Caf&Atilde;&copy; and Ghazala Market	23	~ 80	Jama'at al-Tawh&Auml;&laquo;d wal-Jihad	
+2006_Digampathana_bombing	16 October 2006	Digampathana, North Central Province, Sri Lanka|North Central Province, Sri Lanka	Sri Lankan Navy bus convoy	at least 101-112 (including bomber)	at least 150	Liberation Tigers of Tamil Eelam	suicide attack|suicide truck bombing
+2006_West_Bengal_train_disaster	November 20, 2006	West Bengal, India	train	5	between 25 and 66	unknown	bomb
+2007_Amirli_bombing	July 7, 2007	Amirli, Iraq	market	156	255		suicide truck bomb
+2007_Baghlan_sugar_factory_bombing	November 6, 2007	Baghlan, Afghanistan	Members of Parliament	at least 75		Unknown: legal proceedings have not yet taken place.	Suicide attack
+2007_Dellys_bombing	September 8, 2007	Dellys, Algeria		30	47	Al-Qaeda Organization in the Islamic Maghreb	suicide bombing
+2007_John_F._Kennedy_International_Airport_attack_plot	planned, never executed	Jamaica, Queens|New York City, New York, United States	John F. Kennedy International Airport	null	0		Conspiracy (crime)|Conspiracy
+2007_Songkhla_bombings	May 27 and May 28, 2007	Songkhla Province, Thailand	JB Hat Yai Hotel, Hat Yai Garden Hotel and a Amphoe Saba Yoi|Saba Yoi market	4	36	possibly Pattani Province|Pattani insurgents	multiple bombings
+23_November_2006_Sadr_City_bombings	23 November 2006	Sadr City neighborhood of Baghdad, Iraq	Shia Sadr City Slum	At least 215	257	Al Qaeda	Car bombs and Mortar (weapon)|mortar rounds.
+27_October_2003_Baghdad_bombings	October 27, 2003	Baghdad, Iraq	International Red Cross headquarters, 4 Iraqi police stations	33 Iraqis	244}}	null	suicide bombings
+29_October_2005_Delhi_bombings	29 October 2005	Delhi, India	Two markets and a bus	62	210	Lashkar-e-Taiba	Bombings
+3_February_2007_Baghdad_market_bombing	3 February 2007	Baghdad, Iraq	Sadriyah market	135	339	}}	Suicide car bomb|truck bomb
+6_December_2002_Mumbai_bus_bombing	6 December 2002	Mumbai, India		2}}	null	null	Bombing
+Batasang_Pambansa_bombing	November 13, 2007	Quezon City, Philippines	Batasang Pambansa Complex	6	12	alleged mastermind former congressman '''Gerry Salapuddin'''	Car bomb|Motorcycle bomb
+Bombing_of_the_Hebrew_Benevolent_Congregation_Temple	October 12, 1958	Atlanta, Georgia	Hebrew Benevolent Congregation (Reform Judaism|Reform Jewish temple)	0	0	unknown	Dynamite bombing
+Dizengoff_Center_suicide_bombing	March 4, 1996	Tel Aviv	Dizengoff Center	13 Israelis (12 civilians, 1 soldier)	130	Hamas	Suicide bomber
+Buratha_Mosque_bombing	April 7, 2006	Baghdad, Iraq	Buratha Mosque	85	160}}	null	Triple suicide bombing
+Dawson_College_shooting	September 13, 2006	{{flagicon|Canada}} Montreal, Quebec, Canada	Dawson College	2 (including the perpetrator)	19	Kimveer Gill|Kimveer Singh Gill	School shooting, spree killer|spree shooting, murder-suicide
+2006_al-Askari_Mosque_bombing	February 22, 2006	Samarra, Iraq	Al-Askari Mosque	0	0	Al-Qaeda in Iraq (presumed)	Bombing (demolition)
+Rafiganj_train_disaster	10 September 2002	Rafiganj,	Civilian passenger train	130+	Unknown, High	Naxalite Maoists suspected	Deliberate derailment of train
+Kurnool_train_crash	21 December 2002	Kurnool,	Civilian passenger train	20	80	Lashkar-e-Taiba suspected	Deliberate derailment of train
+Egged_bus_36_bombing	April 9, 1995	Vicinity of Kfar Darom, Gaza Strip		9 (including perpetrator)	50	''Operatives'':	Suicide attack
+West_German_embassy_siege	| date        24 April 1975	| location    Stockholm, Sweden	| target      West Germany|West German embassy	| fatalities  2 embassy personnel,	| injuries    10 embassy personnel,	| perps       Kommando Holger Meins/Red Army Faction	| type        Siege, hostage crisis
+2008_Zagreb_bombing	23 October 2008	Donji Grad|Downtown	Ivo Pukani&Auml;&Dagger;	2	2	&Aring;&frac12;eljko Milovanovi&Auml;&Dagger;	null
+1998_Iranian_diplomats_assassination_in_Afghanistan	August 8, 1998	Mazari Sharif, Afghanistan	Iranian diplomats	11	null	Taliban	mass murder, Wiktionary:massacre|massacre, hostage-taking
+2009_Palma_Nova_bombing	July 30, 2009	Palma Nova, Calvi&Atilde;&nbsp;, Majorca, Balearic Islands, Spain	Civil Guard (Spain)|Civil Guard barracks	2		ETA	Limpet mine|Limpet bomb
+September_15_2006_Yemen_attacks	September 15, 2006	Dubba Port and Mareb	oil facilities	4 attackers, 1 security guard	none reported	suspected Islamism|Islamist militants, possibly Al-Qaeda	failed suicide bombing|suicide car bombing
+2009_Nazran_bombing	August 17, 2009	Nazran, Ingushetia (Russia)	Police station	25	164		Suicide attack
+15_May_2007_Abu_Sayda_bombing	May 15, 2007	Abu Sayda, Diyala Governorate|Diyala, Iraq	Village market	32-45	Some 60		Chlorine bombings in Iraq|Iraqi chlorine bombing
+January_2010_Bajaur_bombing	30 January 2010	Khar, Pakistan	Multiple	16	25		Suicide Bomber
+Clark_Massacre	August 30, 1851	near the Raft River, Idaho	null	3 killed		Shoshoni	Mass murder
+Heritage_High_School_shooting	May 20, 1999	Conyers, Georgia (U.S. state)|Georgia, United States|USA	null	0	6	null	School shooting
+Imam_Abbas_Mosque_bombing	April 28, 2007	Karbala, Iraq	Shiite pilgrims	68	162	null	Suicide car bomb
+Imam_Hussein_Mosque_bombing	null	null	null	null	null	null	null
+2003_ricin_letters	October 15, 2003	Greenville, South Carolina|Greenville, South Carolina	U.S. Department of Transportation, The White House	0	0	null	Bioterrorism
+4_April_2010_Baghdad_bombings	4 April 2010	Baghdad, Iraq	Multiple embassies	42	224		Car bombs
+San_Jos¨¦_de_Apartad¨®_massacre	null	null	null	null	null	null	null
+July_2010_Zahedan_bombings	null	null	null	null	null	null	null
+July_2010_Baghdad_attacks	6-8 July 2010	Baghdad, Iraq	Shia pilgrims	70+	400+		Suicide bomb + other bombings
+2009_International_Islamic_University_bombing	20 October 2009	Islamabad, Pakistan	International Islamic University, Islamabad	6	null		suicide bombing
+2008_Sri_Lanka_Vavuniya_bombing	June 16, 2008	Vavuniya, Sri Lanka		12	null	null	Bomb on a motorcycle
+Peshk?pi_incident	null	null	null	null	null	null	null
+Brighton_hotel_bombing	12 October 1984	Brighton, England, United Kingdom	Margaret Thatcher	5	31	null	Time bomb (explosive)|Time bomb
+Birmingham_pub_bombings	21 November 1974	Birmingham, England	Public houses in Birmingham	21	182	null	Time bombs
+1994_AMIA_bombing	18 July 1994	Buenos Aires, Argentina	Asociaci&Atilde;&sup3;n Mutual Israelita Argentina	85	300+	null	car-bomb
+Riyadh_compound_bombings	May 12, 2003	Riyadh, Saudi Arabia	Three compounds frequented by Westerners	35		null	Suicide bombing|suicide attack
+Kiryat_Menachem_bus_bombing	November 21, 2002	Kiryat Menachem, Jerusalem		11	50+	Hamas claimed responsibility	suicide bomber
+Beslan_school_hostage_crisis	1 September 2004	Beslan, North Ossetia-Alania (Russia)	School Number One (SNO)	At least 385	About 783	Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs|Riyadus-Salikhin	hostage|Hostage taking
+Matza_restaurant_suicide_bombing	March 31, 2002	Haifa, Israel		15	40+	Hamas claimed responsibility	suicide bomber
+Budyonnovsk_hospital_hostage_crisis	June 14&acirc;&euro;&ldquo;19, 1995	Budyonnovsk, Stavropol Krai, Russian Federation	null	At least 140	At least 415	Chechen rebels led by Shamil Basayev and Aslambek Abdulkhadzhiev	Hostage crisis
+Deal_barracks_bombing	22 September 1989	Royal Marine barracks, Deal, Kent|Deal, England,	Royal Marines School of Music	11 Royal Marines	21 Royal Marines	null	Time bomb
+2004_SuperFerry_14_bombing	February 27, 2004	Manila Bay, Philippines	SuperFerry	116	null	Abu Sayyaf}}	Bombings
+1995_Palo_Verde	null	null	null	null	null	null	null
+2004_Kufa_shelling	August 26, 2004	Kufa, Iraq	mosque	74	315}}	null	mortar attack
+1993_Bishopsgate_bombing	24 April 1993	Bishopsgate, City of London	Financial district	1	44	Provisional IRA	Truck bomb
+Second_Magdalena_Massacre	One day in mid November 1776	Magdalena de Kino, Sonora, New Spain	null			Apache	Mass murder
+12_February_2007_Baghdad_bombings	12 February 2007	Baghdad, Iraq		Approx. 76	Approx. 150		Car bombing
+1983_Kuwait_bombings	12 December 1983	Kuwait City, Kuwait	Embassies, infrastructure	Six, 1 suicide bomber	Eighty	Dawa Party ''(alleged)''	Suicide bombing
+19_June_2007_al-Khilani_Mosque_bombing	June 19, 2007	Baghdad, Iraq	Al-Khilani Shiite mosque	87	218	null	Car bomb
+1_August_2007_Baghdad_bombings	1 August 2007	Baghdad, Iraq		74	60+	Unknown: legal proceedings have not yet taken place.	Suicide bomb and car bombs
+2003_El_Nogal_Club_bombing	February 7, 2003	Bogot&Atilde;&iexcl;, Colombia	''El Nogal'' club	36	200+	FARC	Car bombing
+2003_Nasiriyah_bombing	November 12, 2003	Nasiriyah, Iraq	Italian military police headquarters	17 Italian soldiers	103 (including 19 Italian soldiers)	Jama'at al-Tawhid wal-Jihad	suicide bombing
+2005_Al_Hillah_bombing	February 28, 2005	Al Hillah, Iraq	Iraqi police recruiting center	127	hundreds}}	null	suicide car bomb
+2005_Amman_bombings	9 November 2005	Amman, Jordan	Three hotels	60, plus 3 suicide bombers	115	Ali Hussein Ali al-Shamari (SAS Radisson), Rawad Jassem Mohammed Abed (Grand Hyatt), and Safaa Mohammed Ali (Days Inn)	Suicide attack|Suicide bombings
+2005_Khanaqin_bombings	November 18, 2005	Khanaqin, Iraq	2 Shiite mosques	at least 74	more than 100	al-Qaeda in Iraq	car bombs
+2006_Central_Mindanao_bombings	10 October&acirc;&euro;&ldquo;11 2006	multiple locations in Central Mindanao (Tacurong, Makilala, and Cotabato City)	multiple targets (incl. public market, bank, shopping mall)	8	at least 30	unknown (Moro Islamic Liberation Front|MILF, Abu Sayyaf, and Jemaah Islamiyah suspected)	
+2006_Madrid_Barajas_International_Airport_bombing	| date December 30, 2006	| location Madrid, Spain	| target Madrid-Barajas Airport	| fatalities 2	| injuries 52	null	| type car bomb|van bombing
+2006_Malegaon_blasts	8 September 2006	Malegaon, Maharashtra, India	Vicinity of Mosque	37		(Suspected outfits)&acirc;&euro;&rdquo;Lashkar-e-Toiba,	Bombings
+2006_Varanasi_bombings	7 March 2006	Varanasi, India	Sankat Mochan Hanuman Temple (Varanasi)|Sankat Mochan Hanuman Temple and Varanasi Cantonment Railway Station	28	101	Lashkar-e Kahar/Qahab	Bombing
+2007_Al_Hillah_bombings	null	null	null	null	null	null	null
+2007_Batna_bombing	6 September 2007	Batna, Algeria|Batna, Algeria	Abdelaziz Bouteflika	15&acirc;&euro;&rdquo;22	70&acirc;&euro;&rdquo;107	al-Qaeda Organization in the Islamic Maghreb	suicide bombings
+2007_Iraqi_Parliament_bombing	April 12, 2007	Council of Representatives of Iraq, Baghdad	Politicians	1	23	null	suicide bomb
+2007_al-Askari_Mosque_bombing	June 13, 2007	Samarra, Iraq	Al-Askari Mosque	0	0	Attributed to al-Qaeda in Iraq	Bombing (demolition) or a rocket or Mortar (weapon)|mortar attack
+29_March_2007_Baghdad_bombings	29 March 2007	Baghdad, Iraq	Al-Shaab market	82	138	Unknown: legal proceedings have not yet taken place.	Suicide bombings
+4_March_2001_BBC_bombing	4 March 2001	White City, London|White City, London, United Kingdom	The BBC main news centre	0	1	Noel Maguire, Robert Hulme, Aiden Hulme, James McCormack and John Hannan	Car bomb
+Sterling_Hall_bombing	August 24, 1970	Madison, Wisconsin|Madison, Wisconsin, United States	Army Mathematics Research Center, Sterling Hall, UW&acirc;&euro;&ldquo;Madison	1	4	Karleton Armstrong, Dwight Armstrong, David Fine and Leo Burt	bombing (Ammonium nitrate)
+Dolphinarium_discotheque_suicide_bombing	June 1, 2001	Tel Aviv, Israel		21	100+	Lone Palestinian assailant (Saeed Hotari)	Suicide attack
+Beit_Lid_massacre	January 22, 1995	Beit Lid Junction, Israel		23	69	Islamic Jihad Movement in Palestine|Palestinian Islamic Jihad,	Suicide attack
+2008_Charsadda_bombing	February 9, 2008	Charsadda, Pakistan	Awami National Party	27	50	null	Suicide attack
+Podujevo_bus_bombing	| date  February 16, 2001	| location  near Podujevo, Kosovo, Serbia, FR Yugoslavia	| target  Serbs	| fatalities  12	| injuries  44	| perps  Allegedly ethnic Kosovar Albanians|Albanian extremists	| type  bombing
+30_June_2009_Kirkuk_bombing	30 June 2009	Kirkuk, Iraq	null	40	null	null	Suicide bombing and car bomb
+Eilat_bakery_bombing	January 29, 2007	Eilat, Israel		3 civilians		al-Aqsa Martyrs' Brigades	suicide attack
+2010_Kosovska_Mitrovica_attack	July 2, 2010	North Kosovska Mitrovica|Northern Kosovska Mitrovica	A group of peacefully protesting Serbs	1	11	unknown	Explosive device
+NBI_Knowledgebase	18 August 2010	Oregon State University	null	null	null	null	
+Villatina_Massacre	November 15, 1992	Medell&Atilde;&shy;n, Department of Antioquia|Antioquia	Civilians	unknown		Colombian National Police	shooting, mass murder, massacre
+Silco_incident	August 1, 1985	Mediterranean Sea	''Silco''	0	multiple people abducted	Palestinian terrorists and Libya	kidnapping
+Nanping_school_massacre	23 March 2010	Nanping, People's Republic of China		8	5	Zheng Minsheng	Stabbing
+Jakarta_Stock_Exchange_bombing		Jakarta, Indonesia	Stock Exchange	15			car bomb
+2009_suicide_air_raid_on_Colombo	February 20, 2009	Colombo and near Bandaranaike International Airport|Katunayake International Airport, in Sri Lanka.	null	2 (excluding the 2 pilots)	58+	Liberation Tigers of Tamil Eelam.	Murder-suicide, Suicide attack
+2008_Mumbai_attacks	| date           26 November 2008	| location	null	| fatalities     Approximately 164 (including 10 terrorists)	| injuries       More than 308	| perps          Lashkar-e-Taiba led by Hafiz Muhammad Saeed	| type           Bombings, shootings, hostage crisis
+2007_Uttar_Pradesh_bombings	23 November 2007	Lucknow, Varanasi and Faizabad, India	Court Premises	18	81	null	Bombings
+Macayepo_massacre	October, 2000	Macayepo, Department of Bol&Atilde;&shy;var|Bol&Atilde;&shy;var	Civilians dubbed as guerrilla supporters	15		Heroes of Montes de Maria Bloc of the United Self-Defense Forces of Colombia (AUC)	shooting, mass murder, massacre
+Mehola_Junction_bombing	April 16, 1993	Mehola Junction, Palestinian Territories		2 (including the perpetrator)	21	Hamas,	Suicide attack
+5_April_2010_Timergarah_bombings	5 April 2010	Timergarah, Pakistan	Political rally	46	100+		Suicide bomber
+Mustansiriya_University_bombings	January 16, 2007	Baghdad, Iraq	Mustansiriya University	ca. 70	169		suicide attack and car bomb(s)
+12_September_2008_Dujail_bombing	September 12, 2008	Dujail, Iraq	Police station	31	60		suicide bombings
+2007_attack_on_tourists_in_Yemen	July 2, 2007	Mareb, Yemen	Belgian Tourists	10	12	Al-Qaeda	Car Bomb
+2009_Nouakchott_suicide_bombing	8 August 2009	Nouakchott, Mauritania	Embassy of France	1 (the perpetrator)	3		suicide bombing
+2008_Indian_embassy_bombing_in_Kabul	7 July 2008	Embassy of India, Malalai Watt, Shahr-e-Nau, Kabul, Afghanistan	Indian embassy	58	150+		Suicide attack|Suicide car bomb
+14_September_2005_Baghdad_bombings	September 14, 2005	Baghdad, Iraq	Labourers who gathered in Oruba Square	160	570	Claimed by al-Qaeda in Iraq}}	Suicide bombings
+2008_United_States_consulate_in_Istanbul_attack	July 9, 2008	Consulate of America, Istanbul, Turkey	United States|American consulate	6	1 Turkish National Police officer shot in arm	null	Shooting|Gunfire at the US Consulate
+2008_Kunming_bus_bombings	| date        21 July 2008	| location    {{flagicon|PRC}} Kunming, People's Republic of China|China	null	| fatalities  2	| injuries    14	| perps       Li Yan (murderer)|Li Yan	| type        Bombings
+Downing_Street_mortar_attack	7 February 1991	10 Downing Street, London, England	null	0	4	null	Mortar (weapon)|Mortar
+Villanueva_massacre	December 8, 1998	Villanueva, La Guajira|Villanueva, Department of La Guajira|La Guajira	Presumed supporters of the Luciano Ariza Front of the National Liberation Army (Colombia)|National Liberation Army (ELN)	11		United Self-Defense Forces of Colombia (AUC)	shooting, mass murder, massacre
+Hadera_bus_station_suicide_bombing	April 13, 1994	Hadera, Israel		6 (including the perpetrator)	30	Hamas,	Suicide attack
+Abole_oil_field_raid	April 24, 2007	Abole, Somali Region, Ethiopia	Abole oil field	65 Ethiopian workers	Unknown	Image:ONLF flag.svg|20px Ogaden National Liberation Front	null
+Kaspiysk_bombing	May 9, 2002	Kaspiysk, Dagestan	Victory parade	44	133	Blamed on Rappani Khalilov	Land mine-based bombing
+Bah¨ªa_Portete_massacre	null	null	null	null	null	null	null
+Wickenburg_massacre	November 5, 1871	near Wickenburg, Arizona	null	6 killed		Yavapai people|Yavapai	Mass murder
+April_2010_Kohat_bombings	April 17, 2010	Kohat, Pakistan	IDP camp	58	86	Lashkar-e-Jhangvi	Suicide bombing
+2005_Ku?adas?_minibus_bombing	null	null	null	null	null	null	null
+Bat_Ayin_ax_attack	April 2, 2009	Bat Ayin, Judea and Samaria area, West Bank		1 child	3 children (1 serious)	Lone Palestinian assailant (Moussa Tayet). Palestinian Islamic Jihad and other Palestinian groups claimed responsibility	Axe attack
+Hu?_chemical_attacks	null	null	null	null	null	null	null
+2009_Burgos_bombing	29 July 2009	Burgos, Spain	Civil Guard (Spain)|Civil Guard barracks	0	65		Car bomb|Van bomb
+Kizlyar-Pervomayskoye_hostage_crisis	January 9&acirc;&euro;&ldquo;18, 1996	null	null	null	null	null	null
+Jaffa_Road_bus_bombings	February 25, 1996 and March 3, 1996	Jerusalem	bus	45	55	Hamas, Mohammed Abdo (2nd attack)	suicide bomber
+Letelier_case	September 21, 1976	Washington, D.C.	Orlando Letelier	2	1	Direcci&Atilde;&sup3;n de Inteligencia Nacional|DINA	car bombing
+Makhachkala_Rus_bombing	July 1, 2005	Makhachkala, Dagestan	Rus (special forces)	11	25	Sharia Jamaat}}	Bombing
+Nepalese_royal_massacre	June 1, 2001	Narayanhity Royal Palace, Kathmandu, Nepal	The Nepali Royal Family	10 (including the perpetrator)	5	Crown Prince Dipendra Bir Bikram Shah	Fratricide, patricide,
+6_March_2008_Baghdad_bombing	6 March 2008	Baghdad, Iraq	Karrada	68	120	Unknown: legal proceedings have not yet taken place.	Suicide bombing
+2008_Sri_Lanka_bus_bombings	January 16, 2008	Buttala, Sri Lanka		32	62	null	Improvised explosive device|Roadside bomb, Ambush
+22_May_2008_Exeter_bombing	22 May 2008	Exeter, Devon, England, UK	Princesshay	0	1	null	null
+9_October_2009_Peshawar_bombing	9 October 2009	Peshawar, Pakistan	Khyber Bazaar	41	null		Minibus bomb
+Mercaz_HaRav_massacre	March 6, 2008	The Mercaz HaRav Yeshiva at Kiryat Moshe, Jerusalem, Israel		8 civilians	11	null	Mass murder
+2008_Beni_Amrane_bombings	June 9, 2008	Beni Amrane, Boumerd&Atilde;&uml;s Province, Algeria	Civilians (1st blast), first responders (2nd blast)	13			Bombing
+13_May_2007_Makhmour_bombing	13 May 2007	Makhmour, Iraq	Kurdish Democratic Party|KDP office	At least 50	About 70		Suicide attack
+2008_Karbala_bombing	March 17, 2008	Karbala, Iraq		At least 42	58		suicide bomb
+2009_Zahedan_bombing	May 28, 2009	Zahedan, Iran		20	55	Jundullah	
+24_June_2004_Mosul_bombings	May 15, 2007	Mosul, Iraq	Four police stations and hospital	At least 62	At least 220		Car bombs
+1_February_2010_Baghdad_bombing	1 February 2010	Baghdad, Iraq	Multiple	approx 54	117		Suicide Bomber
+2008_attack_on_tourists_in_Yemen	January 18, 2008	Hadhramaut Governorate|Hadhramaut, Yemen	Belgian Tourists	5	4	Unknown, possibly Al-Qaeda	Ambush
+2008_Balad_bombing	February 10, 2008	Balad, Iraq		25+	40+		car bomb
+2008_Parachinar_bombing	February 16, 2008	Parachinar, Pakistan	Riaz Shah, Pakistan People's Party	47	150	null	Suicide attack
+2008_Negele_Boran_bombings	May 28, 2008	Negele Boran, Ethiopia		3	5		Bombing
+Havelock_Road_Bombing	null	null	null	null	null	null	null
+14_September_2004_Baghdad_bombing	14 September 2004	Baghdad, Iraq	Karrada	47	114	Tawhid and Jihad	Car bomb
+2008_Tripoli	null	null	null	null	null	null	null
+2009_Yemeni_tourist_attacks	15 March 2009	Shibam, Yemen	South Korean tourists	6 (including the perpetrators)	4		Suicide attack|Suicide bombings
+6_April_2010_Baghdad_bombings	6 April 2010	Baghdad, Iraq	Government Buildings	58	170+		Homemade bombs
+Dizengoff_Street_bus_bombing	October 19, 1994	Dizengoff Street, Tel Aviv, Israel		23 (including bomber)	50	Hamas,	Suicide attack
+Pearl_Continental_hotel_bombing	9 June 2009	Peshawar, Pakistan	null	at least 17	at least 46	Tehrik-i-Taliban Pakistan	bombing
+17_June_2008_Baghdad_bombing	17 June 2008	Baghdad, Iraq	Bus stop	51	75	Unknown: legal proceedings have not yet taken place.	Car bomb
+18_August_2009_NATO_convoy_bombing	August 18, 2009	Kabul, Afghanistan	NATO convoy	At least 7		Taliban	Suicide attack
+Xa_Loi_Pagoda_raids	August 21, 1963	Many Buddhist temples across South Vietnam, most notably Xa Loi Pagoda in Saigon.	Buddhist protestors	Estimates range up to hundreds	Hundreds	Army of the Republic of Vietnam Special Forces under orders from Ngo Dinh Nhu	Shootings, beatings, temple demolitions
+10_May_2010_Iraq_attacks	10 May 2010	Baghdad, Mosul, Basra, Fallujah, Iskandariyah, Al	various	100+	350+		coordinated bomb detonations, targeted killings
+2002_Kabul_bombing	September 5, 2002	Kabul, Afghanistan	Unknown	30	167	Taliban	car bomb
+17_August_2010_Baghdad_bombings	17 August 2010	Baghdad, Iraq	Army recruits	69+	169	Islamic State of Iraq (al-Qaeda in Iraq	Suicide bombing and Truck bombing
+5_December_2008_Peshawar_bombing	5 December 2008	Peshawar, Pakistan	Westerners	29	over 100	null	Car bombing
+2008_Shiraz_explosion	April 12, 2008	Shiraz, Iran		14	202	Anjoman-e Padeshahi-e Iran	
+1996_Sarajevo_tram_attack	9 January 1996	Sarajevo, Bosnia and Herzegovina	city tram	1	19	Serbian militants	Rocket-propelled grenade
+26_June_2008_Karmah_Bombing	26 June 2008	Al-Karmah, Iraq	Tribal Sheik meeting	25	Unknown	Islamic State of Iraq	Suicide bombing
+Makombo_massacre	14&acirc;&euro;&ldquo;17 December 2009	Makombo, DR Congo		321		Lord's Resistance Army	
+Belarus_bomb_blast	4 July 2008	Minsk, Belarus		0	54		
+2008_Kashgar_attack	August 4, 2008	near Kashgar, Xinjiang,	Policemen	16	16	Two Uyghur people|Uyghur men	Vehicular, IED and knife attack against police
+Lively_Massacre	1813	Washington County, Illinois|Washington County, Illinois	null	~3 killed			Mass murder
+2008_attacks_on_Christians_in_Mosul		Mosul, Iraq					
+Hebrew_University_massacre	July 31, 2002	Jerusalem, Israel	University cafeteria	9	~100	Hamas claimed of responsibility	Remotely detonated concealed bomb
+2010_Aksu_bombing	19 August 2010	Aksu, Xinjiang|Aksu, Xinjiang, People's Republic of China	Security personnel	7+	14+		Bomb
+27_January_2003_Mumbai_bombing	27 January 2003	Mumbai, India		1	null	null	Bombing
+2009_NATO_Afghanistan_headquarters_bombing	August 15, 2009	Kabul, Afghanistan	North Atlantic Treaty Organization headquarters	7	91	Taliban	Suicide attack
+2008_Hargeisa¨CBosaso_bombings	null	null	null	null	null	null	null
+Karkur_junction_suicide_bombing	October 21, 2002	Karkur Junction, Wadi Ara		14	40+	Islamic Jihad Movement in Palestine|Islamic Jihad	suicide bomber
+2008_Wah_bombing	21 August 2008	Wah Cantonment, Pakistan	Pakistan Ordnance Factories	70	100+		Suicide attacks
+1987_Hipercor_bombing	19 June 1987	Barcelona, Spain	Hipercor Commercial centre	21	45	ETA	Car bomb
+5_January_2006_Iraq_bombings	5 January 2006	Karbala and Ramadi, Iraq	Shia pilgrims, police recruiting centre	about 120 or more	at least 120		suicide attack
+30_September_2004_Baghdad_bombing	June 24, 2004	Mosul, Iraq		at least 41	at least 131	al-Qaeda in Iraq	car bomb, Improvised explosive device|IED
+July_2010_Lahore_bombings	1 July 2010	Lahore, Punjab (Pakistan)|Punjab, Pakistan		50	200+		2 Suicide bombings

@@ -1,0 +1,7369 @@
+#passages: 10000
+
+<TO> <PO>
+#correct: 642
+#incorrect: 9358
+
+<TO> <PO> is a professional
+#correct: 176
+#incorrect: 9824
+
+<TO> <PO>
+#correct: 169
+#incorrect: 9831
+
+<TO> <PO>
+#correct: 165
+#incorrect: 9835
+
+<TO> <PO>
+#correct: 165
+#incorrect: 9835
+
+<TO> <PO> is a professional
+#correct: 163
+#incorrect: 9837
+
+<TO> <PO>
+#correct: 157
+#incorrect: 9843
+
+<TO> <PO>
+#correct: 150
+#incorrect: 9850
+
+<TO> <PO>
+#correct: 149
+#incorrect: 9851
+
+<TO> <PO>
+#correct: 147
+#incorrect: 9853
+
+<TO> <PO>
+#correct: 144
+#incorrect: 9856
+
+<TO> <PO>
+#correct: 142
+#incorrect: 9858
+
+<TO> <PO> is a former
+#correct: 138
+#incorrect: 9862
+
+<TO> <PO>
+#correct: 137
+#incorrect: 9863
+
+<TO> <PO>
+#correct: 135
+#incorrect: 9865
+
+<TO> <PO>
+#correct: 135
+#incorrect: 9865
+
+<TO> <PO> is a retired
+#correct: 135
+#incorrect: 9865
+
+<TO> <PO>
+#correct: 132
+#incorrect: 9868
+
+<TO> <PO>
+#correct: 132
+#incorrect: 9868
+
+<TO> <PO>
+#correct: 132
+#incorrect: 9868
+
+<TO> <PO>
+#correct: 128
+#incorrect: 9872
+
+<TO> <PO>
+#correct: 128
+#incorrect: 9872
+
+<TO> <PO>
+#correct: 128
+#incorrect: 9872
+
+<TO> <PO>
+#correct: 127
+#incorrect: 9873
+
+<TO> <PO>
+#correct: 123
+#incorrect: 9877
+
+<TO> <PO>
+#correct: 123
+#incorrect: 9877
+
+<TO> <PO>
+#correct: 122
+#incorrect: 9878
+
+<TO> <PO>
+#correct: 122
+#incorrect: 9878
+
+<TO> <PO>
+#correct: 121
+#incorrect: 9879
+
+<TO> <PO> is a former
+#correct: 120
+#incorrect: 9880
+
+<TO> <PO>
+#correct: 119
+#incorrect: 9881
+
+<TO> <PO>
+#correct: 118
+#incorrect: 9882
+
+<TO> <PO>
+#correct: 117
+#incorrect: 9883
+
+<TO> <PO>
+#correct: 116
+#incorrect: 9884
+
+<TO> <PO>
+#correct: 116
+#incorrect: 9884
+
+<TO> <PO>
+#correct: 115
+#incorrect: 9885
+
+<TO> <PO>
+#correct: 115
+#incorrect: 9885
+
+<TO> <PO>
+#correct: 115
+#incorrect: 9885
+
+<TO> <PO>
+#correct: 111
+#incorrect: 9889
+
+<TO> <PO>
+#correct: 111
+#incorrect: 9889
+
+<TO> <PO>
+#correct: 110
+#incorrect: 9890
+
+<TO> <PO>
+#correct: 110
+#incorrect: 9890
+
+<TO> <PO>
+#correct: 109
+#incorrect: 9891
+
+<TO> <PO>
+#correct: 108
+#incorrect: 9892
+
+<TO> <PO> is a
+#correct: 108
+#incorrect: 9892
+
+<TO> <PO> is an actor
+#correct: 108
+#incorrect: 9892
+
+<TO> <PO>
+#correct: 108
+#incorrect: 9892
+
+<TO> <PO>
+#correct: 107
+#incorrect: 9893
+
+<TO> <PO> on March
+#correct: 107
+#incorrect: 9893
+
+<TO> <PO> which
+#correct: 106
+#incorrect: 9894
+
+<TO> <PO> where
+#correct: 106
+#incorrect: 9894
+
+<TO> northern <PO>
+#correct: 106
+#incorrect: 9894
+
+<TO> <PO>
+#correct: 105
+#incorrect: 9895
+
+<TO> <PO>
+#correct: 105
+#incorrect: 9895
+
+<TO> <PO>
+#correct: 105
+#incorrect: 9895
+
+<TO> <PO> is a former professional
+#correct: 105
+#incorrect: 9895
+
+<PO> particularly in <TO> and
+#correct: 105
+#incorrect: 9895
+
+<TO> <PO>
+#correct: 104
+#incorrect: 9896
+
+<TO> <PO>
+#correct: 104
+#incorrect: 9896
+
+<TO> <PO>
+#correct: 103
+#incorrect: 9897
+
+<TO> <PO> in
+#correct: 103
+#incorrect: 9897
+
+<TO> <PO>
+#correct: 101
+#incorrect: 9899
+
+<TO> <PO>
+#correct: 101
+#incorrect: 9899
+
+<TO> <PO>
+#correct: 101
+#incorrect: 9899
+
+<TO> <PO>
+#correct: 101
+#incorrect: 9899
+
+<TO> <PO>
+#correct: 101
+#incorrect: 9899
+
+<PO> particularly in <TO>
+#correct: 101
+#incorrect: 9899
+
+<TO> <PO>
+#correct: 100
+#incorrect: 9900
+
+<TO> <PO> is a football player who
+#correct: 100
+#incorrect: 9900
+
+<TO> <PO>
+#correct: 100
+#incorrect: 9900
+
+<TO> <PO>
+#correct: 99
+#incorrect: 9901
+
+<TO> <PO>
+#correct: 98
+#incorrect: 9902
+
+<TO> <PO>
+#correct: 98
+#incorrect: 9902
+
+<TO> <PO>
+#correct: 97
+#incorrect: 9903
+
+<TO> northern <PO>
+#correct: 97
+#incorrect: 9903
+
+<TO> <PO>
+#correct: 96
+#incorrect: 9904
+
+<TO> <PO> is a former defensive
+#correct: 94
+#incorrect: 9906
+
+<TO> <PO>
+#correct: 94
+#incorrect: 9906
+
+<TO> <PO>
+#correct: 93
+#incorrect: 9907
+
+<TO> <PO>
+#correct: 93
+#incorrect: 9907
+
+<TO> <PO>
+#correct: 93
+#incorrect: 9907
+
+<TO> <PO>
+#correct: 93
+#incorrect: 9907
+
+<TO> <PO>
+#correct: 91
+#incorrect: 9909
+
+<TO> <PO>
+#correct: 91
+#incorrect: 9909
+
+<TO> <PO>
+#correct: 91
+#incorrect: 9909
+
+<TO> <PO> Canada
+#correct: 90
+#incorrect: 9910
+
+<TO> northern <PO>
+#correct: 90
+#incorrect: 9910
+
+<TO> <PO> on
+#correct: 89
+#incorrect: 9911
+
+<TO> <PO> is a footballer
+#correct: 89
+#incorrect: 9911
+
+<TO> <PO>
+#correct: 89
+#incorrect: 9911
+
+<TO> <PO> Temple page
+#correct: 89
+#incorrect: 9911
+
+<TO> <PO>
+#correct: 89
+#incorrect: 9911
+
+<TO> <PO>
+#correct: 88
+#incorrect: 9912
+
+<TO> <PO>
+#correct: 88
+#incorrect: 9912
+
+<TO> <PO>
+#correct: 88
+#incorrect: 9912
+
+<TO> <PO>
+#correct: 87
+#incorrect: 9913
+
+<TO> <PO> where she
+#correct: 87
+#incorrect: 9913
+
+<TO> <PO>
+#correct: 86
+#incorrect: 9914
+
+<TO> <PO>
+#correct: 86
+#incorrect: 9914
+
+<TO> <PO>
+#correct: 86
+#incorrect: 9914
+
+<TO> <PO>
+#correct: 86
+#incorrect: 9914
+
+<TO> <PO>
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO> on
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO>
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO>
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO> Canada
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO>
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO>
+#correct: 85
+#incorrect: 9915
+
+University of <PO> <TO> UNLV
+#correct: 84
+#incorrect: 9916
+
+<TO> <PO>
+#correct: 84
+#incorrect: 9916
+
+<TO> <PO>
+#correct: 83
+#incorrect: 9917
+
+<TO> <PO>
+#correct: 83
+#incorrect: 9917
+
+<TO> <PO> Canada
+#correct: 83
+#incorrect: 9917
+
+<TO> <PO> Canada overlooking the
+#correct: 82
+#incorrect: 9918
+
+the University of <PO> <TO> UNLV
+#correct: 82
+#incorrect: 9918
+
+<TO> <PO>
+#correct: 82
+#incorrect: 9918
+
+<TO> <PO> Lillyfield
+#correct: 82
+#incorrect: 9918
+
+<TO> <PO> Canada
+#correct: 81
+#incorrect: 9919
+
+<TO> <PO>
+#correct: 80
+#incorrect: 9920
+
+<TO> <PO> Canada
+#correct: 80
+#incorrect: 9920
+
+<TO> <PO> Canada
+#correct: 80
+#incorrect: 9920
+
+<TO> <PO>
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO>
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO> Canada located just
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO>
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO>
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO>
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO>
+#correct: 78
+#incorrect: 9922
+
+<TO> <PO>
+#correct: 78
+#incorrect: 9922
+
+<TO> <PO>
+#correct: 78
+#incorrect: 9922
+
+<TO> <PO>
+#correct: 77
+#incorrect: 9923
+
+<TO> <PO>
+#correct: 77
+#incorrect: 9923
+
+<TO> <PO>
+#correct: 77
+#incorrect: 9923
+
+<TO> <PO>
+#correct: 77
+#incorrect: 9923
+
+<TO> in the north of <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO> Canada
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO> Canada
+#correct: 75
+#incorrect: 9925
+
+<TO> <PO>
+#correct: 75
+#incorrect: 9925
+
+<TO> <PO> Canada
+#correct: 75
+#incorrect: 9925
+
+<TO> <PO> Canada located just to the
+#correct: 75
+#incorrect: 9925
+
+<TO> <PO>
+#correct: 75
+#incorrect: 9925
+
+<TO> <PO>
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO>
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO>
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO>
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO> Canada located
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO>
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO> is an
+#correct: 74
+#incorrect: 9926
+
+at the University of <PO> <TO>
+#correct: 73
+#incorrect: 9927
+
+<TO> <PO> is named in his
+#correct: 73
+#incorrect: 9927
+
+<TO> <PO>
+#correct: 72
+#incorrect: 9928
+
+<TO> <PO> is a designer
+#correct: 72
+#incorrect: 9928
+
+attended the University of <PO> <TO>
+#correct: 72
+#incorrect: 9928
+
+<TO> <PO>
+#correct: 72
+#incorrect: 9928
+
+<TO> <PO>
+#correct: 71
+#incorrect: 9929
+
+<TO> <PO> is a footballer
+#correct: 71
+#incorrect: 9929
+
+<TO> <PO> to
+#correct: 71
+#incorrect: 9929
+
+<TO> <PO> Canada
+#correct: 71
+#incorrect: 9929
+
+<TO> <PO>
+#correct: 70
+#incorrect: 9930
+
+the University of <PO> <TO>
+#correct: 70
+#incorrect: 9930
+
+<TO> <PO> Canada
+#correct: 70
+#incorrect: 9930
+
+<TO> <PO>
+#correct: 70
+#incorrect: 9930
+
+<TO> <PO> is a Scottish footballer who plays
+#correct: 70
+#incorrect: 9930
+
+<TO> <PO>
+#correct: 70
+#incorrect: 9930
+
+University of <PO> <TO>
+#correct: 70
+#incorrect: 9930
+
+<TO> <PO>
+#correct: 70
+#incorrect: 9930
+
+president of the University of <PO> <TO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+of the University of <PO> <TO> UNLV
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO> is a Scottish footballer who
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO> is a Scottish football
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO> is a Scottish footballer
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO> is a Scottish footballer who
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO> Canada
+#correct: 68
+#incorrect: 9932
+
+<TO> <PO>
+#correct: 68
+#incorrect: 9932
+
+<TO> <PO>
+#correct: 68
+#incorrect: 9932
+
+<TO> <PO>
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO> in
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO> in the
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO>
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO>
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO> is a Scottish footballer
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO> is a Scottish
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO> broadcasting
+#correct: 67
+#incorrect: 9933
+
+of the University of <PO> <TO>
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> owned by
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> on July
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> The <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> and Laughlin <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> Canada located
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> is the largest
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> with his
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> but
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> and
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> Canada
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO>
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO>
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> is a
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> Canada is a
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> is a Scottish former footballer
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> is a Scottish former footballer
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO>
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> market owned and operated by
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO>
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO>
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO> Canada is a
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO>
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO> Canada operated by
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO> broadcasting
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO> is a Canadian
+#correct: 64
+#incorrect: 9936
+
+<TO> is a country in <PO>
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO> and
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO>
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO>
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO>
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Barrowlands
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada located just to the north
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada located just to the
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada that
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada is
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> the
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> is a Scottish
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO> Canada
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO> is named
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO> Canada
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> Chimos <PO>
+#correct: 61
+#incorrect: 9939
+
+<TO> <PO>
+#correct: 61
+#incorrect: 9939
+
+<TO> <PO>
+#correct: 61
+#incorrect: 9939
+
+<TO> <PO> Canada is
+#correct: 61
+#incorrect: 9939
+
+<TO> <PO>
+#correct: 61
+#incorrect: 9939
+
+<TO> <PO> market owned
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO>
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO> with
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO>
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO> based business
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO>
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO>
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO> is a former Scottish footballer
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO> the daughter of
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO> in
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> Canada
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> Canada and
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> is a Dutch
+#correct: 59
+#incorrect: 9941
+
+<TO> The <PO> the other
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> is a former Scottish
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+from the University of <PO> <TO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> is a lacrosse player
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> Canada
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO>
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO>
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> with his wife
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> Canada
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO>
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> where
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> market
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> was a former
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO>
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> Canada
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> is a Dutch footballer
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> Canada
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO>
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO> most well known
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO>
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO> where he
+#correct: 57
+#incorrect: 9943
+
+<TO> the <PO>
+#correct: 57
+#incorrect: 9943
+
+<PO> <TO> Oilers WHA
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO>
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO>
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> market
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> is an
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> a neighborhood
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> is a Scottish football player
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO>
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> was a Canadian
+#correct: 56
+#incorrect: 9944
+
+<PO> Ajax <TO>
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> Canada
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> is an American pornographic actress
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO> is
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO>
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO> Canada
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO>
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO>
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO>
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO>
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO> on July
+#correct: 54
+#incorrect: 9946
+
+<TO> the <PO> is a Dutch
+#correct: 54
+#incorrect: 9946
+
+<TO> <PO> Death
+#correct: 54
+#incorrect: 9946
+
+<TO> northern <PO>
+#correct: 54
+#incorrect: 9946
+
+<PO> <TO> SECC
+#correct: 54
+#incorrect: 9946
+
+<PO> MLA for <TO>
+#correct: 54
+#incorrect: 9946
+
+<TO> <PO> Paradiso
+#correct: 54
+#incorrect: 9946
+
+<TO> <PO>
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO>
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO> based company
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO> is a Scottish former footballer who
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO> with
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO>
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO> Canada
+#correct: 52
+#incorrect: 9948
+
+<TO> <PO> was a former
+#correct: 52
+#incorrect: 9948
+
+<TO> <PO> Canada
+#correct: 52
+#incorrect: 9948
+
+<TO> <PO> Canada
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO>
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO> Canada and
+#correct: 51
+#incorrect: 9949
+
+<TO> and West of <PO>
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO> where she
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO> Canada
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO>
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> is a Canadian politician
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> Canada
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> area on
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> is
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> with Style
+#correct: 50
+#incorrect: 9950
+
+<TO> of northern <PO>
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> on June
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO>
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO>
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO>
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO>
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO> and was
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO> Canada
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO>
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> died
+#correct: 48
+#incorrect: 9952
+
+<PO> <TO> Eskimos
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> Canada
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO>
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> is a professional footballer
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> is a professional football
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> Canada
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> the
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO>
+#correct: 47
+#incorrect: 9953
+
+<PO> Argentina <TO>
+#correct: 47
+#incorrect: 9953
+
+on University of <PO> <TO>
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO> where
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO> in
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO>
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO> Canada which
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO> is an American football linebacker
+#correct: 47
+#incorrect: 9953
+
+<TO> of <PO>
+#correct: 46
+#incorrect: 9954
+
+<TO> <PO> based
+#correct: 46
+#incorrect: 9954
+
+<TO> Strathclyde <PO>
+#correct: 46
+#incorrect: 9954
+
+<TO> <PO> is a footballer currently playing
+#correct: 46
+#incorrect: 9954
+
+<TO> <PO> Canada in
+#correct: 46
+#incorrect: 9954
+
+<TO> <PO>
+#correct: 46
+#incorrect: 9954
+
+<TO> <PO> died
+#correct: 45
+#incorrect: 9955
+
+<TO> <PO> Canada that was
+#correct: 45
+#incorrect: 9955
+
+<TO> <PO>
+#correct: 45
+#incorrect: 9955
+
+<PO> Peru <TO>
+#correct: 45
+#incorrect: 9955
+
+<TO> <PO> based
+#correct: 45
+#incorrect: 9955
+
+<TO> <PO>
+#correct: 45
+#incorrect: 9955
+
+for the University of <PO> <TO>
+#correct: 45
+#incorrect: 9955
+
+<TO> The <PO>
+#correct: 45
+#incorrect: 9955
+
+<TO> <PO> where he
+#correct: 45
+#incorrect: 9955
+
+<TO> is the largest city in <PO>
+#correct: 44
+#incorrect: 9956
+
+<TO> the <PO>
+#correct: 44
+#incorrect: 9956
+
+<TO> <PO> and a
+#correct: 44
+#incorrect: 9956
+
+<TO> <PO>
+#correct: 44
+#incorrect: 9956
+
+<PO> <TO> Brazil
+#correct: 44
+#incorrect: 9956
+
+<TO> <PO> Canada in
+#correct: 44
+#incorrect: 9956
+
+<TO> <PO> is a former American
+#correct: 44
+#incorrect: 9956
+
+at the University of <PO> in <TO>
+#correct: 43
+#incorrect: 9957
+
+at University of <PO> <TO>
+#correct: 43
+#incorrect: 9957
+
+<PO> south to <TO>
+#correct: 43
+#incorrect: 9957
+
+<TO> <PO> Canada
+#correct: 43
+#incorrect: 9957
+
+<TO> <PO> is an American football
+#correct: 43
+#incorrect: 9957
+
+<TO> <PO>
+#correct: 43
+#incorrect: 9957
+
+<TO> <PO> is a former American football
+#correct: 43
+#incorrect: 9957
+
+<TO> of northern <PO> and
+#correct: 43
+#incorrect: 9957
+
+<TO> <PO> broadcasting
+#correct: 43
+#incorrect: 9957
+
+<TO> East <PO>
+#correct: 42
+#incorrect: 9958
+
+<TO> <PO> and a
+#correct: 42
+#incorrect: 9958
+
+<TO> <PO> was a
+#correct: 42
+#incorrect: 9958
+
+<TO> the <PO>
+#correct: 42
+#incorrect: 9958
+
+<TO> in northern <PO>
+#correct: 42
+#incorrect: 9958
+
+<TO> in Northern <PO>
+#correct: 42
+#incorrect: 9958
+
+<TO> <PO>
+#correct: 42
+#incorrect: 9958
+
+<TO> <PO> is an American film
+#correct: 42
+#incorrect: 9958
+
+<TO> <PO> Canada in the
+#correct: 42
+#incorrect: 9958
+
+<TO> the capital of the <PO>
+#correct: 41
+#incorrect: 9959
+
+<TO> <PO> and
+#correct: 41
+#incorrect: 9959
+
+<TO> <PO> Canada and is
+#correct: 41
+#incorrect: 9959
+
+<TO> <PO>
+#correct: 41
+#incorrect: 9959
+
+<TO> <PO>
+#correct: 41
+#incorrect: 9959
+
+on the University of <PO> <TO> campus
+#correct: 41
+#incorrect: 9959
+
+<TO> <PO>
+#correct: 40
+#incorrect: 9960
+
+<TO> <PO> is an American
+#correct: 40
+#incorrect: 9960
+
+University of <PO> <TO> coach
+#correct: 40
+#incorrect: 9960
+
+<TO> <PO> Canada
+#correct: 40
+#incorrect: 9960
+
+<TO> <PO> UK
+#correct: 40
+#incorrect: 9960
+
+<TO> <PO> is the
+#correct: 40
+#incorrect: 9960
+
+Calgary <PO> <TO>
+#correct: 40
+#incorrect: 9960
+
+the University of <PO> <TO> and
+#correct: 40
+#incorrect: 9960
+
+the University of <PO> <TO> in
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO>
+#correct: 39
+#incorrect: 9961
+
+<TO> capital of the <PO>
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO> Temple
+#correct: 39
+#incorrect: 9961
+
+and the University of <PO> <TO>
+#correct: 39
+#incorrect: 9961
+
+graduated from the University of <PO> <TO>
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO> owned by the
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO> in
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO>
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO>
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO> Canada
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO>
+#correct: 39
+#incorrect: 9961
+
+<TO> The <PO> is a museum
+#correct: 38
+#incorrect: 9962
+
+<TO> and the University of <PO>
+#correct: 38
+#incorrect: 9962
+
+<TO> <PO>
+#correct: 38
+#incorrect: 9962
+
+the University of <PO> <TO> where he
+#correct: 38
+#incorrect: 9962
+
+<TO> <PO> United
+#correct: 38
+#incorrect: 9962
+
+<TO> <PO> Canada
+#correct: 38
+#incorrect: 9962
+
+<TO> <PO>
+#correct: 37
+#incorrect: 9963
+
+<TO> <PO> and is the
+#correct: 37
+#incorrect: 9963
+
+<TO> <PO> Friendly
+#correct: 37
+#incorrect: 9963
+
+<TO> the <PO>
+#correct: 37
+#incorrect: 9963
+
+<TO> <PO>
+#correct: 37
+#incorrect: 9963
+
+<TO> <PO> USA
+#correct: 36
+#incorrect: 9964
+
+<TO> in <PO>
+#correct: 36
+#incorrect: 9964
+
+<TO> Strathcona <PO>
+#correct: 36
+#incorrect: 9964
+
+<TO> <PO>
+#correct: 36
+#incorrect: 9964
+
+<TO> <PO>
+#correct: 36
+#incorrect: 9964
+
+at the University of <PO> <TO> and
+#correct: 36
+#incorrect: 9964
+
+<TO> <PO> on January
+#correct: 36
+#incorrect: 9964
+
+<TO> <PO>
+#correct: 36
+#incorrect: 9964
+
+<TO> <PO> USA
+#correct: 36
+#incorrect: 9964
+
+<PO> <TO> Oilers
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO> has
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> The <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> the <PO>
+#correct: 35
+#incorrect: 9965
+
+attended the University of <PO> <TO> and
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO> and is
+#correct: 35
+#incorrect: 9965
+
+<TO> University of <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> in the <PO>
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> is an Australian
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO>
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> operated by
+#correct: 34
+#incorrect: 9966
+
+<TO> the <PO>
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> USA
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> and was educated
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> and is
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> July
+#correct: 33
+#incorrect: 9967
+
+<TO> <PO> owned by
+#correct: 33
+#incorrect: 9967
+
+the University of <PO> in <TO>
+#correct: 33
+#incorrect: 9967
+
+<TO> <PO> Canada and
+#correct: 33
+#incorrect: 9967
+
+<TO> <PO> and was
+#correct: 33
+#incorrect: 9967
+
+<TO> <PO> is an American
+#correct: 33
+#incorrect: 9967
+
+<TO> in northern <PO> and
+#correct: 32
+#incorrect: 9968
+
+<TO> <PO>
+#correct: 32
+#incorrect: 9968
+
+<TO> <PO> broadcasting
+#correct: 32
+#incorrect: 9968
+
+<TO> <PO> where
+#correct: 32
+#incorrect: 9968
+
+<TO> <PO> based
+#correct: 32
+#incorrect: 9968
+
+<TO> <PO> with
+#correct: 32
+#incorrect: 9968
+
+<TO> the <PO>
+#correct: 31
+#incorrect: 9969
+
+<TO> the <PO>
+#correct: 31
+#incorrect: 9969
+
+<TO> The <PO>
+#correct: 31
+#incorrect: 9969
+
+the <PO> <TO> Oilers
+#correct: 31
+#incorrect: 9969
+
+<TO> <PO> and has
+#correct: 30
+#incorrect: 9970
+
+<PO> north of <TO>
+#correct: 30
+#incorrect: 9970
+
+attended the University of <PO> in <TO>
+#correct: 30
+#incorrect: 9970
+
+<TO> <PO> June
+#correct: 30
+#incorrect: 9970
+
+<TO> <PO> that is
+#correct: 30
+#incorrect: 9970
+
+<TO> <PO> was a
+#correct: 30
+#incorrect: 9970
+
+<TO> <PO>
+#correct: 29
+#incorrect: 9971
+
+<TO> <PO>
+#correct: 29
+#incorrect: 9971
+
+<TO> <PO> in March
+#correct: 29
+#incorrect: 9971
+
+<TO> <PO> with his
+#correct: 28
+#incorrect: 9972
+
+<TO> <PO>
+#correct: 28
+#incorrect: 9972
+
+<TO> <PO>
+#correct: 28
+#incorrect: 9972
+
+<TO> <PO> CA
+#correct: 28
+#incorrect: 9972
+
+<TO> The <PO>
+#correct: 28
+#incorrect: 9972
+
+<TO> <PO>
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO> is the
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO> Apollo
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO> USA
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO> near the
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO> was an
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> <PO> Temple
+#correct: 26
+#incorrect: 9974
+
+<TO> and University of <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> <PO> Carre
+#correct: 26
+#incorrect: 9974
+
+<TO> the <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> The <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> <PO> February
+#correct: 25
+#incorrect: 9975
+
+<TO> the <PO> named after the
+#correct: 24
+#incorrect: 9976
+
+at the University of <PO> <TO> for
+#correct: 24
+#incorrect: 9976
+
+Chancellor of <PO> and bishop of <TO>
+#correct: 24
+#incorrect: 9976
+
+<TO> <PO>
+#correct: 23
+#incorrect: 9977
+
+<TO> <PO>
+#correct: 23
+#incorrect: 9977
+
+<TO> <PO>
+#correct: 23
+#incorrect: 9977
+
+<TO> in the <PO>
+#correct: 23
+#incorrect: 9977
+
+<TO> <PO> January
+#correct: 23
+#incorrect: 9977
+
+<TO> <PO>
+#correct: 22
+#incorrect: 9978
+
+<TO> <PO> Canada and
+#correct: 22
+#incorrect: 9978
+
+<TO> <PO>
+#correct: 21
+#incorrect: 9979
+
+<TO> <PO> UK
+#correct: 21
+#incorrect: 9979
+
+<TO> the <PO>
+#correct: 21
+#incorrect: 9979
+
+<TO> <PO>
+#correct: 21
+#incorrect: 9979
+
+the University of <PO> in <TO> and
+#correct: 20
+#incorrect: 9980
+
+<TO> <PO>
+#correct: 20
+#incorrect: 9980
+
+<PO> Hospital <TO>
+#correct: 20
+#incorrect: 9980
+
+<TO> The <PO>
+#correct: 20
+#incorrect: 9980
+
+<TO> the <PO>
+#correct: 20
+#incorrect: 9980
+
+<TO> <PO> died in
+#correct: 20
+#incorrect: 9980
+
+<TO> <PO>
+#correct: 19
+#incorrect: 9981
+
+<TO> <PO> was the
+#correct: 19
+#incorrect: 9981
+
+<TO> <PO>
+#correct: 19
+#incorrect: 9981
+
+<TO> <PO> that is
+#correct: 19
+#incorrect: 9981
+
+<TO> in <PO> Kentucky
+#correct: 19
+#incorrect: 9981
+
+the University of <PO> in <TO> in
+#correct: 19
+#incorrect: 9981
+
+<TO> the <PO> and
+#correct: 19
+#incorrect: 9981
+
+<PO> is home to the <TO>
+#correct: 19
+#incorrect: 9981
+
+<TO> <PO> is
+#correct: 18
+#incorrect: 9982
+
+<TO> <PO>
+#correct: 18
+#incorrect: 9982
+
+<TO> in <PO> Kentucky
+#correct: 18
+#incorrect: 9982
+
+<TO> the <PO>
+#correct: 18
+#incorrect: 9982
+
+<TO> <PO> and its
+#correct: 18
+#incorrect: 9982
+
+<TO> <PO> Kentucky
+#correct: 17
+#incorrect: 9983
+
+<TO> <PO>
+#correct: 17
+#incorrect: 9983
+
+<TO> in the <PO>
+#correct: 17
+#incorrect: 9983
+
+<TO> <PO> s
+#correct: 17
+#incorrect: 9983
+
+<TO> <PO> and also
+#correct: 17
+#incorrect: 9983
+
+<TO> the <PO>
+#correct: 16
+#incorrect: 9984
+
+<TO> <PO> March
+#correct: 16
+#incorrect: 9984
+
+<TO> <PO> he
+#correct: 16
+#incorrect: 9984
+
+<TO> in <PO> Kentucky
+#correct: 16
+#incorrect: 9984
+
+<TO> in <PO> Kentucky
+#correct: 16
+#incorrect: 9984
+
+<TO> northern <PO>
+#correct: 15
+#incorrect: 9985
+
+<TO> <PO> Kentucky
+#correct: 15
+#incorrect: 9985
+
+<TO> <PO>
+#correct: 15
+#incorrect: 9985
+
+<TO> <PO> Kentucky
+#correct: 15
+#incorrect: 9985
+
+<TO> <PO> market
+#correct: 14
+#incorrect: 9986
+
+<TO> in <PO>
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO> located
+#correct: 13
+#incorrect: 9987
+
+the University of <PO> at <TO>
+#correct: 13
+#incorrect: 9987
+
+<TO> located in <PO>
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO>
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO>
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO>
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO> based
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO> since
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO> market
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO> he was
+#correct: 12
+#incorrect: 9988
+
+<TO> <PO> winning
+#correct: 12
+#incorrect: 9988
+
+<TO> <PO> with a
+#correct: 12
+#incorrect: 9988
+
+<TO> <PO> UK
+#correct: 11
+#incorrect: 9989
+
+<TO> <PO>
+#correct: 11
+#incorrect: 9989
+
+<TO> <PO> was
+#correct: 11
+#incorrect: 9989
+
+<TO> <PO> one of the
+#correct: 10
+#incorrect: 9990
+
+<TO> Central <PO>
+#correct: 10
+#incorrect: 9990
+
+<TO> <PO> near
+#correct: 10
+#incorrect: 9990
+
+<TO> in <PO> where
+#correct: 10
+#incorrect: 9990
+
+<TO> <PO> since
+#correct: 9
+#incorrect: 9991
+
+<PO> <TO> University
+#correct: 9
+#incorrect: 9991
+
+<TO> <PO> as well as
+#correct: 9
+#incorrect: 9991
+
+<TO> located in <PO>
+#correct: 9
+#incorrect: 9991
+
+<TO> The <PO> since
+#correct: 9
+#incorrect: 9991
+
+University of <PO> at <TO>
+#correct: 9
+#incorrect: 9991
+
+<TO> <PO> between
+#correct: 9
+#incorrect: 9991
+
+<TO> The <PO> is a
+#correct: 8
+#incorrect: 9992
+
+<PO> near the <TO>
+#correct: 8
+#incorrect: 9992
+
+<TO> <PO>
+#correct: 8
+#incorrect: 9992
+
+<TO> BBC <PO>
+#correct: 7
+#incorrect: 9993
+
+<TO> The <PO> is a
+#correct: 7
+#incorrect: 9993
+
+<TO> Royal <PO>
+#correct: 7
+#incorrect: 9993
+
+<TO> <PO> area
+#correct: 6
+#incorrect: 9994
+
+<TO> <PO> and
+#correct: 6
+#incorrect: 9994
+
+<TO> Strip in <PO>
+#correct: 5
+#incorrect: 9995
+
+<TO> in <PO> is the
+#correct: 5
+#incorrect: 9995
+
+<TO> in <PO> Kentucky the
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> before
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> Kentucky and
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> and a
+#correct: 4
+#incorrect: 9996
+
+<TO> in <PO>
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> with a
+#correct: 4
+#incorrect: 9996
+
+<TO> of northern <PO>
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> in
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> Ky
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> KY
+#correct: 4
+#incorrect: 9996
+
+<TO> in <PO> Kentucky and
+#correct: 3
+#incorrect: 9997
+
+<TO> in <PO> Kentucky in
+#correct: 3
+#incorrect: 9997
+
+<TO> in <PO> Kentucky in
+#correct: 3
+#incorrect: 9997
+
+<TO> University of <PO> and
+#correct: 3
+#incorrect: 9997
+
+<TO> of northern <PO>
+#correct: 3
+#incorrect: 9997
+
+<TO> <PO> Kentucky in
+#correct: 3
+#incorrect: 9997
+
+<TO> in <PO> Kentucky and
+#correct: 3
+#incorrect: 9997
+
+<TO> in <PO> Kentucky he
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky and
+#correct: 2
+#incorrect: 9998
+
+the University of <PO> the <TO>
+#correct: 2
+#incorrect: 9998
+
+<PO> Kentucky <TO>
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky and
+#correct: 2
+#incorrect: 9998
+
+<TO> <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<PO> Ky <TO>
+#correct: 2
+#incorrect: 9998
+
+<PO> KY <TO>
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<TO> <PO> Ky
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> KY
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Ky
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky as
+#correct: 2
+#incorrect: 9998
+
+<TO> <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky where
+#correct: 2
+#incorrect: 9998
+
+<TO> of <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<TO> <PO> on
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> in
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> located in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO> Kentucky USA
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO> near
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky as
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Ky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> KY
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky is
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky where he
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky USA
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky where
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky is
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky from
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky from
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky is a
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> KY
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> announced they had
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO> at the
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> campus in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky in the
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> The <PO> is
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky and the
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky which
+#correct: 1
+#incorrect: 9999
+
+<TO> near <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky from
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky and in
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO> Kentucky and
+#correct: 1
+#incorrect: 9999
+
+<PO> <TO> UA US
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> when
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO> in
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> Cardinals
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky is
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> campus in <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> KY <TO> canceled
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky USA
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky where he
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky in
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> where he was
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky and at
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> MA and
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> Massachusetts
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Massachusetts
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> from
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> Press
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Massachusetts
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of northern <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> Press <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+at <PO> Kentucky s <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> is located in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> U S
+#correct: 0
+#incorrect: 10000
+
+<TO> ~ <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> U S
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> U S
+#correct: 0
+#incorrect: 10000
+
+<TO> and the University of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> northern <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> is <PO> s
+#correct: 0
+#incorrect: 10000
+
+<TO> near <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> was a
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> where
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO> the
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> in the <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> has
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> the
+#correct: 0
+#incorrect: 10000
+
+<TO> autonomous community of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> Building
+#correct: 0
+#incorrect: 10000
+
+<PO> including <TO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> area
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> after
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO> the
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO> the
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO> and the
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> where
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in the
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> but
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> was
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at the
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> most
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> then
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> CAN
+#correct: 0
+#incorrect: 10000
+
+<TO> in the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in The <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> using
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> which
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of northern <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of Northern <PO>
+#correct: 0
+#incorrect: 10000
+
+in the <PO> after <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in the <PO>
+#correct: 0
+#incorrect: 10000
+
+at <PO> Hospital <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> City
+#correct: 0
+#incorrect: 10000
+
+<TO> autonomous community of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> with
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> as a
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> has
+#correct: 0
+#incorrect: 10000
+
+<TO> in northern <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> at the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> a
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> but
+#correct: 0
+#incorrect: 10000
+
+<TO> and the rest of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<PO> including <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> which
+#correct: 0
+#incorrect: 10000
+
+<TO> located in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> from
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in a
+#correct: 0
+#incorrect: 10000
+
+<PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> two
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> are
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> with
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> that
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> s
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> on
+#correct: 0
+#incorrect: 10000
+
+<TO> the capital of the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> by
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in the
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> as
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and the
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> to the
+#correct: 0
+#incorrect: 10000
+
+<TO> Strathclyde <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> to
+#correct: 0
+#incorrect: 10000
+
+<TO> and the West of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> and the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> and West of <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> and the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> for
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> with
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> on the
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> by
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+in <PO> particularly in the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> was
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> the
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> The
+#correct: 0
+#incorrect: 10000
+
+of <PO> in <TO> and
+#correct: 0
+#incorrect: 10000
+
+in <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> that
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> are
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> to
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> as
+#correct: 0
+#incorrect: 10000
+
+of <PO> in the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> in the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> from
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> to
+#correct: 0
+#incorrect: 10000
+
+<PO> in the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> at <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> for
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> to
+#correct: 0
+#incorrect: 10000
+
+<PO> from <TO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> in <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> to <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> of
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+of <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> is <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+in <PO> at <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> in
+#correct: 0
+#incorrect: 10000
+
+<PO> to <TO> and
+#correct: 0
+#incorrect: 10000
+
+<PO> in <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+in <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> the <TO> and
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> to <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> and
+#correct: 0
+#incorrect: 10000
+
+of <PO> the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> and <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of <PO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> and <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> and <TO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> and <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+of <PO> in <TO>
+#correct: 0
+#incorrect: 10000
+
+in <PO> the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 642
+#incorrect: 9358
+
+<TO> <PO> is a professional
+#correct: 176
+#incorrect: 9824
+
+<TO> <PO>
+#correct: 169
+#incorrect: 9831
+
+<TO> <PO>
+#correct: 165
+#incorrect: 9835
+
+<TO> <PO>
+#correct: 165
+#incorrect: 9835
+
+<TO> <PO> is a professional
+#correct: 163
+#incorrect: 9837
+
+<TO> <PO>
+#correct: 157
+#incorrect: 9843
+
+<TO> <PO>
+#correct: 150
+#incorrect: 9850
+
+<TO> <PO>
+#correct: 149
+#incorrect: 9851
+
+<TO> <PO>
+#correct: 147
+#incorrect: 9853
+
+<TO> <PO>
+#correct: 144
+#incorrect: 9856
+
+<TO> <PO>
+#correct: 142
+#incorrect: 9858
+
+<TO> <PO> is a former
+#correct: 138
+#incorrect: 9862
+
+<TO> <PO>
+#correct: 137
+#incorrect: 9863
+
+<TO> <PO>
+#correct: 135
+#incorrect: 9865
+
+<TO> <PO>
+#correct: 135
+#incorrect: 9865
+
+<TO> <PO> is a retired
+#correct: 135
+#incorrect: 9865
+
+<TO> <PO>
+#correct: 132
+#incorrect: 9868
+
+<TO> <PO>
+#correct: 132
+#incorrect: 9868
+
+<TO> <PO>
+#correct: 132
+#incorrect: 9868
+
+<TO> <PO>
+#correct: 128
+#incorrect: 9872
+
+<TO> <PO>
+#correct: 128
+#incorrect: 9872
+
+<TO> <PO>
+#correct: 128
+#incorrect: 9872
+
+<TO> <PO>
+#correct: 127
+#incorrect: 9873
+
+<TO> <PO>
+#correct: 123
+#incorrect: 9877
+
+<TO> <PO>
+#correct: 123
+#incorrect: 9877
+
+<TO> <PO>
+#correct: 122
+#incorrect: 9878
+
+<TO> <PO>
+#correct: 122
+#incorrect: 9878
+
+<TO> <PO>
+#correct: 121
+#incorrect: 9879
+
+<TO> <PO> is a former
+#correct: 120
+#incorrect: 9880
+
+<TO> <PO>
+#correct: 119
+#incorrect: 9881
+
+<TO> <PO>
+#correct: 118
+#incorrect: 9882
+
+<TO> <PO>
+#correct: 117
+#incorrect: 9883
+
+<TO> <PO>
+#correct: 116
+#incorrect: 9884
+
+<TO> <PO>
+#correct: 116
+#incorrect: 9884
+
+<TO> <PO>
+#correct: 115
+#incorrect: 9885
+
+<TO> <PO>
+#correct: 115
+#incorrect: 9885
+
+<TO> <PO>
+#correct: 115
+#incorrect: 9885
+
+<TO> <PO>
+#correct: 111
+#incorrect: 9889
+
+<TO> <PO>
+#correct: 111
+#incorrect: 9889
+
+<TO> <PO>
+#correct: 110
+#incorrect: 9890
+
+<TO> <PO>
+#correct: 110
+#incorrect: 9890
+
+<TO> <PO>
+#correct: 109
+#incorrect: 9891
+
+<TO> <PO>
+#correct: 108
+#incorrect: 9892
+
+<TO> <PO> is a
+#correct: 108
+#incorrect: 9892
+
+<TO> <PO> is an actor
+#correct: 108
+#incorrect: 9892
+
+<TO> <PO>
+#correct: 108
+#incorrect: 9892
+
+<TO> <PO>
+#correct: 107
+#incorrect: 9893
+
+<TO> <PO> on March
+#correct: 107
+#incorrect: 9893
+
+<TO> <PO> which
+#correct: 106
+#incorrect: 9894
+
+<TO> <PO> where
+#correct: 106
+#incorrect: 9894
+
+<TO> northern <PO>
+#correct: 106
+#incorrect: 9894
+
+<TO> <PO>
+#correct: 105
+#incorrect: 9895
+
+<TO> <PO>
+#correct: 105
+#incorrect: 9895
+
+<TO> <PO>
+#correct: 105
+#incorrect: 9895
+
+<TO> <PO> is a former professional
+#correct: 105
+#incorrect: 9895
+
+<PO> particularly in <TO> and
+#correct: 105
+#incorrect: 9895
+
+<TO> <PO>
+#correct: 104
+#incorrect: 9896
+
+<TO> <PO>
+#correct: 104
+#incorrect: 9896
+
+<TO> <PO>
+#correct: 103
+#incorrect: 9897
+
+<TO> <PO> in
+#correct: 103
+#incorrect: 9897
+
+<TO> <PO>
+#correct: 101
+#incorrect: 9899
+
+<TO> <PO>
+#correct: 101
+#incorrect: 9899
+
+<TO> <PO>
+#correct: 101
+#incorrect: 9899
+
+<TO> <PO>
+#correct: 101
+#incorrect: 9899
+
+<TO> <PO>
+#correct: 101
+#incorrect: 9899
+
+<PO> particularly in <TO>
+#correct: 101
+#incorrect: 9899
+
+<TO> <PO>
+#correct: 100
+#incorrect: 9900
+
+<TO> <PO> is a football player who
+#correct: 100
+#incorrect: 9900
+
+<TO> <PO>
+#correct: 100
+#incorrect: 9900
+
+<TO> <PO>
+#correct: 99
+#incorrect: 9901
+
+<TO> <PO>
+#correct: 98
+#incorrect: 9902
+
+<TO> <PO>
+#correct: 98
+#incorrect: 9902
+
+<TO> <PO>
+#correct: 97
+#incorrect: 9903
+
+<TO> northern <PO>
+#correct: 97
+#incorrect: 9903
+
+<TO> <PO>
+#correct: 96
+#incorrect: 9904
+
+<TO> <PO> is a former defensive
+#correct: 94
+#incorrect: 9906
+
+<TO> <PO>
+#correct: 94
+#incorrect: 9906
+
+<TO> <PO>
+#correct: 93
+#incorrect: 9907
+
+<TO> <PO>
+#correct: 93
+#incorrect: 9907
+
+<TO> <PO>
+#correct: 93
+#incorrect: 9907
+
+<TO> <PO>
+#correct: 93
+#incorrect: 9907
+
+<TO> <PO>
+#correct: 91
+#incorrect: 9909
+
+<TO> <PO>
+#correct: 91
+#incorrect: 9909
+
+<TO> <PO>
+#correct: 91
+#incorrect: 9909
+
+<TO> <PO> Canada
+#correct: 90
+#incorrect: 9910
+
+<TO> northern <PO>
+#correct: 90
+#incorrect: 9910
+
+<TO> <PO> on
+#correct: 89
+#incorrect: 9911
+
+<TO> <PO> is a footballer
+#correct: 89
+#incorrect: 9911
+
+<TO> <PO>
+#correct: 89
+#incorrect: 9911
+
+<TO> <PO> Temple page
+#correct: 89
+#incorrect: 9911
+
+<TO> <PO>
+#correct: 89
+#incorrect: 9911
+
+<TO> <PO>
+#correct: 88
+#incorrect: 9912
+
+<TO> <PO>
+#correct: 88
+#incorrect: 9912
+
+<TO> <PO>
+#correct: 88
+#incorrect: 9912
+
+<TO> <PO>
+#correct: 87
+#incorrect: 9913
+
+<TO> <PO> where she
+#correct: 87
+#incorrect: 9913
+
+<TO> <PO>
+#correct: 86
+#incorrect: 9914
+
+<TO> <PO>
+#correct: 86
+#incorrect: 9914
+
+<TO> <PO>
+#correct: 86
+#incorrect: 9914
+
+<TO> <PO>
+#correct: 86
+#incorrect: 9914
+
+<TO> <PO>
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO> on
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO>
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO>
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO> Canada
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO>
+#correct: 85
+#incorrect: 9915
+
+<TO> <PO>
+#correct: 85
+#incorrect: 9915
+
+University of <PO> <TO> UNLV
+#correct: 84
+#incorrect: 9916
+
+<TO> <PO>
+#correct: 84
+#incorrect: 9916
+
+<TO> <PO>
+#correct: 83
+#incorrect: 9917
+
+<TO> <PO>
+#correct: 83
+#incorrect: 9917
+
+<TO> <PO> Canada
+#correct: 83
+#incorrect: 9917
+
+<TO> <PO> Canada overlooking the
+#correct: 82
+#incorrect: 9918
+
+the University of <PO> <TO> UNLV
+#correct: 82
+#incorrect: 9918
+
+<TO> <PO>
+#correct: 82
+#incorrect: 9918
+
+<TO> <PO> Lillyfield
+#correct: 82
+#incorrect: 9918
+
+<TO> <PO> Canada
+#correct: 81
+#incorrect: 9919
+
+<TO> <PO>
+#correct: 80
+#incorrect: 9920
+
+<TO> <PO> Canada
+#correct: 80
+#incorrect: 9920
+
+<TO> <PO> Canada
+#correct: 80
+#incorrect: 9920
+
+<TO> <PO>
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO>
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO> Canada located just
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO>
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO>
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO>
+#correct: 79
+#incorrect: 9921
+
+<TO> <PO>
+#correct: 78
+#incorrect: 9922
+
+<TO> <PO>
+#correct: 78
+#incorrect: 9922
+
+<TO> <PO>
+#correct: 78
+#incorrect: 9922
+
+<TO> <PO>
+#correct: 77
+#incorrect: 9923
+
+<TO> <PO>
+#correct: 77
+#incorrect: 9923
+
+<TO> <PO>
+#correct: 77
+#incorrect: 9923
+
+<TO> <PO>
+#correct: 77
+#incorrect: 9923
+
+<TO> in the north of <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO> Canada
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO>
+#correct: 76
+#incorrect: 9924
+
+<TO> <PO> Canada
+#correct: 75
+#incorrect: 9925
+
+<TO> <PO>
+#correct: 75
+#incorrect: 9925
+
+<TO> <PO> Canada
+#correct: 75
+#incorrect: 9925
+
+<TO> <PO> Canada located just to the
+#correct: 75
+#incorrect: 9925
+
+<TO> <PO>
+#correct: 75
+#incorrect: 9925
+
+<TO> <PO>
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO>
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO>
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO>
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO> Canada located
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO>
+#correct: 74
+#incorrect: 9926
+
+<TO> <PO> is an
+#correct: 74
+#incorrect: 9926
+
+at the University of <PO> <TO>
+#correct: 73
+#incorrect: 9927
+
+<TO> <PO> is named in his
+#correct: 73
+#incorrect: 9927
+
+<TO> <PO>
+#correct: 72
+#incorrect: 9928
+
+<TO> <PO> is a designer
+#correct: 72
+#incorrect: 9928
+
+attended the University of <PO> <TO>
+#correct: 72
+#incorrect: 9928
+
+<TO> <PO>
+#correct: 72
+#incorrect: 9928
+
+<TO> <PO>
+#correct: 71
+#incorrect: 9929
+
+<TO> <PO> is a footballer
+#correct: 71
+#incorrect: 9929
+
+<TO> <PO> to
+#correct: 71
+#incorrect: 9929
+
+<TO> <PO> Canada
+#correct: 71
+#incorrect: 9929
+
+<TO> <PO>
+#correct: 70
+#incorrect: 9930
+
+the University of <PO> <TO>
+#correct: 70
+#incorrect: 9930
+
+<TO> <PO> Canada
+#correct: 70
+#incorrect: 9930
+
+<TO> <PO>
+#correct: 70
+#incorrect: 9930
+
+<TO> <PO> is a Scottish footballer who plays
+#correct: 70
+#incorrect: 9930
+
+<TO> <PO>
+#correct: 70
+#incorrect: 9930
+
+University of <PO> <TO>
+#correct: 70
+#incorrect: 9930
+
+<TO> <PO>
+#correct: 70
+#incorrect: 9930
+
+president of the University of <PO> <TO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+of the University of <PO> <TO> UNLV
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO> is a Scottish footballer who
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO> is a Scottish football
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO> is a Scottish footballer
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO> is a Scottish footballer who
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO>
+#correct: 69
+#incorrect: 9931
+
+<TO> <PO> Canada
+#correct: 68
+#incorrect: 9932
+
+<TO> <PO>
+#correct: 68
+#incorrect: 9932
+
+<TO> <PO>
+#correct: 68
+#incorrect: 9932
+
+<TO> <PO>
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO> in
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO> in the
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO>
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO>
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO> is a Scottish footballer
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO> is a Scottish
+#correct: 67
+#incorrect: 9933
+
+<TO> <PO> broadcasting
+#correct: 67
+#incorrect: 9933
+
+of the University of <PO> <TO>
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> owned by
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> on July
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> The <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> and Laughlin <PO>
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> Canada located
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> is the largest
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> with his
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> but
+#correct: 66
+#incorrect: 9934
+
+<TO> <PO> and
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> Canada
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO>
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO>
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> is a
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> Canada is a
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> is a Scottish former footballer
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> is a Scottish former footballer
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO>
+#correct: 65
+#incorrect: 9935
+
+<TO> <PO> market owned and operated by
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO>
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO>
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO> Canada is a
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO>
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO> Canada operated by
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO> broadcasting
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO> is a Canadian
+#correct: 64
+#incorrect: 9936
+
+<TO> is a country in <PO>
+#correct: 64
+#incorrect: 9936
+
+<TO> <PO> and
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO>
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO>
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO>
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Barrowlands
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada located just to the north
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada located just to the
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada that
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada is
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> Canada
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> the
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO> is a Scottish
+#correct: 63
+#incorrect: 9937
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO> Canada
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO> is named
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO> Canada
+#correct: 62
+#incorrect: 9938
+
+<TO> <PO>
+#correct: 62
+#incorrect: 9938
+
+<TO> Chimos <PO>
+#correct: 61
+#incorrect: 9939
+
+<TO> <PO>
+#correct: 61
+#incorrect: 9939
+
+<TO> <PO>
+#correct: 61
+#incorrect: 9939
+
+<TO> <PO> Canada is
+#correct: 61
+#incorrect: 9939
+
+<TO> <PO>
+#correct: 61
+#incorrect: 9939
+
+<TO> <PO> market owned
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO>
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO> with
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO>
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO> based business
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO>
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO>
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO> is a former Scottish footballer
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO> the daughter of
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO> in
+#correct: 60
+#incorrect: 9940
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> Canada
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> Canada and
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> is a Dutch
+#correct: 59
+#incorrect: 9941
+
+<TO> The <PO> the other
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> is a former Scottish
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+from the University of <PO> <TO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> is a lacrosse player
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO> Canada
+#correct: 59
+#incorrect: 9941
+
+<TO> <PO>
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO>
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO>
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> with his wife
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> Canada
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO>
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> where
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> market
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> was a former
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO>
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> Canada
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> is a Dutch footballer
+#correct: 58
+#incorrect: 9942
+
+<TO> <PO> Canada
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO>
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO> most well known
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO>
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO> where he
+#correct: 57
+#incorrect: 9943
+
+<TO> the <PO>
+#correct: 57
+#incorrect: 9943
+
+<PO> <TO> Oilers WHA
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO>
+#correct: 57
+#incorrect: 9943
+
+<TO> <PO>
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> market
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> is an
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> a neighborhood
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> is a Scottish football player
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO>
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> was a Canadian
+#correct: 56
+#incorrect: 9944
+
+<PO> Ajax <TO>
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> Canada
+#correct: 56
+#incorrect: 9944
+
+<TO> <PO> is an American pornographic actress
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO> is
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO>
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO> Canada
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO>
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO>
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO>
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO>
+#correct: 55
+#incorrect: 9945
+
+<TO> <PO> on July
+#correct: 54
+#incorrect: 9946
+
+<TO> the <PO> is a Dutch
+#correct: 54
+#incorrect: 9946
+
+<TO> <PO> Death
+#correct: 54
+#incorrect: 9946
+
+<TO> northern <PO>
+#correct: 54
+#incorrect: 9946
+
+<PO> <TO> SECC
+#correct: 54
+#incorrect: 9946
+
+<PO> MLA for <TO>
+#correct: 54
+#incorrect: 9946
+
+<TO> <PO> Paradiso
+#correct: 54
+#incorrect: 9946
+
+<TO> <PO>
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO>
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO> based company
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO> is a Scottish former footballer who
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO> with
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO>
+#correct: 53
+#incorrect: 9947
+
+<TO> <PO> Canada
+#correct: 52
+#incorrect: 9948
+
+<TO> <PO> was a former
+#correct: 52
+#incorrect: 9948
+
+<TO> <PO> Canada
+#correct: 52
+#incorrect: 9948
+
+<TO> <PO> Canada
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO>
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO> Canada and
+#correct: 51
+#incorrect: 9949
+
+<TO> and West of <PO>
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO> where she
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO> Canada
+#correct: 51
+#incorrect: 9949
+
+<TO> <PO>
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> is a Canadian politician
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> Canada
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> area on
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> is
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> with Style
+#correct: 50
+#incorrect: 9950
+
+<TO> of northern <PO>
+#correct: 50
+#incorrect: 9950
+
+<TO> <PO> on June
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO>
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO>
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO>
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO>
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO> and was
+#correct: 49
+#incorrect: 9951
+
+<TO> <PO> Canada
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO>
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> died
+#correct: 48
+#incorrect: 9952
+
+<PO> <TO> Eskimos
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> Canada
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO>
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> is a professional footballer
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> is a professional football
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> Canada
+#correct: 48
+#incorrect: 9952
+
+<TO> <PO> the
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO>
+#correct: 47
+#incorrect: 9953
+
+<PO> Argentina <TO>
+#correct: 47
+#incorrect: 9953
+
+on University of <PO> <TO>
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO> where
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO> in
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO>
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO> Canada which
+#correct: 47
+#incorrect: 9953
+
+<TO> <PO> is an American football linebacker
+#correct: 47
+#incorrect: 9953
+
+<TO> of <PO>
+#correct: 46
+#incorrect: 9954
+
+<TO> <PO> based
+#correct: 46
+#incorrect: 9954
+
+<TO> Strathclyde <PO>
+#correct: 46
+#incorrect: 9954
+
+<TO> <PO> is a footballer currently playing
+#correct: 46
+#incorrect: 9954
+
+<TO> <PO> Canada in
+#correct: 46
+#incorrect: 9954
+
+<TO> <PO>
+#correct: 46
+#incorrect: 9954
+
+<TO> <PO> died
+#correct: 45
+#incorrect: 9955
+
+<TO> <PO> Canada that was
+#correct: 45
+#incorrect: 9955
+
+<TO> <PO>
+#correct: 45
+#incorrect: 9955
+
+<PO> Peru <TO>
+#correct: 45
+#incorrect: 9955
+
+<TO> <PO> based
+#correct: 45
+#incorrect: 9955
+
+<TO> <PO>
+#correct: 45
+#incorrect: 9955
+
+for the University of <PO> <TO>
+#correct: 45
+#incorrect: 9955
+
+<TO> The <PO>
+#correct: 45
+#incorrect: 9955
+
+<TO> <PO> where he
+#correct: 45
+#incorrect: 9955
+
+<TO> is the largest city in <PO>
+#correct: 44
+#incorrect: 9956
+
+<TO> the <PO>
+#correct: 44
+#incorrect: 9956
+
+<TO> <PO> and a
+#correct: 44
+#incorrect: 9956
+
+<TO> <PO>
+#correct: 44
+#incorrect: 9956
+
+<PO> <TO> Brazil
+#correct: 44
+#incorrect: 9956
+
+<TO> <PO> Canada in
+#correct: 44
+#incorrect: 9956
+
+<TO> <PO> is a former American
+#correct: 44
+#incorrect: 9956
+
+at the University of <PO> in <TO>
+#correct: 43
+#incorrect: 9957
+
+at University of <PO> <TO>
+#correct: 43
+#incorrect: 9957
+
+<PO> south to <TO>
+#correct: 43
+#incorrect: 9957
+
+<TO> <PO> Canada
+#correct: 43
+#incorrect: 9957
+
+<TO> <PO> is an American football
+#correct: 43
+#incorrect: 9957
+
+<TO> <PO>
+#correct: 43
+#incorrect: 9957
+
+<TO> <PO> is a former American football
+#correct: 43
+#incorrect: 9957
+
+<TO> of northern <PO> and
+#correct: 43
+#incorrect: 9957
+
+<TO> <PO> broadcasting
+#correct: 43
+#incorrect: 9957
+
+<TO> East <PO>
+#correct: 42
+#incorrect: 9958
+
+<TO> <PO> and a
+#correct: 42
+#incorrect: 9958
+
+<TO> <PO> was a
+#correct: 42
+#incorrect: 9958
+
+<TO> the <PO>
+#correct: 42
+#incorrect: 9958
+
+<TO> in northern <PO>
+#correct: 42
+#incorrect: 9958
+
+<TO> in Northern <PO>
+#correct: 42
+#incorrect: 9958
+
+<TO> <PO>
+#correct: 42
+#incorrect: 9958
+
+<TO> <PO> is an American film
+#correct: 42
+#incorrect: 9958
+
+<TO> <PO> Canada in the
+#correct: 42
+#incorrect: 9958
+
+<TO> the capital of the <PO>
+#correct: 41
+#incorrect: 9959
+
+<TO> <PO> and
+#correct: 41
+#incorrect: 9959
+
+<TO> <PO> Canada and is
+#correct: 41
+#incorrect: 9959
+
+<TO> <PO>
+#correct: 41
+#incorrect: 9959
+
+<TO> <PO>
+#correct: 41
+#incorrect: 9959
+
+on the University of <PO> <TO> campus
+#correct: 41
+#incorrect: 9959
+
+<TO> <PO>
+#correct: 40
+#incorrect: 9960
+
+<TO> <PO> is an American
+#correct: 40
+#incorrect: 9960
+
+University of <PO> <TO> coach
+#correct: 40
+#incorrect: 9960
+
+<TO> <PO> Canada
+#correct: 40
+#incorrect: 9960
+
+<TO> <PO> UK
+#correct: 40
+#incorrect: 9960
+
+<TO> <PO> is the
+#correct: 40
+#incorrect: 9960
+
+Calgary <PO> <TO>
+#correct: 40
+#incorrect: 9960
+
+the University of <PO> <TO> and
+#correct: 40
+#incorrect: 9960
+
+the University of <PO> <TO> in
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO>
+#correct: 39
+#incorrect: 9961
+
+<TO> capital of the <PO>
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO> Temple
+#correct: 39
+#incorrect: 9961
+
+and the University of <PO> <TO>
+#correct: 39
+#incorrect: 9961
+
+graduated from the University of <PO> <TO>
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO> owned by the
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO> in
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO>
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO>
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO> Canada
+#correct: 39
+#incorrect: 9961
+
+<TO> <PO>
+#correct: 39
+#incorrect: 9961
+
+<TO> The <PO> is a museum
+#correct: 38
+#incorrect: 9962
+
+<TO> and the University of <PO>
+#correct: 38
+#incorrect: 9962
+
+<TO> <PO>
+#correct: 38
+#incorrect: 9962
+
+the University of <PO> <TO> where he
+#correct: 38
+#incorrect: 9962
+
+<TO> <PO> United
+#correct: 38
+#incorrect: 9962
+
+<TO> <PO> Canada
+#correct: 38
+#incorrect: 9962
+
+<TO> <PO>
+#correct: 37
+#incorrect: 9963
+
+<TO> <PO> and is the
+#correct: 37
+#incorrect: 9963
+
+<TO> <PO> Friendly
+#correct: 37
+#incorrect: 9963
+
+<TO> the <PO>
+#correct: 37
+#incorrect: 9963
+
+<TO> <PO>
+#correct: 37
+#incorrect: 9963
+
+<TO> <PO> USA
+#correct: 36
+#incorrect: 9964
+
+<TO> in <PO>
+#correct: 36
+#incorrect: 9964
+
+<TO> Strathcona <PO>
+#correct: 36
+#incorrect: 9964
+
+<TO> <PO>
+#correct: 36
+#incorrect: 9964
+
+<TO> <PO>
+#correct: 36
+#incorrect: 9964
+
+at the University of <PO> <TO> and
+#correct: 36
+#incorrect: 9964
+
+<TO> <PO> on January
+#correct: 36
+#incorrect: 9964
+
+<TO> <PO>
+#correct: 36
+#incorrect: 9964
+
+<TO> <PO> USA
+#correct: 36
+#incorrect: 9964
+
+<PO> <TO> Oilers
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO> has
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> The <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> the <PO>
+#correct: 35
+#incorrect: 9965
+
+attended the University of <PO> <TO> and
+#correct: 35
+#incorrect: 9965
+
+<TO> <PO> and is
+#correct: 35
+#incorrect: 9965
+
+<TO> University of <PO>
+#correct: 35
+#incorrect: 9965
+
+<TO> in the <PO>
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> is an Australian
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO>
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> operated by
+#correct: 34
+#incorrect: 9966
+
+<TO> the <PO>
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> USA
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> and was educated
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> and is
+#correct: 34
+#incorrect: 9966
+
+<TO> <PO> July
+#correct: 33
+#incorrect: 9967
+
+<TO> <PO> owned by
+#correct: 33
+#incorrect: 9967
+
+the University of <PO> in <TO>
+#correct: 33
+#incorrect: 9967
+
+<TO> <PO> Canada and
+#correct: 33
+#incorrect: 9967
+
+<TO> <PO> and was
+#correct: 33
+#incorrect: 9967
+
+<TO> <PO> is an American
+#correct: 33
+#incorrect: 9967
+
+<TO> in northern <PO> and
+#correct: 32
+#incorrect: 9968
+
+<TO> <PO>
+#correct: 32
+#incorrect: 9968
+
+<TO> <PO> broadcasting
+#correct: 32
+#incorrect: 9968
+
+<TO> <PO> where
+#correct: 32
+#incorrect: 9968
+
+<TO> <PO> based
+#correct: 32
+#incorrect: 9968
+
+<TO> <PO> with
+#correct: 32
+#incorrect: 9968
+
+<TO> the <PO>
+#correct: 31
+#incorrect: 9969
+
+<TO> the <PO>
+#correct: 31
+#incorrect: 9969
+
+<TO> The <PO>
+#correct: 31
+#incorrect: 9969
+
+the <PO> <TO> Oilers
+#correct: 31
+#incorrect: 9969
+
+<TO> <PO> and has
+#correct: 30
+#incorrect: 9970
+
+<PO> north of <TO>
+#correct: 30
+#incorrect: 9970
+
+attended the University of <PO> in <TO>
+#correct: 30
+#incorrect: 9970
+
+<TO> <PO> June
+#correct: 30
+#incorrect: 9970
+
+<TO> <PO> that is
+#correct: 30
+#incorrect: 9970
+
+<TO> <PO> was a
+#correct: 30
+#incorrect: 9970
+
+<TO> <PO>
+#correct: 29
+#incorrect: 9971
+
+<TO> <PO>
+#correct: 29
+#incorrect: 9971
+
+<TO> <PO> in March
+#correct: 29
+#incorrect: 9971
+
+<TO> <PO> with his
+#correct: 28
+#incorrect: 9972
+
+<TO> <PO>
+#correct: 28
+#incorrect: 9972
+
+<TO> <PO>
+#correct: 28
+#incorrect: 9972
+
+<TO> <PO> CA
+#correct: 28
+#incorrect: 9972
+
+<TO> The <PO>
+#correct: 28
+#incorrect: 9972
+
+<TO> <PO>
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO> is the
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO> Apollo
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO> USA
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO> near the
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO> was an
+#correct: 27
+#incorrect: 9973
+
+<TO> <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> <PO> Temple
+#correct: 26
+#incorrect: 9974
+
+<TO> and University of <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> <PO> Carre
+#correct: 26
+#incorrect: 9974
+
+<TO> the <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> The <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> <PO> February
+#correct: 25
+#incorrect: 9975
+
+<TO> the <PO> named after the
+#correct: 24
+#incorrect: 9976
+
+at the University of <PO> <TO> for
+#correct: 24
+#incorrect: 9976
+
+Chancellor of <PO> and bishop of <TO>
+#correct: 24
+#incorrect: 9976
+
+<TO> <PO>
+#correct: 23
+#incorrect: 9977
+
+<TO> <PO>
+#correct: 23
+#incorrect: 9977
+
+<TO> <PO>
+#correct: 23
+#incorrect: 9977
+
+<TO> in the <PO>
+#correct: 23
+#incorrect: 9977
+
+<TO> <PO> January
+#correct: 23
+#incorrect: 9977
+
+<TO> <PO>
+#correct: 22
+#incorrect: 9978
+
+<TO> <PO> Canada and
+#correct: 22
+#incorrect: 9978
+
+<TO> <PO>
+#correct: 21
+#incorrect: 9979
+
+<TO> <PO> UK
+#correct: 21
+#incorrect: 9979
+
+<TO> the <PO>
+#correct: 21
+#incorrect: 9979
+
+<TO> <PO>
+#correct: 21
+#incorrect: 9979
+
+the University of <PO> in <TO> and
+#correct: 20
+#incorrect: 9980
+
+<TO> <PO>
+#correct: 20
+#incorrect: 9980
+
+<PO> Hospital <TO>
+#correct: 20
+#incorrect: 9980
+
+<TO> The <PO>
+#correct: 20
+#incorrect: 9980
+
+<TO> the <PO>
+#correct: 20
+#incorrect: 9980
+
+<TO> <PO> died in
+#correct: 20
+#incorrect: 9980
+
+<TO> <PO>
+#correct: 19
+#incorrect: 9981
+
+<TO> <PO> was the
+#correct: 19
+#incorrect: 9981
+
+<TO> <PO>
+#correct: 19
+#incorrect: 9981
+
+<TO> <PO> that is
+#correct: 19
+#incorrect: 9981
+
+<TO> in <PO> Kentucky
+#correct: 19
+#incorrect: 9981
+
+the University of <PO> in <TO> in
+#correct: 19
+#incorrect: 9981
+
+<TO> the <PO> and
+#correct: 19
+#incorrect: 9981
+
+<PO> is home to the <TO>
+#correct: 19
+#incorrect: 9981
+
+<TO> <PO> is
+#correct: 18
+#incorrect: 9982
+
+<TO> <PO>
+#correct: 18
+#incorrect: 9982
+
+<TO> in <PO> Kentucky
+#correct: 18
+#incorrect: 9982
+
+<TO> the <PO>
+#correct: 18
+#incorrect: 9982
+
+<TO> <PO> and its
+#correct: 18
+#incorrect: 9982
+
+<TO> <PO> Kentucky
+#correct: 17
+#incorrect: 9983
+
+<TO> <PO>
+#correct: 17
+#incorrect: 9983
+
+<TO> in the <PO>
+#correct: 17
+#incorrect: 9983
+
+<TO> <PO> s
+#correct: 17
+#incorrect: 9983
+
+<TO> <PO> and also
+#correct: 17
+#incorrect: 9983
+
+<TO> the <PO>
+#correct: 16
+#incorrect: 9984
+
+<TO> <PO> March
+#correct: 16
+#incorrect: 9984
+
+<TO> <PO> he
+#correct: 16
+#incorrect: 9984
+
+<TO> in <PO> Kentucky
+#correct: 16
+#incorrect: 9984
+
+<TO> in <PO> Kentucky
+#correct: 16
+#incorrect: 9984
+
+<TO> northern <PO>
+#correct: 15
+#incorrect: 9985
+
+<TO> <PO> Kentucky
+#correct: 15
+#incorrect: 9985
+
+<TO> <PO>
+#correct: 15
+#incorrect: 9985
+
+<TO> <PO> Kentucky
+#correct: 15
+#incorrect: 9985
+
+<TO> <PO> market
+#correct: 14
+#incorrect: 9986
+
+<TO> in <PO>
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO> located
+#correct: 13
+#incorrect: 9987
+
+the University of <PO> at <TO>
+#correct: 13
+#incorrect: 9987
+
+<TO> located in <PO>
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO>
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO>
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO>
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO> based
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO> since
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO> market
+#correct: 13
+#incorrect: 9987
+
+<TO> <PO> he was
+#correct: 12
+#incorrect: 9988
+
+<TO> <PO> winning
+#correct: 12
+#incorrect: 9988
+
+<TO> <PO> with a
+#correct: 12
+#incorrect: 9988
+
+<TO> <PO> UK
+#correct: 11
+#incorrect: 9989
+
+<TO> <PO>
+#correct: 11
+#incorrect: 9989
+
+<TO> <PO> was
+#correct: 11
+#incorrect: 9989
+
+<TO> <PO> one of the
+#correct: 10
+#incorrect: 9990
+
+<TO> Central <PO>
+#correct: 10
+#incorrect: 9990
+
+<TO> <PO> near
+#correct: 10
+#incorrect: 9990
+
+<TO> in <PO> where
+#correct: 10
+#incorrect: 9990
+
+<TO> <PO> since
+#correct: 9
+#incorrect: 9991
+
+<PO> <TO> University
+#correct: 9
+#incorrect: 9991
+
+<TO> <PO> as well as
+#correct: 9
+#incorrect: 9991
+
+<TO> located in <PO>
+#correct: 9
+#incorrect: 9991
+
+<TO> The <PO> since
+#correct: 9
+#incorrect: 9991
+
+University of <PO> at <TO>
+#correct: 9
+#incorrect: 9991
+
+<TO> <PO> between
+#correct: 9
+#incorrect: 9991
+
+<TO> The <PO> is a
+#correct: 8
+#incorrect: 9992
+
+<PO> near the <TO>
+#correct: 8
+#incorrect: 9992
+
+<TO> <PO>
+#correct: 8
+#incorrect: 9992
+
+<TO> BBC <PO>
+#correct: 7
+#incorrect: 9993
+
+<TO> The <PO> is a
+#correct: 7
+#incorrect: 9993
+
+<TO> Royal <PO>
+#correct: 7
+#incorrect: 9993
+
+<TO> <PO> area
+#correct: 6
+#incorrect: 9994
+
+<TO> <PO> and
+#correct: 6
+#incorrect: 9994
+
+<TO> Strip in <PO>
+#correct: 5
+#incorrect: 9995
+
+<TO> in <PO> is the
+#correct: 5
+#incorrect: 9995
+
+<TO> in <PO> Kentucky the
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> before
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> Kentucky and
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> and a
+#correct: 4
+#incorrect: 9996
+
+<TO> in <PO>
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> with a
+#correct: 4
+#incorrect: 9996
+
+<TO> of northern <PO>
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> in
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> Ky
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO> KY
+#correct: 4
+#incorrect: 9996
+
+<TO> in <PO> Kentucky and
+#correct: 3
+#incorrect: 9997
+
+<TO> in <PO> Kentucky in
+#correct: 3
+#incorrect: 9997
+
+<TO> in <PO> Kentucky in
+#correct: 3
+#incorrect: 9997
+
+<TO> University of <PO> and
+#correct: 3
+#incorrect: 9997
+
+<TO> of northern <PO>
+#correct: 3
+#incorrect: 9997
+
+<TO> <PO> Kentucky in
+#correct: 3
+#incorrect: 9997
+
+<TO> in <PO> Kentucky and
+#correct: 3
+#incorrect: 9997
+
+<TO> in <PO> Kentucky he
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky and
+#correct: 2
+#incorrect: 9998
+
+the University of <PO> the <TO>
+#correct: 2
+#incorrect: 9998
+
+<PO> Kentucky <TO>
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky and
+#correct: 2
+#incorrect: 9998
+
+<TO> <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<PO> Ky <TO>
+#correct: 2
+#incorrect: 9998
+
+<PO> KY <TO>
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<TO> <PO> Ky
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> KY
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Ky
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky as
+#correct: 2
+#incorrect: 9998
+
+<TO> <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> Kentucky where
+#correct: 2
+#incorrect: 9998
+
+<TO> of <PO> Kentucky
+#correct: 2
+#incorrect: 9998
+
+<TO> <PO> on
+#correct: 2
+#incorrect: 9998
+
+<TO> in <PO> in
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> located in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO> Kentucky USA
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO> near
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky as
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Ky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> KY
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky is
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky where he
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky USA
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky where
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky is
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky from
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky from
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky is a
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> KY
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> announced they had
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO> at the
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> campus in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky in the
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> The <PO> is
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky and the
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky which
+#correct: 1
+#incorrect: 9999
+
+<TO> near <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky from
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky and in
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO> Kentucky and
+#correct: 1
+#incorrect: 9999
+
+<PO> <TO> UA US
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> Kentucky
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO> when
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> at <PO> in
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> Cardinals
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky is
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> campus in <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> KY <TO> canceled
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky USA
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky where he
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky in
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> where he was
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Kentucky and at
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> MA and
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> Massachusetts
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Massachusetts
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> from
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> Press
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> Massachusetts
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of northern <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> Press <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+at <PO> Kentucky s <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> is located in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> U S
+#correct: 0
+#incorrect: 10000
+
+<TO> ~ <PO> Kentucky
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> U S
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> U S
+#correct: 0
+#incorrect: 10000
+
+<TO> and the University of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> northern <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> is <PO> s
+#correct: 0
+#incorrect: 10000
+
+<TO> near <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> was a
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> where
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO> the
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> in the <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> has
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> the
+#correct: 0
+#incorrect: 10000
+
+<TO> autonomous community of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> Building
+#correct: 0
+#incorrect: 10000
+
+<PO> including <TO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> area
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> after
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO> the
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO> the
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO> and the
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> where
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in the
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> but
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> was
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at the
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> most
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> then
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> CAN
+#correct: 0
+#incorrect: 10000
+
+<TO> in the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in The <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> using
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> which
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of northern <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of Northern <PO>
+#correct: 0
+#incorrect: 10000
+
+in the <PO> after <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in the <PO>
+#correct: 0
+#incorrect: 10000
+
+at <PO> Hospital <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> City
+#correct: 0
+#incorrect: 10000
+
+<TO> autonomous community of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> with
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> as a
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> has
+#correct: 0
+#incorrect: 10000
+
+<TO> in northern <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> at the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> a
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> but
+#correct: 0
+#incorrect: 10000
+
+<TO> and the rest of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<PO> including <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> which
+#correct: 0
+#incorrect: 10000
+
+<TO> located in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> from
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in a
+#correct: 0
+#incorrect: 10000
+
+<PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> two
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> are
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> with
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> that
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> s
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> on
+#correct: 0
+#incorrect: 10000
+
+<TO> the capital of the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> by
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in the
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> as
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and the
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> to the
+#correct: 0
+#incorrect: 10000
+
+<TO> Strathclyde <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> to
+#correct: 0
+#incorrect: 10000
+
+<TO> and the West of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> and the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> and West of <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> and the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> for
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> with
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> on the
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> by
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+in <PO> particularly in the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> was
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> the
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> The
+#correct: 0
+#incorrect: 10000
+
+of <PO> in <TO> and
+#correct: 0
+#incorrect: 10000
+
+in <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> that
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> are
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> to
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> as
+#correct: 0
+#incorrect: 10000
+
+of <PO> in the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> in the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> from
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> at <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> to
+#correct: 0
+#incorrect: 10000
+
+<PO> in the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> at <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> for
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> to
+#correct: 0
+#incorrect: 10000
+
+<PO> from <TO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> in <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> to <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> of
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+of <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> is <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+of the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+in <PO> at <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO> in
+#correct: 0
+#incorrect: 10000
+
+<PO> to <TO> and
+#correct: 0
+#incorrect: 10000
+
+<PO> in <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+in <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> the <TO> and
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> to <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> The <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> and
+#correct: 0
+#incorrect: 10000
+
+of <PO> the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> and <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of <PO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> and <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> and <TO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> and <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+of <PO> in <TO>
+#correct: 0
+#incorrect: 10000
+
+in <PO> the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO>
+#correct: 0
+#incorrect: 10000

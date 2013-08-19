@@ -1,0 +1,1369 @@
+#passages: 10000
+
+<TO> Founders <PO>
+#correct: 112
+#incorrect: 9888
+
+<TO> FOUNDERS <PO>
+#correct: 81
+#incorrect: 9919
+
+<TO> Founder <PO>
+#correct: 81
+#incorrect: 9919
+
+<TO> founders <PO>
+#correct: 81
+#incorrect: 9919
+
+<TO> Founders <PO>
+#correct: 81
+#incorrect: 9919
+
+<TO> founder <PO>
+#correct: 81
+#incorrect: 9919
+
+<TO> Inc founder <PO>
+#correct: 54
+#incorrect: 9946
+
+<PO> founders of <TO>
+#correct: 40
+#incorrect: 9960
+
+<PO> founder of <TO>
+#correct: 40
+#incorrect: 9960
+
+<TO> Founders <PO> in
+#correct: 30
+#incorrect: 9970
+
+<TO> founder <PO> was
+#correct: 28
+#incorrect: 9972
+
+<TO> Founders <PO> was
+#correct: 28
+#incorrect: 9972
+
+<TO> Founders <PO> in
+#correct: 26
+#incorrect: 9974
+
+<TO> <PO>
+#correct: 25
+#incorrect: 9975
+
+<PO> the founders of <TO>
+#correct: 18
+#incorrect: 9982
+
+<PO> the founder of <TO>
+#correct: 18
+#incorrect: 9982
+
+<PO> founded <TO>
+#correct: 14
+#incorrect: 9986
+
+<TO> <PO> was
+#correct: 8
+#incorrect: 9992
+
+<TO> Founders <PO>
+#correct: 8
+#incorrect: 9992
+
+<TO> founders <PO>
+#correct: 8
+#incorrect: 9992
+
+<TO> founder <PO>
+#correct: 6
+#incorrect: 9994
+
+<TO> founder <PO> the
+#correct: 4
+#incorrect: 9996
+
+<TO> Founders <PO> and
+#correct: 4
+#incorrect: 9996
+
+<TO> founders <PO> and
+#correct: 4
+#incorrect: 9996
+
+<PO> <TO> in
+#correct: 4
+#incorrect: 9996
+
+<TO> founders <PO>
+#correct: 3
+#incorrect: 9997
+
+<TO> Founder <PO>
+#correct: 3
+#incorrect: 9997
+
+<TO> Founders <PO>
+#correct: 3
+#incorrect: 9997
+
+<TO> <PO>
+#correct: 3
+#incorrect: 9997
+
+<TO> <PO> in
+#correct: 3
+#incorrect: 9997
+
+<TO> <PO> and the
+#correct: 2
+#incorrect: 9998
+
+<PO> <TO> founder
+#correct: 2
+#incorrect: 9998
+
+<PO> <TO> Founders
+#correct: 2
+#incorrect: 9998
+
+<TO> Founders <PO> of
+#correct: 2
+#incorrect: 9998
+
+<TO> founder <PO> is
+#correct: 2
+#incorrect: 9998
+
+<TO> Founders <PO> is
+#correct: 2
+#incorrect: 9998
+
+<TO> founder <PO>
+#correct: 2
+#incorrect: 9998
+
+<TO> founders <PO>
+#correct: 2
+#incorrect: 9998
+
+<TO> founder <PO> has
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> to
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> and
+#correct: 1
+#incorrect: 9999
+
+<TO> co founders <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> in
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> is a
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> machinery and supplies
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> founders <PO> have left
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> is a
+#correct: 1
+#incorrect: 9999
+
+<TO> founder <PO> has
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> founders <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> in the early
+#correct: 1
+#incorrect: 9999
+
+<TO> founder <PO> said
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> is
+#correct: 1
+#incorrect: 9999
+
+<TO> founders <PO> and
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> and
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> for
+#correct: 1
+#incorrect: 9999
+
+<TO> founders <PO> have left the
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> in
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> of
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> and
+#correct: 1
+#incorrect: 9999
+
+<PO> <TO> founder and
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO> now
+#correct: 1
+#incorrect: 9999
+
+<TO> founders <PO> are
+#correct: 1
+#incorrect: 9999
+
+<TO> and Founder <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO>
+#correct: 1
+#incorrect: 9999
+
+<PO> Google <TO> founder
+#correct: 1
+#incorrect: 9999
+
+<TO> founder <PO> has
+#correct: 1
+#incorrect: 9999
+
+<TO> Founders <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> founder <PO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> Founders <PO> in the early
+#correct: 0
+#incorrect: 10000
+
+<TO> Founders <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> the <TO> founder of
+#correct: 0
+#incorrect: 10000
+
+<TO> founder <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Founders <PO> play
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> Founders <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Founders <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> founders <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> is a <TO> founder of Hotmail
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> has
+#correct: 0
+#incorrect: 10000
+
+<TO> Founders <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> Googles <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Founders <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> is an
+#correct: 0
+#incorrect: 10000
+
+<TO> founders <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> of
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> for
+#correct: 0
+#incorrect: 10000
+
+World <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+world <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+WORLD <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> are
+#correct: 0
+#incorrect: 10000
+
+<TO> founder <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> Founders <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> founders <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+the World <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> by
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> that
+#correct: 0
+#incorrect: 10000
+
+<TO> Memorial <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Founders <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> it
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> to
+#correct: 0
+#incorrect: 10000
+
+Heisman <PO> voting <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> State <PO>
+#correct: 0
+#incorrect: 10000
+
+lifted the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+World <PO> <TO> in
+#correct: 0
+#incorrect: 10000
+
+FA <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of Code is a <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at the
+#correct: 0
+#incorrect: 10000
+
+<TO> world <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of Code is a <PO> that
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> training <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> training <PO> and then
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> materials in pdf format
+#correct: 0
+#incorrect: 10000
+
+<TO> Session <PO> SSP
+#correct: 0
+#incorrect: 10000
+
+mens world <PO> <TO> hockey fixture
+#correct: 0
+#incorrect: 10000
+
+<TO> arts <PO> at the
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> for high school
+#correct: 0
+#incorrect: 10000
+
+<TO> study abroad <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Internship <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> internship <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Fed <PO> runner up
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO> qualifying
+#correct: 0
+#incorrect: 10000
+
+<TO> Nextel <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO>
+#correct: 0
+#incorrect: 10000
+
+World <PO> <TO> FIFA
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Writing <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Ryder <PO>
+#correct: 0
+#incorrect: 10000
+
+rosicky vs liverpool fa <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO> finals
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> training <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+for MLS <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+Intercontinental <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> training <PO>
+#correct: 0
+#incorrect: 10000
+
+UEFA <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in which students
+#correct: 0
+#incorrect: 10000
+
+for the World <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> which
+#correct: 0
+#incorrect: 10000
+
+<TO> Intercontinental <PO>
+#correct: 0
+#incorrect: 10000
+
+in MLS <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of Code <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> reading <PO> is for
+#correct: 0
+#incorrect: 10000
+
+World <PO> <TO> qualifiers
+#correct: 0
+#incorrect: 10000
+
+Ryder <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> camp <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Camp <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> camping <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> training <PO> and
+#correct: 0
+#incorrect: 10000
+
+in World <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Youth <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> of Nations <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> will be played
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> boot camp <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> for
+#correct: 0
+#incorrect: 10000
+
+<TO> camp <PO> for
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> for outstanding
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Fed <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> African <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Reading <PO> at the
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+MLS <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> reading <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Reading <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> camp <PO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Intensive <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> intensive <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> MLS <PO>
+#correct: 0
+#incorrect: 10000
+
+Fed <PO> in <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> and the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Session <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> held at the
+#correct: 0
+#incorrect: 10000
+
+World <PO> <TO> games
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<PO> consists of two <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> reading <PO> for
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> study <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Study <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Olympics <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Olympic <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Reading <PO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> reading <PO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> research <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+MLS <PO> <TO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> Olympics <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> Training <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> training <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> school <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> School <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> drill <PO>
+#correct: 0
+#incorrect: 10000
+
+World <PO> in <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> dance <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Dance <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Ryder <PO>
+#correct: 0
+#incorrect: 10000
+
+World <PO> <TO> was
+#correct: 0
+#incorrect: 10000
+
+<TO> Jobs <PO>
+#correct: 0
+#incorrect: 10000
+
+the World <PO> in <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> Japan <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Shakespeare <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> during the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Ventures <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> held
+#correct: 0
+#incorrect: 10000
+
+<TO> Journalism <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Bridge <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> reading <PO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> Writing <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> writing <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> arts <PO>
+#correct: 0
+#incorrect: 10000
+
+Memorial <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+World <PO> <TO> is
+#correct: 0
+#incorrect: 10000
+
+<TO> language <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> provides a
+#correct: 0
+#incorrect: 10000
+
+World <PO> <TO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> training <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> music <PO>
+#correct: 0
+#incorrect: 10000
+
+World <PO> <TO> for
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Learning <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> learning <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Japanese <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Japanese <PO> to
+#correct: 0
+#incorrect: 10000
+
+<TO> Law <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Stock <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Ryder <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in which
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at a
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> Tickets
+#correct: 0
+#incorrect: 10000
+
+<TO> intern <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Intern <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in which
+#correct: 0
+#incorrect: 10000
+
+<TO> Student <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> is to
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> in <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> each <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> will
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Writing <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> for
+#correct: 0
+#incorrect: 10000
+
+of <PO> founder of <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> for the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> English <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> has been
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> for
+#correct: 0
+#incorrect: 10000
+
+<PO> at the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at the
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> in
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> gives
+#correct: 0
+#incorrect: 10000
+
+<PO> for the <TO> of
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> Ryder <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> was
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> at
+#correct: 0
+#incorrect: 10000
+
+<PO> or <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> family <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> this <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Memorial <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> tennis <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> will
+#correct: 0
+#incorrect: 10000
+
+<TO> World <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Writing <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Ryder <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> session <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> school <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Fed <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Ryder <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> study <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Fed <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Reading <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> in <TO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> or
+#correct: 0
+#incorrect: 10000
+
+<PO> and <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Japanese <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Law <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> MLS <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Fed <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> at
+#correct: 0
+#incorrect: 10000
+
+<TO> Intercontinental <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> with
+#correct: 0
+#incorrect: 10000
+
+<TO> Memorial <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Bingham <PO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> of the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> and the <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Olympics <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> the <PO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> of <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> and
+#correct: 0
+#incorrect: 10000
+
+<TO> of <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> The
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> The <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000

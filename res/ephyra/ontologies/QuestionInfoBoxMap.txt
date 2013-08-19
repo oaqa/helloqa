@@ -1,0 +1,22 @@
+#Location
+Where did {} happen?
+
+#Date
+When did {} happen?
+
+#Preps
+Who were the perpetrators in {}?
+Who was responsible for {}?
+Who was the mastermind of {}?
+
+#Fatalities
+How many people were injured in {}?
+
+#Injuries
+How many people were wounded in {}?
+
+#AttackType
+What was the attack type of {}?
+
+#Target
+What was/were the target(s) of {}

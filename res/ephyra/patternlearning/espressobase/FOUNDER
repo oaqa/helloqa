@@ -1,0 +1,621 @@
+#passages: 10000
+
+<PO> founders of <TO>
+#correct: 85
+#incorrect: 9915
+
+<PO> founder of <TO>
+#correct: 85
+#incorrect: 9915
+
+<PO> Founder of <TO>
+#correct: 85
+#incorrect: 9915
+
+<PO> Founder <TO>
+#correct: 70
+#incorrect: 9930
+
+<PO> founder <TO>
+#correct: 70
+#incorrect: 9930
+
+<PO> founder of the <TO>
+#correct: 26
+#incorrect: 9974
+
+<PO> founders of the <TO>
+#correct: 26
+#incorrect: 9974
+
+<TO> Founder <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> founders <PO>
+#correct: 26
+#incorrect: 9974
+
+<TO> founder <PO>
+#correct: 26
+#incorrect: 9974
+
+<PO> who founded <TO>
+#correct: 25
+#incorrect: 9975
+
+<PO> the founder of <TO>
+#correct: 23
+#incorrect: 9977
+
+<PO> founder of <TO> was
+#correct: 23
+#incorrect: 9977
+
+<TO> founder <PO> was
+#correct: 20
+#incorrect: 9980
+
+<PO> <TO> founder
+#correct: 19
+#incorrect: 9981
+
+<PO> of <TO>
+#correct: 16
+#incorrect: 9984
+
+<PO> founded <TO>
+#correct: 14
+#incorrect: 9986
+
+<PO> founded <TO> in
+#correct: 12
+#incorrect: 9988
+
+<PO> of the <TO>
+#correct: 10
+#incorrect: 9990
+
+<TO> founder <PO>
+#correct: 4
+#incorrect: 9996
+
+<TO> founders <PO>
+#correct: 4
+#incorrect: 9996
+
+<TO> <PO>
+#correct: 3
+#incorrect: 9997
+
+<PO> founder of <TO> and
+#correct: 2
+#incorrect: 9998
+
+<PO> Founder of <TO> and
+#correct: 2
+#incorrect: 9998
+
+<TO> founded by <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO>
+#correct: 1
+#incorrect: 9999
+
+<PO> and founder of <TO>
+#correct: 1
+#incorrect: 9999
+
+<TO> was founded by <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> a <PO>
+#correct: 1
+#incorrect: 9999
+
+<TO> <PO>
+#correct: 1
+#incorrect: 9999
+
+<PO> founder of <TO> born in
+#correct: 1
+#incorrect: 9999
+
+<PO> the founder of the <TO>
+#correct: 1
+#incorrect: 9999
+
+<TO> was founded by <PO> in
+#correct: 1
+#incorrect: 9999
+
+<PO> founder of the <TO> and
+#correct: 1
+#incorrect: 9999
+
+<PO> founder of <TO> and the
+#correct: 1
+#incorrect: 9999
+
+<PO> s <TO>
+#correct: 1
+#incorrect: 9999
+
+<TO> by <PO>
+#correct: 1
+#incorrect: 9999
+
+<PO> and founder of the <TO>
+#correct: 1
+#incorrect: 9999
+
+<PO> founder of <TO> school
+#correct: 1
+#incorrect: 9999
+
+<PO> And <TO>
+#correct: 1
+#incorrect: 9999
+
+<PO> and <TO>
+#correct: 1
+#incorrect: 9999
+
+nota <PO> founder of <TO>
+#correct: 1
+#incorrect: 9999
+
+of <PO> founder of <TO>
+#correct: 1
+#incorrect: 9999
+
+<PO> the founder of <TO> in
+#correct: 1
+#incorrect: 9999
+
+<PO> founder of the <TO> who
+#correct: 0
+#incorrect: 10000
+
+<PO> is the founder of <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> founded the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> mogul <PO>
+#correct: 0
+#incorrect: 10000
+
+by <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> of <TO> and
+#correct: 0
+#incorrect: 10000
+
+<PO> founder of <TO> International
+#correct: 0
+#incorrect: 10000
+
+<PO> creator of the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> president of <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> founder of <TO> and former
+#correct: 0
+#incorrect: 10000
+
+<TO> founder <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> restaurants founder <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> founder of the <TO> school
+#correct: 0
+#incorrect: 10000
+
+<PO> founder of <TO> later
+#correct: 0
+#incorrect: 10000
+
+<PO> founder of the <TO> project
+#correct: 0
+#incorrect: 10000
+
+<PO> founder of <TO> which
+#correct: 0
+#incorrect: 10000
+
+<TO> owner <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> the founder of the <TO> movement
+#correct: 0
+#incorrect: 10000
+
+<TO> founders <PO> with
+#correct: 0
+#incorrect: 10000
+
+<PO> Japanese founder of <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> the founder of <TO> was
+#correct: 0
+#incorrect: 10000
+
+Sir <PO> <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> owner of <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> leader of the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> founder of the <TO> sect
+#correct: 0
+#incorrect: 10000
+
+Sir <PO> of <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> chairman <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> founder of the <TO> Group
+#correct: 0
+#incorrect: 10000
+
+<PO> founder of the <TO> party
+#correct: 0
+#incorrect: 10000
+
+<PO> announces the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> announced the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> head of <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> founder of <TO> magazine
+#correct: 0
+#incorrect: 10000
+
+<PO> s airline <TO> Atlantic
+#correct: 0
+#incorrect: 10000
+
+<PO> and the <TO>
+#correct: 0
+#incorrect: 10000
+
+by <PO> creator of the <TO> technique
+#correct: 0
+#incorrect: 10000
+
+<TO> boss <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> s <TO> and
+#correct: 0
+#incorrect: 10000
+
+<PO> the founder of the <TO> news
+#correct: 0
+#incorrect: 10000
+
+<PO> founded <TO> which
+#correct: 0
+#incorrect: 10000
+
+owned by <PO> s <TO> Group
+#correct: 0
+#incorrect: 10000
+
+<PO> starts developing <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Records head <PO>
+#correct: 0
+#incorrect: 10000
+
+of <PO> founder of the <TO>
+#correct: 0
+#incorrect: 10000
+
+by <PO> of <TO>
+#correct: 0
+#incorrect: 10000
+
+of Sir <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> a label owned by <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> s <TO> in
+#correct: 0
+#incorrect: 10000
+
+Sir <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> s <TO> Group and
+#correct: 0
+#incorrect: 10000
+
+<PO> s <TO> Atlantic
+#correct: 0
+#incorrect: 10000
+
+<PO> president of the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> founder of the <TO> Church
+#correct: 0
+#incorrect: 10000
+
+<TO> founder <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> s <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> of the <TO> Group
+#correct: 0
+#incorrect: 10000
+
+by <PO> s <TO> Group
+#correct: 0
+#incorrect: 10000
+
+owned by <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+rival <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> s <TO> Group
+#correct: 0
+#incorrect: 10000
+
+of <PO> s <TO> Records label
+#correct: 0
+#incorrect: 10000
+
+<PO> s <TO> Records in
+#correct: 0
+#incorrect: 10000
+
+Sir <PO> founder of the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> founder <PO>
+#correct: 0
+#incorrect: 10000
+
+when <PO> of <TO>
+#correct: 0
+#incorrect: 10000
+
+with Sir <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+missionary to <PO> with the <TO>
+#correct: 0
+#incorrect: 10000
+
+missionaries to <PO> with the <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> s <TO> Records
+#correct: 0
+#incorrect: 10000
+
+<PO> of <TO> Galactic
+#correct: 0
+#incorrect: 10000
+
+<PO> with the newly formed <TO>
+#correct: 0
+#incorrect: 10000
+
+missionary to <PO> and founder of the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> leader <PO>
+#correct: 0
+#incorrect: 10000
+
+by <PO> s <TO> Records
+#correct: 0
+#incorrect: 10000
+
+for <PO> s <TO> Records
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> b
+#correct: 0
+#incorrect: 10000
+
+<PO> of <TO> Atlantic
+#correct: 0
+#incorrect: 10000
+
+<TO> creator <PO> who
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO> has
+#correct: 0
+#incorrect: 10000
+
+<PO> and <TO> Atlantic
+#correct: 0
+#incorrect: 10000
+
+by <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<PO> s <TO> to
+#correct: 0
+#incorrect: 10000
+
+by <PO> founder of the <TO>
+#correct: 0
+#incorrect: 10000
+
+was <PO> founder of <TO>
+#correct: 0
+#incorrect: 10000
+
+with <PO> and <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> with <PO> and
+#correct: 0
+#incorrect: 10000
+
+<PO> at <TO>
+#correct: 0
+#incorrect: 10000
+
+for <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+with <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> in <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> project <PO>
+#correct: 0
+#incorrect: 10000
+
+to <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO> the
+#correct: 0
+#incorrect: 10000
+
+of <PO> the founder of <TO>
+#correct: 0
+#incorrect: 10000
+
+to <PO> with the <TO>
+#correct: 0
+#incorrect: 10000
+
+of <PO> the founder of the <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Records head <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> on <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Records <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> by <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> and <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> Group with chairman <PO>
+#correct: 0
+#incorrect: 10000
+
+of <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+the <PO> s <TO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> founder <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> of <PO>
+#correct: 0
+#incorrect: 10000
+
+<TO> <PO>
+#correct: 0
+#incorrect: 10000
+
+<PO> <TO>
+#correct: 0
+#incorrect: 10000

@@ -21,7 +21,7 @@ pipeline:
       - inherit: phases.AnswerTypeExtractor
 
   - inherit: jdbc.sqlite.cse.phase  
-    name: answertype-extractor
+    name: keyterm-extractor
     options: |
       - inherit: phases.KeytermExtractor
 
@@ -38,7 +38,7 @@ pipeline:
   - inherit: jdbc.sqlite.cse.phase  
     name: information-extractor
     options: |
-      - inherit: phases.EphyraInformationExtractor
+      - inherit: phases.InformationExtractor
 
   - inherit: jdbc.sqlite.cse.phase  
     name: answer-generator

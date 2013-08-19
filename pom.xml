@@ -96,6 +96,11 @@
 	<artifactId>uima-ecd</artifactId>
 	<version>2.3.1</version>
 </dependency>
+<dependency>
+	<groupId>net.sf.jwordnet</groupId>
+	<artifactId>jwnl</artifactId>
+	<version>1.4_rc3</version>
+</dependency>
 </dependencies>
 <build>
 <plugins>

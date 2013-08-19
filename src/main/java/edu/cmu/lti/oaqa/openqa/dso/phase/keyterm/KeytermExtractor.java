@@ -25,8 +25,12 @@ import org.apache.uima.jcas.JCas;
 import org.apache.uima.resource.ResourceInitializationException;
 
 import edu.cmu.lti.oaqa.ecd.log.AbstractLoggedComponent;
-import edu.cmu.lti.oaqa.openqa.dso.framework.ViewManager;
+import edu.cmu.lti.oaqa.framework.BaseJCasHelper;
+import edu.cmu.lti.oaqa.framework.types.InputElement;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.JCasManipulator;
+import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.KeytermJCasManipulator;
+import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewManager;
+import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewType;
 import edu.cmu.lti.oaqa.openqa.dso.question.QuestionParser;
 import edu.cmu.lti.oaqa.openqa.dso.util.LogUtil;
 
@@ -101,8 +105,9 @@ public class KeytermExtractor extends AbstractLoggedComponent {
 	@Override
 	public void process(JCas jcas) throws AnalysisEngineProcessException {
 		try {
-			JCas questionView = ViewManager.getQuestionView(jcas);
-			String questionText = questionView.getDocumentText();
+			InputElement input = ((InputElement) BaseJCasHelper.getAnnotation(
+					jcas, InputElement.type));
+			String questionText = input.getQuestion();
 
 			// normalize question
 			String qn = QuestionNormalizer.normalize(questionText);
@@ -138,7 +143,7 @@ public class KeytermExtractor extends AbstractLoggedComponent {
 
 			// keyphrases=keyNERs;
 			// Save result into a view
-			JCasManipulator.storeKeyTermsAndPhrases(questionView, keyterms,
+			KeytermJCasManipulator.storeKeyTermsAndPhrases(ViewManager.getView(jcas, ViewType.KEYTERM), keyterms,
 					keyphrases);
 		} catch (Exception e) {
 			throw new AnalysisEngineProcessException(e);

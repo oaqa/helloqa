@@ -1,0 +1,2700 @@
+0000	Where did Columbine High School massacre happen?
+0001	When did Columbine High School massacre happen?
+0002	Who were the perpetrators in Columbine High School massacre?
+0003	Who was responsible for Columbine High School massacre?
+0004	Who was the mastermind of Columbine High School massacre?
+0005	How many people were injured in Columbine High School massacre?
+0006	How many people were wounded in Columbine High School massacre?
+0007	What was the attack type of Columbine High School massacre?
+0008	What was/were the target(s) of Columbine High School massacre
+0009	Where did Myyrmanni bombing happen?
+0010	When did Myyrmanni bombing happen?
+0011	Who were the perpetrators in Myyrmanni bombing?
+0012	Who was responsible for Myyrmanni bombing?
+0013	Who was the mastermind of Myyrmanni bombing?
+0014	How many people were injured in Myyrmanni bombing?
+0015	How many people were wounded in Myyrmanni bombing?
+0016	What was the attack type of Myyrmanni bombing?
+0017	What was/were the target(s) of Myyrmanni bombing
+0018	Where did King David Hotel bombing happen?
+0019	When did King David Hotel bombing happen?
+0020	Who were the perpetrators in King David Hotel bombing?
+0021	Who was responsible for King David Hotel bombing?
+0022	Who was the mastermind of King David Hotel bombing?
+0023	How many people were injured in King David Hotel bombing?
+0024	How many people were wounded in King David Hotel bombing?
+0025	What was the attack type of King David Hotel bombing?
+0026	What was/were the target(s) of King David Hotel bombing
+0027	Where did 2002 Zamboanga City bombings happen?
+0028	When did 2002 Zamboanga City bombings happen?
+0029	Who were the perpetrators in 2002 Zamboanga City bombings?
+0030	Who was responsible for 2002 Zamboanga City bombings?
+0031	Who was the mastermind of 2002 Zamboanga City bombings?
+0032	How many people were injured in 2002 Zamboanga City bombings?
+0033	How many people were wounded in 2002 Zamboanga City bombings?
+0034	What was the attack type of 2002 Zamboanga City bombings?
+0035	What was/were the target(s) of 2002 Zamboanga City bombings
+0036	Where did Omagh bombing happen?
+0037	When did Omagh bombing happen?
+0038	Who were the perpetrators in Omagh bombing?
+0039	Who was responsible for Omagh bombing?
+0040	Who was the mastermind of Omagh bombing?
+0041	How many people were injured in Omagh bombing?
+0042	How many people were wounded in Omagh bombing?
+0043	What was the attack type of Omagh bombing?
+0044	What was/were the target(s) of Omagh bombing
+0045	Where did Moscow theater hostage crisis happen?
+0046	When did Moscow theater hostage crisis happen?
+0047	Who were the perpetrators in Moscow theater hostage crisis?
+0048	Who was responsible for Moscow theater hostage crisis?
+0049	Who was the mastermind of Moscow theater hostage crisis?
+0050	How many people were injured in Moscow theater hostage crisis?
+0051	How many people were wounded in Moscow theater hostage crisis?
+0052	What was the attack type of Moscow theater hostage crisis?
+0053	What was/were the target(s) of Moscow theater hostage crisis
+0054	Where did Passover massacre happen?
+0055	When did Passover massacre happen?
+0056	Who were the perpetrators in Passover massacre?
+0057	Who was responsible for Passover massacre?
+0058	Who was the mastermind of Passover massacre?
+0059	How many people were injured in Passover massacre?
+0060	How many people were wounded in Passover massacre?
+0061	What was the attack type of Passover massacre?
+0062	What was/were the target(s) of Passover massacre
+0063	Where did 1992 Israeli Embassy attack in Buenos Aires happen?
+0064	When did 1992 Israeli Embassy attack in Buenos Aires happen?
+0065	Who were the perpetrators in 1992 Israeli Embassy attack in Buenos Aires?
+0066	Who was responsible for 1992 Israeli Embassy attack in Buenos Aires?
+0067	Who was the mastermind of 1992 Israeli Embassy attack in Buenos Aires?
+0068	How many people were injured in 1992 Israeli Embassy attack in Buenos Aires?
+0069	How many people were wounded in 1992 Israeli Embassy attack in Buenos Aires?
+0070	What was the attack type of 1992 Israeli Embassy attack in Buenos Aires?
+0071	What was/were the target(s) of 1992 Israeli Embassy attack in Buenos Aires
+0072	Where did 1993 Bombay bombings happen?
+0073	When did 1993 Bombay bombings happen?
+0074	Who were the perpetrators in 1993 Bombay bombings?
+0075	Who was responsible for 1993 Bombay bombings?
+0076	Who was the mastermind of 1993 Bombay bombings?
+0077	How many people were injured in 1993 Bombay bombings?
+0078	How many people were wounded in 1993 Bombay bombings?
+0079	What was the attack type of 1993 Bombay bombings?
+0080	What was/were the target(s) of 1993 Bombay bombings
+0081	Where did Russian apartment bombings happen?
+0082	When did Russian apartment bombings happen?
+0083	Who were the perpetrators in Russian apartment bombings?
+0084	Who was responsible for Russian apartment bombings?
+0085	Who was the mastermind of Russian apartment bombings?
+0086	How many people were injured in Russian apartment bombings?
+0087	How many people were wounded in Russian apartment bombings?
+0088	What was the attack type of Russian apartment bombings?
+0089	What was/were the target(s) of Russian apartment bombings
+0090	Where did Shmuel HaNavi bus bombing happen?
+0091	When did Shmuel HaNavi bus bombing happen?
+0092	Who were the perpetrators in Shmuel HaNavi bus bombing?
+0093	Who was responsible for Shmuel HaNavi bus bombing?
+0094	Who was the mastermind of Shmuel HaNavi bus bombing?
+0095	How many people were injured in Shmuel HaNavi bus bombing?
+0096	How many people were wounded in Shmuel HaNavi bus bombing?
+0097	What was the attack type of Shmuel HaNavi bus bombing?
+0098	What was/were the target(s) of Shmuel HaNavi bus bombing
+0099	Where did 21 April 2004 Basra bombings happen?
+0100	When did 21 April 2004 Basra bombings happen?
+0101	Who were the perpetrators in 21 April 2004 Basra bombings?
+0102	Who was responsible for 21 April 2004 Basra bombings?
+0103	Who was the mastermind of 21 April 2004 Basra bombings?
+0104	How many people were injured in 21 April 2004 Basra bombings?
+0105	How many people were wounded in 21 April 2004 Basra bombings?
+0106	What was the attack type of 21 April 2004 Basra bombings?
+0107	What was/were the target(s) of 21 April 2004 Basra bombings
+0108	Where did Warrington bomb attacks happen?
+0109	When did Warrington bomb attacks happen?
+0110	Who were the perpetrators in Warrington bomb attacks?
+0111	Who was responsible for Warrington bomb attacks?
+0112	Who was the mastermind of Warrington bomb attacks?
+0113	How many people were injured in Warrington bomb attacks?
+0114	How many people were wounded in Warrington bomb attacks?
+0115	What was the attack type of Warrington bomb attacks?
+0116	What was/were the target(s) of Warrington bomb attacks
+0117	Where did Alma happen?
+0118	When did Alma happen?
+0119	Who were the perpetrators in Alma?
+0120	Who was responsible for Alma?
+0121	Who was the mastermind of Alma?
+0122	How many people were injured in Alma?
+0123	How many people were wounded in Alma?
+0124	What was the attack type of Alma?
+0125	What was/were the target(s) of Alma
+0126	Where did 2008 Bin Salman Mosque bombing happen?
+0127	When did 2008 Bin Salman Mosque bombing happen?
+0128	Who were the perpetrators in 2008 Bin Salman Mosque bombing?
+0129	Who was responsible for 2008 Bin Salman Mosque bombing?
+0130	Who was the mastermind of 2008 Bin Salman Mosque bombing?
+0131	How many people were injured in 2008 Bin Salman Mosque bombing?
+0132	How many people were wounded in 2008 Bin Salman Mosque bombing?
+0133	What was the attack type of 2008 Bin Salman Mosque bombing?
+0134	What was/were the target(s) of 2008 Bin Salman Mosque bombing
+0135	Where did Deer Creek Middle School happen?
+0136	When did Deer Creek Middle School happen?
+0137	Who were the perpetrators in Deer Creek Middle School?
+0138	Who was responsible for Deer Creek Middle School?
+0139	Who was the mastermind of Deer Creek Middle School?
+0140	How many people were injured in Deer Creek Middle School?
+0141	How many people were wounded in Deer Creek Middle School?
+0142	What was the attack type of Deer Creek Middle School?
+0143	What was/were the target(s) of Deer Creek Middle School
+0144	Where did 2004 Australian embassy bombing in Jakarta happen?
+0145	When did 2004 Australian embassy bombing in Jakarta happen?
+0146	Who were the perpetrators in 2004 Australian embassy bombing in Jakarta?
+0147	Who was responsible for 2004 Australian embassy bombing in Jakarta?
+0148	Who was the mastermind of 2004 Australian embassy bombing in Jakarta?
+0149	How many people were injured in 2004 Australian embassy bombing in Jakarta?
+0150	How many people were wounded in 2004 Australian embassy bombing in Jakarta?
+0151	What was the attack type of 2004 Australian embassy bombing in Jakarta?
+0152	What was/were the target(s) of 2004 Australian embassy bombing in Jakarta
+0153	Where did 1996 Manchester bombing happen?
+0154	When did 1996 Manchester bombing happen?
+0155	Who were the perpetrators in 1996 Manchester bombing?
+0156	Who was responsible for 1996 Manchester bombing?
+0157	Who was the mastermind of 1996 Manchester bombing?
+0158	How many people were injured in 1996 Manchester bombing?
+0159	How many people were wounded in 1996 Manchester bombing?
+0160	What was the attack type of 1996 Manchester bombing?
+0161	What was/were the target(s) of 1996 Manchester bombing
+0162	Where did Sbarro restaurant suicide bombing happen?
+0163	When did Sbarro restaurant suicide bombing happen?
+0164	Who were the perpetrators in Sbarro restaurant suicide bombing?
+0165	Who was responsible for Sbarro restaurant suicide bombing?
+0166	Who was the mastermind of Sbarro restaurant suicide bombing?
+0167	How many people were injured in Sbarro restaurant suicide bombing?
+0168	How many people were wounded in Sbarro restaurant suicide bombing?
+0169	What was the attack type of Sbarro restaurant suicide bombing?
+0170	What was/were the target(s) of Sbarro restaurant suicide bombing
+0171	Where did Guildford pub bombings happen?
+0172	When did Guildford pub bombings happen?
+0173	Who were the perpetrators in Guildford pub bombings?
+0174	Who was responsible for Guildford pub bombings?
+0175	Who was the mastermind of Guildford pub bombings?
+0176	How many people were injured in Guildford pub bombings?
+0177	How many people were wounded in Guildford pub bombings?
+0178	What was the attack type of Guildford pub bombings?
+0179	What was/were the target(s) of Guildford pub bombings
+0180	Where did 11 April 2007 Algiers bombings happen?
+0181	When did 11 April 2007 Algiers bombings happen?
+0182	Who were the perpetrators in 11 April 2007 Algiers bombings?
+0183	Who was responsible for 11 April 2007 Algiers bombings?
+0184	Who was the mastermind of 11 April 2007 Algiers bombings?
+0185	How many people were injured in 11 April 2007 Algiers bombings?
+0186	How many people were wounded in 11 April 2007 Algiers bombings?
+0187	What was the attack type of 11 April 2007 Algiers bombings?
+0188	What was/were the target(s) of 11 April 2007 Algiers bombings
+0189	Where did Bath School disaster happen?
+0190	When did Bath School disaster happen?
+0191	Who were the perpetrators in Bath School disaster?
+0192	Who was responsible for Bath School disaster?
+0193	Who was the mastermind of Bath School disaster?
+0194	How many people were injured in Bath School disaster?
+0195	How many people were wounded in Bath School disaster?
+0196	What was the attack type of Bath School disaster?
+0197	What was/were the target(s) of Bath School disaster
+0198	Where did 7 July 2005 London bombings happen?
+0199	When did 7 July 2005 London bombings happen?
+0200	Who were the perpetrators in 7 July 2005 London bombings?
+0201	Who was responsible for 7 July 2005 London bombings?
+0202	Who was the mastermind of 7 July 2005 London bombings?
+0203	How many people were injured in 7 July 2005 London bombings?
+0204	How many people were wounded in 7 July 2005 London bombings?
+0205	What was the attack type of 7 July 2005 London bombings?
+0206	What was/were the target(s) of 7 July 2005 London bombings
+0207	Where did Bojay¨¢ massacre happen?
+0208	When did Bojay¨¢ massacre happen?
+0209	Who were the perpetrators in Bojay¨¢ massacre?
+0210	Who was responsible for Bojay¨¢ massacre?
+0211	Who was the mastermind of Bojay¨¢ massacre?
+0212	How many people were injured in Bojay¨¢ massacre?
+0213	How many people were wounded in Bojay¨¢ massacre?
+0214	What was the attack type of Bojay¨¢ massacre?
+0215	What was/were the target(s) of Bojay¨¢ massacre
+0216	Where did 1996 Docklands bombing happen?
+0217	When did 1996 Docklands bombing happen?
+0218	Who were the perpetrators in 1996 Docklands bombing?
+0219	Who was responsible for 1996 Docklands bombing?
+0220	Who was the mastermind of 1996 Docklands bombing?
+0221	How many people were injured in 1996 Docklands bombing?
+0222	How many people were wounded in 1996 Docklands bombing?
+0223	What was the attack type of 1996 Docklands bombing?
+0224	What was/were the target(s) of 1996 Docklands bombing
+0225	Where did 2003 Jordanian embassy bombing in Baghdad happen?
+0226	When did 2003 Jordanian embassy bombing in Baghdad happen?
+0227	Who were the perpetrators in 2003 Jordanian embassy bombing in Baghdad?
+0228	Who was responsible for 2003 Jordanian embassy bombing in Baghdad?
+0229	Who was the mastermind of 2003 Jordanian embassy bombing in Baghdad?
+0230	How many people were injured in 2003 Jordanian embassy bombing in Baghdad?
+0231	How many people were wounded in 2003 Jordanian embassy bombing in Baghdad?
+0232	What was the attack type of 2003 Jordanian embassy bombing in Baghdad?
+0233	What was/were the target(s) of 2003 Jordanian embassy bombing in Baghdad
+0234	Where did 2003 Karbala bombings happen?
+0235	When did 2003 Karbala bombings happen?
+0236	Who were the perpetrators in 2003 Karbala bombings?
+0237	Who was responsible for 2003 Karbala bombings?
+0238	Who was the mastermind of 2003 Karbala bombings?
+0239	How many people were injured in 2003 Karbala bombings?
+0240	How many people were wounded in 2003 Karbala bombings?
+0241	What was the attack type of 2003 Karbala bombings?
+0242	What was/were the target(s) of 2003 Karbala bombings
+0243	Where did 2004 Irbil bombings happen?
+0244	When did 2004 Irbil bombings happen?
+0245	Who were the perpetrators in 2004 Irbil bombings?
+0246	Who was responsible for 2004 Irbil bombings?
+0247	Who was the mastermind of 2004 Irbil bombings?
+0248	How many people were injured in 2004 Irbil bombings?
+0249	How many people were wounded in 2004 Irbil bombings?
+0250	What was the attack type of 2004 Irbil bombings?
+0251	What was/were the target(s) of 2004 Irbil bombings
+0252	Where did 2006 Bangkok bombings happen?
+0253	When did 2006 Bangkok bombings happen?
+0254	Who were the perpetrators in 2006 Bangkok bombings?
+0255	Who was responsible for 2006 Bangkok bombings?
+0256	Who was the mastermind of 2006 Bangkok bombings?
+0257	How many people were injured in 2006 Bangkok bombings?
+0258	How many people were wounded in 2006 Bangkok bombings?
+0259	What was the attack type of 2006 Bangkok bombings?
+0260	What was/were the target(s) of 2006 Bangkok bombings
+0261	Where did 2006 Hat Yai bombings happen?
+0262	When did 2006 Hat Yai bombings happen?
+0263	Who were the perpetrators in 2006 Hat Yai bombings?
+0264	Who was responsible for 2006 Hat Yai bombings?
+0265	Who was the mastermind of 2006 Hat Yai bombings?
+0266	How many people were injured in 2006 Hat Yai bombings?
+0267	How many people were wounded in 2006 Hat Yai bombings?
+0268	What was the attack type of 2006 Hat Yai bombings?
+0269	What was/were the target(s) of 2006 Hat Yai bombings
+0270	Where did 2007 Ankara bombing happen?
+0271	When did 2007 Ankara bombing happen?
+0272	Who were the perpetrators in 2007 Ankara bombing?
+0273	Who was responsible for 2007 Ankara bombing?
+0274	Who was the mastermind of 2007 Ankara bombing?
+0275	How many people were injured in 2007 Ankara bombing?
+0276	How many people were wounded in 2007 Ankara bombing?
+0277	What was the attack type of 2007 Ankara bombing?
+0278	What was/were the target(s) of 2007 Ankara bombing
+0279	Where did 2007 Karachi bombing happen?
+0280	When did 2007 Karachi bombing happen?
+0281	Who were the perpetrators in 2007 Karachi bombing?
+0282	Who was responsible for 2007 Karachi bombing?
+0283	Who was the mastermind of 2007 Karachi bombing?
+0284	How many people were injured in 2007 Karachi bombing?
+0285	How many people were wounded in 2007 Karachi bombing?
+0286	What was the attack type of 2007 Karachi bombing?
+0287	What was/were the target(s) of 2007 Karachi bombing
+0288	Where did 2007 Karbala bombings happen?
+0289	When did 2007 Karbala bombings happen?
+0290	Who were the perpetrators in 2007 Karbala bombings?
+0291	Who was responsible for 2007 Karbala bombings?
+0292	Who was the mastermind of 2007 Karbala bombings?
+0293	How many people were injured in 2007 Karbala bombings?
+0294	How many people were wounded in 2007 Karbala bombings?
+0295	What was the attack type of 2007 Karbala bombings?
+0296	What was/were the target(s) of 2007 Karbala bombings
+0297	Where did 2007 Kirkuk bombings happen?
+0298	When did 2007 Kirkuk bombings happen?
+0299	Who were the perpetrators in 2007 Kirkuk bombings?
+0300	Who was responsible for 2007 Kirkuk bombings?
+0301	Who was the mastermind of 2007 Kirkuk bombings?
+0302	How many people were injured in 2007 Kirkuk bombings?
+0303	How many people were wounded in 2007 Kirkuk bombings?
+0304	What was the attack type of 2007 Kirkuk bombings?
+0305	What was/were the target(s) of 2007 Kirkuk bombings
+0306	Where did 2007 Zahedan bombings happen?
+0307	When did 2007 Zahedan bombings happen?
+0308	Who were the perpetrators in 2007 Zahedan bombings?
+0309	Who was responsible for 2007 Zahedan bombings?
+0310	Who was the mastermind of 2007 Zahedan bombings?
+0311	How many people were injured in 2007 Zahedan bombings?
+0312	How many people were wounded in 2007 Zahedan bombings?
+0313	What was the attack type of 2007 Zahedan bombings?
+0314	What was/were the target(s) of 2007 Zahedan bombings
+0315	Where did 25 August 2003 Mumbai bombings happen?
+0316	When did 25 August 2003 Mumbai bombings happen?
+0317	Who were the perpetrators in 25 August 2003 Mumbai bombings?
+0318	Who was responsible for 25 August 2003 Mumbai bombings?
+0319	Who was the mastermind of 25 August 2003 Mumbai bombings?
+0320	How many people were injured in 25 August 2003 Mumbai bombings?
+0321	How many people were wounded in 25 August 2003 Mumbai bombings?
+0322	What was the attack type of 25 August 2003 Mumbai bombings?
+0323	What was/were the target(s) of 25 August 2003 Mumbai bombings
+0324	Where did 26 July 2007 Baghdad market bombing happen?
+0325	When did 26 July 2007 Baghdad market bombing happen?
+0326	Who were the perpetrators in 26 July 2007 Baghdad market bombing?
+0327	Who was responsible for 26 July 2007 Baghdad market bombing?
+0328	Who was the mastermind of 26 July 2007 Baghdad market bombing?
+0329	How many people were injured in 26 July 2007 Baghdad market bombing?
+0330	How many people were wounded in 26 July 2007 Baghdad market bombing?
+0331	What was the attack type of 26 July 2007 Baghdad market bombing?
+0332	What was/were the target(s) of 26 July 2007 Baghdad market bombing
+0333	Where did Ahvaz bombings happen?
+0334	When did Ahvaz bombings happen?
+0335	Who were the perpetrators in Ahvaz bombings?
+0336	Who was responsible for Ahvaz bombings?
+0337	Who was the mastermind of Ahvaz bombings?
+0338	How many people were injured in Ahvaz bombings?
+0339	How many people were wounded in Ahvaz bombings?
+0340	What was the attack type of Ahvaz bombings?
+0341	What was/were the target(s) of Ahvaz bombings
+0342	Where did Black Sea hostage crisis happen?
+0343	When did Black Sea hostage crisis happen?
+0344	Who were the perpetrators in Black Sea hostage crisis?
+0345	Who was responsible for Black Sea hostage crisis?
+0346	Who was the mastermind of Black Sea hostage crisis?
+0347	How many people were injured in Black Sea hostage crisis?
+0348	How many people were wounded in Black Sea hostage crisis?
+0349	What was the attack type of Black Sea hostage crisis?
+0350	What was/were the target(s) of Black Sea hostage crisis
+0351	Where did 8 December 2009 Baghdad bombings happen?
+0352	When did 8 December 2009 Baghdad bombings happen?
+0353	Who were the perpetrators in 8 December 2009 Baghdad bombings?
+0354	Who was responsible for 8 December 2009 Baghdad bombings?
+0355	Who was the mastermind of 8 December 2009 Baghdad bombings?
+0356	How many people were injured in 8 December 2009 Baghdad bombings?
+0357	How many people were wounded in 8 December 2009 Baghdad bombings?
+0358	What was the attack type of 8 December 2009 Baghdad bombings?
+0359	What was/were the target(s) of 8 December 2009 Baghdad bombings
+0360	Where did Ramat Gan bus 20 bombing happen?
+0361	When did Ramat Gan bus 20 bombing happen?
+0362	Who were the perpetrators in Ramat Gan bus 20 bombing?
+0363	Who was responsible for Ramat Gan bus 20 bombing?
+0364	Who was the mastermind of Ramat Gan bus 20 bombing?
+0365	How many people were injured in Ramat Gan bus 20 bombing?
+0366	How many people were wounded in Ramat Gan bus 20 bombing?
+0367	What was the attack type of Ramat Gan bus 20 bombing?
+0368	What was/were the target(s) of Ramat Gan bus 20 bombing
+0369	Where did La Gabarra Massacre happen?
+0370	When did La Gabarra Massacre happen?
+0371	Who were the perpetrators in La Gabarra Massacre?
+0372	Who was responsible for La Gabarra Massacre?
+0373	Who was the mastermind of La Gabarra Massacre?
+0374	How many people were injured in La Gabarra Massacre?
+0375	How many people were wounded in La Gabarra Massacre?
+0376	What was the attack type of La Gabarra Massacre?
+0377	What was/were the target(s) of La Gabarra Massacre
+0378	Where did May 2010 attacks on Ahmadi mosques in Lahore happen?
+0379	When did May 2010 attacks on Ahmadi mosques in Lahore happen?
+0380	Who were the perpetrators in May 2010 attacks on Ahmadi mosques in Lahore?
+0381	Who was responsible for May 2010 attacks on Ahmadi mosques in Lahore?
+0382	Who was the mastermind of May 2010 attacks on Ahmadi mosques in Lahore?
+0383	How many people were injured in May 2010 attacks on Ahmadi mosques in Lahore?
+0384	How many people were wounded in May 2010 attacks on Ahmadi mosques in Lahore?
+0385	What was the attack type of May 2010 attacks on Ahmadi mosques in Lahore?
+0386	What was/were the target(s) of May 2010 attacks on Ahmadi mosques in Lahore
+0387	Where did Deltona massacre happen?
+0388	When did Deltona massacre happen?
+0389	Who were the perpetrators in Deltona massacre?
+0390	Who was responsible for Deltona massacre?
+0391	Who was the mastermind of Deltona massacre?
+0392	How many people were injured in Deltona massacre?
+0393	How many people were wounded in Deltona massacre?
+0394	What was the attack type of Deltona massacre?
+0395	What was/were the target(s) of Deltona massacre
+0396	Where did Kharkiv supermarket bombings happen?
+0397	When did Kharkiv supermarket bombings happen?
+0398	Who were the perpetrators in Kharkiv supermarket bombings?
+0399	Who was responsible for Kharkiv supermarket bombings?
+0400	Who was the mastermind of Kharkiv supermarket bombings?
+0401	How many people were injured in Kharkiv supermarket bombings?
+0402	How many people were wounded in Kharkiv supermarket bombings?
+0403	What was the attack type of Kharkiv supermarket bombings?
+0404	What was/were the target(s) of Kharkiv supermarket bombings
+0405	Where did September 11 attacks happen?
+0406	When did September 11 attacks happen?
+0407	Who were the perpetrators in September 11 attacks?
+0408	Who was responsible for September 11 attacks?
+0409	Who was the mastermind of September 11 attacks?
+0410	How many people were injured in September 11 attacks?
+0411	How many people were wounded in September 11 attacks?
+0412	What was the attack type of September 11 attacks?
+0413	What was/were the target(s) of September 11 attacks
+0414	Where did Jerusalem bus 19 suicide bombing happen?
+0415	When did Jerusalem bus 19 suicide bombing happen?
+0416	Who were the perpetrators in Jerusalem bus 19 suicide bombing?
+0417	Who was responsible for Jerusalem bus 19 suicide bombing?
+0418	Who was the mastermind of Jerusalem bus 19 suicide bombing?
+0419	How many people were injured in Jerusalem bus 19 suicide bombing?
+0420	How many people were wounded in Jerusalem bus 19 suicide bombing?
+0421	What was the attack type of Jerusalem bus 19 suicide bombing?
+0422	What was/were the target(s) of Jerusalem bus 19 suicide bombing
+0423	Where did 2008 Danish embassy bombing in Islamabad happen?
+0424	When did 2008 Danish embassy bombing in Islamabad happen?
+0425	Who were the perpetrators in 2008 Danish embassy bombing in Islamabad?
+0426	Who was responsible for 2008 Danish embassy bombing in Islamabad?
+0427	Who was the mastermind of 2008 Danish embassy bombing in Islamabad?
+0428	How many people were injured in 2008 Danish embassy bombing in Islamabad?
+0429	How many people were wounded in 2008 Danish embassy bombing in Islamabad?
+0430	What was the attack type of 2008 Danish embassy bombing in Islamabad?
+0431	What was/were the target(s) of 2008 Danish embassy bombing in Islamabad
+0432	Where did Tapuah junction stabbing happen?
+0433	When did Tapuah junction stabbing happen?
+0434	Who were the perpetrators in Tapuah junction stabbing?
+0435	Who was responsible for Tapuah junction stabbing?
+0436	Who was the mastermind of Tapuah junction stabbing?
+0437	How many people were injured in Tapuah junction stabbing?
+0438	How many people were wounded in Tapuah junction stabbing?
+0439	What was the attack type of Tapuah junction stabbing?
+0440	What was/were the target(s) of Tapuah junction stabbing
+0441	Where did El Aro massacre happen?
+0442	When did El Aro massacre happen?
+0443	Who were the perpetrators in El Aro massacre?
+0444	Who was responsible for El Aro massacre?
+0445	Who was the mastermind of El Aro massacre?
+0446	How many people were injured in El Aro massacre?
+0447	How many people were wounded in El Aro massacre?
+0448	What was the attack type of El Aro massacre?
+0449	What was/were the target(s) of El Aro massacre
+0450	Where did February 13 happen?
+0451	When did February 13 happen?
+0452	Who were the perpetrators in February 13?
+0453	Who was responsible for February 13?
+0454	Who was the mastermind of February 13?
+0455	How many people were injured in February 13?
+0456	How many people were wounded in February 13?
+0457	What was the attack type of February 13?
+0458	What was/were the target(s) of February 13
+0459	Where did Munich massacre happen?
+0460	When did Munich massacre happen?
+0461	Who were the perpetrators in Munich massacre?
+0462	Who was responsible for Munich massacre?
+0463	Who was the mastermind of Munich massacre?
+0464	How many people were injured in Munich massacre?
+0465	How many people were wounded in Munich massacre?
+0466	What was the attack type of Munich massacre?
+0467	What was/were the target(s) of Munich massacre
+0468	Where did 2002 Mombasa attacks happen?
+0469	When did 2002 Mombasa attacks happen?
+0470	Who were the perpetrators in 2002 Mombasa attacks?
+0471	Who was responsible for 2002 Mombasa attacks?
+0472	Who was the mastermind of 2002 Mombasa attacks?
+0473	How many people were injured in 2002 Mombasa attacks?
+0474	How many people were wounded in 2002 Mombasa attacks?
+0475	What was the attack type of 2002 Mombasa attacks?
+0476	What was/were the target(s) of 2002 Mombasa attacks
+0477	Where did 2002 Karachi bus bombing happen?
+0478	When did 2002 Karachi bus bombing happen?
+0479	Who were the perpetrators in 2002 Karachi bus bombing?
+0480	Who was responsible for 2002 Karachi bus bombing?
+0481	Who was the mastermind of 2002 Karachi bus bombing?
+0482	How many people were injured in 2002 Karachi bus bombing?
+0483	How many people were wounded in 2002 Karachi bus bombing?
+0484	What was the attack type of 2002 Karachi bus bombing?
+0485	What was/were the target(s) of 2002 Karachi bus bombing
+0486	Where did 2004 Madrid train bombings happen?
+0487	When did 2004 Madrid train bombings happen?
+0488	Who were the perpetrators in 2004 Madrid train bombings?
+0489	Who was responsible for 2004 Madrid train bombings?
+0490	Who was the mastermind of 2004 Madrid train bombings?
+0491	How many people were injured in 2004 Madrid train bombings?
+0492	How many people were wounded in 2004 Madrid train bombings?
+0493	What was the attack type of 2004 Madrid train bombings?
+0494	What was/were the target(s) of 2004 Madrid train bombings
+0495	Where did Admiral Duncan pub happen?
+0496	When did Admiral Duncan pub happen?
+0497	Who were the perpetrators in Admiral Duncan pub?
+0498	Who was responsible for Admiral Duncan pub?
+0499	Who was the mastermind of Admiral Duncan pub?
+0500	How many people were injured in Admiral Duncan pub?
+0501	How many people were wounded in Admiral Duncan pub?
+0502	What was the attack type of Admiral Duncan pub?
+0503	What was/were the target(s) of Admiral Duncan pub
+0504	Where did 2005 Bali bombings happen?
+0505	When did 2005 Bali bombings happen?
+0506	Who were the perpetrators in 2005 Bali bombings?
+0507	Who was responsible for 2005 Bali bombings?
+0508	Who was the mastermind of 2005 Bali bombings?
+0509	How many people were injured in 2005 Bali bombings?
+0510	How many people were wounded in 2005 Bali bombings?
+0511	What was the attack type of 2005 Bali bombings?
+0512	What was/were the target(s) of 2005 Bali bombings
+0513	Where did Red Lake massacre happen?
+0514	When did Red Lake massacre happen?
+0515	Who were the perpetrators in Red Lake massacre?
+0516	Who was responsible for Red Lake massacre?
+0517	Who was the mastermind of Red Lake massacre?
+0518	How many people were injured in Red Lake massacre?
+0519	How many people were wounded in Red Lake massacre?
+0520	What was the attack type of Red Lake massacre?
+0521	What was/were the target(s) of Red Lake massacre
+0522	Where did 1999 Istanbul bombings happen?
+0523	When did 1999 Istanbul bombings happen?
+0524	Who were the perpetrators in 1999 Istanbul bombings?
+0525	Who was responsible for 1999 Istanbul bombings?
+0526	Who was the mastermind of 1999 Istanbul bombings?
+0527	How many people were injured in 1999 Istanbul bombings?
+0528	How many people were wounded in 1999 Istanbul bombings?
+0529	What was the attack type of 1999 Istanbul bombings?
+0530	What was/were the target(s) of 1999 Istanbul bombings
+0531	Where did 2003 Marriott Hotel bombing happen?
+0532	When did 2003 Marriott Hotel bombing happen?
+0533	Who were the perpetrators in 2003 Marriott Hotel bombing?
+0534	Who was responsible for 2003 Marriott Hotel bombing?
+0535	Who was the mastermind of 2003 Marriott Hotel bombing?
+0536	How many people were injured in 2003 Marriott Hotel bombing?
+0537	How many people were wounded in 2003 Marriott Hotel bombing?
+0538	What was the attack type of 2003 Marriott Hotel bombing?
+0539	What was/were the target(s) of 2003 Marriott Hotel bombing
+0540	Where did Camp Grant massacre happen?
+0541	When did Camp Grant massacre happen?
+0542	Who were the perpetrators in Camp Grant massacre?
+0543	Who was responsible for Camp Grant massacre?
+0544	Who was the mastermind of Camp Grant massacre?
+0545	How many people were injured in Camp Grant massacre?
+0546	How many people were wounded in Camp Grant massacre?
+0547	What was the attack type of Camp Grant massacre?
+0548	What was/were the target(s) of Camp Grant massacre
+0549	Where did Concordia University massacre happen?
+0550	When did Concordia University massacre happen?
+0551	Who were the perpetrators in Concordia University massacre?
+0552	Who was responsible for Concordia University massacre?
+0553	Who was the mastermind of Concordia University massacre?
+0554	How many people were injured in Concordia University massacre?
+0555	How many people were wounded in Concordia University massacre?
+0556	What was the attack type of Concordia University massacre?
+0557	What was/were the target(s) of Concordia University massacre
+0558	Where did February 2004 Moscow metro bombing happen?
+0559	When did February 2004 Moscow metro bombing happen?
+0560	Who were the perpetrators in February 2004 Moscow metro bombing?
+0561	Who was responsible for February 2004 Moscow metro bombing?
+0562	Who was the mastermind of February 2004 Moscow metro bombing?
+0563	How many people were injured in February 2004 Moscow metro bombing?
+0564	How many people were wounded in February 2004 Moscow metro bombing?
+0565	What was the attack type of February 2004 Moscow metro bombing?
+0566	What was/were the target(s) of February 2004 Moscow metro bombing
+0567	Where did 11 July 2006 Mumbai train bombings happen?
+0568	When did 11 July 2006 Mumbai train bombings happen?
+0569	Who were the perpetrators in 11 July 2006 Mumbai train bombings?
+0570	Who was responsible for 11 July 2006 Mumbai train bombings?
+0571	Who was the mastermind of 11 July 2006 Mumbai train bombings?
+0572	How many people were injured in 11 July 2006 Mumbai train bombings?
+0573	How many people were wounded in 11 July 2006 Mumbai train bombings?
+0574	What was the attack type of 11 July 2006 Mumbai train bombings?
+0575	What was/were the target(s) of 11 July 2006 Mumbai train bombings
+0576	Where did 17 August 2005 Baghdad bombings happen?
+0577	When did 17 August 2005 Baghdad bombings happen?
+0578	Who were the perpetrators in 17 August 2005 Baghdad bombings?
+0579	Who was responsible for 17 August 2005 Baghdad bombings?
+0580	Who was the mastermind of 17 August 2005 Baghdad bombings?
+0581	How many people were injured in 17 August 2005 Baghdad bombings?
+0582	How many people were wounded in 17 August 2005 Baghdad bombings?
+0583	What was the attack type of 17 August 2005 Baghdad bombings?
+0584	What was/were the target(s) of 17 August 2005 Baghdad bombings
+0585	Where did 18 February 2007 Baghdad bombings happen?
+0586	When did 18 February 2007 Baghdad bombings happen?
+0587	Who were the perpetrators in 18 February 2007 Baghdad bombings?
+0588	Who was responsible for 18 February 2007 Baghdad bombings?
+0589	Who was the mastermind of 18 February 2007 Baghdad bombings?
+0590	How many people were injured in 18 February 2007 Baghdad bombings?
+0591	How many people were wounded in 18 February 2007 Baghdad bombings?
+0592	What was the attack type of 18 February 2007 Baghdad bombings?
+0593	What was/were the target(s) of 18 February 2007 Baghdad bombings
+0594	Where did 1964 Brinks Hotel bombing happen?
+0595	When did 1964 Brinks Hotel bombing happen?
+0596	Who were the perpetrators in 1964 Brinks Hotel bombing?
+0597	Who was responsible for 1964 Brinks Hotel bombing?
+0598	Who was the mastermind of 1964 Brinks Hotel bombing?
+0599	How many people were injured in 1964 Brinks Hotel bombing?
+0600	How many people were wounded in 1964 Brinks Hotel bombing?
+0601	What was the attack type of 1964 Brinks Hotel bombing?
+0602	What was/were the target(s) of 1964 Brinks Hotel bombing
+0603	Where did 2005 Sharm el-Sheikh attacks happen?
+0604	When did 2005 Sharm el-Sheikh attacks happen?
+0605	Who were the perpetrators in 2005 Sharm el-Sheikh attacks?
+0606	Who was responsible for 2005 Sharm el-Sheikh attacks?
+0607	Who was the mastermind of 2005 Sharm el-Sheikh attacks?
+0608	How many people were injured in 2005 Sharm el-Sheikh attacks?
+0609	How many people were wounded in 2005 Sharm el-Sheikh attacks?
+0610	What was the attack type of 2005 Sharm el-Sheikh attacks?
+0611	What was/were the target(s) of 2005 Sharm el-Sheikh attacks
+0612	Where did 1972 Aldershot Bombing happen?
+0613	When did 1972 Aldershot Bombing happen?
+0614	Who were the perpetrators in 1972 Aldershot Bombing?
+0615	Who was responsible for 1972 Aldershot Bombing?
+0616	Who was the mastermind of 1972 Aldershot Bombing?
+0617	How many people were injured in 1972 Aldershot Bombing?
+0618	How many people were wounded in 1972 Aldershot Bombing?
+0619	What was the attack type of 1972 Aldershot Bombing?
+0620	What was/were the target(s) of 1972 Aldershot Bombing
+0621	Where did 1983 United States Senate bombing happen?
+0622	When did 1983 United States Senate bombing happen?
+0623	Who were the perpetrators in 1983 United States Senate bombing?
+0624	Who was responsible for 1983 United States Senate bombing?
+0625	Who was the mastermind of 1983 United States Senate bombing?
+0626	How many people were injured in 1983 United States Senate bombing?
+0627	How many people were wounded in 1983 United States Senate bombing?
+0628	What was the attack type of 1983 United States Senate bombing?
+0629	What was/were the target(s) of 1983 United States Senate bombing
+0630	Where did 2001 Indian Parliament attack happen?
+0631	When did 2001 Indian Parliament attack happen?
+0632	Who were the perpetrators in 2001 Indian Parliament attack?
+0633	Who was responsible for 2001 Indian Parliament attack?
+0634	Who was the mastermind of 2001 Indian Parliament attack?
+0635	How many people were injured in 2001 Indian Parliament attack?
+0636	How many people were wounded in 2001 Indian Parliament attack?
+0637	What was the attack type of 2001 Indian Parliament attack?
+0638	What was/were the target(s) of 2001 Indian Parliament attack
+0639	Where did 2001 anthrax attacks happen?
+0640	When did 2001 anthrax attacks happen?
+0641	Who were the perpetrators in 2001 anthrax attacks?
+0642	Who was responsible for 2001 anthrax attacks?
+0643	Who was the mastermind of 2001 anthrax attacks?
+0644	How many people were injured in 2001 anthrax attacks?
+0645	How many people were wounded in 2001 anthrax attacks?
+0646	What was the attack type of 2001 anthrax attacks?
+0647	What was/were the target(s) of 2001 anthrax attacks
+0648	Where did 2002 Grozny truck bombing happen?
+0649	When did 2002 Grozny truck bombing happen?
+0650	Who were the perpetrators in 2002 Grozny truck bombing?
+0651	Who was responsible for 2002 Grozny truck bombing?
+0652	Who was the mastermind of 2002 Grozny truck bombing?
+0653	How many people were injured in 2002 Grozny truck bombing?
+0654	How many people were wounded in 2002 Grozny truck bombing?
+0655	What was the attack type of 2002 Grozny truck bombing?
+0656	What was/were the target(s) of 2002 Grozny truck bombing
+0657	Where did 2003 Red Square bombing happen?
+0658	When did 2003 Red Square bombing happen?
+0659	Who were the perpetrators in 2003 Red Square bombing?
+0660	Who was responsible for 2003 Red Square bombing?
+0661	Who was the mastermind of 2003 Red Square bombing?
+0662	How many people were injured in 2003 Red Square bombing?
+0663	How many people were wounded in 2003 Red Square bombing?
+0664	What was the attack type of 2003 Red Square bombing?
+0665	What was/were the target(s) of 2003 Red Square bombing
+0666	Where did 2004 Sinai bombings happen?
+0667	When did 2004 Sinai bombings happen?
+0668	Who were the perpetrators in 2004 Sinai bombings?
+0669	Who was responsible for 2004 Sinai bombings?
+0670	Who was the mastermind of 2004 Sinai bombings?
+0671	How many people were injured in 2004 Sinai bombings?
+0672	How many people were wounded in 2004 Sinai bombings?
+0673	What was the attack type of 2004 Sinai bombings?
+0674	What was/were the target(s) of 2004 Sinai bombings
+0675	Where did 2005 Jaunpur train bombing happen?
+0676	When did 2005 Jaunpur train bombing happen?
+0677	Who were the perpetrators in 2005 Jaunpur train bombing?
+0678	Who was responsible for 2005 Jaunpur train bombing?
+0679	Who was the mastermind of 2005 Jaunpur train bombing?
+0680	How many people were injured in 2005 Jaunpur train bombing?
+0681	How many people were wounded in 2005 Jaunpur train bombing?
+0682	What was the attack type of 2005 Jaunpur train bombing?
+0683	What was/were the target(s) of 2005 Jaunpur train bombing
+0684	Where did 2005 Musayyib bombing happen?
+0685	When did 2005 Musayyib bombing happen?
+0686	Who were the perpetrators in 2005 Musayyib bombing?
+0687	Who was responsible for 2005 Musayyib bombing?
+0688	Who was the mastermind of 2005 Musayyib bombing?
+0689	How many people were injured in 2005 Musayyib bombing?
+0690	How many people were wounded in 2005 Musayyib bombing?
+0691	What was the attack type of 2005 Musayyib bombing?
+0692	What was/were the target(s) of 2005 Musayyib bombing
+0693	Where did 2006 Moscow market bombing happen?
+0694	When did 2006 Moscow market bombing happen?
+0695	Who were the perpetrators in 2006 Moscow market bombing?
+0696	Who was responsible for 2006 Moscow market bombing?
+0697	Who was the mastermind of 2006 Moscow market bombing?
+0698	How many people were injured in 2006 Moscow market bombing?
+0699	How many people were wounded in 2006 Moscow market bombing?
+0700	What was the attack type of 2006 Moscow market bombing?
+0701	What was/were the target(s) of 2006 Moscow market bombing
+0702	Where did 2007 London car bombs happen?
+0703	When did 2007 London car bombs happen?
+0704	Who were the perpetrators in 2007 London car bombs?
+0705	Who was responsible for 2007 London car bombs?
+0706	Who was the mastermind of 2007 London car bombs?
+0707	How many people were injured in 2007 London car bombs?
+0708	How many people were wounded in 2007 London car bombs?
+0709	What was the attack type of 2007 London car bombs?
+0710	What was/were the target(s) of 2007 London car bombs
+0711	Where did 2007 Yazidi communities bombings happen?
+0712	When did 2007 Yazidi communities bombings happen?
+0713	Who were the perpetrators in 2007 Yazidi communities bombings?
+0714	Who was responsible for 2007 Yazidi communities bombings?
+0715	Who was the mastermind of 2007 Yazidi communities bombings?
+0716	How many people were injured in 2007 Yazidi communities bombings?
+0717	How many people were wounded in 2007 Yazidi communities bombings?
+0718	What was the attack type of 2007 Yazidi communities bombings?
+0719	What was/were the target(s) of 2007 Yazidi communities bombings
+0720	Where did 22 January 2007 Baghdad bombings happen?
+0721	When did 22 January 2007 Baghdad bombings happen?
+0722	Who were the perpetrators in 22 January 2007 Baghdad bombings?
+0723	Who was responsible for 22 January 2007 Baghdad bombings?
+0724	Who was the mastermind of 22 January 2007 Baghdad bombings?
+0725	How many people were injured in 22 January 2007 Baghdad bombings?
+0726	How many people were wounded in 22 January 2007 Baghdad bombings?
+0727	What was the attack type of 22 January 2007 Baghdad bombings?
+0728	What was/were the target(s) of 22 January 2007 Baghdad bombings
+0729	Where did 28 July 2003 Mumbai bus bombing happen?
+0730	When did 28 July 2003 Mumbai bus bombing happen?
+0731	Who were the perpetrators in 28 July 2003 Mumbai bus bombing?
+0732	Who was responsible for 28 July 2003 Mumbai bus bombing?
+0733	Who was the mastermind of 28 July 2003 Mumbai bus bombing?
+0734	How many people were injured in 28 July 2003 Mumbai bus bombing?
+0735	How many people were wounded in 28 July 2003 Mumbai bus bombing?
+0736	What was the attack type of 28 July 2003 Mumbai bus bombing?
+0737	What was/were the target(s) of 28 July 2003 Mumbai bus bombing
+0738	Where did 3 August 2001 Ealing bombing happen?
+0739	When did 3 August 2001 Ealing bombing happen?
+0740	Who were the perpetrators in 3 August 2001 Ealing bombing?
+0741	Who was responsible for 3 August 2001 Ealing bombing?
+0742	Who was the mastermind of 3 August 2001 Ealing bombing?
+0743	How many people were injured in 3 August 2001 Ealing bombing?
+0744	How many people were wounded in 3 August 2001 Ealing bombing?
+0745	What was the attack type of 3 August 2001 Ealing bombing?
+0746	What was/were the target(s) of 3 August 2001 Ealing bombing
+0747	Where did Afula Bus suicide bombing happen?
+0748	When did Afula Bus suicide bombing happen?
+0749	Who were the perpetrators in Afula Bus suicide bombing?
+0750	Who was responsible for Afula Bus suicide bombing?
+0751	Who was the mastermind of Afula Bus suicide bombing?
+0752	How many people were injured in Afula Bus suicide bombing?
+0753	How many people were wounded in Afula Bus suicide bombing?
+0754	What was the attack type of Afula Bus suicide bombing?
+0755	What was/were the target(s) of Afula Bus suicide bombing
+0756	Where did Banana massacre happen?
+0757	When did Banana massacre happen?
+0758	Who were the perpetrators in Banana massacre?
+0759	Who was responsible for Banana massacre?
+0760	Who was the mastermind of Banana massacre?
+0761	How many people were injured in Banana massacre?
+0762	How many people were wounded in Banana massacre?
+0763	What was the attack type of Banana massacre?
+0764	What was/were the target(s) of Banana massacre
+0765	Where did Claudy bombing happen?
+0766	When did Claudy bombing happen?
+0767	Who were the perpetrators in Claudy bombing?
+0768	Who was responsible for Claudy bombing?
+0769	Who was the mastermind of Claudy bombing?
+0770	How many people were injured in Claudy bombing?
+0771	How many people were wounded in Claudy bombing?
+0772	What was the attack type of Claudy bombing?
+0773	What was/were the target(s) of Claudy bombing
+0774	Where did Christmas Eve 2000 Indonesia bombings happen?
+0775	When did Christmas Eve 2000 Indonesia bombings happen?
+0776	Who were the perpetrators in Christmas Eve 2000 Indonesia bombings?
+0777	Who was responsible for Christmas Eve 2000 Indonesia bombings?
+0778	Who was the mastermind of Christmas Eve 2000 Indonesia bombings?
+0779	How many people were injured in Christmas Eve 2000 Indonesia bombings?
+0780	How many people were wounded in Christmas Eve 2000 Indonesia bombings?
+0781	What was the attack type of Christmas Eve 2000 Indonesia bombings?
+0782	What was/were the target(s) of Christmas Eve 2000 Indonesia bombings
+0783	Where did Candlemas Massacre happen?
+0784	When did Candlemas Massacre happen?
+0785	Who were the perpetrators in Candlemas Massacre?
+0786	Who was responsible for Candlemas Massacre?
+0787	Who was the mastermind of Candlemas Massacre?
+0788	How many people were injured in Candlemas Massacre?
+0789	How many people were wounded in Candlemas Massacre?
+0790	What was the attack type of Candlemas Massacre?
+0791	What was/were the target(s) of Candlemas Massacre
+0792	Where did 2008 Weliveriya bombing happen?
+0793	When did 2008 Weliveriya bombing happen?
+0794	Who were the perpetrators in 2008 Weliveriya bombing?
+0795	Who was responsible for 2008 Weliveriya bombing?
+0796	Who was the mastermind of 2008 Weliveriya bombing?
+0797	How many people were injured in 2008 Weliveriya bombing?
+0798	How many people were wounded in 2008 Weliveriya bombing?
+0799	What was the attack type of 2008 Weliveriya bombing?
+0800	What was/were the target(s) of 2008 Weliveriya bombing
+0801	Where did Haifa bus 37 suicide bombing happen?
+0802	When did Haifa bus 37 suicide bombing happen?
+0803	Who were the perpetrators in Haifa bus 37 suicide bombing?
+0804	Who was responsible for Haifa bus 37 suicide bombing?
+0805	Who was the mastermind of Haifa bus 37 suicide bombing?
+0806	How many people were injured in Haifa bus 37 suicide bombing?
+0807	How many people were wounded in Haifa bus 37 suicide bombing?
+0808	What was the attack type of Haifa bus 37 suicide bombing?
+0809	What was/were the target(s) of Haifa bus 37 suicide bombing
+0810	Where did 2002 Jaunpur train crash happen?
+0811	When did 2002 Jaunpur train crash happen?
+0812	Who were the perpetrators in 2002 Jaunpur train crash?
+0813	Who was responsible for 2002 Jaunpur train crash?
+0814	Who was the mastermind of 2002 Jaunpur train crash?
+0815	How many people were injured in 2002 Jaunpur train crash?
+0816	How many people were wounded in 2002 Jaunpur train crash?
+0817	What was the attack type of 2002 Jaunpur train crash?
+0818	What was/were the target(s) of 2002 Jaunpur train crash
+0819	Where did 2006 Toronto terrorism plot happen?
+0820	When did 2006 Toronto terrorism plot happen?
+0821	Who were the perpetrators in 2006 Toronto terrorism plot?
+0822	Who was responsible for 2006 Toronto terrorism plot?
+0823	Who was the mastermind of 2006 Toronto terrorism plot?
+0824	How many people were injured in 2006 Toronto terrorism plot?
+0825	How many people were wounded in 2006 Toronto terrorism plot?
+0826	What was the attack type of 2006 Toronto terrorism plot?
+0827	What was/were the target(s) of 2006 Toronto terrorism plot
+0828	Where did Y?ld?z assassination attempt happen?
+0829	When did Y?ld?z assassination attempt happen?
+0830	Who were the perpetrators in Y?ld?z assassination attempt?
+0831	Who was responsible for Y?ld?z assassination attempt?
+0832	Who was the mastermind of Y?ld?z assassination attempt?
+0833	How many people were injured in Y?ld?z assassination attempt?
+0834	How many people were wounded in Y?ld?z assassination attempt?
+0835	What was the attack type of Y?ld?z assassination attempt?
+0836	What was/were the target(s) of Y?ld?z assassination attempt
+0837	Where did R¨ªo Piedras massacre happen?
+0838	When did R¨ªo Piedras massacre happen?
+0839	Who were the perpetrators in R¨ªo Piedras massacre?
+0840	Who was responsible for R¨ªo Piedras massacre?
+0841	Who was the mastermind of R¨ªo Piedras massacre?
+0842	How many people were injured in R¨ªo Piedras massacre?
+0843	How many people were wounded in R¨ªo Piedras massacre?
+0844	What was the attack type of R¨ªo Piedras massacre?
+0845	What was/were the target(s) of R¨ªo Piedras massacre
+0846	Where did Harrods bombing happen?
+0847	When did Harrods bombing happen?
+0848	Who were the perpetrators in Harrods bombing?
+0849	Who was responsible for Harrods bombing?
+0850	Who was the mastermind of Harrods bombing?
+0851	How many people were injured in Harrods bombing?
+0852	How many people were wounded in Harrods bombing?
+0853	What was the attack type of Harrods bombing?
+0854	What was/were the target(s) of Harrods bombing
+0855	Where did 1 February 2008 Baghdad bombings happen?
+0856	When did 1 February 2008 Baghdad bombings happen?
+0857	Who were the perpetrators in 1 February 2008 Baghdad bombings?
+0858	Who was responsible for 1 February 2008 Baghdad bombings?
+0859	Who was the mastermind of 1 February 2008 Baghdad bombings?
+0860	How many people were injured in 1 February 2008 Baghdad bombings?
+0861	How many people were wounded in 1 February 2008 Baghdad bombings?
+0862	What was the attack type of 1 February 2008 Baghdad bombings?
+0863	What was/were the target(s) of 1 February 2008 Baghdad bombings
+0864	Where did April 2010 Baghdad bombings happen?
+0865	When did April 2010 Baghdad bombings happen?
+0866	Who were the perpetrators in April 2010 Baghdad bombings?
+0867	Who was responsible for April 2010 Baghdad bombings?
+0868	Who was the mastermind of April 2010 Baghdad bombings?
+0869	How many people were injured in April 2010 Baghdad bombings?
+0870	How many people were wounded in April 2010 Baghdad bombings?
+0871	What was the attack type of April 2010 Baghdad bombings?
+0872	What was/were the target(s) of April 2010 Baghdad bombings
+0873	Where did Imam Ali Mosque bombing happen?
+0874	When did Imam Ali Mosque bombing happen?
+0875	Who were the perpetrators in Imam Ali Mosque bombing?
+0876	Who was responsible for Imam Ali Mosque bombing?
+0877	Who was the mastermind of Imam Ali Mosque bombing?
+0878	How many people were injured in Imam Ali Mosque bombing?
+0879	How many people were wounded in Imam Ali Mosque bombing?
+0880	What was the attack type of Imam Ali Mosque bombing?
+0881	What was/were the target(s) of Imam Ali Mosque bombing
+0882	Where did Long Run Massacre happen?
+0883	When did Long Run Massacre happen?
+0884	Who were the perpetrators in Long Run Massacre?
+0885	Who was responsible for Long Run Massacre?
+0886	Who was the mastermind of Long Run Massacre?
+0887	How many people were injured in Long Run Massacre?
+0888	How many people were wounded in Long Run Massacre?
+0889	What was the attack type of Long Run Massacre?
+0890	What was/were the target(s) of Long Run Massacre
+0891	Where did 1987 grenade attack in the Sri Lankan Parliament happen?
+0892	When did 1987 grenade attack in the Sri Lankan Parliament happen?
+0893	Who were the perpetrators in 1987 grenade attack in the Sri Lankan Parliament?
+0894	Who was responsible for 1987 grenade attack in the Sri Lankan Parliament?
+0895	Who was the mastermind of 1987 grenade attack in the Sri Lankan Parliament?
+0896	How many people were injured in 1987 grenade attack in the Sri Lankan Parliament?
+0897	How many people were wounded in 1987 grenade attack in the Sri Lankan Parliament?
+0898	What was the attack type of 1987 grenade attack in the Sri Lankan Parliament?
+0899	What was/were the target(s) of 1987 grenade attack in the Sri Lankan Parliament
+0900	Where did Mapirip¨¢n Massacre happen?
+0901	When did Mapirip¨¢n Massacre happen?
+0902	Who were the perpetrators in Mapirip¨¢n Massacre?
+0903	Who was responsible for Mapirip¨¢n Massacre?
+0904	Who was the mastermind of Mapirip¨¢n Massacre?
+0905	How many people were injured in Mapirip¨¢n Massacre?
+0906	How many people were wounded in Mapirip¨¢n Massacre?
+0907	What was the attack type of Mapirip¨¢n Massacre?
+0908	What was/were the target(s) of Mapirip¨¢n Massacre
+0909	Where did Leighton case happen?
+0910	When did Leighton case happen?
+0911	Who were the perpetrators in Leighton case?
+0912	Who was responsible for Leighton case?
+0913	Who was the mastermind of Leighton case?
+0914	How many people were injured in Leighton case?
+0915	How many people were wounded in Leighton case?
+0916	What was the attack type of Leighton case?
+0917	What was/were the target(s) of Leighton case
+0918	Where did 3 March 2010 Baqubah bombings happen?
+0919	When did 3 March 2010 Baqubah bombings happen?
+0920	Who were the perpetrators in 3 March 2010 Baqubah bombings?
+0921	Who was responsible for 3 March 2010 Baqubah bombings?
+0922	Who was the mastermind of 3 March 2010 Baqubah bombings?
+0923	How many people were injured in 3 March 2010 Baqubah bombings?
+0924	How many people were wounded in 3 March 2010 Baqubah bombings?
+0925	What was the attack type of 3 March 2010 Baqubah bombings?
+0926	What was/were the target(s) of 3 March 2010 Baqubah bombings
+0927	Where did 2009 Kabul Indian embassy attack happen?
+0928	When did 2009 Kabul Indian embassy attack happen?
+0929	Who were the perpetrators in 2009 Kabul Indian embassy attack?
+0930	Who was responsible for 2009 Kabul Indian embassy attack?
+0931	Who was the mastermind of 2009 Kabul Indian embassy attack?
+0932	How many people were injured in 2009 Kabul Indian embassy attack?
+0933	How many people were wounded in 2009 Kabul Indian embassy attack?
+0934	What was the attack type of 2009 Kabul Indian embassy attack?
+0935	What was/were the target(s) of 2009 Kabul Indian embassy attack
+0936	Where did U.S. Embassy happen?
+0937	When did U.S. Embassy happen?
+0938	Who were the perpetrators in U.S. Embassy?
+0939	Who was responsible for U.S. Embassy?
+0940	Who was the mastermind of U.S. Embassy?
+0941	How many people were injured in U.S. Embassy?
+0942	How many people were wounded in U.S. Embassy?
+0943	What was the attack type of U.S. Embassy?
+0944	What was/were the target(s) of U.S. Embassy
+0945	Where did Camp Chapman attack happen?
+0946	When did Camp Chapman attack happen?
+0947	Who were the perpetrators in Camp Chapman attack?
+0948	Who was responsible for Camp Chapman attack?
+0949	Who was the mastermind of Camp Chapman attack?
+0950	How many people were injured in Camp Chapman attack?
+0951	How many people were wounded in Camp Chapman attack?
+0952	What was the attack type of Camp Chapman attack?
+0953	What was/were the target(s) of Camp Chapman attack
+0954	Where did 1985 Newry mortar attack happen?
+0955	When did 1985 Newry mortar attack happen?
+0956	Who were the perpetrators in 1985 Newry mortar attack?
+0957	Who was responsible for 1985 Newry mortar attack?
+0958	Who was the mastermind of 1985 Newry mortar attack?
+0959	How many people were injured in 1985 Newry mortar attack?
+0960	How many people were wounded in 1985 Newry mortar attack?
+0961	What was the attack type of 1985 Newry mortar attack?
+0962	What was/were the target(s) of 1985 Newry mortar attack
+0963	Where did 2002 Bali bombings happen?
+0964	When did 2002 Bali bombings happen?
+0965	Who were the perpetrators in 2002 Bali bombings?
+0966	Who was responsible for 2002 Bali bombings?
+0967	Who was the mastermind of 2002 Bali bombings?
+0968	How many people were injured in 2002 Bali bombings?
+0969	How many people were wounded in 2002 Bali bombings?
+0970	What was the attack type of 2002 Bali bombings?
+0971	What was/were the target(s) of 2002 Bali bombings
+0972	Where did Centennial Olympic Park bombing happen?
+0973	When did Centennial Olympic Park bombing happen?
+0974	Who were the perpetrators in Centennial Olympic Park bombing?
+0975	Who was responsible for Centennial Olympic Park bombing?
+0976	Who was the mastermind of Centennial Olympic Park bombing?
+0977	How many people were injured in Centennial Olympic Park bombing?
+0978	How many people were wounded in Centennial Olympic Park bombing?
+0979	What was the attack type of Centennial Olympic Park bombing?
+0980	What was/were the target(s) of Centennial Olympic Park bombing
+0981	Where did Canal Hotel bombing happen?
+0982	When did Canal Hotel bombing happen?
+0983	Who were the perpetrators in Canal Hotel bombing?
+0984	Who was responsible for Canal Hotel bombing?
+0985	Who was the mastermind of Canal Hotel bombing?
+0986	How many people were injured in Canal Hotel bombing?
+0987	How many people were wounded in Canal Hotel bombing?
+0988	What was the attack type of Canal Hotel bombing?
+0989	What was/were the target(s) of Canal Hotel bombing
+0990	Where did 2001 shoe bomb plot happen?
+0991	When did 2001 shoe bomb plot happen?
+0992	Who were the perpetrators in 2001 shoe bomb plot?
+0993	Who was responsible for 2001 shoe bomb plot?
+0994	Who was the mastermind of 2001 shoe bomb plot?
+0995	How many people were injured in 2001 shoe bomb plot?
+0996	How many people were wounded in 2001 shoe bomb plot?
+0997	What was the attack type of 2001 shoe bomb plot?
+0998	What was/were the target(s) of 2001 shoe bomb plot
+0999	Where did 2003 Casablanca bombings happen?
+1000	When did 2003 Casablanca bombings happen?
+1001	Who were the perpetrators in 2003 Casablanca bombings?
+1002	Who was responsible for 2003 Casablanca bombings?
+1003	Who was the mastermind of 2003 Casablanca bombings?
+1004	How many people were injured in 2003 Casablanca bombings?
+1005	How many people were wounded in 2003 Casablanca bombings?
+1006	What was the attack type of 2003 Casablanca bombings?
+1007	What was/were the target(s) of 2003 Casablanca bombings
+1008	Where did Sarin gas attack on the Tokyo subway happen?
+1009	When did Sarin gas attack on the Tokyo subway happen?
+1010	Who were the perpetrators in Sarin gas attack on the Tokyo subway?
+1011	Who was responsible for Sarin gas attack on the Tokyo subway?
+1012	Who was the mastermind of Sarin gas attack on the Tokyo subway?
+1013	How many people were injured in Sarin gas attack on the Tokyo subway?
+1014	How many people were wounded in Sarin gas attack on the Tokyo subway?
+1015	What was the attack type of Sarin gas attack on the Tokyo subway?
+1016	What was/were the target(s) of Sarin gas attack on the Tokyo subway
+1017	Where did Wall Street bombing happen?
+1018	When did Wall Street bombing happen?
+1019	Who were the perpetrators in Wall Street bombing?
+1020	Who was responsible for Wall Street bombing?
+1021	Who was the mastermind of Wall Street bombing?
+1022	How many people were injured in Wall Street bombing?
+1023	How many people were wounded in Wall Street bombing?
+1024	What was the attack type of Wall Street bombing?
+1025	What was/were the target(s) of Wall Street bombing
+1026	Where did 2 March 2004 Iraq Ashura bombings happen?
+1027	When did 2 March 2004 Iraq Ashura bombings happen?
+1028	Who were the perpetrators in 2 March 2004 Iraq Ashura bombings?
+1029	Who was responsible for 2 March 2004 Iraq Ashura bombings?
+1030	Who was the mastermind of 2 March 2004 Iraq Ashura bombings?
+1031	How many people were injured in 2 March 2004 Iraq Ashura bombings?
+1032	How many people were wounded in 2 March 2004 Iraq Ashura bombings?
+1033	What was the attack type of 2 March 2004 Iraq Ashura bombings?
+1034	What was/were the target(s) of 2 March 2004 Iraq Ashura bombings
+1035	Where did 2003 Istanbul bombings happen?
+1036	When did 2003 Istanbul bombings happen?
+1037	Who were the perpetrators in 2003 Istanbul bombings?
+1038	Who was responsible for 2003 Istanbul bombings?
+1039	Who was the mastermind of 2003 Istanbul bombings?
+1040	How many people were injured in 2003 Istanbul bombings?
+1041	How many people were wounded in 2003 Istanbul bombings?
+1042	What was the attack type of 2003 Istanbul bombings?
+1043	What was/were the target(s) of 2003 Istanbul bombings
+1044	Where did 2007 Casablanca bombings happen?
+1045	When did 2007 Casablanca bombings happen?
+1046	Who were the perpetrators in 2007 Casablanca bombings?
+1047	Who was responsible for 2007 Casablanca bombings?
+1048	Who was the mastermind of 2007 Casablanca bombings?
+1049	How many people were injured in 2007 Casablanca bombings?
+1050	How many people were wounded in 2007 Casablanca bombings?
+1051	What was the attack type of 2007 Casablanca bombings?
+1052	What was/were the target(s) of 2007 Casablanca bombings
+1053	Where did Ben Yehuda Street bombings happen?
+1054	When did Ben Yehuda Street bombings happen?
+1055	Who were the perpetrators in Ben Yehuda Street bombings?
+1056	Who was responsible for Ben Yehuda Street bombings?
+1057	Who was the mastermind of Ben Yehuda Street bombings?
+1058	How many people were injured in Ben Yehuda Street bombings?
+1059	How many people were wounded in Ben Yehuda Street bombings?
+1060	What was the attack type of Ben Yehuda Street bombings?
+1061	What was/were the target(s) of Ben Yehuda Street bombings
+1062	Where did Killough massacre happen?
+1063	When did Killough massacre happen?
+1064	Who were the perpetrators in Killough massacre?
+1065	Who was responsible for Killough massacre?
+1066	Who was the mastermind of Killough massacre?
+1067	How many people were injured in Killough massacre?
+1068	How many people were wounded in Killough massacre?
+1069	What was the attack type of Killough massacre?
+1070	What was/were the target(s) of Killough massacre
+1071	Where did Aramoana massacre happen?
+1072	When did Aramoana massacre happen?
+1073	Who were the perpetrators in Aramoana massacre?
+1074	Who was responsible for Aramoana massacre?
+1075	Who was the mastermind of Aramoana massacre?
+1076	How many people were injured in Aramoana massacre?
+1077	How many people were wounded in Aramoana massacre?
+1078	What was the attack type of Aramoana massacre?
+1079	What was/were the target(s) of Aramoana massacre
+1080	Where did 2007 Fort Dix attack plot happen?
+1081	When did 2007 Fort Dix attack plot happen?
+1082	Who were the perpetrators in 2007 Fort Dix attack plot?
+1083	Who was responsible for 2007 Fort Dix attack plot?
+1084	Who was the mastermind of 2007 Fort Dix attack plot?
+1085	How many people were injured in 2007 Fort Dix attack plot?
+1086	How many people were wounded in 2007 Fort Dix attack plot?
+1087	What was the attack type of 2007 Fort Dix attack plot?
+1088	What was/were the target(s) of 2007 Fort Dix attack plot
+1089	Where did Big Bottom massacre happen?
+1090	When did Big Bottom massacre happen?
+1091	Who were the perpetrators in Big Bottom massacre?
+1092	Who was responsible for Big Bottom massacre?
+1093	Who was the mastermind of Big Bottom massacre?
+1094	How many people were injured in Big Bottom massacre?
+1095	How many people were wounded in Big Bottom massacre?
+1096	What was the attack type of Big Bottom massacre?
+1097	What was/were the target(s) of Big Bottom massacre
+1098	Where did M62 coach bombing happen?
+1099	When did M62 coach bombing happen?
+1100	Who were the perpetrators in M62 coach bombing?
+1101	Who was responsible for M62 coach bombing?
+1102	Who was the mastermind of M62 coach bombing?
+1103	How many people were injured in M62 coach bombing?
+1104	How many people were wounded in M62 coach bombing?
+1105	What was the attack type of M62 coach bombing?
+1106	What was/were the target(s) of M62 coach bombing
+1107	Where did 2008 Mogadishu bombings happen?
+1108	When did 2008 Mogadishu bombings happen?
+1109	Who were the perpetrators in 2008 Mogadishu bombings?
+1110	Who was responsible for 2008 Mogadishu bombings?
+1111	Who was the mastermind of 2008 Mogadishu bombings?
+1112	How many people were injured in 2008 Mogadishu bombings?
+1113	How many people were wounded in 2008 Mogadishu bombings?
+1114	What was the attack type of 2008 Mogadishu bombings?
+1115	What was/were the target(s) of 2008 Mogadishu bombings
+1116	Where did First Magdalena Massacre happen?
+1117	When did First Magdalena Massacre happen?
+1118	Who were the perpetrators in First Magdalena Massacre?
+1119	Who was responsible for First Magdalena Massacre?
+1120	Who was the mastermind of First Magdalena Massacre?
+1121	How many people were injured in First Magdalena Massacre?
+1122	How many people were wounded in First Magdalena Massacre?
+1123	What was the attack type of First Magdalena Massacre?
+1124	What was/were the target(s) of First Magdalena Massacre
+1125	Where did Patt Junction Bus Bombing happen?
+1126	When did Patt Junction Bus Bombing happen?
+1127	Who were the perpetrators in Patt Junction Bus Bombing?
+1128	Who was responsible for Patt Junction Bus Bombing?
+1129	Who was the mastermind of Patt Junction Bus Bombing?
+1130	How many people were injured in Patt Junction Bus Bombing?
+1131	How many people were wounded in Patt Junction Bus Bombing?
+1132	What was the attack type of Patt Junction Bus Bombing?
+1133	What was/were the target(s) of Patt Junction Bus Bombing
+1134	Where did 13 March 2003 Mumbai train bombing happen?
+1135	When did 13 March 2003 Mumbai train bombing happen?
+1136	Who were the perpetrators in 13 March 2003 Mumbai train bombing?
+1137	Who was responsible for 13 March 2003 Mumbai train bombing?
+1138	Who was the mastermind of 13 March 2003 Mumbai train bombing?
+1139	How many people were injured in 13 March 2003 Mumbai train bombing?
+1140	How many people were wounded in 13 March 2003 Mumbai train bombing?
+1141	What was the attack type of 13 March 2003 Mumbai train bombing?
+1142	What was/were the target(s) of 13 March 2003 Mumbai train bombing
+1143	Where did 18 April 2007 Baghdad bombings happen?
+1144	When did 18 April 2007 Baghdad bombings happen?
+1145	Who were the perpetrators in 18 April 2007 Baghdad bombings?
+1146	Who was responsible for 18 April 2007 Baghdad bombings?
+1147	Who was the mastermind of 18 April 2007 Baghdad bombings?
+1148	How many people were injured in 18 April 2007 Baghdad bombings?
+1149	How many people were wounded in 18 April 2007 Baghdad bombings?
+1150	What was the attack type of 18 April 2007 Baghdad bombings?
+1151	What was/were the target(s) of 18 April 2007 Baghdad bombings
+1152	Where did 1993 World Trade Center bombing happen?
+1153	When did 1993 World Trade Center bombing happen?
+1154	Who were the perpetrators in 1993 World Trade Center bombing?
+1155	Who was responsible for 1993 World Trade Center bombing?
+1156	Who was the mastermind of 1993 World Trade Center bombing?
+1157	How many people were injured in 1993 World Trade Center bombing?
+1158	How many people were wounded in 1993 World Trade Center bombing?
+1159	What was the attack type of 1993 World Trade Center bombing?
+1160	What was/were the target(s) of 1993 World Trade Center bombing
+1161	Where did 1 July 2006 Sadr City bombing happen?
+1162	When did 1 July 2006 Sadr City bombing happen?
+1163	Who were the perpetrators in 1 July 2006 Sadr City bombing?
+1164	Who was responsible for 1 July 2006 Sadr City bombing?
+1165	Who was the mastermind of 1 July 2006 Sadr City bombing?
+1166	How many people were injured in 1 July 2006 Sadr City bombing?
+1167	How many people were wounded in 1 July 2006 Sadr City bombing?
+1168	What was the attack type of 1 July 2006 Sadr City bombing?
+1169	What was/were the target(s) of 1 July 2006 Sadr City bombing
+1170	Where did 2003 Stavropol train bombing happen?
+1171	When did 2003 Stavropol train bombing happen?
+1172	Who were the perpetrators in 2003 Stavropol train bombing?
+1173	Who was responsible for 2003 Stavropol train bombing?
+1174	Who was the mastermind of 2003 Stavropol train bombing?
+1175	How many people were injured in 2003 Stavropol train bombing?
+1176	How many people were wounded in 2003 Stavropol train bombing?
+1177	What was the attack type of 2003 Stavropol train bombing?
+1178	What was/were the target(s) of 2003 Stavropol train bombing
+1179	Where did 2004 Baqubah bombing happen?
+1180	When did 2004 Baqubah bombing happen?
+1181	Who were the perpetrators in 2004 Baqubah bombing?
+1182	Who was responsible for 2004 Baqubah bombing?
+1183	Who was the mastermind of 2004 Baqubah bombing?
+1184	How many people were injured in 2004 Baqubah bombing?
+1185	How many people were wounded in 2004 Baqubah bombing?
+1186	What was the attack type of 2004 Baqubah bombing?
+1187	What was/were the target(s) of 2004 Baqubah bombing
+1188	Where did 2004 Forward Operating Base Marez bombing happen?
+1189	When did 2004 Forward Operating Base Marez bombing happen?
+1190	Who were the perpetrators in 2004 Forward Operating Base Marez bombing?
+1191	Who was responsible for 2004 Forward Operating Base Marez bombing?
+1192	Who was the mastermind of 2004 Forward Operating Base Marez bombing?
+1193	How many people were injured in 2004 Forward Operating Base Marez bombing?
+1194	How many people were wounded in 2004 Forward Operating Base Marez bombing?
+1195	What was the attack type of 2004 Forward Operating Base Marez bombing?
+1196	What was/were the target(s) of 2004 Forward Operating Base Marez bombing
+1197	Where did 2006 Dahab bombings happen?
+1198	When did 2006 Dahab bombings happen?
+1199	Who were the perpetrators in 2006 Dahab bombings?
+1200	Who was responsible for 2006 Dahab bombings?
+1201	Who was the mastermind of 2006 Dahab bombings?
+1202	How many people were injured in 2006 Dahab bombings?
+1203	How many people were wounded in 2006 Dahab bombings?
+1204	What was the attack type of 2006 Dahab bombings?
+1205	What was/were the target(s) of 2006 Dahab bombings
+1206	Where did 2006 Digampathana bombing happen?
+1207	When did 2006 Digampathana bombing happen?
+1208	Who were the perpetrators in 2006 Digampathana bombing?
+1209	Who was responsible for 2006 Digampathana bombing?
+1210	Who was the mastermind of 2006 Digampathana bombing?
+1211	How many people were injured in 2006 Digampathana bombing?
+1212	How many people were wounded in 2006 Digampathana bombing?
+1213	What was the attack type of 2006 Digampathana bombing?
+1214	What was/were the target(s) of 2006 Digampathana bombing
+1215	Where did 2006 West Bengal train disaster happen?
+1216	When did 2006 West Bengal train disaster happen?
+1217	Who were the perpetrators in 2006 West Bengal train disaster?
+1218	Who was responsible for 2006 West Bengal train disaster?
+1219	Who was the mastermind of 2006 West Bengal train disaster?
+1220	How many people were injured in 2006 West Bengal train disaster?
+1221	How many people were wounded in 2006 West Bengal train disaster?
+1222	What was the attack type of 2006 West Bengal train disaster?
+1223	What was/were the target(s) of 2006 West Bengal train disaster
+1224	Where did 2007 Amirli bombing happen?
+1225	When did 2007 Amirli bombing happen?
+1226	Who were the perpetrators in 2007 Amirli bombing?
+1227	Who was responsible for 2007 Amirli bombing?
+1228	Who was the mastermind of 2007 Amirli bombing?
+1229	How many people were injured in 2007 Amirli bombing?
+1230	How many people were wounded in 2007 Amirli bombing?
+1231	What was the attack type of 2007 Amirli bombing?
+1232	What was/were the target(s) of 2007 Amirli bombing
+1233	Where did 2007 Baghlan sugar factory bombing happen?
+1234	When did 2007 Baghlan sugar factory bombing happen?
+1235	Who were the perpetrators in 2007 Baghlan sugar factory bombing?
+1236	Who was responsible for 2007 Baghlan sugar factory bombing?
+1237	Who was the mastermind of 2007 Baghlan sugar factory bombing?
+1238	How many people were injured in 2007 Baghlan sugar factory bombing?
+1239	How many people were wounded in 2007 Baghlan sugar factory bombing?
+1240	What was the attack type of 2007 Baghlan sugar factory bombing?
+1241	What was/were the target(s) of 2007 Baghlan sugar factory bombing
+1242	Where did 2007 Dellys bombing happen?
+1243	When did 2007 Dellys bombing happen?
+1244	Who were the perpetrators in 2007 Dellys bombing?
+1245	Who was responsible for 2007 Dellys bombing?
+1246	Who was the mastermind of 2007 Dellys bombing?
+1247	How many people were injured in 2007 Dellys bombing?
+1248	How many people were wounded in 2007 Dellys bombing?
+1249	What was the attack type of 2007 Dellys bombing?
+1250	What was/were the target(s) of 2007 Dellys bombing
+1251	Where did 2007 John F. Kennedy International Airport attack plot happen?
+1252	When did 2007 John F. Kennedy International Airport attack plot happen?
+1253	Who were the perpetrators in 2007 John F. Kennedy International Airport attack plot?
+1254	Who was responsible for 2007 John F. Kennedy International Airport attack plot?
+1255	Who was the mastermind of 2007 John F. Kennedy International Airport attack plot?
+1256	How many people were injured in 2007 John F. Kennedy International Airport attack plot?
+1257	How many people were wounded in 2007 John F. Kennedy International Airport attack plot?
+1258	What was the attack type of 2007 John F. Kennedy International Airport attack plot?
+1259	What was/were the target(s) of 2007 John F. Kennedy International Airport attack plot
+1260	Where did 2007 Songkhla bombings happen?
+1261	When did 2007 Songkhla bombings happen?
+1262	Who were the perpetrators in 2007 Songkhla bombings?
+1263	Who was responsible for 2007 Songkhla bombings?
+1264	Who was the mastermind of 2007 Songkhla bombings?
+1265	How many people were injured in 2007 Songkhla bombings?
+1266	How many people were wounded in 2007 Songkhla bombings?
+1267	What was the attack type of 2007 Songkhla bombings?
+1268	What was/were the target(s) of 2007 Songkhla bombings
+1269	Where did 23 November 2006 Sadr City bombings happen?
+1270	When did 23 November 2006 Sadr City bombings happen?
+1271	Who were the perpetrators in 23 November 2006 Sadr City bombings?
+1272	Who was responsible for 23 November 2006 Sadr City bombings?
+1273	Who was the mastermind of 23 November 2006 Sadr City bombings?
+1274	How many people were injured in 23 November 2006 Sadr City bombings?
+1275	How many people were wounded in 23 November 2006 Sadr City bombings?
+1276	What was the attack type of 23 November 2006 Sadr City bombings?
+1277	What was/were the target(s) of 23 November 2006 Sadr City bombings
+1278	Where did 27 October 2003 Baghdad bombings happen?
+1279	When did 27 October 2003 Baghdad bombings happen?
+1280	Who were the perpetrators in 27 October 2003 Baghdad bombings?
+1281	Who was responsible for 27 October 2003 Baghdad bombings?
+1282	Who was the mastermind of 27 October 2003 Baghdad bombings?
+1283	How many people were injured in 27 October 2003 Baghdad bombings?
+1284	How many people were wounded in 27 October 2003 Baghdad bombings?
+1285	What was the attack type of 27 October 2003 Baghdad bombings?
+1286	What was/were the target(s) of 27 October 2003 Baghdad bombings
+1287	Where did 29 October 2005 Delhi bombings happen?
+1288	When did 29 October 2005 Delhi bombings happen?
+1289	Who were the perpetrators in 29 October 2005 Delhi bombings?
+1290	Who was responsible for 29 October 2005 Delhi bombings?
+1291	Who was the mastermind of 29 October 2005 Delhi bombings?
+1292	How many people were injured in 29 October 2005 Delhi bombings?
+1293	How many people were wounded in 29 October 2005 Delhi bombings?
+1294	What was the attack type of 29 October 2005 Delhi bombings?
+1295	What was/were the target(s) of 29 October 2005 Delhi bombings
+1296	Where did 3 February 2007 Baghdad market bombing happen?
+1297	When did 3 February 2007 Baghdad market bombing happen?
+1298	Who were the perpetrators in 3 February 2007 Baghdad market bombing?
+1299	Who was responsible for 3 February 2007 Baghdad market bombing?
+1300	Who was the mastermind of 3 February 2007 Baghdad market bombing?
+1301	How many people were injured in 3 February 2007 Baghdad market bombing?
+1302	How many people were wounded in 3 February 2007 Baghdad market bombing?
+1303	What was the attack type of 3 February 2007 Baghdad market bombing?
+1304	What was/were the target(s) of 3 February 2007 Baghdad market bombing
+1305	Where did 6 December 2002 Mumbai bus bombing happen?
+1306	When did 6 December 2002 Mumbai bus bombing happen?
+1307	Who were the perpetrators in 6 December 2002 Mumbai bus bombing?
+1308	Who was responsible for 6 December 2002 Mumbai bus bombing?
+1309	Who was the mastermind of 6 December 2002 Mumbai bus bombing?
+1310	How many people were injured in 6 December 2002 Mumbai bus bombing?
+1311	How many people were wounded in 6 December 2002 Mumbai bus bombing?
+1312	What was the attack type of 6 December 2002 Mumbai bus bombing?
+1313	What was/were the target(s) of 6 December 2002 Mumbai bus bombing
+1314	Where did Batasang Pambansa bombing happen?
+1315	When did Batasang Pambansa bombing happen?
+1316	Who were the perpetrators in Batasang Pambansa bombing?
+1317	Who was responsible for Batasang Pambansa bombing?
+1318	Who was the mastermind of Batasang Pambansa bombing?
+1319	How many people were injured in Batasang Pambansa bombing?
+1320	How many people were wounded in Batasang Pambansa bombing?
+1321	What was the attack type of Batasang Pambansa bombing?
+1322	What was/were the target(s) of Batasang Pambansa bombing
+1323	Where did Bombing of the Hebrew Benevolent Congregation Temple happen?
+1324	When did Bombing of the Hebrew Benevolent Congregation Temple happen?
+1325	Who were the perpetrators in Bombing of the Hebrew Benevolent Congregation Temple?
+1326	Who was responsible for Bombing of the Hebrew Benevolent Congregation Temple?
+1327	Who was the mastermind of Bombing of the Hebrew Benevolent Congregation Temple?
+1328	How many people were injured in Bombing of the Hebrew Benevolent Congregation Temple?
+1329	How many people were wounded in Bombing of the Hebrew Benevolent Congregation Temple?
+1330	What was the attack type of Bombing of the Hebrew Benevolent Congregation Temple?
+1331	What was/were the target(s) of Bombing of the Hebrew Benevolent Congregation Temple
+1332	Where did Dizengoff Center suicide bombing happen?
+1333	When did Dizengoff Center suicide bombing happen?
+1334	Who were the perpetrators in Dizengoff Center suicide bombing?
+1335	Who was responsible for Dizengoff Center suicide bombing?
+1336	Who was the mastermind of Dizengoff Center suicide bombing?
+1337	How many people were injured in Dizengoff Center suicide bombing?
+1338	How many people were wounded in Dizengoff Center suicide bombing?
+1339	What was the attack type of Dizengoff Center suicide bombing?
+1340	What was/were the target(s) of Dizengoff Center suicide bombing
+1341	Where did Buratha Mosque bombing happen?
+1342	When did Buratha Mosque bombing happen?
+1343	Who were the perpetrators in Buratha Mosque bombing?
+1344	Who was responsible for Buratha Mosque bombing?
+1345	Who was the mastermind of Buratha Mosque bombing?
+1346	How many people were injured in Buratha Mosque bombing?
+1347	How many people were wounded in Buratha Mosque bombing?
+1348	What was the attack type of Buratha Mosque bombing?
+1349	What was/were the target(s) of Buratha Mosque bombing
+1350	Where did Dawson College shooting happen?
+1351	When did Dawson College shooting happen?
+1352	Who were the perpetrators in Dawson College shooting?
+1353	Who was responsible for Dawson College shooting?
+1354	Who was the mastermind of Dawson College shooting?
+1355	How many people were injured in Dawson College shooting?
+1356	How many people were wounded in Dawson College shooting?
+1357	What was the attack type of Dawson College shooting?
+1358	What was/were the target(s) of Dawson College shooting
+1359	Where did 2006 al-Askari Mosque bombing happen?
+1360	When did 2006 al-Askari Mosque bombing happen?
+1361	Who were the perpetrators in 2006 al-Askari Mosque bombing?
+1362	Who was responsible for 2006 al-Askari Mosque bombing?
+1363	Who was the mastermind of 2006 al-Askari Mosque bombing?
+1364	How many people were injured in 2006 al-Askari Mosque bombing?
+1365	How many people were wounded in 2006 al-Askari Mosque bombing?
+1366	What was the attack type of 2006 al-Askari Mosque bombing?
+1367	What was/were the target(s) of 2006 al-Askari Mosque bombing
+1368	Where did Rafiganj train disaster happen?
+1369	When did Rafiganj train disaster happen?
+1370	Who were the perpetrators in Rafiganj train disaster?
+1371	Who was responsible for Rafiganj train disaster?
+1372	Who was the mastermind of Rafiganj train disaster?
+1373	How many people were injured in Rafiganj train disaster?
+1374	How many people were wounded in Rafiganj train disaster?
+1375	What was the attack type of Rafiganj train disaster?
+1376	What was/were the target(s) of Rafiganj train disaster
+1377	Where did Kurnool train crash happen?
+1378	When did Kurnool train crash happen?
+1379	Who were the perpetrators in Kurnool train crash?
+1380	Who was responsible for Kurnool train crash?
+1381	Who was the mastermind of Kurnool train crash?
+1382	How many people were injured in Kurnool train crash?
+1383	How many people were wounded in Kurnool train crash?
+1384	What was the attack type of Kurnool train crash?
+1385	What was/were the target(s) of Kurnool train crash
+1386	Where did Egged bus 36 bombing happen?
+1387	When did Egged bus 36 bombing happen?
+1388	Who were the perpetrators in Egged bus 36 bombing?
+1389	Who was responsible for Egged bus 36 bombing?
+1390	Who was the mastermind of Egged bus 36 bombing?
+1391	How many people were injured in Egged bus 36 bombing?
+1392	How many people were wounded in Egged bus 36 bombing?
+1393	What was the attack type of Egged bus 36 bombing?
+1394	What was/were the target(s) of Egged bus 36 bombing
+1395	Where did West German embassy siege happen?
+1396	When did West German embassy siege happen?
+1397	Who were the perpetrators in West German embassy siege?
+1398	Who was responsible for West German embassy siege?
+1399	Who was the mastermind of West German embassy siege?
+1400	How many people were injured in West German embassy siege?
+1401	How many people were wounded in West German embassy siege?
+1402	What was the attack type of West German embassy siege?
+1403	What was/were the target(s) of West German embassy siege
+1404	Where did 2008 Zagreb bombing happen?
+1405	When did 2008 Zagreb bombing happen?
+1406	Who were the perpetrators in 2008 Zagreb bombing?
+1407	Who was responsible for 2008 Zagreb bombing?
+1408	Who was the mastermind of 2008 Zagreb bombing?
+1409	How many people were injured in 2008 Zagreb bombing?
+1410	How many people were wounded in 2008 Zagreb bombing?
+1411	What was the attack type of 2008 Zagreb bombing?
+1412	What was/were the target(s) of 2008 Zagreb bombing
+1413	Where did 1998 Iranian diplomats assassination in Afghanistan happen?
+1414	When did 1998 Iranian diplomats assassination in Afghanistan happen?
+1415	Who were the perpetrators in 1998 Iranian diplomats assassination in Afghanistan?
+1416	Who was responsible for 1998 Iranian diplomats assassination in Afghanistan?
+1417	Who was the mastermind of 1998 Iranian diplomats assassination in Afghanistan?
+1418	How many people were injured in 1998 Iranian diplomats assassination in Afghanistan?
+1419	How many people were wounded in 1998 Iranian diplomats assassination in Afghanistan?
+1420	What was the attack type of 1998 Iranian diplomats assassination in Afghanistan?
+1421	What was/were the target(s) of 1998 Iranian diplomats assassination in Afghanistan
+1422	Where did 2009 Palma Nova bombing happen?
+1423	When did 2009 Palma Nova bombing happen?
+1424	Who were the perpetrators in 2009 Palma Nova bombing?
+1425	Who was responsible for 2009 Palma Nova bombing?
+1426	Who was the mastermind of 2009 Palma Nova bombing?
+1427	How many people were injured in 2009 Palma Nova bombing?
+1428	How many people were wounded in 2009 Palma Nova bombing?
+1429	What was the attack type of 2009 Palma Nova bombing?
+1430	What was/were the target(s) of 2009 Palma Nova bombing
+1431	Where did September 15 2006 Yemen attacks happen?
+1432	When did September 15 2006 Yemen attacks happen?
+1433	Who were the perpetrators in September 15 2006 Yemen attacks?
+1434	Who was responsible for September 15 2006 Yemen attacks?
+1435	Who was the mastermind of September 15 2006 Yemen attacks?
+1436	How many people were injured in September 15 2006 Yemen attacks?
+1437	How many people were wounded in September 15 2006 Yemen attacks?
+1438	What was the attack type of September 15 2006 Yemen attacks?
+1439	What was/were the target(s) of September 15 2006 Yemen attacks
+1440	Where did 2009 Nazran bombing happen?
+1441	When did 2009 Nazran bombing happen?
+1442	Who were the perpetrators in 2009 Nazran bombing?
+1443	Who was responsible for 2009 Nazran bombing?
+1444	Who was the mastermind of 2009 Nazran bombing?
+1445	How many people were injured in 2009 Nazran bombing?
+1446	How many people were wounded in 2009 Nazran bombing?
+1447	What was the attack type of 2009 Nazran bombing?
+1448	What was/were the target(s) of 2009 Nazran bombing
+1449	Where did 15 May 2007 Abu Sayda bombing happen?
+1450	When did 15 May 2007 Abu Sayda bombing happen?
+1451	Who were the perpetrators in 15 May 2007 Abu Sayda bombing?
+1452	Who was responsible for 15 May 2007 Abu Sayda bombing?
+1453	Who was the mastermind of 15 May 2007 Abu Sayda bombing?
+1454	How many people were injured in 15 May 2007 Abu Sayda bombing?
+1455	How many people were wounded in 15 May 2007 Abu Sayda bombing?
+1456	What was the attack type of 15 May 2007 Abu Sayda bombing?
+1457	What was/were the target(s) of 15 May 2007 Abu Sayda bombing
+1458	Where did January 2010 Bajaur bombing happen?
+1459	When did January 2010 Bajaur bombing happen?
+1460	Who were the perpetrators in January 2010 Bajaur bombing?
+1461	Who was responsible for January 2010 Bajaur bombing?
+1462	Who was the mastermind of January 2010 Bajaur bombing?
+1463	How many people were injured in January 2010 Bajaur bombing?
+1464	How many people were wounded in January 2010 Bajaur bombing?
+1465	What was the attack type of January 2010 Bajaur bombing?
+1466	What was/were the target(s) of January 2010 Bajaur bombing
+1467	Where did Clark Massacre happen?
+1468	When did Clark Massacre happen?
+1469	Who were the perpetrators in Clark Massacre?
+1470	Who was responsible for Clark Massacre?
+1471	Who was the mastermind of Clark Massacre?
+1472	How many people were injured in Clark Massacre?
+1473	How many people were wounded in Clark Massacre?
+1474	What was the attack type of Clark Massacre?
+1475	What was/were the target(s) of Clark Massacre
+1476	Where did Heritage High School shooting happen?
+1477	When did Heritage High School shooting happen?
+1478	Who were the perpetrators in Heritage High School shooting?
+1479	Who was responsible for Heritage High School shooting?
+1480	Who was the mastermind of Heritage High School shooting?
+1481	How many people were injured in Heritage High School shooting?
+1482	How many people were wounded in Heritage High School shooting?
+1483	What was the attack type of Heritage High School shooting?
+1484	What was/were the target(s) of Heritage High School shooting
+1485	Where did Imam Abbas Mosque bombing happen?
+1486	When did Imam Abbas Mosque bombing happen?
+1487	Who were the perpetrators in Imam Abbas Mosque bombing?
+1488	Who was responsible for Imam Abbas Mosque bombing?
+1489	Who was the mastermind of Imam Abbas Mosque bombing?
+1490	How many people were injured in Imam Abbas Mosque bombing?
+1491	How many people were wounded in Imam Abbas Mosque bombing?
+1492	What was the attack type of Imam Abbas Mosque bombing?
+1493	What was/were the target(s) of Imam Abbas Mosque bombing
+1494	Where did Imam Hussein Mosque bombing happen?
+1495	When did Imam Hussein Mosque bombing happen?
+1496	Who were the perpetrators in Imam Hussein Mosque bombing?
+1497	Who was responsible for Imam Hussein Mosque bombing?
+1498	Who was the mastermind of Imam Hussein Mosque bombing?
+1499	How many people were injured in Imam Hussein Mosque bombing?
+1500	How many people were wounded in Imam Hussein Mosque bombing?
+1501	What was the attack type of Imam Hussein Mosque bombing?
+1502	What was/were the target(s) of Imam Hussein Mosque bombing
+1503	Where did 2003 ricin letters happen?
+1504	When did 2003 ricin letters happen?
+1505	Who were the perpetrators in 2003 ricin letters?
+1506	Who was responsible for 2003 ricin letters?
+1507	Who was the mastermind of 2003 ricin letters?
+1508	How many people were injured in 2003 ricin letters?
+1509	How many people were wounded in 2003 ricin letters?
+1510	What was the attack type of 2003 ricin letters?
+1511	What was/were the target(s) of 2003 ricin letters
+1512	Where did 4 April 2010 Baghdad bombings happen?
+1513	When did 4 April 2010 Baghdad bombings happen?
+1514	Who were the perpetrators in 4 April 2010 Baghdad bombings?
+1515	Who was responsible for 4 April 2010 Baghdad bombings?
+1516	Who was the mastermind of 4 April 2010 Baghdad bombings?
+1517	How many people were injured in 4 April 2010 Baghdad bombings?
+1518	How many people were wounded in 4 April 2010 Baghdad bombings?
+1519	What was the attack type of 4 April 2010 Baghdad bombings?
+1520	What was/were the target(s) of 4 April 2010 Baghdad bombings
+1521	Where did San Jos¨¦ de Apartad¨® massacre happen?
+1522	When did San Jos¨¦ de Apartad¨® massacre happen?
+1523	Who were the perpetrators in San Jos¨¦ de Apartad¨® massacre?
+1524	Who was responsible for San Jos¨¦ de Apartad¨® massacre?
+1525	Who was the mastermind of San Jos¨¦ de Apartad¨® massacre?
+1526	How many people were injured in San Jos¨¦ de Apartad¨® massacre?
+1527	How many people were wounded in San Jos¨¦ de Apartad¨® massacre?
+1528	What was the attack type of San Jos¨¦ de Apartad¨® massacre?
+1529	What was/were the target(s) of San Jos¨¦ de Apartad¨® massacre
+1530	Where did July 2010 Zahedan bombings happen?
+1531	When did July 2010 Zahedan bombings happen?
+1532	Who were the perpetrators in July 2010 Zahedan bombings?
+1533	Who was responsible for July 2010 Zahedan bombings?
+1534	Who was the mastermind of July 2010 Zahedan bombings?
+1535	How many people were injured in July 2010 Zahedan bombings?
+1536	How many people were wounded in July 2010 Zahedan bombings?
+1537	What was the attack type of July 2010 Zahedan bombings?
+1538	What was/were the target(s) of July 2010 Zahedan bombings
+1539	Where did July 2010 Baghdad attacks happen?
+1540	When did July 2010 Baghdad attacks happen?
+1541	Who were the perpetrators in July 2010 Baghdad attacks?
+1542	Who was responsible for July 2010 Baghdad attacks?
+1543	Who was the mastermind of July 2010 Baghdad attacks?
+1544	How many people were injured in July 2010 Baghdad attacks?
+1545	How many people were wounded in July 2010 Baghdad attacks?
+1546	What was the attack type of July 2010 Baghdad attacks?
+1547	What was/were the target(s) of July 2010 Baghdad attacks
+1548	Where did 2009 International Islamic University bombing happen?
+1549	When did 2009 International Islamic University bombing happen?
+1550	Who were the perpetrators in 2009 International Islamic University bombing?
+1551	Who was responsible for 2009 International Islamic University bombing?
+1552	Who was the mastermind of 2009 International Islamic University bombing?
+1553	How many people were injured in 2009 International Islamic University bombing?
+1554	How many people were wounded in 2009 International Islamic University bombing?
+1555	What was the attack type of 2009 International Islamic University bombing?
+1556	What was/were the target(s) of 2009 International Islamic University bombing
+1557	Where did 2008 Sri Lanka Vavuniya bombing happen?
+1558	When did 2008 Sri Lanka Vavuniya bombing happen?
+1559	Who were the perpetrators in 2008 Sri Lanka Vavuniya bombing?
+1560	Who was responsible for 2008 Sri Lanka Vavuniya bombing?
+1561	Who was the mastermind of 2008 Sri Lanka Vavuniya bombing?
+1562	How many people were injured in 2008 Sri Lanka Vavuniya bombing?
+1563	How many people were wounded in 2008 Sri Lanka Vavuniya bombing?
+1564	What was the attack type of 2008 Sri Lanka Vavuniya bombing?
+1565	What was/were the target(s) of 2008 Sri Lanka Vavuniya bombing
+1566	Where did Peshk?pi incident happen?
+1567	When did Peshk?pi incident happen?
+1568	Who were the perpetrators in Peshk?pi incident?
+1569	Who was responsible for Peshk?pi incident?
+1570	Who was the mastermind of Peshk?pi incident?
+1571	How many people were injured in Peshk?pi incident?
+1572	How many people were wounded in Peshk?pi incident?
+1573	What was the attack type of Peshk?pi incident?
+1574	What was/were the target(s) of Peshk?pi incident
+1575	Where did Brighton hotel bombing happen?
+1576	When did Brighton hotel bombing happen?
+1577	Who were the perpetrators in Brighton hotel bombing?
+1578	Who was responsible for Brighton hotel bombing?
+1579	Who was the mastermind of Brighton hotel bombing?
+1580	How many people were injured in Brighton hotel bombing?
+1581	How many people were wounded in Brighton hotel bombing?
+1582	What was the attack type of Brighton hotel bombing?
+1583	What was/were the target(s) of Brighton hotel bombing
+1584	Where did Birmingham pub bombings happen?
+1585	When did Birmingham pub bombings happen?
+1586	Who were the perpetrators in Birmingham pub bombings?
+1587	Who was responsible for Birmingham pub bombings?
+1588	Who was the mastermind of Birmingham pub bombings?
+1589	How many people were injured in Birmingham pub bombings?
+1590	How many people were wounded in Birmingham pub bombings?
+1591	What was the attack type of Birmingham pub bombings?
+1592	What was/were the target(s) of Birmingham pub bombings
+1593	Where did 1994 AMIA bombing happen?
+1594	When did 1994 AMIA bombing happen?
+1595	Who were the perpetrators in 1994 AMIA bombing?
+1596	Who was responsible for 1994 AMIA bombing?
+1597	Who was the mastermind of 1994 AMIA bombing?
+1598	How many people were injured in 1994 AMIA bombing?
+1599	How many people were wounded in 1994 AMIA bombing?
+1600	What was the attack type of 1994 AMIA bombing?
+1601	What was/were the target(s) of 1994 AMIA bombing
+1602	Where did Riyadh compound bombings happen?
+1603	When did Riyadh compound bombings happen?
+1604	Who were the perpetrators in Riyadh compound bombings?
+1605	Who was responsible for Riyadh compound bombings?
+1606	Who was the mastermind of Riyadh compound bombings?
+1607	How many people were injured in Riyadh compound bombings?
+1608	How many people were wounded in Riyadh compound bombings?
+1609	What was the attack type of Riyadh compound bombings?
+1610	What was/were the target(s) of Riyadh compound bombings
+1611	Where did Kiryat Menachem bus bombing happen?
+1612	When did Kiryat Menachem bus bombing happen?
+1613	Who were the perpetrators in Kiryat Menachem bus bombing?
+1614	Who was responsible for Kiryat Menachem bus bombing?
+1615	Who was the mastermind of Kiryat Menachem bus bombing?
+1616	How many people were injured in Kiryat Menachem bus bombing?
+1617	How many people were wounded in Kiryat Menachem bus bombing?
+1618	What was the attack type of Kiryat Menachem bus bombing?
+1619	What was/were the target(s) of Kiryat Menachem bus bombing
+1620	Where did Beslan school hostage crisis happen?
+1621	When did Beslan school hostage crisis happen?
+1622	Who were the perpetrators in Beslan school hostage crisis?
+1623	Who was responsible for Beslan school hostage crisis?
+1624	Who was the mastermind of Beslan school hostage crisis?
+1625	How many people were injured in Beslan school hostage crisis?
+1626	How many people were wounded in Beslan school hostage crisis?
+1627	What was the attack type of Beslan school hostage crisis?
+1628	What was/were the target(s) of Beslan school hostage crisis
+1629	Where did Matza restaurant suicide bombing happen?
+1630	When did Matza restaurant suicide bombing happen?
+1631	Who were the perpetrators in Matza restaurant suicide bombing?
+1632	Who was responsible for Matza restaurant suicide bombing?
+1633	Who was the mastermind of Matza restaurant suicide bombing?
+1634	How many people were injured in Matza restaurant suicide bombing?
+1635	How many people were wounded in Matza restaurant suicide bombing?
+1636	What was the attack type of Matza restaurant suicide bombing?
+1637	What was/were the target(s) of Matza restaurant suicide bombing
+1638	Where did Budyonnovsk hospital hostage crisis happen?
+1639	When did Budyonnovsk hospital hostage crisis happen?
+1640	Who were the perpetrators in Budyonnovsk hospital hostage crisis?
+1641	Who was responsible for Budyonnovsk hospital hostage crisis?
+1642	Who was the mastermind of Budyonnovsk hospital hostage crisis?
+1643	How many people were injured in Budyonnovsk hospital hostage crisis?
+1644	How many people were wounded in Budyonnovsk hospital hostage crisis?
+1645	What was the attack type of Budyonnovsk hospital hostage crisis?
+1646	What was/were the target(s) of Budyonnovsk hospital hostage crisis
+1647	Where did Deal barracks bombing happen?
+1648	When did Deal barracks bombing happen?
+1649	Who were the perpetrators in Deal barracks bombing?
+1650	Who was responsible for Deal barracks bombing?
+1651	Who was the mastermind of Deal barracks bombing?
+1652	How many people were injured in Deal barracks bombing?
+1653	How many people were wounded in Deal barracks bombing?
+1654	What was the attack type of Deal barracks bombing?
+1655	What was/were the target(s) of Deal barracks bombing
+1656	Where did 2004 SuperFerry 14 bombing happen?
+1657	When did 2004 SuperFerry 14 bombing happen?
+1658	Who were the perpetrators in 2004 SuperFerry 14 bombing?
+1659	Who was responsible for 2004 SuperFerry 14 bombing?
+1660	Who was the mastermind of 2004 SuperFerry 14 bombing?
+1661	How many people were injured in 2004 SuperFerry 14 bombing?
+1662	How many people were wounded in 2004 SuperFerry 14 bombing?
+1663	What was the attack type of 2004 SuperFerry 14 bombing?
+1664	What was/were the target(s) of 2004 SuperFerry 14 bombing
+1665	Where did 1995 Palo Verde happen?
+1666	When did 1995 Palo Verde happen?
+1667	Who were the perpetrators in 1995 Palo Verde?
+1668	Who was responsible for 1995 Palo Verde?
+1669	Who was the mastermind of 1995 Palo Verde?
+1670	How many people were injured in 1995 Palo Verde?
+1671	How many people were wounded in 1995 Palo Verde?
+1672	What was the attack type of 1995 Palo Verde?
+1673	What was/were the target(s) of 1995 Palo Verde
+1674	Where did 2004 Kufa shelling happen?
+1675	When did 2004 Kufa shelling happen?
+1676	Who were the perpetrators in 2004 Kufa shelling?
+1677	Who was responsible for 2004 Kufa shelling?
+1678	Who was the mastermind of 2004 Kufa shelling?
+1679	How many people were injured in 2004 Kufa shelling?
+1680	How many people were wounded in 2004 Kufa shelling?
+1681	What was the attack type of 2004 Kufa shelling?
+1682	What was/were the target(s) of 2004 Kufa shelling
+1683	Where did 1993 Bishopsgate bombing happen?
+1684	When did 1993 Bishopsgate bombing happen?
+1685	Who were the perpetrators in 1993 Bishopsgate bombing?
+1686	Who was responsible for 1993 Bishopsgate bombing?
+1687	Who was the mastermind of 1993 Bishopsgate bombing?
+1688	How many people were injured in 1993 Bishopsgate bombing?
+1689	How many people were wounded in 1993 Bishopsgate bombing?
+1690	What was the attack type of 1993 Bishopsgate bombing?
+1691	What was/were the target(s) of 1993 Bishopsgate bombing
+1692	Where did Second Magdalena Massacre happen?
+1693	When did Second Magdalena Massacre happen?
+1694	Who were the perpetrators in Second Magdalena Massacre?
+1695	Who was responsible for Second Magdalena Massacre?
+1696	Who was the mastermind of Second Magdalena Massacre?
+1697	How many people were injured in Second Magdalena Massacre?
+1698	How many people were wounded in Second Magdalena Massacre?
+1699	What was the attack type of Second Magdalena Massacre?
+1700	What was/were the target(s) of Second Magdalena Massacre
+1701	Where did 12 February 2007 Baghdad bombings happen?
+1702	When did 12 February 2007 Baghdad bombings happen?
+1703	Who were the perpetrators in 12 February 2007 Baghdad bombings?
+1704	Who was responsible for 12 February 2007 Baghdad bombings?
+1705	Who was the mastermind of 12 February 2007 Baghdad bombings?
+1706	How many people were injured in 12 February 2007 Baghdad bombings?
+1707	How many people were wounded in 12 February 2007 Baghdad bombings?
+1708	What was the attack type of 12 February 2007 Baghdad bombings?
+1709	What was/were the target(s) of 12 February 2007 Baghdad bombings
+1710	Where did 1983 Kuwait bombings happen?
+1711	When did 1983 Kuwait bombings happen?
+1712	Who were the perpetrators in 1983 Kuwait bombings?
+1713	Who was responsible for 1983 Kuwait bombings?
+1714	Who was the mastermind of 1983 Kuwait bombings?
+1715	How many people were injured in 1983 Kuwait bombings?
+1716	How many people were wounded in 1983 Kuwait bombings?
+1717	What was the attack type of 1983 Kuwait bombings?
+1718	What was/were the target(s) of 1983 Kuwait bombings
+1719	Where did 19 June 2007 al-Khilani Mosque bombing happen?
+1720	When did 19 June 2007 al-Khilani Mosque bombing happen?
+1721	Who were the perpetrators in 19 June 2007 al-Khilani Mosque bombing?
+1722	Who was responsible for 19 June 2007 al-Khilani Mosque bombing?
+1723	Who was the mastermind of 19 June 2007 al-Khilani Mosque bombing?
+1724	How many people were injured in 19 June 2007 al-Khilani Mosque bombing?
+1725	How many people were wounded in 19 June 2007 al-Khilani Mosque bombing?
+1726	What was the attack type of 19 June 2007 al-Khilani Mosque bombing?
+1727	What was/were the target(s) of 19 June 2007 al-Khilani Mosque bombing
+1728	Where did 1 August 2007 Baghdad bombings happen?
+1729	When did 1 August 2007 Baghdad bombings happen?
+1730	Who were the perpetrators in 1 August 2007 Baghdad bombings?
+1731	Who was responsible for 1 August 2007 Baghdad bombings?
+1732	Who was the mastermind of 1 August 2007 Baghdad bombings?
+1733	How many people were injured in 1 August 2007 Baghdad bombings?
+1734	How many people were wounded in 1 August 2007 Baghdad bombings?
+1735	What was the attack type of 1 August 2007 Baghdad bombings?
+1736	What was/were the target(s) of 1 August 2007 Baghdad bombings
+1737	Where did 2003 El Nogal Club bombing happen?
+1738	When did 2003 El Nogal Club bombing happen?
+1739	Who were the perpetrators in 2003 El Nogal Club bombing?
+1740	Who was responsible for 2003 El Nogal Club bombing?
+1741	Who was the mastermind of 2003 El Nogal Club bombing?
+1742	How many people were injured in 2003 El Nogal Club bombing?
+1743	How many people were wounded in 2003 El Nogal Club bombing?
+1744	What was the attack type of 2003 El Nogal Club bombing?
+1745	What was/were the target(s) of 2003 El Nogal Club bombing
+1746	Where did 2003 Nasiriyah bombing happen?
+1747	When did 2003 Nasiriyah bombing happen?
+1748	Who were the perpetrators in 2003 Nasiriyah bombing?
+1749	Who was responsible for 2003 Nasiriyah bombing?
+1750	Who was the mastermind of 2003 Nasiriyah bombing?
+1751	How many people were injured in 2003 Nasiriyah bombing?
+1752	How many people were wounded in 2003 Nasiriyah bombing?
+1753	What was the attack type of 2003 Nasiriyah bombing?
+1754	What was/were the target(s) of 2003 Nasiriyah bombing
+1755	Where did 2005 Al Hillah bombing happen?
+1756	When did 2005 Al Hillah bombing happen?
+1757	Who were the perpetrators in 2005 Al Hillah bombing?
+1758	Who was responsible for 2005 Al Hillah bombing?
+1759	Who was the mastermind of 2005 Al Hillah bombing?
+1760	How many people were injured in 2005 Al Hillah bombing?
+1761	How many people were wounded in 2005 Al Hillah bombing?
+1762	What was the attack type of 2005 Al Hillah bombing?
+1763	What was/were the target(s) of 2005 Al Hillah bombing
+1764	Where did 2005 Amman bombings happen?
+1765	When did 2005 Amman bombings happen?
+1766	Who were the perpetrators in 2005 Amman bombings?
+1767	Who was responsible for 2005 Amman bombings?
+1768	Who was the mastermind of 2005 Amman bombings?
+1769	How many people were injured in 2005 Amman bombings?
+1770	How many people were wounded in 2005 Amman bombings?
+1771	What was the attack type of 2005 Amman bombings?
+1772	What was/were the target(s) of 2005 Amman bombings
+1773	Where did 2005 Khanaqin bombings happen?
+1774	When did 2005 Khanaqin bombings happen?
+1775	Who were the perpetrators in 2005 Khanaqin bombings?
+1776	Who was responsible for 2005 Khanaqin bombings?
+1777	Who was the mastermind of 2005 Khanaqin bombings?
+1778	How many people were injured in 2005 Khanaqin bombings?
+1779	How many people were wounded in 2005 Khanaqin bombings?
+1780	What was the attack type of 2005 Khanaqin bombings?
+1781	What was/were the target(s) of 2005 Khanaqin bombings
+1782	Where did 2006 Central Mindanao bombings happen?
+1783	When did 2006 Central Mindanao bombings happen?
+1784	Who were the perpetrators in 2006 Central Mindanao bombings?
+1785	Who was responsible for 2006 Central Mindanao bombings?
+1786	Who was the mastermind of 2006 Central Mindanao bombings?
+1787	How many people were injured in 2006 Central Mindanao bombings?
+1788	How many people were wounded in 2006 Central Mindanao bombings?
+1789	What was the attack type of 2006 Central Mindanao bombings?
+1790	What was/were the target(s) of 2006 Central Mindanao bombings
+1791	Where did 2006 Madrid Barajas International Airport bombing happen?
+1792	When did 2006 Madrid Barajas International Airport bombing happen?
+1793	Who were the perpetrators in 2006 Madrid Barajas International Airport bombing?
+1794	Who was responsible for 2006 Madrid Barajas International Airport bombing?
+1795	Who was the mastermind of 2006 Madrid Barajas International Airport bombing?
+1796	How many people were injured in 2006 Madrid Barajas International Airport bombing?
+1797	How many people were wounded in 2006 Madrid Barajas International Airport bombing?
+1798	What was the attack type of 2006 Madrid Barajas International Airport bombing?
+1799	What was/were the target(s) of 2006 Madrid Barajas International Airport bombing
+1800	Where did 2006 Malegaon blasts happen?
+1801	When did 2006 Malegaon blasts happen?
+1802	Who were the perpetrators in 2006 Malegaon blasts?
+1803	Who was responsible for 2006 Malegaon blasts?
+1804	Who was the mastermind of 2006 Malegaon blasts?
+1805	How many people were injured in 2006 Malegaon blasts?
+1806	How many people were wounded in 2006 Malegaon blasts?
+1807	What was the attack type of 2006 Malegaon blasts?
+1808	What was/were the target(s) of 2006 Malegaon blasts
+1809	Where did 2006 Varanasi bombings happen?
+1810	When did 2006 Varanasi bombings happen?
+1811	Who were the perpetrators in 2006 Varanasi bombings?
+1812	Who was responsible for 2006 Varanasi bombings?
+1813	Who was the mastermind of 2006 Varanasi bombings?
+1814	How many people were injured in 2006 Varanasi bombings?
+1815	How many people were wounded in 2006 Varanasi bombings?
+1816	What was the attack type of 2006 Varanasi bombings?
+1817	What was/were the target(s) of 2006 Varanasi bombings
+1818	Where did 2007 Al Hillah bombings happen?
+1819	When did 2007 Al Hillah bombings happen?
+1820	Who were the perpetrators in 2007 Al Hillah bombings?
+1821	Who was responsible for 2007 Al Hillah bombings?
+1822	Who was the mastermind of 2007 Al Hillah bombings?
+1823	How many people were injured in 2007 Al Hillah bombings?
+1824	How many people were wounded in 2007 Al Hillah bombings?
+1825	What was the attack type of 2007 Al Hillah bombings?
+1826	What was/were the target(s) of 2007 Al Hillah bombings
+1827	Where did 2007 Batna bombing happen?
+1828	When did 2007 Batna bombing happen?
+1829	Who were the perpetrators in 2007 Batna bombing?
+1830	Who was responsible for 2007 Batna bombing?
+1831	Who was the mastermind of 2007 Batna bombing?
+1832	How many people were injured in 2007 Batna bombing?
+1833	How many people were wounded in 2007 Batna bombing?
+1834	What was the attack type of 2007 Batna bombing?
+1835	What was/were the target(s) of 2007 Batna bombing
+1836	Where did 2007 Iraqi Parliament bombing happen?
+1837	When did 2007 Iraqi Parliament bombing happen?
+1838	Who were the perpetrators in 2007 Iraqi Parliament bombing?
+1839	Who was responsible for 2007 Iraqi Parliament bombing?
+1840	Who was the mastermind of 2007 Iraqi Parliament bombing?
+1841	How many people were injured in 2007 Iraqi Parliament bombing?
+1842	How many people were wounded in 2007 Iraqi Parliament bombing?
+1843	What was the attack type of 2007 Iraqi Parliament bombing?
+1844	What was/were the target(s) of 2007 Iraqi Parliament bombing
+1845	Where did 2007 al-Askari Mosque bombing happen?
+1846	When did 2007 al-Askari Mosque bombing happen?
+1847	Who were the perpetrators in 2007 al-Askari Mosque bombing?
+1848	Who was responsible for 2007 al-Askari Mosque bombing?
+1849	Who was the mastermind of 2007 al-Askari Mosque bombing?
+1850	How many people were injured in 2007 al-Askari Mosque bombing?
+1851	How many people were wounded in 2007 al-Askari Mosque bombing?
+1852	What was the attack type of 2007 al-Askari Mosque bombing?
+1853	What was/were the target(s) of 2007 al-Askari Mosque bombing
+1854	Where did 29 March 2007 Baghdad bombings happen?
+1855	When did 29 March 2007 Baghdad bombings happen?
+1856	Who were the perpetrators in 29 March 2007 Baghdad bombings?
+1857	Who was responsible for 29 March 2007 Baghdad bombings?
+1858	Who was the mastermind of 29 March 2007 Baghdad bombings?
+1859	How many people were injured in 29 March 2007 Baghdad bombings?
+1860	How many people were wounded in 29 March 2007 Baghdad bombings?
+1861	What was the attack type of 29 March 2007 Baghdad bombings?
+1862	What was/were the target(s) of 29 March 2007 Baghdad bombings
+1863	Where did 4 March 2001 BBC bombing happen?
+1864	When did 4 March 2001 BBC bombing happen?
+1865	Who were the perpetrators in 4 March 2001 BBC bombing?
+1866	Who was responsible for 4 March 2001 BBC bombing?
+1867	Who was the mastermind of 4 March 2001 BBC bombing?
+1868	How many people were injured in 4 March 2001 BBC bombing?
+1869	How many people were wounded in 4 March 2001 BBC bombing?
+1870	What was the attack type of 4 March 2001 BBC bombing?
+1871	What was/were the target(s) of 4 March 2001 BBC bombing
+1872	Where did Sterling Hall bombing happen?
+1873	When did Sterling Hall bombing happen?
+1874	Who were the perpetrators in Sterling Hall bombing?
+1875	Who was responsible for Sterling Hall bombing?
+1876	Who was the mastermind of Sterling Hall bombing?
+1877	How many people were injured in Sterling Hall bombing?
+1878	How many people were wounded in Sterling Hall bombing?
+1879	What was the attack type of Sterling Hall bombing?
+1880	What was/were the target(s) of Sterling Hall bombing
+1881	Where did Dolphinarium discotheque suicide bombing happen?
+1882	When did Dolphinarium discotheque suicide bombing happen?
+1883	Who were the perpetrators in Dolphinarium discotheque suicide bombing?
+1884	Who was responsible for Dolphinarium discotheque suicide bombing?
+1885	Who was the mastermind of Dolphinarium discotheque suicide bombing?
+1886	How many people were injured in Dolphinarium discotheque suicide bombing?
+1887	How many people were wounded in Dolphinarium discotheque suicide bombing?
+1888	What was the attack type of Dolphinarium discotheque suicide bombing?
+1889	What was/were the target(s) of Dolphinarium discotheque suicide bombing
+1890	Where did Beit Lid massacre happen?
+1891	When did Beit Lid massacre happen?
+1892	Who were the perpetrators in Beit Lid massacre?
+1893	Who was responsible for Beit Lid massacre?
+1894	Who was the mastermind of Beit Lid massacre?
+1895	How many people were injured in Beit Lid massacre?
+1896	How many people were wounded in Beit Lid massacre?
+1897	What was the attack type of Beit Lid massacre?
+1898	What was/were the target(s) of Beit Lid massacre
+1899	Where did 2008 Charsadda bombing happen?
+1900	When did 2008 Charsadda bombing happen?
+1901	Who were the perpetrators in 2008 Charsadda bombing?
+1902	Who was responsible for 2008 Charsadda bombing?
+1903	Who was the mastermind of 2008 Charsadda bombing?
+1904	How many people were injured in 2008 Charsadda bombing?
+1905	How many people were wounded in 2008 Charsadda bombing?
+1906	What was the attack type of 2008 Charsadda bombing?
+1907	What was/were the target(s) of 2008 Charsadda bombing
+1908	Where did Podujevo bus bombing happen?
+1909	When did Podujevo bus bombing happen?
+1910	Who were the perpetrators in Podujevo bus bombing?
+1911	Who was responsible for Podujevo bus bombing?
+1912	Who was the mastermind of Podujevo bus bombing?
+1913	How many people were injured in Podujevo bus bombing?
+1914	How many people were wounded in Podujevo bus bombing?
+1915	What was the attack type of Podujevo bus bombing?
+1916	What was/were the target(s) of Podujevo bus bombing
+1917	Where did 30 June 2009 Kirkuk bombing happen?
+1918	When did 30 June 2009 Kirkuk bombing happen?
+1919	Who were the perpetrators in 30 June 2009 Kirkuk bombing?
+1920	Who was responsible for 30 June 2009 Kirkuk bombing?
+1921	Who was the mastermind of 30 June 2009 Kirkuk bombing?
+1922	How many people were injured in 30 June 2009 Kirkuk bombing?
+1923	How many people were wounded in 30 June 2009 Kirkuk bombing?
+1924	What was the attack type of 30 June 2009 Kirkuk bombing?
+1925	What was/were the target(s) of 30 June 2009 Kirkuk bombing
+1926	Where did Eilat bakery bombing happen?
+1927	When did Eilat bakery bombing happen?
+1928	Who were the perpetrators in Eilat bakery bombing?
+1929	Who was responsible for Eilat bakery bombing?
+1930	Who was the mastermind of Eilat bakery bombing?
+1931	How many people were injured in Eilat bakery bombing?
+1932	How many people were wounded in Eilat bakery bombing?
+1933	What was the attack type of Eilat bakery bombing?
+1934	What was/were the target(s) of Eilat bakery bombing
+1935	Where did 2010 Kosovska Mitrovica attack happen?
+1936	When did 2010 Kosovska Mitrovica attack happen?
+1937	Who were the perpetrators in 2010 Kosovska Mitrovica attack?
+1938	Who was responsible for 2010 Kosovska Mitrovica attack?
+1939	Who was the mastermind of 2010 Kosovska Mitrovica attack?
+1940	How many people were injured in 2010 Kosovska Mitrovica attack?
+1941	How many people were wounded in 2010 Kosovska Mitrovica attack?
+1942	What was the attack type of 2010 Kosovska Mitrovica attack?
+1943	What was/were the target(s) of 2010 Kosovska Mitrovica attack
+1944	Where did NBI Knowledgebase happen?
+1945	When did NBI Knowledgebase happen?
+1946	Who were the perpetrators in NBI Knowledgebase?
+1947	Who was responsible for NBI Knowledgebase?
+1948	Who was the mastermind of NBI Knowledgebase?
+1949	How many people were injured in NBI Knowledgebase?
+1950	How many people were wounded in NBI Knowledgebase?
+1951	What was the attack type of NBI Knowledgebase?
+1952	What was/were the target(s) of NBI Knowledgebase
+1953	Where did Villatina Massacre happen?
+1954	When did Villatina Massacre happen?
+1955	Who were the perpetrators in Villatina Massacre?
+1956	Who was responsible for Villatina Massacre?
+1957	Who was the mastermind of Villatina Massacre?
+1958	How many people were injured in Villatina Massacre?
+1959	How many people were wounded in Villatina Massacre?
+1960	What was the attack type of Villatina Massacre?
+1961	What was/were the target(s) of Villatina Massacre
+1962	Where did Silco incident happen?
+1963	When did Silco incident happen?
+1964	Who were the perpetrators in Silco incident?
+1965	Who was responsible for Silco incident?
+1966	Who was the mastermind of Silco incident?
+1967	How many people were injured in Silco incident?
+1968	How many people were wounded in Silco incident?
+1969	What was the attack type of Silco incident?
+1970	What was/were the target(s) of Silco incident
+1971	Where did Nanping school massacre happen?
+1972	When did Nanping school massacre happen?
+1973	Who were the perpetrators in Nanping school massacre?
+1974	Who was responsible for Nanping school massacre?
+1975	Who was the mastermind of Nanping school massacre?
+1976	How many people were injured in Nanping school massacre?
+1977	How many people were wounded in Nanping school massacre?
+1978	What was the attack type of Nanping school massacre?
+1979	What was/were the target(s) of Nanping school massacre
+1980	Where did Jakarta Stock Exchange bombing happen?
+1981	When did Jakarta Stock Exchange bombing happen?
+1982	Who were the perpetrators in Jakarta Stock Exchange bombing?
+1983	Who was responsible for Jakarta Stock Exchange bombing?
+1984	Who was the mastermind of Jakarta Stock Exchange bombing?
+1985	How many people were injured in Jakarta Stock Exchange bombing?
+1986	How many people were wounded in Jakarta Stock Exchange bombing?
+1987	What was the attack type of Jakarta Stock Exchange bombing?
+1988	What was/were the target(s) of Jakarta Stock Exchange bombing
+1989	Where did 2009 suicide air raid on Colombo happen?
+1990	When did 2009 suicide air raid on Colombo happen?
+1991	Who were the perpetrators in 2009 suicide air raid on Colombo?
+1992	Who was responsible for 2009 suicide air raid on Colombo?
+1993	Who was the mastermind of 2009 suicide air raid on Colombo?
+1994	How many people were injured in 2009 suicide air raid on Colombo?
+1995	How many people were wounded in 2009 suicide air raid on Colombo?
+1996	What was the attack type of 2009 suicide air raid on Colombo?
+1997	What was/were the target(s) of 2009 suicide air raid on Colombo
+1998	Where did 2008 Mumbai attacks happen?
+1999	When did 2008 Mumbai attacks happen?
+2000	Who were the perpetrators in 2008 Mumbai attacks?
+2001	Who was responsible for 2008 Mumbai attacks?
+2002	Who was the mastermind of 2008 Mumbai attacks?
+2003	How many people were injured in 2008 Mumbai attacks?
+2004	How many people were wounded in 2008 Mumbai attacks?
+2005	What was the attack type of 2008 Mumbai attacks?
+2006	What was/were the target(s) of 2008 Mumbai attacks
+2007	Where did 2007 Uttar Pradesh bombings happen?
+2008	When did 2007 Uttar Pradesh bombings happen?
+2009	Who were the perpetrators in 2007 Uttar Pradesh bombings?
+2010	Who was responsible for 2007 Uttar Pradesh bombings?
+2011	Who was the mastermind of 2007 Uttar Pradesh bombings?
+2012	How many people were injured in 2007 Uttar Pradesh bombings?
+2013	How many people were wounded in 2007 Uttar Pradesh bombings?
+2014	What was the attack type of 2007 Uttar Pradesh bombings?
+2015	What was/were the target(s) of 2007 Uttar Pradesh bombings
+2016	Where did Macayepo massacre happen?
+2017	When did Macayepo massacre happen?
+2018	Who were the perpetrators in Macayepo massacre?
+2019	Who was responsible for Macayepo massacre?
+2020	Who was the mastermind of Macayepo massacre?
+2021	How many people were injured in Macayepo massacre?
+2022	How many people were wounded in Macayepo massacre?
+2023	What was the attack type of Macayepo massacre?
+2024	What was/were the target(s) of Macayepo massacre
+2025	Where did Mehola Junction bombing happen?
+2026	When did Mehola Junction bombing happen?
+2027	Who were the perpetrators in Mehola Junction bombing?
+2028	Who was responsible for Mehola Junction bombing?
+2029	Who was the mastermind of Mehola Junction bombing?
+2030	How many people were injured in Mehola Junction bombing?
+2031	How many people were wounded in Mehola Junction bombing?
+2032	What was the attack type of Mehola Junction bombing?
+2033	What was/were the target(s) of Mehola Junction bombing
+2034	Where did 5 April 2010 Timergarah bombings happen?
+2035	When did 5 April 2010 Timergarah bombings happen?
+2036	Who were the perpetrators in 5 April 2010 Timergarah bombings?
+2037	Who was responsible for 5 April 2010 Timergarah bombings?
+2038	Who was the mastermind of 5 April 2010 Timergarah bombings?
+2039	How many people were injured in 5 April 2010 Timergarah bombings?
+2040	How many people were wounded in 5 April 2010 Timergarah bombings?
+2041	What was the attack type of 5 April 2010 Timergarah bombings?
+2042	What was/were the target(s) of 5 April 2010 Timergarah bombings
+2043	Where did Mustansiriya University bombings happen?
+2044	When did Mustansiriya University bombings happen?
+2045	Who were the perpetrators in Mustansiriya University bombings?
+2046	Who was responsible for Mustansiriya University bombings?
+2047	Who was the mastermind of Mustansiriya University bombings?
+2048	How many people were injured in Mustansiriya University bombings?
+2049	How many people were wounded in Mustansiriya University bombings?
+2050	What was the attack type of Mustansiriya University bombings?
+2051	What was/were the target(s) of Mustansiriya University bombings
+2052	Where did 12 September 2008 Dujail bombing happen?
+2053	When did 12 September 2008 Dujail bombing happen?
+2054	Who were the perpetrators in 12 September 2008 Dujail bombing?
+2055	Who was responsible for 12 September 2008 Dujail bombing?
+2056	Who was the mastermind of 12 September 2008 Dujail bombing?
+2057	How many people were injured in 12 September 2008 Dujail bombing?
+2058	How many people were wounded in 12 September 2008 Dujail bombing?
+2059	What was the attack type of 12 September 2008 Dujail bombing?
+2060	What was/were the target(s) of 12 September 2008 Dujail bombing
+2061	Where did 2007 attack on tourists in Yemen happen?
+2062	When did 2007 attack on tourists in Yemen happen?
+2063	Who were the perpetrators in 2007 attack on tourists in Yemen?
+2064	Who was responsible for 2007 attack on tourists in Yemen?
+2065	Who was the mastermind of 2007 attack on tourists in Yemen?
+2066	How many people were injured in 2007 attack on tourists in Yemen?
+2067	How many people were wounded in 2007 attack on tourists in Yemen?
+2068	What was the attack type of 2007 attack on tourists in Yemen?
+2069	What was/were the target(s) of 2007 attack on tourists in Yemen
+2070	Where did 2009 Nouakchott suicide bombing happen?
+2071	When did 2009 Nouakchott suicide bombing happen?
+2072	Who were the perpetrators in 2009 Nouakchott suicide bombing?
+2073	Who was responsible for 2009 Nouakchott suicide bombing?
+2074	Who was the mastermind of 2009 Nouakchott suicide bombing?
+2075	How many people were injured in 2009 Nouakchott suicide bombing?
+2076	How many people were wounded in 2009 Nouakchott suicide bombing?
+2077	What was the attack type of 2009 Nouakchott suicide bombing?
+2078	What was/were the target(s) of 2009 Nouakchott suicide bombing
+2079	Where did 2008 Indian embassy bombing in Kabul happen?
+2080	When did 2008 Indian embassy bombing in Kabul happen?
+2081	Who were the perpetrators in 2008 Indian embassy bombing in Kabul?
+2082	Who was responsible for 2008 Indian embassy bombing in Kabul?
+2083	Who was the mastermind of 2008 Indian embassy bombing in Kabul?
+2084	How many people were injured in 2008 Indian embassy bombing in Kabul?
+2085	How many people were wounded in 2008 Indian embassy bombing in Kabul?
+2086	What was the attack type of 2008 Indian embassy bombing in Kabul?
+2087	What was/were the target(s) of 2008 Indian embassy bombing in Kabul
+2088	Where did 14 September 2005 Baghdad bombings happen?
+2089	When did 14 September 2005 Baghdad bombings happen?
+2090	Who were the perpetrators in 14 September 2005 Baghdad bombings?
+2091	Who was responsible for 14 September 2005 Baghdad bombings?
+2092	Who was the mastermind of 14 September 2005 Baghdad bombings?
+2093	How many people were injured in 14 September 2005 Baghdad bombings?
+2094	How many people were wounded in 14 September 2005 Baghdad bombings?
+2095	What was the attack type of 14 September 2005 Baghdad bombings?
+2096	What was/were the target(s) of 14 September 2005 Baghdad bombings
+2097	Where did 2008 United States consulate in Istanbul attack happen?
+2098	When did 2008 United States consulate in Istanbul attack happen?
+2099	Who were the perpetrators in 2008 United States consulate in Istanbul attack?
+2100	Who was responsible for 2008 United States consulate in Istanbul attack?
+2101	Who was the mastermind of 2008 United States consulate in Istanbul attack?
+2102	How many people were injured in 2008 United States consulate in Istanbul attack?
+2103	How many people were wounded in 2008 United States consulate in Istanbul attack?
+2104	What was the attack type of 2008 United States consulate in Istanbul attack?
+2105	What was/were the target(s) of 2008 United States consulate in Istanbul attack
+2106	Where did 2008 Kunming bus bombings happen?
+2107	When did 2008 Kunming bus bombings happen?
+2108	Who were the perpetrators in 2008 Kunming bus bombings?
+2109	Who was responsible for 2008 Kunming bus bombings?
+2110	Who was the mastermind of 2008 Kunming bus bombings?
+2111	How many people were injured in 2008 Kunming bus bombings?
+2112	How many people were wounded in 2008 Kunming bus bombings?
+2113	What was the attack type of 2008 Kunming bus bombings?
+2114	What was/were the target(s) of 2008 Kunming bus bombings
+2115	Where did Downing Street mortar attack happen?
+2116	When did Downing Street mortar attack happen?
+2117	Who were the perpetrators in Downing Street mortar attack?
+2118	Who was responsible for Downing Street mortar attack?
+2119	Who was the mastermind of Downing Street mortar attack?
+2120	How many people were injured in Downing Street mortar attack?
+2121	How many people were wounded in Downing Street mortar attack?
+2122	What was the attack type of Downing Street mortar attack?
+2123	What was/were the target(s) of Downing Street mortar attack
+2124	Where did Villanueva massacre happen?
+2125	When did Villanueva massacre happen?
+2126	Who were the perpetrators in Villanueva massacre?
+2127	Who was responsible for Villanueva massacre?
+2128	Who was the mastermind of Villanueva massacre?
+2129	How many people were injured in Villanueva massacre?
+2130	How many people were wounded in Villanueva massacre?
+2131	What was the attack type of Villanueva massacre?
+2132	What was/were the target(s) of Villanueva massacre
+2133	Where did Hadera bus station suicide bombing happen?
+2134	When did Hadera bus station suicide bombing happen?
+2135	Who were the perpetrators in Hadera bus station suicide bombing?
+2136	Who was responsible for Hadera bus station suicide bombing?
+2137	Who was the mastermind of Hadera bus station suicide bombing?
+2138	How many people were injured in Hadera bus station suicide bombing?
+2139	How many people were wounded in Hadera bus station suicide bombing?
+2140	What was the attack type of Hadera bus station suicide bombing?
+2141	What was/were the target(s) of Hadera bus station suicide bombing
+2142	Where did Abole oil field raid happen?
+2143	When did Abole oil field raid happen?
+2144	Who were the perpetrators in Abole oil field raid?
+2145	Who was responsible for Abole oil field raid?
+2146	Who was the mastermind of Abole oil field raid?
+2147	How many people were injured in Abole oil field raid?
+2148	How many people were wounded in Abole oil field raid?
+2149	What was the attack type of Abole oil field raid?
+2150	What was/were the target(s) of Abole oil field raid
+2151	Where did Kaspiysk bombing happen?
+2152	When did Kaspiysk bombing happen?
+2153	Who were the perpetrators in Kaspiysk bombing?
+2154	Who was responsible for Kaspiysk bombing?
+2155	Who was the mastermind of Kaspiysk bombing?
+2156	How many people were injured in Kaspiysk bombing?
+2157	How many people were wounded in Kaspiysk bombing?
+2158	What was the attack type of Kaspiysk bombing?
+2159	What was/were the target(s) of Kaspiysk bombing
+2160	Where did Bah¨ªa Portete massacre happen?
+2161	When did Bah¨ªa Portete massacre happen?
+2162	Who were the perpetrators in Bah¨ªa Portete massacre?
+2163	Who was responsible for Bah¨ªa Portete massacre?
+2164	Who was the mastermind of Bah¨ªa Portete massacre?
+2165	How many people were injured in Bah¨ªa Portete massacre?
+2166	How many people were wounded in Bah¨ªa Portete massacre?
+2167	What was the attack type of Bah¨ªa Portete massacre?
+2168	What was/were the target(s) of Bah¨ªa Portete massacre
+2169	Where did Wickenburg massacre happen?
+2170	When did Wickenburg massacre happen?
+2171	Who were the perpetrators in Wickenburg massacre?
+2172	Who was responsible for Wickenburg massacre?
+2173	Who was the mastermind of Wickenburg massacre?
+2174	How many people were injured in Wickenburg massacre?
+2175	How many people were wounded in Wickenburg massacre?
+2176	What was the attack type of Wickenburg massacre?
+2177	What was/were the target(s) of Wickenburg massacre
+2178	Where did April 2010 Kohat bombings happen?
+2179	When did April 2010 Kohat bombings happen?
+2180	Who were the perpetrators in April 2010 Kohat bombings?
+2181	Who was responsible for April 2010 Kohat bombings?
+2182	Who was the mastermind of April 2010 Kohat bombings?
+2183	How many people were injured in April 2010 Kohat bombings?
+2184	How many people were wounded in April 2010 Kohat bombings?
+2185	What was the attack type of April 2010 Kohat bombings?
+2186	What was/were the target(s) of April 2010 Kohat bombings
+2187	Where did 2005 Ku?adas? minibus bombing happen?
+2188	When did 2005 Ku?adas? minibus bombing happen?
+2189	Who were the perpetrators in 2005 Ku?adas? minibus bombing?
+2190	Who was responsible for 2005 Ku?adas? minibus bombing?
+2191	Who was the mastermind of 2005 Ku?adas? minibus bombing?
+2192	How many people were injured in 2005 Ku?adas? minibus bombing?
+2193	How many people were wounded in 2005 Ku?adas? minibus bombing?
+2194	What was the attack type of 2005 Ku?adas? minibus bombing?
+2195	What was/were the target(s) of 2005 Ku?adas? minibus bombing
+2196	Where did Bat Ayin ax attack happen?
+2197	When did Bat Ayin ax attack happen?
+2198	Who were the perpetrators in Bat Ayin ax attack?
+2199	Who was responsible for Bat Ayin ax attack?
+2200	Who was the mastermind of Bat Ayin ax attack?
+2201	How many people were injured in Bat Ayin ax attack?
+2202	How many people were wounded in Bat Ayin ax attack?
+2203	What was the attack type of Bat Ayin ax attack?
+2204	What was/were the target(s) of Bat Ayin ax attack
+2205	Where did Hu? chemical attacks happen?
+2206	When did Hu? chemical attacks happen?
+2207	Who were the perpetrators in Hu? chemical attacks?
+2208	Who was responsible for Hu? chemical attacks?
+2209	Who was the mastermind of Hu? chemical attacks?
+2210	How many people were injured in Hu? chemical attacks?
+2211	How many people were wounded in Hu? chemical attacks?
+2212	What was the attack type of Hu? chemical attacks?
+2213	What was/were the target(s) of Hu? chemical attacks
+2214	Where did 2009 Burgos bombing happen?
+2215	When did 2009 Burgos bombing happen?
+2216	Who were the perpetrators in 2009 Burgos bombing?
+2217	Who was responsible for 2009 Burgos bombing?
+2218	Who was the mastermind of 2009 Burgos bombing?
+2219	How many people were injured in 2009 Burgos bombing?
+2220	How many people were wounded in 2009 Burgos bombing?
+2221	What was the attack type of 2009 Burgos bombing?
+2222	What was/were the target(s) of 2009 Burgos bombing
+2223	Where did Kizlyar-Pervomayskoye hostage crisis happen?
+2224	When did Kizlyar-Pervomayskoye hostage crisis happen?
+2225	Who were the perpetrators in Kizlyar-Pervomayskoye hostage crisis?
+2226	Who was responsible for Kizlyar-Pervomayskoye hostage crisis?
+2227	Who was the mastermind of Kizlyar-Pervomayskoye hostage crisis?
+2228	How many people were injured in Kizlyar-Pervomayskoye hostage crisis?
+2229	How many people were wounded in Kizlyar-Pervomayskoye hostage crisis?
+2230	What was the attack type of Kizlyar-Pervomayskoye hostage crisis?
+2231	What was/were the target(s) of Kizlyar-Pervomayskoye hostage crisis
+2232	Where did Jaffa Road bus bombings happen?
+2233	When did Jaffa Road bus bombings happen?
+2234	Who were the perpetrators in Jaffa Road bus bombings?
+2235	Who was responsible for Jaffa Road bus bombings?
+2236	Who was the mastermind of Jaffa Road bus bombings?
+2237	How many people were injured in Jaffa Road bus bombings?
+2238	How many people were wounded in Jaffa Road bus bombings?
+2239	What was the attack type of Jaffa Road bus bombings?
+2240	What was/were the target(s) of Jaffa Road bus bombings
+2241	Where did Letelier case happen?
+2242	When did Letelier case happen?
+2243	Who were the perpetrators in Letelier case?
+2244	Who was responsible for Letelier case?
+2245	Who was the mastermind of Letelier case?
+2246	How many people were injured in Letelier case?
+2247	How many people were wounded in Letelier case?
+2248	What was the attack type of Letelier case?
+2249	What was/were the target(s) of Letelier case
+2250	Where did Makhachkala Rus bombing happen?
+2251	When did Makhachkala Rus bombing happen?
+2252	Who were the perpetrators in Makhachkala Rus bombing?
+2253	Who was responsible for Makhachkala Rus bombing?
+2254	Who was the mastermind of Makhachkala Rus bombing?
+2255	How many people were injured in Makhachkala Rus bombing?
+2256	How many people were wounded in Makhachkala Rus bombing?
+2257	What was the attack type of Makhachkala Rus bombing?
+2258	What was/were the target(s) of Makhachkala Rus bombing
+2259	Where did Nepalese royal massacre happen?
+2260	When did Nepalese royal massacre happen?
+2261	Who were the perpetrators in Nepalese royal massacre?
+2262	Who was responsible for Nepalese royal massacre?
+2263	Who was the mastermind of Nepalese royal massacre?
+2264	How many people were injured in Nepalese royal massacre?
+2265	How many people were wounded in Nepalese royal massacre?
+2266	What was the attack type of Nepalese royal massacre?
+2267	What was/were the target(s) of Nepalese royal massacre
+2268	Where did 6 March 2008 Baghdad bombing happen?
+2269	When did 6 March 2008 Baghdad bombing happen?
+2270	Who were the perpetrators in 6 March 2008 Baghdad bombing?
+2271	Who was responsible for 6 March 2008 Baghdad bombing?
+2272	Who was the mastermind of 6 March 2008 Baghdad bombing?
+2273	How many people were injured in 6 March 2008 Baghdad bombing?
+2274	How many people were wounded in 6 March 2008 Baghdad bombing?
+2275	What was the attack type of 6 March 2008 Baghdad bombing?
+2276	What was/were the target(s) of 6 March 2008 Baghdad bombing
+2277	Where did 2008 Sri Lanka bus bombings happen?
+2278	When did 2008 Sri Lanka bus bombings happen?
+2279	Who were the perpetrators in 2008 Sri Lanka bus bombings?
+2280	Who was responsible for 2008 Sri Lanka bus bombings?
+2281	Who was the mastermind of 2008 Sri Lanka bus bombings?
+2282	How many people were injured in 2008 Sri Lanka bus bombings?
+2283	How many people were wounded in 2008 Sri Lanka bus bombings?
+2284	What was the attack type of 2008 Sri Lanka bus bombings?
+2285	What was/were the target(s) of 2008 Sri Lanka bus bombings
+2286	Where did 22 May 2008 Exeter bombing happen?
+2287	When did 22 May 2008 Exeter bombing happen?
+2288	Who were the perpetrators in 22 May 2008 Exeter bombing?
+2289	Who was responsible for 22 May 2008 Exeter bombing?
+2290	Who was the mastermind of 22 May 2008 Exeter bombing?
+2291	How many people were injured in 22 May 2008 Exeter bombing?
+2292	How many people were wounded in 22 May 2008 Exeter bombing?
+2293	What was the attack type of 22 May 2008 Exeter bombing?
+2294	What was/were the target(s) of 22 May 2008 Exeter bombing
+2295	Where did 9 October 2009 Peshawar bombing happen?
+2296	When did 9 October 2009 Peshawar bombing happen?
+2297	Who were the perpetrators in 9 October 2009 Peshawar bombing?
+2298	Who was responsible for 9 October 2009 Peshawar bombing?
+2299	Who was the mastermind of 9 October 2009 Peshawar bombing?
+2300	How many people were injured in 9 October 2009 Peshawar bombing?
+2301	How many people were wounded in 9 October 2009 Peshawar bombing?
+2302	What was the attack type of 9 October 2009 Peshawar bombing?
+2303	What was/were the target(s) of 9 October 2009 Peshawar bombing
+2304	Where did Mercaz HaRav massacre happen?
+2305	When did Mercaz HaRav massacre happen?
+2306	Who were the perpetrators in Mercaz HaRav massacre?
+2307	Who was responsible for Mercaz HaRav massacre?
+2308	Who was the mastermind of Mercaz HaRav massacre?
+2309	How many people were injured in Mercaz HaRav massacre?
+2310	How many people were wounded in Mercaz HaRav massacre?
+2311	What was the attack type of Mercaz HaRav massacre?
+2312	What was/were the target(s) of Mercaz HaRav massacre
+2313	Where did 2008 Beni Amrane bombings happen?
+2314	When did 2008 Beni Amrane bombings happen?
+2315	Who were the perpetrators in 2008 Beni Amrane bombings?
+2316	Who was responsible for 2008 Beni Amrane bombings?
+2317	Who was the mastermind of 2008 Beni Amrane bombings?
+2318	How many people were injured in 2008 Beni Amrane bombings?
+2319	How many people were wounded in 2008 Beni Amrane bombings?
+2320	What was the attack type of 2008 Beni Amrane bombings?
+2321	What was/were the target(s) of 2008 Beni Amrane bombings
+2322	Where did 13 May 2007 Makhmour bombing happen?
+2323	When did 13 May 2007 Makhmour bombing happen?
+2324	Who were the perpetrators in 13 May 2007 Makhmour bombing?
+2325	Who was responsible for 13 May 2007 Makhmour bombing?
+2326	Who was the mastermind of 13 May 2007 Makhmour bombing?
+2327	How many people were injured in 13 May 2007 Makhmour bombing?
+2328	How many people were wounded in 13 May 2007 Makhmour bombing?
+2329	What was the attack type of 13 May 2007 Makhmour bombing?
+2330	What was/were the target(s) of 13 May 2007 Makhmour bombing
+2331	Where did 2008 Karbala bombing happen?
+2332	When did 2008 Karbala bombing happen?
+2333	Who were the perpetrators in 2008 Karbala bombing?
+2334	Who was responsible for 2008 Karbala bombing?
+2335	Who was the mastermind of 2008 Karbala bombing?
+2336	How many people were injured in 2008 Karbala bombing?
+2337	How many people were wounded in 2008 Karbala bombing?
+2338	What was the attack type of 2008 Karbala bombing?
+2339	What was/were the target(s) of 2008 Karbala bombing
+2340	Where did 2009 Zahedan bombing happen?
+2341	When did 2009 Zahedan bombing happen?
+2342	Who were the perpetrators in 2009 Zahedan bombing?
+2343	Who was responsible for 2009 Zahedan bombing?
+2344	Who was the mastermind of 2009 Zahedan bombing?
+2345	How many people were injured in 2009 Zahedan bombing?
+2346	How many people were wounded in 2009 Zahedan bombing?
+2347	What was the attack type of 2009 Zahedan bombing?
+2348	What was/were the target(s) of 2009 Zahedan bombing
+2349	Where did 24 June 2004 Mosul bombings happen?
+2350	When did 24 June 2004 Mosul bombings happen?
+2351	Who were the perpetrators in 24 June 2004 Mosul bombings?
+2352	Who was responsible for 24 June 2004 Mosul bombings?
+2353	Who was the mastermind of 24 June 2004 Mosul bombings?
+2354	How many people were injured in 24 June 2004 Mosul bombings?
+2355	How many people were wounded in 24 June 2004 Mosul bombings?
+2356	What was the attack type of 24 June 2004 Mosul bombings?
+2357	What was/were the target(s) of 24 June 2004 Mosul bombings
+2358	Where did 1 February 2010 Baghdad bombing happen?
+2359	When did 1 February 2010 Baghdad bombing happen?
+2360	Who were the perpetrators in 1 February 2010 Baghdad bombing?
+2361	Who was responsible for 1 February 2010 Baghdad bombing?
+2362	Who was the mastermind of 1 February 2010 Baghdad bombing?
+2363	How many people were injured in 1 February 2010 Baghdad bombing?
+2364	How many people were wounded in 1 February 2010 Baghdad bombing?
+2365	What was the attack type of 1 February 2010 Baghdad bombing?
+2366	What was/were the target(s) of 1 February 2010 Baghdad bombing
+2367	Where did 2008 attack on tourists in Yemen happen?
+2368	When did 2008 attack on tourists in Yemen happen?
+2369	Who were the perpetrators in 2008 attack on tourists in Yemen?
+2370	Who was responsible for 2008 attack on tourists in Yemen?
+2371	Who was the mastermind of 2008 attack on tourists in Yemen?
+2372	How many people were injured in 2008 attack on tourists in Yemen?
+2373	How many people were wounded in 2008 attack on tourists in Yemen?
+2374	What was the attack type of 2008 attack on tourists in Yemen?
+2375	What was/were the target(s) of 2008 attack on tourists in Yemen
+2376	Where did 2008 Balad bombing happen?
+2377	When did 2008 Balad bombing happen?
+2378	Who were the perpetrators in 2008 Balad bombing?
+2379	Who was responsible for 2008 Balad bombing?
+2380	Who was the mastermind of 2008 Balad bombing?
+2381	How many people were injured in 2008 Balad bombing?
+2382	How many people were wounded in 2008 Balad bombing?
+2383	What was the attack type of 2008 Balad bombing?
+2384	What was/were the target(s) of 2008 Balad bombing
+2385	Where did 2008 Parachinar bombing happen?
+2386	When did 2008 Parachinar bombing happen?
+2387	Who were the perpetrators in 2008 Parachinar bombing?
+2388	Who was responsible for 2008 Parachinar bombing?
+2389	Who was the mastermind of 2008 Parachinar bombing?
+2390	How many people were injured in 2008 Parachinar bombing?
+2391	How many people were wounded in 2008 Parachinar bombing?
+2392	What was the attack type of 2008 Parachinar bombing?
+2393	What was/were the target(s) of 2008 Parachinar bombing
+2394	Where did 2008 Negele Boran bombings happen?
+2395	When did 2008 Negele Boran bombings happen?
+2396	Who were the perpetrators in 2008 Negele Boran bombings?
+2397	Who was responsible for 2008 Negele Boran bombings?
+2398	Who was the mastermind of 2008 Negele Boran bombings?
+2399	How many people were injured in 2008 Negele Boran bombings?
+2400	How many people were wounded in 2008 Negele Boran bombings?
+2401	What was the attack type of 2008 Negele Boran bombings?
+2402	What was/were the target(s) of 2008 Negele Boran bombings
+2403	Where did Havelock Road Bombing happen?
+2404	When did Havelock Road Bombing happen?
+2405	Who were the perpetrators in Havelock Road Bombing?
+2406	Who was responsible for Havelock Road Bombing?
+2407	Who was the mastermind of Havelock Road Bombing?
+2408	How many people were injured in Havelock Road Bombing?
+2409	How many people were wounded in Havelock Road Bombing?
+2410	What was the attack type of Havelock Road Bombing?
+2411	What was/were the target(s) of Havelock Road Bombing
+2412	Where did 14 September 2004 Baghdad bombing happen?
+2413	When did 14 September 2004 Baghdad bombing happen?
+2414	Who were the perpetrators in 14 September 2004 Baghdad bombing?
+2415	Who was responsible for 14 September 2004 Baghdad bombing?
+2416	Who was the mastermind of 14 September 2004 Baghdad bombing?
+2417	How many people were injured in 14 September 2004 Baghdad bombing?
+2418	How many people were wounded in 14 September 2004 Baghdad bombing?
+2419	What was the attack type of 14 September 2004 Baghdad bombing?
+2420	What was/were the target(s) of 14 September 2004 Baghdad bombing
+2421	Where did 2008 Tripoli happen?
+2422	When did 2008 Tripoli happen?
+2423	Who were the perpetrators in 2008 Tripoli?
+2424	Who was responsible for 2008 Tripoli?
+2425	Who was the mastermind of 2008 Tripoli?
+2426	How many people were injured in 2008 Tripoli?
+2427	How many people were wounded in 2008 Tripoli?
+2428	What was the attack type of 2008 Tripoli?
+2429	What was/were the target(s) of 2008 Tripoli
+2430	Where did 2009 Yemeni tourist attacks happen?
+2431	When did 2009 Yemeni tourist attacks happen?
+2432	Who were the perpetrators in 2009 Yemeni tourist attacks?
+2433	Who was responsible for 2009 Yemeni tourist attacks?
+2434	Who was the mastermind of 2009 Yemeni tourist attacks?
+2435	How many people were injured in 2009 Yemeni tourist attacks?
+2436	How many people were wounded in 2009 Yemeni tourist attacks?
+2437	What was the attack type of 2009 Yemeni tourist attacks?
+2438	What was/were the target(s) of 2009 Yemeni tourist attacks
+2439	Where did 6 April 2010 Baghdad bombings happen?
+2440	When did 6 April 2010 Baghdad bombings happen?
+2441	Who were the perpetrators in 6 April 2010 Baghdad bombings?
+2442	Who was responsible for 6 April 2010 Baghdad bombings?
+2443	Who was the mastermind of 6 April 2010 Baghdad bombings?
+2444	How many people were injured in 6 April 2010 Baghdad bombings?
+2445	How many people were wounded in 6 April 2010 Baghdad bombings?
+2446	What was the attack type of 6 April 2010 Baghdad bombings?
+2447	What was/were the target(s) of 6 April 2010 Baghdad bombings
+2448	Where did Dizengoff Street bus bombing happen?
+2449	When did Dizengoff Street bus bombing happen?
+2450	Who were the perpetrators in Dizengoff Street bus bombing?
+2451	Who was responsible for Dizengoff Street bus bombing?
+2452	Who was the mastermind of Dizengoff Street bus bombing?
+2453	How many people were injured in Dizengoff Street bus bombing?
+2454	How many people were wounded in Dizengoff Street bus bombing?
+2455	What was the attack type of Dizengoff Street bus bombing?
+2456	What was/were the target(s) of Dizengoff Street bus bombing
+2457	Where did Pearl Continental hotel bombing happen?
+2458	When did Pearl Continental hotel bombing happen?
+2459	Who were the perpetrators in Pearl Continental hotel bombing?
+2460	Who was responsible for Pearl Continental hotel bombing?
+2461	Who was the mastermind of Pearl Continental hotel bombing?
+2462	How many people were injured in Pearl Continental hotel bombing?
+2463	How many people were wounded in Pearl Continental hotel bombing?
+2464	What was the attack type of Pearl Continental hotel bombing?
+2465	What was/were the target(s) of Pearl Continental hotel bombing
+2466	Where did 17 June 2008 Baghdad bombing happen?
+2467	When did 17 June 2008 Baghdad bombing happen?
+2468	Who were the perpetrators in 17 June 2008 Baghdad bombing?
+2469	Who was responsible for 17 June 2008 Baghdad bombing?
+2470	Who was the mastermind of 17 June 2008 Baghdad bombing?
+2471	How many people were injured in 17 June 2008 Baghdad bombing?
+2472	How many people were wounded in 17 June 2008 Baghdad bombing?
+2473	What was the attack type of 17 June 2008 Baghdad bombing?
+2474	What was/were the target(s) of 17 June 2008 Baghdad bombing
+2475	Where did 18 August 2009 NATO convoy bombing happen?
+2476	When did 18 August 2009 NATO convoy bombing happen?
+2477	Who were the perpetrators in 18 August 2009 NATO convoy bombing?
+2478	Who was responsible for 18 August 2009 NATO convoy bombing?
+2479	Who was the mastermind of 18 August 2009 NATO convoy bombing?
+2480	How many people were injured in 18 August 2009 NATO convoy bombing?
+2481	How many people were wounded in 18 August 2009 NATO convoy bombing?
+2482	What was the attack type of 18 August 2009 NATO convoy bombing?
+2483	What was/were the target(s) of 18 August 2009 NATO convoy bombing
+2484	Where did Xa Loi Pagoda raids happen?
+2485	When did Xa Loi Pagoda raids happen?
+2486	Who were the perpetrators in Xa Loi Pagoda raids?
+2487	Who was responsible for Xa Loi Pagoda raids?
+2488	Who was the mastermind of Xa Loi Pagoda raids?
+2489	How many people were injured in Xa Loi Pagoda raids?
+2490	How many people were wounded in Xa Loi Pagoda raids?
+2491	What was the attack type of Xa Loi Pagoda raids?
+2492	What was/were the target(s) of Xa Loi Pagoda raids
+2493	Where did 10 May 2010 Iraq attacks happen?
+2494	When did 10 May 2010 Iraq attacks happen?
+2495	Who were the perpetrators in 10 May 2010 Iraq attacks?
+2496	Who was responsible for 10 May 2010 Iraq attacks?
+2497	Who was the mastermind of 10 May 2010 Iraq attacks?
+2498	How many people were injured in 10 May 2010 Iraq attacks?
+2499	How many people were wounded in 10 May 2010 Iraq attacks?
+2500	What was the attack type of 10 May 2010 Iraq attacks?
+2501	What was/were the target(s) of 10 May 2010 Iraq attacks
+2502	Where did 2002 Kabul bombing happen?
+2503	When did 2002 Kabul bombing happen?
+2504	Who were the perpetrators in 2002 Kabul bombing?
+2505	Who was responsible for 2002 Kabul bombing?
+2506	Who was the mastermind of 2002 Kabul bombing?
+2507	How many people were injured in 2002 Kabul bombing?
+2508	How many people were wounded in 2002 Kabul bombing?
+2509	What was the attack type of 2002 Kabul bombing?
+2510	What was/were the target(s) of 2002 Kabul bombing
+2511	Where did 17 August 2010 Baghdad bombings happen?
+2512	When did 17 August 2010 Baghdad bombings happen?
+2513	Who were the perpetrators in 17 August 2010 Baghdad bombings?
+2514	Who was responsible for 17 August 2010 Baghdad bombings?
+2515	Who was the mastermind of 17 August 2010 Baghdad bombings?
+2516	How many people were injured in 17 August 2010 Baghdad bombings?
+2517	How many people were wounded in 17 August 2010 Baghdad bombings?
+2518	What was the attack type of 17 August 2010 Baghdad bombings?
+2519	What was/were the target(s) of 17 August 2010 Baghdad bombings
+2520	Where did 5 December 2008 Peshawar bombing happen?
+2521	When did 5 December 2008 Peshawar bombing happen?
+2522	Who were the perpetrators in 5 December 2008 Peshawar bombing?
+2523	Who was responsible for 5 December 2008 Peshawar bombing?
+2524	Who was the mastermind of 5 December 2008 Peshawar bombing?
+2525	How many people were injured in 5 December 2008 Peshawar bombing?
+2526	How many people were wounded in 5 December 2008 Peshawar bombing?
+2527	What was the attack type of 5 December 2008 Peshawar bombing?
+2528	What was/were the target(s) of 5 December 2008 Peshawar bombing
+2529	Where did 2008 Shiraz explosion happen?
+2530	When did 2008 Shiraz explosion happen?
+2531	Who were the perpetrators in 2008 Shiraz explosion?
+2532	Who was responsible for 2008 Shiraz explosion?
+2533	Who was the mastermind of 2008 Shiraz explosion?
+2534	How many people were injured in 2008 Shiraz explosion?
+2535	How many people were wounded in 2008 Shiraz explosion?
+2536	What was the attack type of 2008 Shiraz explosion?
+2537	What was/were the target(s) of 2008 Shiraz explosion
+2538	Where did 1996 Sarajevo tram attack happen?
+2539	When did 1996 Sarajevo tram attack happen?
+2540	Who were the perpetrators in 1996 Sarajevo tram attack?
+2541	Who was responsible for 1996 Sarajevo tram attack?
+2542	Who was the mastermind of 1996 Sarajevo tram attack?
+2543	How many people were injured in 1996 Sarajevo tram attack?
+2544	How many people were wounded in 1996 Sarajevo tram attack?
+2545	What was the attack type of 1996 Sarajevo tram attack?
+2546	What was/were the target(s) of 1996 Sarajevo tram attack
+2547	Where did 26 June 2008 Karmah Bombing happen?
+2548	When did 26 June 2008 Karmah Bombing happen?
+2549	Who were the perpetrators in 26 June 2008 Karmah Bombing?
+2550	Who was responsible for 26 June 2008 Karmah Bombing?
+2551	Who was the mastermind of 26 June 2008 Karmah Bombing?
+2552	How many people were injured in 26 June 2008 Karmah Bombing?
+2553	How many people were wounded in 26 June 2008 Karmah Bombing?
+2554	What was the attack type of 26 June 2008 Karmah Bombing?
+2555	What was/were the target(s) of 26 June 2008 Karmah Bombing
+2556	Where did Makombo massacre happen?
+2557	When did Makombo massacre happen?
+2558	Who were the perpetrators in Makombo massacre?
+2559	Who was responsible for Makombo massacre?
+2560	Who was the mastermind of Makombo massacre?
+2561	How many people were injured in Makombo massacre?
+2562	How many people were wounded in Makombo massacre?
+2563	What was the attack type of Makombo massacre?
+2564	What was/were the target(s) of Makombo massacre
+2565	Where did Belarus bomb blast happen?
+2566	When did Belarus bomb blast happen?
+2567	Who were the perpetrators in Belarus bomb blast?
+2568	Who was responsible for Belarus bomb blast?
+2569	Who was the mastermind of Belarus bomb blast?
+2570	How many people were injured in Belarus bomb blast?
+2571	How many people were wounded in Belarus bomb blast?
+2572	What was the attack type of Belarus bomb blast?
+2573	What was/were the target(s) of Belarus bomb blast
+2574	Where did 2008 Kashgar attack happen?
+2575	When did 2008 Kashgar attack happen?
+2576	Who were the perpetrators in 2008 Kashgar attack?
+2577	Who was responsible for 2008 Kashgar attack?
+2578	Who was the mastermind of 2008 Kashgar attack?
+2579	How many people were injured in 2008 Kashgar attack?
+2580	How many people were wounded in 2008 Kashgar attack?
+2581	What was the attack type of 2008 Kashgar attack?
+2582	What was/were the target(s) of 2008 Kashgar attack
+2583	Where did Lively Massacre happen?
+2584	When did Lively Massacre happen?
+2585	Who were the perpetrators in Lively Massacre?
+2586	Who was responsible for Lively Massacre?
+2587	Who was the mastermind of Lively Massacre?
+2588	How many people were injured in Lively Massacre?
+2589	How many people were wounded in Lively Massacre?
+2590	What was the attack type of Lively Massacre?
+2591	What was/were the target(s) of Lively Massacre
+2592	Where did 2008 attacks on Christians in Mosul happen?
+2593	When did 2008 attacks on Christians in Mosul happen?
+2594	Who were the perpetrators in 2008 attacks on Christians in Mosul?
+2595	Who was responsible for 2008 attacks on Christians in Mosul?
+2596	Who was the mastermind of 2008 attacks on Christians in Mosul?
+2597	How many people were injured in 2008 attacks on Christians in Mosul?
+2598	How many people were wounded in 2008 attacks on Christians in Mosul?
+2599	What was the attack type of 2008 attacks on Christians in Mosul?
+2600	What was/were the target(s) of 2008 attacks on Christians in Mosul
+2601	Where did Hebrew University massacre happen?
+2602	When did Hebrew University massacre happen?
+2603	Who were the perpetrators in Hebrew University massacre?
+2604	Who was responsible for Hebrew University massacre?
+2605	Who was the mastermind of Hebrew University massacre?
+2606	How many people were injured in Hebrew University massacre?
+2607	How many people were wounded in Hebrew University massacre?
+2608	What was the attack type of Hebrew University massacre?
+2609	What was/were the target(s) of Hebrew University massacre
+2610	Where did 2010 Aksu bombing happen?
+2611	When did 2010 Aksu bombing happen?
+2612	Who were the perpetrators in 2010 Aksu bombing?
+2613	Who was responsible for 2010 Aksu bombing?
+2614	Who was the mastermind of 2010 Aksu bombing?
+2615	How many people were injured in 2010 Aksu bombing?
+2616	How many people were wounded in 2010 Aksu bombing?
+2617	What was the attack type of 2010 Aksu bombing?
+2618	What was/were the target(s) of 2010 Aksu bombing
+2619	Where did 27 January 2003 Mumbai bombing happen?
+2620	When did 27 January 2003 Mumbai bombing happen?
+2621	Who were the perpetrators in 27 January 2003 Mumbai bombing?
+2622	Who was responsible for 27 January 2003 Mumbai bombing?
+2623	Who was the mastermind of 27 January 2003 Mumbai bombing?
+2624	How many people were injured in 27 January 2003 Mumbai bombing?
+2625	How many people were wounded in 27 January 2003 Mumbai bombing?
+2626	What was the attack type of 27 January 2003 Mumbai bombing?
+2627	What was/were the target(s) of 27 January 2003 Mumbai bombing
+2628	Where did 2009 NATO Afghanistan headquarters bombing happen?
+2629	When did 2009 NATO Afghanistan headquarters bombing happen?
+2630	Who were the perpetrators in 2009 NATO Afghanistan headquarters bombing?
+2631	Who was responsible for 2009 NATO Afghanistan headquarters bombing?
+2632	Who was the mastermind of 2009 NATO Afghanistan headquarters bombing?
+2633	How many people were injured in 2009 NATO Afghanistan headquarters bombing?
+2634	How many people were wounded in 2009 NATO Afghanistan headquarters bombing?
+2635	What was the attack type of 2009 NATO Afghanistan headquarters bombing?
+2636	What was/were the target(s) of 2009 NATO Afghanistan headquarters bombing
+2637	Where did 2008 Hargeisa¨CBosaso bombings happen?
+2638	When did 2008 Hargeisa¨CBosaso bombings happen?
+2639	Who were the perpetrators in 2008 Hargeisa¨CBosaso bombings?
+2640	Who was responsible for 2008 Hargeisa¨CBosaso bombings?
+2641	Who was the mastermind of 2008 Hargeisa¨CBosaso bombings?
+2642	How many people were injured in 2008 Hargeisa¨CBosaso bombings?
+2643	How many people were wounded in 2008 Hargeisa¨CBosaso bombings?
+2644	What was the attack type of 2008 Hargeisa¨CBosaso bombings?
+2645	What was/were the target(s) of 2008 Hargeisa¨CBosaso bombings
+2646	Where did Karkur junction suicide bombing happen?
+2647	When did Karkur junction suicide bombing happen?
+2648	Who were the perpetrators in Karkur junction suicide bombing?
+2649	Who was responsible for Karkur junction suicide bombing?
+2650	Who was the mastermind of Karkur junction suicide bombing?
+2651	How many people were injured in Karkur junction suicide bombing?
+2652	How many people were wounded in Karkur junction suicide bombing?
+2653	What was the attack type of Karkur junction suicide bombing?
+2654	What was/were the target(s) of Karkur junction suicide bombing
+2655	Where did 2008 Wah bombing happen?
+2656	When did 2008 Wah bombing happen?
+2657	Who were the perpetrators in 2008 Wah bombing?
+2658	Who was responsible for 2008 Wah bombing?
+2659	Who was the mastermind of 2008 Wah bombing?
+2660	How many people were injured in 2008 Wah bombing?
+2661	How many people were wounded in 2008 Wah bombing?
+2662	What was the attack type of 2008 Wah bombing?
+2663	What was/were the target(s) of 2008 Wah bombing
+2664	Where did 1987 Hipercor bombing happen?
+2665	When did 1987 Hipercor bombing happen?
+2666	Who were the perpetrators in 1987 Hipercor bombing?
+2667	Who was responsible for 1987 Hipercor bombing?
+2668	Who was the mastermind of 1987 Hipercor bombing?
+2669	How many people were injured in 1987 Hipercor bombing?
+2670	How many people were wounded in 1987 Hipercor bombing?
+2671	What was the attack type of 1987 Hipercor bombing?
+2672	What was/were the target(s) of 1987 Hipercor bombing
+2673	Where did 5 January 2006 Iraq bombings happen?
+2674	When did 5 January 2006 Iraq bombings happen?
+2675	Who were the perpetrators in 5 January 2006 Iraq bombings?
+2676	Who was responsible for 5 January 2006 Iraq bombings?
+2677	Who was the mastermind of 5 January 2006 Iraq bombings?
+2678	How many people were injured in 5 January 2006 Iraq bombings?
+2679	How many people were wounded in 5 January 2006 Iraq bombings?
+2680	What was the attack type of 5 January 2006 Iraq bombings?
+2681	What was/were the target(s) of 5 January 2006 Iraq bombings
+2682	Where did 30 September 2004 Baghdad bombing happen?
+2683	When did 30 September 2004 Baghdad bombing happen?
+2684	Who were the perpetrators in 30 September 2004 Baghdad bombing?
+2685	Who was responsible for 30 September 2004 Baghdad bombing?
+2686	Who was the mastermind of 30 September 2004 Baghdad bombing?
+2687	How many people were injured in 30 September 2004 Baghdad bombing?
+2688	How many people were wounded in 30 September 2004 Baghdad bombing?
+2689	What was the attack type of 30 September 2004 Baghdad bombing?
+2690	What was/were the target(s) of 30 September 2004 Baghdad bombing
+2691	Where did July 2010 Lahore bombings happen?
+2692	When did July 2010 Lahore bombings happen?
+2693	Who were the perpetrators in July 2010 Lahore bombings?
+2694	Who was responsible for July 2010 Lahore bombings?
+2695	Who was the mastermind of July 2010 Lahore bombings?
+2696	How many people were injured in July 2010 Lahore bombings?
+2697	How many people were wounded in July 2010 Lahore bombings?
+2698	What was the attack type of July 2010 Lahore bombings?
+2699	What was/were the target(s) of July 2010 Lahore bombings
