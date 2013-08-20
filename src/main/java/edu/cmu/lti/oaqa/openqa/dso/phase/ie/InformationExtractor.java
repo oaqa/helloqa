@@ -45,7 +45,6 @@ public class InformationExtractor extends AbstractInformationExtractor {
 		initialize();
 	}
 
-
 	private static final Logger LOGGER = Logger.getLogger(LogUtil
 			.getInvokingClassName());
 
@@ -60,15 +59,15 @@ public class InformationExtractor extends AbstractInformationExtractor {
 
 	private Map<String, String> structuredMap = null;
 
-	private static final String EVENT_MAP = "res" + File.separator + "experimental" + File.separator + "events" + File.separator + "event-map.txt";
+	private static final String EVENT_MAP = "res" + File.separator
+			+ "experimental" + File.separator + "events" + File.separator
+			+ "event-map.txt";
 
 	private GTDExtractor gtdExtractor = null;
 	private RANDExtractor randExtractor = null;
-	
+
 	private List<RetrievalResult> structuredAnswers = new ArrayList<RetrievalResult>();
 
-	private JSONObject config;
-	
 	@Override
 	public void initialize() {
 
@@ -109,7 +108,7 @@ public class InformationExtractor extends AbstractInformationExtractor {
 	public List<AnswerCandidate> extractAnswerCandidates(String questionText,
 			String answerType, List<String> keyterms, List<String> keyphrases,
 			List<RetrievalResult> documents) {
-		
+
 		structuredAnswers = new ArrayList<RetrievalResult>();
 
 		List<AnswerCandidate> candidates = new ArrayList<AnswerCandidate>();
@@ -125,7 +124,7 @@ public class InformationExtractor extends AbstractInformationExtractor {
 				}
 			}
 		}
-		
+
 		int rank = 1;
 
 		List<String> docNos = new ArrayList<String>();
@@ -195,60 +194,64 @@ public class InformationExtractor extends AbstractInformationExtractor {
 			 * rank); }
 			 */
 
-//			CandidateExtractorByXmi extractorByXmi = new CandidateExtractorByXmi(answerType, document);
-//			String currentXmiCandidates[][] = extractorByXmi.getAnswerCandidates();
-//			String[] xmiSentences = extractorByXmi.getSentences();
-//			String xmiDocumentText = extractorByXmi.getDocumentText();
-//			
-//			if(currentXmiCandidates != null ){
-//				generateAnswerCandidates(CANDIDATE_EXTRACTOR_TYPE[2], candidates, currentXmiCandidates, 
-//					xmiSentences.length, xmiSentences, questionText, answerType, keyterms, keyphrases, xmiDocumentText, documentList, rank);
-//			}
-			
+			// CandidateExtractorByXmi extractorByXmi = new
+			// CandidateExtractorByXmi(answerType, document);
+			// String currentXmiCandidates[][] =
+			// extractorByXmi.getAnswerCandidates();
+			// String[] xmiSentences = extractorByXmi.getSentences();
+			// String xmiDocumentText = extractorByXmi.getDocumentText();
+			//
+			// if(currentXmiCandidates != null ){
+			// generateAnswerCandidates(CANDIDATE_EXTRACTOR_TYPE[2], candidates,
+			// currentXmiCandidates,
+			// xmiSentences.length, xmiSentences, questionText, answerType,
+			// keyterms, keyphrases, xmiDocumentText, documentList, rank);
+			// }
+
 			rank++;
 
 			// CandidateExtractorByXmi extractorByXmi = new
 			// CandidateExtractorByXmi(answerType, document);
 			// xmiCandidates.addAll(extractorByXmi.getCandidates());
 
-			
 		}
 
 		List<AnswerCandidate> structuredCandidates = new ArrayList<AnswerCandidate>();
-		
+
 		CandidateExtractorByInfoBox extractorbyInfoBox = new CandidateExtractorByInfoBox();
 		List<String> infoBoxCandidates = extractorbyInfoBox
 				.getAnswerCandidates(keyterms, answerType);
 
 		for (String ne : infoBoxCandidates) {
-			
-			if(ne == null || ne.isEmpty() || ne.equals("")) {
+
+			if (ne == null || ne.isEmpty() || ne.equals("")) {
 				continue;
 			}
-			
+
 			AnswerCandidate candidate = new AnswerCandidate(ne.trim(),
 					new ArrayList<RetrievalResult>());
 			candidate.setScore(10);
 			LOGGER.info("Adding Infobox candidate: " + candidate.getText());
 			structuredCandidates.add(candidate);
 		}
-		
-		
+
 		/**
 		 * Retrieval from RDF
 		 */
-		
-		CandidateExtractorByRDF rdf = new CandidateExtractorByRDF(config);
+
+		CandidateExtractorByRDF rdf = new CandidateExtractorByRDF(
+				"http://dawn.isri.cmu.edu:3030/dataset",
+				"res/rdf_dbpedia_labels_indri_index", false);
 		String rdfAns = rdf.getAnswerForQuestion(questionText);
-		
-		if(rdfAns != null && !rdfAns.isEmpty()) {
+
+		if (rdfAns != null && !rdfAns.isEmpty()) {
 			AnswerCandidate candidate = new AnswerCandidate(rdfAns.trim(),
 					new ArrayList<RetrievalResult>());
 			candidate.setScore(10);
 			LOGGER.info("Adding RDF candidate: " + candidate.getText());
 			structuredCandidates.add(candidate);
 		}
-		
+
 		/**
 		 * Structured retrieval from GTD and Rand
 		 */
@@ -262,10 +265,10 @@ public class InformationExtractor extends AbstractInformationExtractor {
 
 		for (String ne : gtdrandCandidates) {
 
-			if(ne == null || ne.isEmpty() || ne.equals("")) {
+			if (ne == null || ne.isEmpty() || ne.equals("")) {
 				continue;
 			}
-			
+
 			AnswerCandidate candidate = new AnswerCandidate(ne.trim(),
 					new ArrayList<RetrievalResult>());
 			candidate.setScore(10);
@@ -273,25 +276,29 @@ public class InformationExtractor extends AbstractInformationExtractor {
 			structuredCandidates.add(candidate);
 
 		}
-		
-		//Check through structured candidates for reranking
-		List<AnswerCandidate> structuredRerank = StructuredRanker.rerankStructured(structuredCandidates);
-		
-		//Add structured candidates to all answer candidates
+
+		// Check through structured candidates for reranking
+		List<AnswerCandidate> structuredRerank = StructuredRanker
+				.rerankStructured(structuredCandidates);
+
+		// Add structured candidates to all answer candidates
 		candidates.addAll(structuredRerank);
 		Random generator = new Random();
 
-		for(AnswerCandidate ac : structuredRerank) {
-			
-			Result result = new Result(ac.getText(), new Query("STUCTURED" + ac.getText()),"" + generator.nextInt(1000000), 0); // Document Rank
-			structuredAnswers.add(new RetrievalResult("INFO"+result.getDocID(),-1, ac.getText(), 1,null));
+		for (AnswerCandidate ac : structuredRerank) {
+
+			Result result = new Result(ac.getText(), new Query("STUCTURED"
+					+ ac.getText()), "" + generator.nextInt(1000000), 0); // Document
+																			// Rank
+			structuredAnswers.add(new RetrievalResult("INFO"
+					+ result.getDocID(), -1, ac.getText(), 1, null));
 		}
-		
+
 		LOGGER.info("  Extracted " + candidates.size() + " candidates.");
 
 		return candidates;
 	}
-	
+
 	@Override
 	public List<RetrievalResult> extractStructuredCandidates() {
 		return structuredAnswers;

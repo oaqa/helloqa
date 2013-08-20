@@ -1,134 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-<modelVersion>4.0.0</modelVersion>
-<groupId>edu.cmu.lti.oaqa.openqa</groupId>
-<artifactId>helloqa</artifactId>
-<version>1.0.4-SNAPSHOT</version>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>edu.cmu.lti.oaqa.openqa</groupId>
+	<artifactId>helloqa</artifactId>
+	<version>1.0.4-SNAPSHOT</version>
 
-<name>Hello World QA Pipeline</name>
-<url>https://github.com/oaqa/helloqa</url>
-<issueManagement>
-<system>github.com</system>
-<url>https://github.com/oaqa/helloqa/issues</url>
-</issueManagement>
-<inceptionYear>2012</inceptionYear>
-<licenses>
-<license>
-<name>The Apache Software License, Version 2.0</name>
-<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-<distribution>repo</distribution>
-</license>
-</licenses>
-
-
-
-<scm>
-<connection>scm:git:git@github.com:oaqa/helloqa.git</connection>
-<developerConnection>scm:git:git@github.com:oaqa/helloqa.git</developerConnection>
-<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/group/course-snapshots</url>
-</scm>
-<distributionManagement>
-<repository>
-<id>deployment</id>
-<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases</url>
-</repository>
-<snapshotRepository>
-<id>snapshots</id>
-<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-snapshots</url>
-</snapshotRepository>
-</distributionManagement>
-<repositories>
-<repository>
-<id>oaqa</id>
-<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/releases</url>
-</repository>
-</repositories>
+	<name>Hello World QA Pipeline</name>
+	<url>https://github.com/oaqa/helloqa</url>
+	<issueManagement>
+		<system>github.com</system>
+		<url>https://github.com/oaqa/helloqa/issues</url>
+	</issueManagement>
+	<inceptionYear>2012</inceptionYear>
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
 
 
-<dependencies>
-<dependency> 
-<groupId>edu.cmu.lti.oaqa.framework.impl</groupId>
-<artifactId>jdbc-providers</artifactId>
-<version>2.3.2</version> 
-</dependency> 
-<dependency>
-<groupId>org.xerial</groupId>
-<artifactId>sqlite-jdbc</artifactId>
-<version>3.7.2</version>
-</dependency>
-<dependency> 
-<groupId>edu.cmu.lti.oaqa.bio.core</groupId>
-<artifactId>baseqa</artifactId>
-<version>1.9.1</version>
-</dependency>
-<dependency>
-<groupId>edu.cmu.lti.oaqa.core.provider</groupId>
-<artifactId>solr-provider</artifactId>
-<version>1.0.7</version>
-</dependency>
-<dependency>
-<groupId>com.google.guava</groupId>
-<artifactId>guava</artifactId>
-<version>13.0</version>
-</dependency>
-<dependency>
-	<groupId>com.hp.hpl.jena</groupId>
-	<artifactId>arq</artifactId>
-	<version>2.8.8</version>
-</dependency>
-<dependency>
-	<groupId>net.sf.opencsv</groupId>
-	<artifactId>opencsv</artifactId>
-	<version>2.3</version>
-</dependency>
-<dependency>
-	<groupId>org.slf4j</groupId>
-	<artifactId>slf4j-api</artifactId>
-	<version>1.7.5</version>
-</dependency>
-<dependency>
-	<groupId>org.slf4j</groupId>
-	<artifactId>slf4j-log4j12</artifactId>
-	<version>1.7.5</version>
-</dependency>
-<dependency>
-	<groupId>edu.cmu.lti.oaqa.ecd</groupId>
-	<artifactId>uima-ecd</artifactId>
-	<version>2.3.1</version>
-</dependency>
-<dependency>
-	<groupId>net.sf.jwordnet</groupId>
-	<artifactId>jwnl</artifactId>
-	<version>1.4_rc3</version>
-</dependency>
-</dependencies>
-<build>
-<plugins>
-<plugin>
-<groupId>org.apache.maven.plugins</groupId>
-<artifactId>maven-compiler-plugin</artifactId>
-<configuration>
-<source>1.6</source>
-<target>1.6</target>
-</configuration>
-</plugin>
 
- <plugin>
-         <groupId>org.apache.maven.plugins</groupId>
-	         <artifactId>maven-release-plugin</artifactId>
-		         <version>2.2.1</version>
-			         <executions>
-				           <execution>
-					               <id>default</id>
-						                   <goals>
-								                 <goal>perform</goal>
-										             </goals>
-											                 <configuration>
-													               <pomFileName>hw1-amaiberg/pom.xml</pomFileName>
-														                   </configuration>
-																             </execution>
-																	             </executions>
-																		           </plugin>
-																			       </plugins>
-</build>
+	<scm>
+		<connection>scm:git:git@github.com:oaqa/helloqa.git</connection>
+		<developerConnection>scm:git:git@github.com:oaqa/helloqa.git</developerConnection>
+		<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/group/course-snapshots</url>
+	</scm>
+	<distributionManagement>
+		<repository>
+			<id>deployment</id>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases</url>
+		</repository>
+		<snapshotRepository>
+			<id>snapshots</id>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-snapshots</url>
+		</snapshotRepository>
+	</distributionManagement>
+	<repositories>
+		<repository>
+			<id>oaqa</id>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/releases</url>
+		</repository>
+		<repository>
+			<id>oaqa-thirdparty</id>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/oaqa-thirdparty</url>
+		</repository>
+	</repositories>
+
+
+	<dependencies>
+		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>maxent</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>json</artifactId>
+			<version>1.0</version>
+		</dependency>
+<dependency>
+  <groupId>eij</groupId>
+  <artifactId>stanford-ner</artifactId>
+  <version>1.0</version>
+</dependency>
+		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>stanford-parser</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>opennlp-tool</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>wikixmlj</artifactId>
+			<version>r43</version>
+		</dependency>
+		<dependency>
+			<groupId>org.tartarus.snowball</groupId>
+			<artifactId>stemmer</artifactId>
+			<version>20120530</version>
+		</dependency>
+		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>simmetric</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>racr</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>edu.cmu.minorthird</groupId>
+			<artifactId>minorthird</artifactId>
+			<version>20080611</version>
+		</dependency>
+		<dependency>
+			<groupId>joda-time</groupId>
+			<artifactId>joda-time</artifactId>
+			<version>2.2</version>
+		</dependency>
+		<dependency>
+			<groupId>com.hp.hpl.jena</groupId>
+			<artifactId>jena</artifactId>
+			<version>2.6.4</version>
+		</dependency>
+		<dependency>
+			<groupId>edu.cmu.lti.javelin</groupId>
+			<artifactId>javelin</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.lemurproject</groupId>
+			<artifactId>indri</artifactId>
+			<version>5.2</version>
+		</dependency>
+		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>ephyra</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>edu.cmu.lti.oaqa.framework.impl</groupId>
+			<artifactId>jdbc-providers</artifactId>
+			<version>2.3.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.xerial</groupId>
+			<artifactId>sqlite-jdbc</artifactId>
+			<version>3.7.2</version>
+		</dependency>
+		<dependency>
+			<groupId>edu.cmu.lti.oaqa.bio.core</groupId>
+			<artifactId>baseqa</artifactId>
+			<version>1.9.1</version>
+		</dependency>
+		<dependency>
+			<groupId>edu.cmu.lti.oaqa.core.provider</groupId>
+			<artifactId>solr-provider</artifactId>
+			<version>1.0.7</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>13.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.hp.hpl.jena</groupId>
+			<artifactId>arq</artifactId>
+			<version>2.8.8</version>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>2.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.5</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>1.7.5</version>
+		</dependency>
+		<dependency>
+			<groupId>edu.cmu.lti.oaqa.ecd</groupId>
+			<artifactId>uima-ecd</artifactId>
+			<version>2.3.1</version>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.jwordnet</groupId>
+			<artifactId>jwnl</artifactId>
+			<version>1.4_rc3</version>
+		</dependency>
+	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-release-plugin</artifactId>
+				<version>2.2.1</version>
+				<executions>
+					<execution>
+						<id>default</id>
+						<goals>
+							<goal>perform</goal>
+						</goals>
+						<configuration>
+							<pomFileName>hw1-amaiberg/pom.xml</pomFileName>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
 </project>

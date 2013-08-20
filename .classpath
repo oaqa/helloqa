@@ -27,20 +27,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/ephyra.jar"/>
-	<classpathentry kind="lib" path="lib/javelin.jar"/>
-	<classpathentry kind="lib" path="lib/minorthird.jar"/>
-	<classpathentry kind="lib" path="lib/json.jar"/>
-	<classpathentry kind="lib" path="lib/stanford-ner.jar"/>
-	<classpathentry kind="lib" path="lib/stanford-parser.jar"/>
-	<classpathentry kind="lib" path="lib/joda-time-1.6.2.jar"/>
-	<classpathentry kind="lib" path="lib/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
-	<classpathentry kind="lib" path="lib/wikixmlj-r43.jar"/>
-	<classpathentry kind="lib" path="lib/racr.model.jar"/>
-	<classpathentry kind="lib" path="lib/indri.jar"/>
-	<classpathentry kind="lib" path="lib/jena-2.6.4.jar"/>
-	<classpathentry kind="lib" path="lib/opennlp-tools.jar"/>
-	<classpathentry kind="lib" path="lib/maxent.jar"/>
-	<classpathentry kind="lib" path="lib/snowball.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
