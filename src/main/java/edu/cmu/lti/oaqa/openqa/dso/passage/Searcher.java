@@ -12,6 +12,6 @@ public interface Searcher {
 	public abstract List<RetrievalResult> retrieveDocuments(
 			List<String> keyterms, List<String> keyphrases, String questionText, String answerType);
 
-	public abstract void initialize(JSONObject config) throws JSONException;
+	public abstract void initialize() throws JSONException;
 
 }

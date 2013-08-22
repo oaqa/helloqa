@@ -10,11 +10,8 @@ import java.util.List;
 import java.util.Set;
 
 import org.apache.log4j.Logger;
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
-import edu.cmu.lti.oaqa.openqa.dso.util.JSONUtil;
 import edu.cmu.lti.oaqa.openqa.dso.util.LogUtil;
 
 
@@ -27,20 +24,15 @@ public class LocalCorpusSearcher implements Searcher {
 	private String[] locations;
 	
 	private List<double[]> keytermIDFList = new ArrayList<double[]>();
-	
-	public LocalCorpusSearcher() {
-		
-	}
 
 	/* (non-Javadoc)
 	 * @see edu.cmu.lti.oaqa.experimental_impl.passage.searcher.Searcher#initialize()
 	 */
 	@Override
-	public void initialize(JSONObject config) throws JSONException {
-		this.locations = JSONUtil.convertJSONArray(config.getJSONArray("locations"));
+	public void initialize() {
+		this.locations = new String[]{"xmirepo/dso/index"};
 		kms = new ArrayList<IndriSentencesKM>();
 		kms.add(new IndriSentencesKM(locations));
-		
 	}
 	
 	/* (non-Javadoc)

@@ -18,7 +18,6 @@ import java.util.Scanner;
 import org.apache.log4j.Logger;
 import org.apache.uima.UimaContext;
 import org.apache.uima.resource.ResourceInitializationException;
-import org.json.JSONObject;
 
 import edu.cmu.lti.oaqa.openqa.dso.answer.AnswerScorer;
 import edu.cmu.lti.oaqa.openqa.dso.answer.StructuredRanker;

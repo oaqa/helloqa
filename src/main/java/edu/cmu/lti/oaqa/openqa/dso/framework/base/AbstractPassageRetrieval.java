@@ -14,8 +14,6 @@ import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.DocumentJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.KeytermJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewManager;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewType;
-import edu.cmu.lti.oaqa.openqa.dso.passage.EphyraPassageReranker;
-import edu.cmu.lti.oaqa.openqa.dso.passage.PassageReranker;
 
 public abstract class AbstractPassageRetrieval extends AbstractLoggedComponent {
 	public abstract void initialize();
@@ -39,8 +37,6 @@ public abstract class AbstractPassageRetrieval extends AbstractLoggedComponent {
 
 			List<RetrievalResult> documents = retrieveDocuments(keyterms,
 					keyphrases, questionText, answerType);
-			PassageReranker passageReranker = new EphyraPassageReranker();
-			documents = passageReranker.rerank(questionText, keyterms, documents);
 
 			DocumentJCasManipulator.storeDocuments(
 					ViewManager.getView(jcas, ViewType.PASSAGE), documents);

@@ -22,11 +22,13 @@ public abstract class AbstractAnswerTypeExtractor extends
 	public final void process(JCas jcas) throws AnalysisEngineProcessException {
 		super.process(jcas);
 		try {
+
 			// prepare input
 			InputElement input = ((InputElement) BaseJCasHelper.getAnnotation(
 					jcas, InputElement.type));
 			String questionText = input.getQuestion();
-
+			log("QUESTION: " + questionText);
+			
 			// do task
 			String answerType = extractAnswerTypes(questionText);
 			log("TYPE_DETECTED: " + answerType);

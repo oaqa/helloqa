@@ -50,7 +50,7 @@ public class RDFSearcher implements Searcher{
 	}
 
 	@Override
-	public void initialize(JSONObject config) throws JSONException {
+	public void initialize() throws JSONException {
 		// no special initialization configs
 	}
 }

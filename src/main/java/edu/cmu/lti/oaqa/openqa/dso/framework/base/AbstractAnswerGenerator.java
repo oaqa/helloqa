@@ -7,6 +7,7 @@ import org.apache.uima.jcas.JCas;
 
 import edu.cmu.lti.oaqa.ecd.log.AbstractLoggedComponent;
 import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
+import edu.cmu.lti.oaqa.openqa.dso.framework.DSOLogEntry;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.AnswerTypeJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.AnsJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.KeytermJCasManipulator;
@@ -35,6 +36,14 @@ public abstract class AbstractAnswerGenerator extends AbstractLoggedComponent {
 
 			List<AnswerCandidate> finalAnswers = generateFinalAnswers(
 					answerType, keyterms, answerCandidates);
+			
+			StringBuilder builder=new StringBuilder();
+			for(int i=0;i<Math.min(finalAnswers.size(), 10);i++){
+				builder.append(" "+(i+1)+". "+finalAnswers.get(i));
+			}
+			
+			log("ANS_DETECTED: " + builder.toString());
+			
 			AnsJCasManipulator.storeCandidates(
 					ViewManager.getView(jcas, ViewType.ANS), finalAnswers);
 		} catch (Exception e) {
@@ -42,4 +51,7 @@ public abstract class AbstractAnswerGenerator extends AbstractLoggedComponent {
 		}
 	}
 
+	protected final void log(String message) {
+		super.log(DSOLogEntry.ANS, message);
+	}
 }

@@ -54,10 +54,10 @@ public abstract class AbstractInformationExtractor extends AbstractLoggedCompone
 	        
 	        //Store updated documents here, got problem
 	        List<RetrievalResult> structuredAns = extractStructuredCandidates();
-	        List<RetrievalResult> newDoc = new ArrayList<RetrievalResult>(documents);
-	        newDoc.addAll(structuredAns);
+	        List<RetrievalResult> nes = new ArrayList<RetrievalResult>(documents);
+	        nes.addAll(structuredAns);
 	        
-			log("ANS_DETECTED: " + newDoc.size());
+			log("IE_DETECTED: " + nes.size());
 	        AnsJCasManipulator.storeCandidates(ViewManager.getView(jcas, ViewType.IE), answers);
 
 		} catch (Exception e) {
