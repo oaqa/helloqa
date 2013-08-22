@@ -33,9 +33,9 @@ public class PassageRetrieval extends AbstractPassageRetrieval{
 
 	@Override
 	public void initialize() {
-		Searcher localSearcher = new LocalCorpusSearcher();
+		localSearcher = new LocalCorpusSearcher();
 		//webSearcher = new WebDocumentSearcher();
-		Searcher rdfSearcher = new RDFSearcher();
+		rdfSearcher = new RDFSearcher();
 		
 		searchers.add(localSearcher);
 		searchers.add(rdfSearcher);
