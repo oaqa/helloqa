@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package edu.cmu.lti.oaqa.openqa.hello.eval.passage;
+package edu.cmu.lti.oaqa.openqa.dso.framework.eval;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

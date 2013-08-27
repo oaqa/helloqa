@@ -13,7 +13,7 @@ import org.apache.uima.cas.impl.FeatureImpl;
 import org.apache.uima.cas.Feature;
 
 /** The phrase in the question that indicates the answer variable.
- * Updated by JCasGen Thu Aug 15 13:53:20 EDT 2013
+ * Updated by JCasGen Tue Aug 27 18:06:53 EDT 2013
  * @generated */
 public class Focus_Type extends OAQAAnnotation_Type {
   /** @generated */

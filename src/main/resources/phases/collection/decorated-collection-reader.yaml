@@ -1,0 +1,8 @@
+inherit: fs.fs-collection-reader
+  
+decorators: |
+  - inherit: rankqa.collection.keyterm-gs-decorator
+  - inherit: rankqa.collection.passage-gs-decorator
+
+persistence-provider: |
+  inherit: rankqa.db.local-persistence-provider

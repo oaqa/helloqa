@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.framework.eval.gs.PassageGoldStandardFilePersistenceProvider
+DataSet: GUTENBERG
+PathPattern: classpath:/gs/small.passage
+LineSyntax: (\d+)\|([\w\.]+)\|(\d+) (\d+)\|(.*)

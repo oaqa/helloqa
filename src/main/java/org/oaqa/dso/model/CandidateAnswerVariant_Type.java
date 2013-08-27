@@ -13,7 +13,7 @@ import org.apache.uima.cas.impl.FeatureImpl;
 import org.apache.uima.cas.Feature;
 
 /** A variant of a candidate answer.  A variant may have multiple occurrences, all of which are collected in a variant object.
- * Updated by JCasGen Thu Aug 15 13:53:20 EDT 2013
+ * Updated by JCasGen Tue Aug 27 18:06:53 EDT 2013
  * @generated */
 public class CandidateAnswerVariant_Type extends OAQATop_Type {
   /** @generated */
@@ -138,7 +138,7 @@ public class CandidateAnswerVariant_Type extends OAQATop_Type {
     if (lowLevelTypeChecks)
       return ll_cas.ll_getRefArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_supportingEvidenceSearches), i, true);
     jcas.checkArrayBounds(ll_cas.ll_getRefValue(addr, casFeatCode_supportingEvidenceSearches), i);
-	return ll_cas.ll_getRefArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_supportingEvidenceSearches), i);
+  return ll_cas.ll_getRefArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_supportingEvidenceSearches), i);
   }
    
   /** @generated */ 

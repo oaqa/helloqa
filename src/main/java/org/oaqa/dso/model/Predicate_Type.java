@@ -13,7 +13,7 @@ import org.apache.uima.cas.impl.FeatureImpl;
 import org.apache.uima.cas.Feature;
 
 /** Annotation on a predicate, which may have arguments; useful in transforming text into a "logical form", with affordances similar to the ones provided in Extended WordNet and the like. --- Source: Murdock
- * Updated by JCasGen Thu Aug 15 13:53:20 EDT 2013
+ * Updated by JCasGen Tue Aug 27 18:06:53 EDT 2013
  * @generated */
 public class Predicate_Type extends OAQAAnnotation_Type {
   /** @generated */
@@ -66,7 +66,7 @@ public class Predicate_Type extends OAQAAnnotation_Type {
     if (lowLevelTypeChecks)
       return ll_cas.ll_getRefArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_arguments), i, true);
     jcas.checkArrayBounds(ll_cas.ll_getRefValue(addr, casFeatCode_arguments), i);
-	return ll_cas.ll_getRefArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_arguments), i);
+  return ll_cas.ll_getRefArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_arguments), i);
   }
    
   /** @generated */ 
@@ -103,7 +103,7 @@ public class Predicate_Type extends OAQAAnnotation_Type {
     if (lowLevelTypeChecks)
       return ll_cas.ll_getStringArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_argumentLabels), i, true);
     jcas.checkArrayBounds(ll_cas.ll_getRefValue(addr, casFeatCode_argumentLabels), i);
-	return ll_cas.ll_getStringArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_argumentLabels), i);
+  return ll_cas.ll_getStringArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_argumentLabels), i);
   }
    
   /** @generated */ 
@@ -140,7 +140,7 @@ public class Predicate_Type extends OAQAAnnotation_Type {
     if (lowLevelTypeChecks)
       return ll_cas.ll_getRefArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_sources), i, true);
     jcas.checkArrayBounds(ll_cas.ll_getRefValue(addr, casFeatCode_sources), i);
-	return ll_cas.ll_getRefArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_sources), i);
+  return ll_cas.ll_getRefArrayValue(ll_cas.ll_getRefValue(addr, casFeatCode_sources), i);
   }
    
   /** @generated */ 

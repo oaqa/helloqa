@@ -1,0 +1,7 @@
+class: edu.cmu.lti.oaqa.openqa.dso.framework.eval.KnownSizeFileCollectionReader
+
+decorators: |
+  - inherit: phases.collection.answer-gs-decorator
+
+persistence-provider: |
+  inherit: phases.db.local-persistence-provider

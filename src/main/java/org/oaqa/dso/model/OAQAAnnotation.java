@@ -11,8 +11,8 @@ import org.apache.uima.jcas.tcas.Annotation;
 
 
 /** The Question Analysis supertype that defines the attributes common to all question analysis results.
- * Updated by JCasGen Thu Aug 15 13:53:20 EDT 2013
- * XML source: /home/ruil/workspace/git/helloqa/descriptors/OAQATypes.xml
+ * Updated by JCasGen Tue Aug 27 18:06:53 EDT 2013
+ * XML source: /home/ruil/workspace/git/helloqa/src/main/resources/edu/cmu/lti/oaqa/OAQATypes.xml
  * @generated */
 public class OAQAAnnotation extends Annotation {
   /** @generated

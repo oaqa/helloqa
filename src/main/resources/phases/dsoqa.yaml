@@ -1,18 +1,21 @@
 configuration: 
-  name: helloqa
+  name: dsoqa
   author: oaqa
   
 persistence-provider:
-  inherit: helloqa.db.local-persistence-provider
+  inherit: phases.db.local-persistence-provider
 
 collection-reader:
-  inherit: helloqa.collection.decorated-collection-reader
-  dataset: GUTENBERG
-  file: /input/small.txt
-#  inherit: fs.dir-collection-reader
-#  dataset: GUTENBERG
-#  suffix: txt
-#  dir: /input
+   inherit: phases.collection.known-size-fs-collection-reader
+   dataset: TREC
+#   file: /input/info-gain/trec-9-orig-test-t8.txt
+#   file: /input/info-gain/trec-9-variants-test-t8.txt
+#   file: /input/info-gain/trec-9-rand-test-t8.txt
+#   file: /input/trec-8-9-10-questions.txt
+   file: /input/TREC-8-Questions.txt
+#   file: /input/trec-9-questions.txt
+#   file: /input/trec-10-questions.txt
+#   file: /input/TREC-8-sample.txt
 
 pipeline:
   - inherit: jdbc.sqlite.cse.phase  
@@ -45,4 +48,4 @@ pipeline:
     options: |
       - inherit: phases.AnswerGenerator
 
-    
+  - inherit: phases.eval.answer-aggregator-consumer
