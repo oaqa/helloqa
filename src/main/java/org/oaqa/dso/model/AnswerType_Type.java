@@ -13,7 +13,7 @@ import org.apache.uima.cas.impl.FeatureImpl;
 import org.apache.uima.cas.Feature;
 
 /** A Named Entity type that represents the type of the answer being sought.
- * Updated by JCasGen Thu Aug 15 13:53:20 EDT 2013
+ * Updated by JCasGen Tue Aug 27 18:06:53 EDT 2013
  * @generated */
 public class AnswerType_Type extends OAQAAnnotation_Type {
   /** @generated */

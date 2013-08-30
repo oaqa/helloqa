@@ -10,8 +10,8 @@ import org.apache.uima.jcas.cas.TOP_Type;
 
 
 /** The Question and any associated meta-data.
- * Updated by JCasGen Thu Aug 15 13:53:20 EDT 2013
- * XML source: /home/ruil/workspace/git/helloqa/descriptors/OAQATypes.xml
+ * Updated by JCasGen Tue Aug 27 18:06:53 EDT 2013
+ * XML source: /home/ruil/workspace/git/helloqa/src/main/resources/edu/cmu/lti/oaqa/OAQATypes.xml
  * @generated */
 public class Question extends OAQAAnnotation {
   /** @generated

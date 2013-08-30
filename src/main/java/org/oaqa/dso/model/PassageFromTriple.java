@@ -10,8 +10,8 @@ import org.apache.uima.jcas.cas.TOP_Type;
 
 
 /** A passage search result that was the result of a search from the subject and object of a triple
- * Updated by JCasGen Thu Aug 15 13:53:20 EDT 2013
- * XML source: /home/ruil/workspace/git/helloqa/descriptors/OAQATypes.xml
+ * Updated by JCasGen Tue Aug 27 18:06:53 EDT 2013
+ * XML source: /home/ruil/workspace/git/helloqa/src/main/resources/edu/cmu/lti/oaqa/OAQATypes.xml
  * @generated */
 public class PassageFromTriple extends Passage {
   /** @generated

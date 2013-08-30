@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.openqa.dso.framework.eval.TrecAnswerGoldStandardDecorator
+
+persistence-provider: |
+  inherit: phases.collection.answer-gs-persistence-provider

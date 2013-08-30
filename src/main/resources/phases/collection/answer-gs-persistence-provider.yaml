@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.openqa.dso.framework.eval.TrecAnswerGoldStandardFilePersistenceProvider
+DataSet: IC
+PathPattern: classpath:/gs/small.answer
+LineSyntax: (\d+)\ (.*)

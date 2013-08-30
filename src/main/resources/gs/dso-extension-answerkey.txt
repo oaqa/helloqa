@@ -1,0 +1,51 @@
+﻿IC-1000 New\s?York
+IC-1001 Yes
+IC-1002 1993
+IC-1003 7
+IC-1004 1042
+IC-1005 Ramzi Yousef
+IC-1006 Khaled Sheikh Mohammed
+IC-1007 $1,400
+IC-1008 1992
+IC-1009 political asylum
+IC-1010 Abdul Rahman Yasin
+IC-1011 United Nations headquarters
+IC-1012 1993 World Trade Center bombing
+IC-1013 four
+IC-1014 three
+IC-1015 Tavistock Square
+IC-1016 56
+IC-1017 al-Qaeda
+IC-1018 Hasib Hussain, Mohammad Sidique Khan, Germaine Lindsay, Shehzad Tanweer
+IC-1019 Yemen
+IC-1020 October 12, 2000
+IC-1021 17
+IC-1022 al-Qaeda
+IC-1023 Abd al-Rahim al-Nashiri
+IC-1024 Al-Qaeda
+IC-1025 Yes
+IC-1026 USS The Sullivans (DDG-68)
+IC-1027 Sudan
+IC-1028 $13.4 million
+IC-1029 Malaysia
+IC-1030 Indonesia
+IC-1031 2008
+IC-1032 RDX and TNT
+IC-1033 Suicide truck bombing
+IC-1034 54
+IC-1035 Jemaah Islamiyah
+IC-1036 three
+IC-1037 two nightclubs with Western clientele, US Consular office
+IC-1038 202
+IC-1039 88
+IC-1040 Imam Samudra, Amrozi Nurhasyim, Huda bin Abdul Haq
+IC-1041 firing squad
+IC-1042 plastic
+IC-1043 Abbottabad
+IC-1044 $1 million
+IC-1045 spiritual head
+IC-1046 15
+IC-1047 Abd al-Rahim al-Nashiri
+IC-1048 90,000 barrels
+IC-1049 plastic
+IC-1050 Anwar al-Awlaki

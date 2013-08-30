@@ -1,18 +1,14 @@
 configuration: 
-  name: helloqa
+  name: dsoqa
   author: oaqa
   
 persistence-provider:
-  inherit: helloqa.db.local-persistence-provider
+  inherit: phases.db.local-persistence-provider
 
 collection-reader:
-  inherit: helloqa.collection.decorated-collection-reader
-  dataset: GUTENBERG
-  file: /input/small.txt
-#  inherit: fs.dir-collection-reader
-#  dataset: GUTENBERG
-#  suffix: txt
-#  dir: /input
+   inherit: phases.collection.known-size-fs-collection-reader
+   dataset: IC
+   file: /input/small.txt
 
 pipeline:
   - inherit: jdbc.sqlite.cse.phase  
@@ -45,4 +41,12 @@ pipeline:
     options: |
       - inherit: phases.AnswerGenerator
 
-    
+  - inherit: phases.eval.answer-aggregator-consumer
+  
+post-process: 
+  # Answer-evaluation results are stored in the same format
+  # as the passage-evaluation results         
+  - inherit: phases.eval.answer-map-evaluator-consumer
+  - inherit: report.csv-report-generator
+    builders: |
+      - inherit: phases.report.map-report-component

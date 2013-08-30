@@ -1,0 +1,5 @@
+inherit: jdbc.sqlite.db.experiment-persistence-provider
+url: jdbc:sqlite:data/oaqa-eval.db3
+driver: org.sqlite.JDBC
+username: admin
+password: admin

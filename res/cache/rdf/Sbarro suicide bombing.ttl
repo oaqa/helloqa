@@ -1,0 +1,47 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dbpedia-owl:  <http://dbpedia.org/ontology/> .
+@prefix geo:     <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix ns8:     <http://www.w3.org/ns/prov#> .
+@prefix grs:     <http://www.georss.org/georss/> .
+
+<http://dbpedia.org/resource/Sbarro_restaurant_suicide_bombing>
+      a       <http://dbpedia.org/class/yago/TerroristAttack101246697> , <http://dbpedia.org/class/yago/TerroristIncidentsIn2001> , <http://dbpedia.org/class/yago/TerroristAttacksAttributedToPalestinianMilitantGroups> , <http://www.opengis.net/gml/_Feature> ;
+      rdfs:comment "L'attentat de la pizzeria Sbarro est un attentat-suicide perpétré le 9 août 2001 à Jérusalem en Israël, qui a été revendiqué par les mouvements palestiniens du Hamas et du Djihad islamique palestinien."@fr , "O atentado terrorista à pizzaria Sbarro foi uma ataque terrorista palestino em uma pizzaria no centro de Jerusalém, Israel, em 9 de agosto de 2001, no qual 15 civis morreram e 130 foram feridos. No ataque morreu também o turista brasileiro Giora Balash, de 60 anos."@pt , "De terroristische aanslag in het Sbarro-pizzarestaurant van Jeruzalem vond plaats op 9 augustus 2001. Het pizzarestaurant bevindt zich op de hoek van de King Georgestraat en de Jaffastraat. Dit is het drukste voetgangerskruispunt van Jeruzalem en een van de drukste voetgangerskruispunten in Israël. De aanslagpleger droeg een 5 tot 10 kilo wegende bom op zijn lichaam, waarin explosieven, spijkers en moeren."@nl , "The Sbarro restaurant suicide bombing was a Palestinian terrorist attack on a pizzeria in downtown Jerusalem, Israel, on August 9, 2001, in which 15 civilians were killed and 130 wounded."@en ;
+      rdfs:label "Sbarro restaurant suicide bombing"@en ;
+      dbpedia-owl:abstract
+              "L'attentat de la pizzeria Sbarro est un attentat-suicide perpétré le 9 août 2001 à Jérusalem en Israël, qui a été revendiqué par les mouvements palestiniens du Hamas et du Djihad islamique palestinien."@fr , "De terroristische aanslag in het Sbarro-pizzarestaurant van Jeruzalem vond plaats op 9 augustus 2001. Het pizzarestaurant bevindt zich op de hoek van de King Georgestraat en de Jaffastraat. Dit is het drukste voetgangerskruispunt van Jeruzalem en een van de drukste voetgangerskruispunten in Israël. De aanslagpleger droeg een 5 tot 10 kilo wegende bom op zijn lichaam, waarin explosieven, spijkers en moeren. Ten tijde van de aanslag, vlak voor 2 uur 's middags, was het restaurant vol met inwoners van Jeruzalem, toeristen en dagjesmensen. Als gevolg van de aanslag werden 15 mensen vermoord, waarvan 7 kinderen, en 130 verwond. De aanslagpleger kwam om. Zowel de Hamas als Islamitische Jihad eisten aanvankelijk de verantwoordelijkheid voor de aanslag op, maar het bleek een actie van de Hamas te zijn."@nl , "O atentado terrorista à pizzaria Sbarro foi uma ataque terrorista palestino em uma pizzaria no centro de Jerusalém, Israel, em 9 de agosto de 2001, no qual 15 civis morreram e 130 foram feridos. No ataque morreu também o turista brasileiro Giora Balash, de 60 anos."@pt , "The Sbarro restaurant suicide bombing was a Palestinian terrorist attack on a pizzeria in downtown Jerusalem, Israel, on August 9, 2001, in which 15 civilians were killed and 130 wounded."@en ;
+      dbpedia-owl:thumbnail
+              <http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SbarroAfter1.jpg/200px-SbarroAfter1.jpg> ;
+      dbpedia-owl:wikiPageExternalLink
+              <http://www.kerenmalki.org/> , <http://terror.fredogfrihed.dk/Jerusalem%20-%20August%209%202001/Jerusalem080901.htm> , <http://news.bbc.co.uk/1/hi/entertainment/arts/1564188.stm> , <http://www2.ljworld.com/news/2001/sep/24/gruesome_exhibit_marks/> , <http://www.partnersinkindness.org/aboutus.php> , <http://www.mfa.gov.il/MFA/MFAArchive/2000_2009/2000/10/Suicide%20bombing%20at%20the%20Sbarro%20pizzeria%20in%20Jerusale> ;
+      dbpprop:date "120.0"^^<http://dbpedia.org/datatype/second> , "2001-08-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      dbpprop:fatalities "15"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:hasPhotoCollection
+              <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Sbarro_restaurant_suicide_bombing> ;
+      dbpprop:injuries "130"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:location <http://dbpedia.org/resource/Jerusalem> , <http://dbpedia.org/resource/Israel> ;
+      dbpprop:map "7"^^<http://www.w3.org/2001/XMLSchema#int> , "250"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:partof "the Second Intifada militancy campaign"@en ;
+      dbpprop:perps <http://dbpedia.org/resource/Hamas> ;
+      dbpprop:target "Sbarro pizza restaurant"@en ;
+      dbpprop:title "Sbarro restaurant suicide bombing"@en ;
+      dbpprop:type <http://dbpedia.org/resource/Suicide_attack> ;
+      dbpprop:wikiPageUsesTemplate
+              <http://dbpedia.org/resource/Template:Infobox_civilian_attack> ;
+      dbpprop:wordnet_type
+              <http://www.w3.org/2006/03/wn/wn20/instances/synset-terrorist_attack-noun-1> ;
+      dcterms:subject <http://dbpedia.org/resource/Category:Mass_murder_in_2001> , <http://dbpedia.org/resource/Category:Terrorism_in_Jerusalem> , <http://dbpedia.org/resource/Category:History_of_Jerusalem> , <http://dbpedia.org/resource/Category:Suicide_bombing_in_the_Israeli%E2%80%93Palestinian_conflict> , <http://dbpedia.org/resource/Category:Palestinian_Islamic_Jihad> , <http://dbpedia.org/resource/Category:Terrorist_attacks_attributed_to_Palestinian_militant_groups> , <http://dbpedia.org/resource/Category:Terrorist_incidents_in_Israel_in_2001> , <http://dbpedia.org/resource/Category:Israeli_casualties_in_the_Second_Intifada> , <http://dbpedia.org/resource/Category:Hamas> ;
+      grs:point "31.783158333333333 35.21791944444445"@en ;
+      owl:sameAs <http://fr.dbpedia.org/resource/Attentat_du_9_août_2001_de_la_pizzeria_Sbarro_à_Jérusalem> , <http://pt.dbpedia.org/resource/Atentado_terrorista_da_pizzaria_Sbarro> , <http://rdf.freebase.com/ns/m.04q2t0> ;
+      geo:geometry "POINT(35.2179 31.7832)"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry> ;
+      geo:lat "31.7832"^^<http://www.w3.org/2001/XMLSchema#float> ;
+      geo:long "35.2179"^^<http://www.w3.org/2001/XMLSchema#float> ;
+      ns8:wasDerivedFrom <http://en.wikipedia.org/wiki/Sbarro_restaurant_suicide_bombing?oldid=491081129> ;
+      foaf:depiction <http://upload.wikimedia.org/wikipedia/commons/e/e1/SbarroAfter1.jpg> ;
+      foaf:isPrimaryTopicOf
+              <http://en.wikipedia.org/wiki/Sbarro_restaurant_suicide_bombing> .

@@ -13,8 +13,8 @@ import org.apache.uima.jcas.cas.StringArray;
 
 
 /** Annotation on a predicate, which may have arguments; useful in transforming text into a "logical form", with affordances similar to the ones provided in Extended WordNet and the like. --- Source: Murdock
- * Updated by JCasGen Thu Aug 15 13:53:20 EDT 2013
- * XML source: /home/ruil/workspace/git/helloqa/descriptors/OAQATypes.xml
+ * Updated by JCasGen Tue Aug 27 18:06:53 EDT 2013
+ * XML source: /home/ruil/workspace/git/helloqa/src/main/resources/edu/cmu/lti/oaqa/OAQATypes.xml
  * @generated */
 public class Predicate extends OAQAAnnotation {
   /** @generated
