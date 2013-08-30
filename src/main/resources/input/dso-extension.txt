@@ -1,0 +1,57 @@
+IC-1021	How many people are killed in the attack of USS Cole Bombing?
+IC-1018	Who were the perpetrators of 2005 London bombings?
+IC-1012	What is the most similar incident according to September 11 attacks?
+IC-1016	How many people died in the attack of 2005 London bombings?
+IC-1013	How many bombs were detonated in 2005 London bombings?
+IC-1017	Which organization claimed responsibility for the attack of 2005 London bombings?
+IC-1000	In what city did the World Trade Center bombing take place in 1993?
+IC-1001	Did Al Qaeda carry out similar attacks before September 11 attacks?
+IC-1002	When did Al Qaeda first attack World Trade Center?
+IC-1003	How many people were killed in the attack of World Trade Center bombing?
+IC-1004	How many people wounded in World Trade Center bombing?
+IC-1005	Who is the mastermind of World Trade Center bombing?
+IC-1006	Who financed the attack of World Trade Center bombing?
+IC-1007	How much money was Ramzi Yousef funded for World Trade Center bombing?
+IC-1008	When did Ramzi Yousef arrive in the United States?
+IC-1009	For what juridical notion was Ramzi Yousef allowed into the United States?
+IC-1010	Who assisted Ramzi Yousef to make the bomb in World Trade Center incident in 2006?
+IC-1011	What is the target in the original plan in World Trade Center bombing in 2006?
+IC-1012	What is the most similar incident according to September 11 attacks?
+IC-1013	How many bombs were detonated in 2005 London bombings?
+IC-1014	How many bombs exploded in London Underground in 2005 London bombings?
+IC-1015	Where did the fourth bomb explode in 2005 London bombings?
+IC-1016	How many people died in the attack of 2005 London bombings?
+IC-1017	Which organization claimed responsibility for the attack of 2005 London bombings?
+IC-1018	Who were the perpetrators of 2005 London bombings?
+IC-1019	In what country did the USS Cole incident take place?
+IC-1020	When did USS Cole incident happen?
+IC-1021	How many people are killed in the attack of USS Cole Bombing?
+IC-1022	Who claimed responsibility for the attack of USS Cole Bombing?
+IC-1023	Who is the mastermind of USS Cole incident?
+IC-1024	What organization directed the attack of USS Cole bombing?
+IC-1025	Did Al Qaeda carry out similar attack before USS Cole?
+IC-1026	What was the target of a similar attack carry out by Al Qaeda before USS Cole?
+IC-1027	Which government was judge liable for the USS Cole bombing?
+IC-1028	How much money did U.S. federal judge Kimba Wood released to pay for the victims of USS Cole?
+IC-1029	Where was Kuala Lumpur al-Qaeda Summit hold?
+IC-1030	In what country did the Marriott Hotel bombing happen in 2009?
+IC-1031	When did Marriott Hotel bombing happen in Pakistan?
+IC-1032	What were the explosives used in the Marriott bombing in 2003?
+IC-1033	What is the attack type in the 2008 Marriott bombing incident?
+IC-1034	How many people are killed in 2008 Marriott bombing?
+IC-1035	What organization was directly responsible for the incident of Bali bombings?
+IC-1036	How many bombs did the attack involved in Bali bombings?
+IC-1037	What were the targets in 2002 Bali bombings?
+IC-1038	How many people are killed in Bali bombings?
+IC-1039	How many Australians were killed in Bali bombing?
+IC-1040	Who were sentenced to death in 2008 for Bali bombing?
+IC-1041	How were the perpetrators of Bali bombing executed in 2008?
+IC-1042	What were the explosives used in the Bali bombings in 2002 in Indonesia?
+IC-1043	In which city was Umar Patek arrested in 2011?
+IC-1044	How much money did the U.S. government offered for rewarding for Umar Patek's arrest?
+IC-1045	What is Abu Bakar Bashir's role in Jemaah Islamiyah?
+IC-1046	How many years in prison did Abu Bakar Baasyir serve?
+IC-1047	Who was the mastermind behind the Limburg bombings?
+IC-1048	How much oil spilled into the sea as a result of the Limburg incident?
+IC-1049	What type of explosives were used in 2010 Cargo planes bomb?
+IC-1050	Who is now being called "bin Laden of the Internet"?

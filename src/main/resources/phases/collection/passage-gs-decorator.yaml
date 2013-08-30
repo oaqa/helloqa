@@ -1,4 +1,0 @@
-class: edu.cmu.lti.oaqa.framework.eval.PassageDatasetDecorator
-
-persistence-provider: |
-  inherit: rankqa.collection.passage-gs-persistence-provider

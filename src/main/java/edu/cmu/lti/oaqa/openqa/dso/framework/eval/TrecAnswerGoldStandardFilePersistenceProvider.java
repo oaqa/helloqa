@@ -74,6 +74,9 @@ public class TrecAnswerGoldStandardFilePersistenceProvider extends
   @Override
   public void populateRetrievalGS(String dataset, String sequenceId, JCas gsView) throws Exception {
     List<String> gsAnswers = id2gs.get(new DatasetSequenceId(dataset, sequenceId));
+    if(gsAnswers==null){
+    	return;
+    }
     AnsGSJCasManipulator.storeAnsGS(gsView, gsAnswers);
   }
 }

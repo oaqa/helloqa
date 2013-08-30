@@ -7,15 +7,8 @@ persistence-provider:
 
 collection-reader:
    inherit: phases.collection.known-size-fs-collection-reader
-   dataset: TREC
-#   file: /input/info-gain/trec-9-orig-test-t8.txt
-#   file: /input/info-gain/trec-9-variants-test-t8.txt
-#   file: /input/info-gain/trec-9-rand-test-t8.txt
-#   file: /input/trec-8-9-10-questions.txt
-   file: /input/TREC-8-Questions.txt
-#   file: /input/trec-9-questions.txt
-#   file: /input/trec-10-questions.txt
-#   file: /input/TREC-8-sample.txt
+   dataset: IC
+   file: /input/small.txt
 
 pipeline:
   - inherit: jdbc.sqlite.cse.phase  
@@ -49,3 +42,11 @@ pipeline:
       - inherit: phases.AnswerGenerator
 
   - inherit: phases.eval.answer-aggregator-consumer
+  
+post-process: 
+  # Answer-evaluation results are stored in the same format
+  # as the passage-evaluation results         
+  - inherit: phases.eval.answer-map-evaluator-consumer
+  - inherit: report.csv-report-generator
+    builders: |
+      - inherit: phases.report.map-report-component
