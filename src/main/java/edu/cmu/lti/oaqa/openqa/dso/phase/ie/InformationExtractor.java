@@ -239,7 +239,7 @@ public class InformationExtractor extends AbstractInformationExtractor {
 		 */
 
 		CandidateExtractorByRDF rdf = new CandidateExtractorByRDF(
-				"http://dawn.isri.cmu.edu:3030/dataset",
+				"http://gold.lti.cs.cmu.edu:8891/sparql",
 				"res/rdf_dbpedia_labels_indri_index", false);
 		String rdfAns = rdf.getAnswerForQuestion(questionText);
 

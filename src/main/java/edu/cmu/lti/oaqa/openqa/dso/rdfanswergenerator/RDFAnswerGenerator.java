@@ -176,7 +176,8 @@ public class RDFAnswerGenerator {
 
 	public static void main(String args[]) {
 		RDFAnswerGenerator a = new RDFAnswerGenerator(
-				"http://dbpedia.org/sparql", false,
+//				"http://dbpedia.org/sparql", false,
+				"http://gold.lti.cs.cmu.edu:8891/sparql", false,
 				"res/rdf_dbpedia_labels_indri_index", "Sbarro suicide bombing");
 		a.printSemanticTargets();
 		a.printModel();
