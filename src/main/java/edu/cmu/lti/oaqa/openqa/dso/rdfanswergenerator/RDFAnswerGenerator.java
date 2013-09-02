@@ -69,7 +69,7 @@ public class RDFAnswerGenerator {
 				"http://dbpedia.org/property/Type" });
 		semanticTargetMap.put("weapons", new String[] {
 				"http://dbpedia.org/property/weapons",
-				"http://dbpedia.org/property/Weapons" });
+				"http://dbpediurla.org/property/Weapons" });
 	}
 
 	private String getCachedModelFilename(String eventName) {
@@ -125,7 +125,7 @@ public class RDFAnswerGenerator {
 			printModel();
 			saveCachedModel(eventName, model);
 		} catch (RuntimeException e) {
-			LOGGER.info("DBpedia parse error.");
+			System.err.println("DBpedia parse error.");
 		}
 	}
 
@@ -176,7 +176,7 @@ public class RDFAnswerGenerator {
 
 	public static void main(String args[]) {
 		RDFAnswerGenerator a = new RDFAnswerGenerator(
-				"http://dbpedia.org/sparql", false,
+				"http://gold.lti.cs.cmu.edu:8891/sparql", false,
 				"res/rdf_dbpedia_labels_indri_index", "Sbarro suicide bombing");
 		a.printSemanticTargets();
 		a.printModel();

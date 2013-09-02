@@ -3,7 +3,6 @@ package edu.cmu.lti.oaqa.openqa.dso.xmiretriever;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
 import java.net.URL;
@@ -22,7 +21,6 @@ import org.apache.uima.util.XMLInputSource;
 import org.xml.sax.SAXException;
 
 public class XmiCASRetriever {
-	private String xmiServer = "http://dawn.isri.cmu.edu:8080/xmi/";
 	private static String docPatternString = "^(.+)-([0-9_a-z]+?)$"; // DSO-1000
 	private static String localDir = "xmirepo";
 	private static String localDirFull = null;
