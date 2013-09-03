@@ -1,0 +1,12 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/2002_Bali_bombings>
+      dbpprop:date "--10-12"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> ;
+      dbpprop:fatalities "202"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:injuries "209"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:location "Bali, Indonesia"@en ;
+      dbpprop:perps "al-Qaeda"@en , "Jemaah Islamiyah members,"@en ;
+      dbpprop:target "Two nightclubs with Western clientele, US Consular office"@en ;
+      dbpprop:type "Suicide bombing, car bomb, and other bombing"@en .

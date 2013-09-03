@@ -1,0 +1,12 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/1993_World_Trade_Center_bombing>
+      dbpprop:date "--02-26"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> ;
+      dbpprop:fatalities "6"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:injuries "1042"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:location "New York, NY"@en ;
+      dbpprop:perps "Ramzi Yousef and co-conspirators"@en ;
+      dbpprop:target <http://dbpedia.org/resource/World_Trade_Center> ;
+      dbpprop:type <http://dbpedia.org/resource/Car_bomb> .

@@ -1,51 +1,51 @@
-﻿IC-1000 New\s?York
-IC-1001 Yes
-IC-1002 1993
-IC-1003 7
-IC-1004 1042
-IC-1005 Ramzi Yousef
-IC-1006 Khaled Sheikh Mohammed
-IC-1007 $1,400
-IC-1008 1992
-IC-1009 political asylum
-IC-1010 Abdul Rahman Yasin
-IC-1011 United Nations headquarters
-IC-1012 1993 World Trade Center bombing
-IC-1013 four
-IC-1014 three
-IC-1015 Tavistock Square
-IC-1016 56
-IC-1017 al-Qaeda
-IC-1018 Hasib Hussain, Mohammad Sidique Khan, Germaine Lindsay, Shehzad Tanweer
-IC-1019 Yemen
-IC-1020 October 12, 2000
-IC-1021 17
-IC-1022 al-Qaeda
-IC-1023 Abd al-Rahim al-Nashiri
-IC-1024 Al-Qaeda
-IC-1025 Yes
-IC-1026 USS The Sullivans (DDG-68)
-IC-1027 Sudan
-IC-1028 $13.4 million
-IC-1029 Malaysia
-IC-1030 Indonesia
-IC-1031 2008
-IC-1032 RDX and TNT
-IC-1033 Suicide truck bombing
-IC-1034 54
-IC-1035 Jemaah Islamiyah
-IC-1036 three
-IC-1037 two nightclubs with Western clientele, US Consular office
-IC-1038 202
-IC-1039 88
-IC-1040 Imam Samudra, Amrozi Nurhasyim, Huda bin Abdul Haq
-IC-1041 firing squad
-IC-1042 plastic
-IC-1043 Abbottabad
-IC-1044 $1 million
-IC-1045 spiritual head
-IC-1046 15
-IC-1047 Abd al-Rahim al-Nashiri
-IC-1048 90,000 barrels
-IC-1049 plastic
-IC-1050 Anwar al-Awlaki
+﻿1 Indonesia
+2 Anwar al-Awlaki
+3 United Nations headquarters
+4 1993 World Trade Center bombing
+5 Abdul Rahman Yasin
+6 Tavistock Square
+7 56
+8 four
+9 88
+10 three
+11 202
+12 Yemen
+13 two nightclubs with Western clientele, US Consular office
+14 three
+15 al-Qaeda
+16 Jemaah Islamiyah
+17 Hasib Hussain, Mohammad Sidique Khan, Germaine Lindsay, Shehzad Tanweer
+18 54
+19 Suicide truck bombing
+20 RDX and TNT
+21 2008
+22 Imam Samudra, Amrozi Nurhasyim, Huda bin Abdul Haq
+23 firing squad
+24 1993
+25 October 12, 2000
+26 7
+27 17
+28 1042
+29 al-Qaeda
+30 Ramzi Yousef
+31 Abd al-Rahim al-Nashiri
+32 Al-Qaeda
+33 Yes
+34 USS The Sullivans (DDG-68)
+35 New\s?York
+36 Sudan
+37 Yes
+38 Abd al-Rahim al-Nashiri
+39 $13.4 million
+40 15
+41 Malaysia
+42 plastic
+43 90,000 barrels
+44 Abbottabad
+45 Khaled Sheikh Mohammed
+46 plastic
+47 $1,400
+48 spiritual head
+49 1992
+50 $1 million
+51 political asylum

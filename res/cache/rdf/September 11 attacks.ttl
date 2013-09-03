@@ -1,0 +1,11 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/September_11_attacks>
+      dbpprop:date "--09-11"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> ;
+      dbpprop:fatalities "2996"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:injuries "More than 6,000"@en ;
+      dbpprop:location "New York City; Arlington County, Virginia; and near Shanksville, Pennsylvania."@en ;
+      dbpprop:perps <http://dbpedia.org/resource/Al-Qaeda> ;
+      dbpprop:type <http://dbpedia.org/resource/Mass_murder> , <http://dbpedia.org/resource/Suicide_attack> , <http://dbpedia.org/resource/Aircraft_hijacking> , <http://dbpedia.org/resource/Terrorism> .

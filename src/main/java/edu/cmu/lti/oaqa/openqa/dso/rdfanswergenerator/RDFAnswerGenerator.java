@@ -26,7 +26,6 @@ import com.hp.hpl.jena.util.FileManager;
 import edu.cmu.lti.oaqa.openqa.dso.util.LogUtil;
 
 public class RDFAnswerGenerator {
-	private static String url = "jdbc:virtuoso://127.0.0.1:1111";
 	private static final String cacheDir = "res/cache/rdf/".replace('/',
 			File.separatorChar);
 	private static final String ext = ".ttl";
@@ -101,7 +100,6 @@ public class RDFAnswerGenerator {
 
 	public RDFAnswerGenerator(String sparqlServer, boolean isServer,
 			String index, String eventName) {
-		url = sparqlServer;
 		RDFIndexSearcher is = new RDFIndexSearcher(isServer, index);
 		String[] resources = is.doSearch("#2(" + eventName + ")");
 		if (resources == null || resources.length == 0)

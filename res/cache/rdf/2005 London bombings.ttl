@@ -1,0 +1,12 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/7_July_2005_London_bombings>
+      dbpprop:date "--07-07"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> , "8"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:fatalities "56"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:injuries "Approximately 700"@en ;
+      dbpprop:location "Aboard London Underground trains and a bus in central London"@en ;
+      dbpprop:perps <http://dbpedia.org/resource/Hasib_Hussain> , <http://dbpedia.org/resource/Mohammad_Sidique_Khan> , <http://dbpedia.org/resource/Germaine_Lindsay> , <http://dbpedia.org/resource/Shehzad_Tanweer> ;
+      dbpprop:target "General public"@en ;
+      dbpprop:type <http://dbpedia.org/resource/Mass_murder> , <http://dbpedia.org/resource/Suicide_attack> , <http://dbpedia.org/resource/Terrorism> .
