@@ -35,7 +35,9 @@ pipeline:
   - inherit: jdbc.sqlite.cse.phase  
     name: information-extractor
     options: |
-      - inherit: phases.InformationExtractor
+      - inherit: phases.ie.ie_main
+      - inherit: phases.ie.ie_sub
+      - inherit: phases.ie.ie_ext
 
   - inherit: jdbc.sqlite.cse.phase  
     name: answer-generator
