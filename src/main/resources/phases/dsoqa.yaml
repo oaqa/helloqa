@@ -8,7 +8,7 @@ persistence-provider:
 collection-reader:
    inherit: phases.collection.known-size-fs-collection-reader
    dataset: IC
-   file: /input/dso-extension.txt
+   file: /input/small.txt
    # small.txt dso-extension.txt
 
 pipeline:

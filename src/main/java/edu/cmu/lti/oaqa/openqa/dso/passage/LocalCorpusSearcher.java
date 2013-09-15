@@ -20,8 +20,6 @@ public class LocalCorpusSearcher implements Searcher {
 			.getInvokingClassName());
 
 	private List<IndriSentencesKM> kms;
-
-	private String[] locations;
 	
 	private List<double[]> keytermIDFList = new ArrayList<double[]>();
 
@@ -29,10 +27,9 @@ public class LocalCorpusSearcher implements Searcher {
 	 * @see edu.cmu.lti.oaqa.experimental_impl.passage.searcher.Searcher#initialize()
 	 */
 	@Override
-	public void initialize() {
-		this.locations = new String[]{"xmirepo/dso/index"};
+	public void initialize(LocalRetrievalCache cache, String... locations) {
 		kms = new ArrayList<IndriSentencesKM>();
-		kms.add(new IndriSentencesKM(locations));
+		kms.add(new IndriSentencesKM(cache, locations));
 	}
 	
 	/* (non-Javadoc)

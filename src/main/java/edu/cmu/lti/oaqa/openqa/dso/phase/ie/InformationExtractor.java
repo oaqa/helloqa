@@ -30,6 +30,7 @@ import edu.cmu.lti.oaqa.openqa.dso.extractor.CandidateExtractorByMainAnswerType;
 import edu.cmu.lti.oaqa.openqa.dso.extractor.CandidateExtractorByRDF;
 import edu.cmu.lti.oaqa.openqa.dso.extractor.CandidateExtractorByStructuredSources;
 import edu.cmu.lti.oaqa.openqa.dso.extractor.CandidateExtractorBySubAnswerType;
+import edu.cmu.lti.oaqa.openqa.dso.extractor.CandidateExtractorByXmi;
 import edu.cmu.lti.oaqa.openqa.dso.extractor.CandidateExtractorExtension;
 import edu.cmu.lti.oaqa.openqa.dso.framework.base.AbstractInformationExtractor;
 import edu.cmu.lti.oaqa.openqa.dso.structuredsources.GTDExtractor;
@@ -172,40 +173,39 @@ public class InformationExtractor extends AbstractInformationExtractor {
 						keyphrases, documentText, documentList, rank);
 			}
 
-			/*
-			 * if (nesBySubAnswerType != null) { nesBySubAnswerType =
-			 * refineNEs(sentenceLength, nesByMainAnswerType,
-			 * nesBySubAnswerType);
-			 * generateAnswerCandidates(CANDIDATE_EXTRACTOR_TYPE[1], candidates,
-			 * nesBySubAnswerType, sentenceLength, sentences, questionText,
-			 * answerType, keyterms, keyphrases, documentText, documentList,
-			 * rank); }
-			 */
+			if (nesBySubAnswerType != null) {
+				nesBySubAnswerType = refineNEs(sentenceLength,
+						nesByMainAnswerType, nesBySubAnswerType);
+				generateAnswerCandidates(CANDIDATE_EXTRACTOR_TYPE[1],
+						candidates, nesBySubAnswerType, sentenceLength,
+						sentences, questionText, answerType, keyterms,
+						keyphrases, documentText, documentList, rank);
+			}
 
-			/*
-			 * if (nesExtension != null) { nesExtension =
-			 * refineNEs(sentenceLength, nesByMainAnswerType, nesExtension);
-			 * nesExtension = refineNEs(sentenceLength, nesBySubAnswerType,
-			 * nesExtension);
-			 * generateAnswerCandidates(CANDIDATE_EXTRACTOR_TYPE[2], candidates,
-			 * nesExtension, sentenceLength, sentences, questionText,
-			 * answerType, keyterms, keyphrases, documentText, documentList,
-			 * rank); }
-			 */
+			if (nesExtension != null) {
+				nesExtension = refineNEs(sentenceLength, nesByMainAnswerType,
+						nesExtension);
+				nesExtension = refineNEs(sentenceLength, nesBySubAnswerType,
+						nesExtension);
+				generateAnswerCandidates(CANDIDATE_EXTRACTOR_TYPE[2],
+						candidates, nesExtension, sentenceLength, sentences,
+						questionText, answerType, keyterms, keyphrases,
+						documentText, documentList, rank);
+			}
 
-			// CandidateExtractorByXmi extractorByXmi = new
-			// CandidateExtractorByXmi(answerType, document);
-			// String currentXmiCandidates[][] =
-			// extractorByXmi.getAnswerCandidates();
-			// String[] xmiSentences = extractorByXmi.getSentences();
-			// String xmiDocumentText = extractorByXmi.getDocumentText();
-			//
-			// if(currentXmiCandidates != null ){
-			// generateAnswerCandidates(CANDIDATE_EXTRACTOR_TYPE[2], candidates,
-			// currentXmiCandidates,
-			// xmiSentences.length, xmiSentences, questionText, answerType,
-			// keyterms, keyphrases, xmiDocumentText, documentList, rank);
-			// }
+			CandidateExtractorByXmi extractorByXmi = new CandidateExtractorByXmi(
+					answerType, document);
+			String currentXmiCandidates[][] = extractorByXmi
+					.getAnswerCandidates();
+			String[] xmiSentences = extractorByXmi.getSentences();
+			String xmiDocumentText = extractorByXmi.getDocumentText();
+
+			if (currentXmiCandidates != null) {
+				generateAnswerCandidates(CANDIDATE_EXTRACTOR_TYPE[2],
+						candidates, currentXmiCandidates, xmiSentences.length,
+						xmiSentences, questionText, answerType, keyterms,
+						keyphrases, xmiDocumentText, documentList, rank);
+			}
 
 			rank++;
 

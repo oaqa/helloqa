@@ -4,13 +4,13 @@
   <primitive>false</primitive>
   <delegateAnalysisEngineSpecifiers>
     <delegateAnalysisEngine key="OAQACompatSentDetectAnnotator">
-      <import name="edu.cmu.lti.oaqa.experimental_impl.xmiretriever.OAQACompatSentDetectAnnotator"/>
+      <import name="edu.cmu.lti.oaqa.openqa.dso.xmiretriever.OAQACompatSentDetectAnnotator"/>
     </delegateAnalysisEngine>
     <delegateAnalysisEngine key="IBM-ED-CasInitializer">
-      <import name="edu.cmu.lti.oaqa.experimental_impl.xmiretriever.IBM-ED-CasInitializer"/>
+      <import name="edu.cmu.lti.oaqa.openqa.dso.xmiretriever.IBM-ED-CasInitializer"/>
     </delegateAnalysisEngine>
     <delegateAnalysisEngine key="IBM-EDAsyncAEforIC">
-      <import name="edu.cmu.lti.oaqa.experimental_impl.xmiretriever.IBM-EDAsyncAEforIC"/>
+      <import name="edu.cmu.lti.oaqa.openqa.dso.xmiretriever.IBM-EDAsyncAEforIC"/>
     </delegateAnalysisEngine>
   </delegateAnalysisEngineSpecifiers>
   <analysisEngineMetaData>

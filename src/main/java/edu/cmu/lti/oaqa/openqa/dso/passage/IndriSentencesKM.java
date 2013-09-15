@@ -89,14 +89,45 @@ public class IndriSentencesKM extends KnowledgeMiner {
 	/** URLs of Indri servers. */
 	private String[] indriUrls;
 
+	private LocalRetrievalCache cache;
+	
 	private String[] locations;
 	
 	private static List<String> keyPhrases;
 
+	/**
+	 * Creates a new Indri knowledge miner and sets the directories of indices
+	 * or the URLs of servers.
+	 * 
+	 * @param locations
+	 *            directories of indices or URLs of servers
+	 * @param isServers
+	 *            <code>true</code> iff the first parameter provides URLs of
+	 *            servers
+	 */
+	public IndriSentencesKM(LocalRetrievalCache cache, String[] locations) { 
+		this.cache=cache;
+		this.locations = locations;
+		List<String> urls = new ArrayList<String>();
+		List<String> localLocations = new ArrayList<String>();
+		for(String location : locations){
+			if(location.startsWith("indrid://")){
+				// server
+				urls.add(location.substring("indrid://".length()));
+			}else{
+				// local
+				localLocations.add(location);
+			}
+		}
+		
+		indriUrls = (String[]) urls.toArray(new String[urls.size()]);
+		indriDirs = (String[]) localLocations.toArray(new String[localLocations.size()]);
+	}
+
 	public void setKeyPhrases(List<String> keyPhrases) {
 		IndriSentencesKM.keyPhrases = keyPhrases;
 	}
-
+	
 	/**
 	 * Gets a list of all Indri index directories that have been specified with
 	 * environment variables 'INDRI_INDEX', 'INDRI_INDEX2', 'INDRI_INDEX3' etc.
@@ -127,7 +158,7 @@ public class IndriSentencesKM extends KnowledgeMiner {
 	 * environment variables 'INDRI_SERVER', 'INDRI_SERVER2', 'INDRI_SERVER3'
 	 * etc. One environment variable can specify multiple servers which are
 	 * queried with the same knowledge miner.
-	 * 
+	 * IndriSentencesKM
 	 * @return Indri server URLs grouped by knowledge miners
 	 */
 	public static String[][] getIndriServers() {
@@ -251,34 +282,6 @@ public class IndriSentencesKM extends KnowledgeMiner {
 		buffer.append(")");
 		System.out.println(buffer.toString());
 		return buffer.toString();
-	}
-
-	/**
-	 * Creates a new Indri knowledge miner and sets the directories of indices
-	 * or the URLs of servers.
-	 * 
-	 * @param locations
-	 *            directories of indices or URLs of servers
-	 * @param isServers
-	 *            <code>true</code> iff the first parameter provides URLs of
-	 *            servers
-	 */
-	public IndriSentencesKM(String[] locations) { 
-		this.locations = locations;
-		List<String> urls = new ArrayList<String>();
-		List<String> localLocations = new ArrayList<String>();
-		for(String location : locations){
-			if(location.startsWith("indrid://")){
-				// server
-				urls.add(location.substring("indrid://".length()));
-			}else{
-				// local
-				localLocations.add(location);
-			}
-		}
-		
-		indriUrls = (String[]) urls.toArray(new String[urls.size()]);
-		indriDirs = (String[]) localLocations.toArray(new String[localLocations.size()]);
 	}
 
 	/**
@@ -410,10 +413,10 @@ public class IndriSentencesKM extends KnowledgeMiner {
 			qs.replaceAll("city", "#any:geopolitical_entity #any:location");
 			
 			Result[] docresults;
-			LocalRetrievalCache cache = LocalRetrievalCache.getInstance();
 
+			//LocalRetrievalCache cache = LocalRetrievalCache.getInstance();
 			// *** cache **/
-			if (cache.isInCache(qs)) {
+			if (cache.isInCache(qs)){
 				docresults = cache.getResults(qs);
 			} else {
 				String backupqs = qs;
@@ -503,7 +506,9 @@ public class IndriSentencesKM extends KnowledgeMiner {
 						String[] sentences = sentenceL
 								.toArray(new String[sentenceL.size()]);
 
-						// cut off sentences that do not overlap with passage
+						// cut off sentences that do not overlap//			if (false) {//cache.isInCache(qs)
+//						docresults = cache.getResults(qs);
+//						} else { with passage
 						int passageBegin = expanded.indexOf(passage);
 						if (passageBegin == -1) {
 							System.err.println("Passage not mapped.");
@@ -657,6 +662,6 @@ public class IndriSentencesKM extends KnowledgeMiner {
 	 * @return new instance of <code>IndriKM</code>
 	 */
 	public KnowledgeMiner getCopy() {
-		return new IndriSentencesKM(locations);
+		return new IndriSentencesKM(cache,locations);
 	}
 }

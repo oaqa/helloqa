@@ -5,11 +5,15 @@ import java.util.List;
 
 import org.apache.uima.UimaContext;
 import org.apache.uima.resource.ResourceInitializationException;
+import org.json.JSONException;
+
 import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
 import edu.cmu.lti.oaqa.openqa.dso.framework.base.AbstractPassageRetrieval;
+import edu.cmu.lti.oaqa.openqa.dso.passage.DSOLocalRetrievalCache;
 import edu.cmu.lti.oaqa.openqa.dso.passage.LocalCorpusSearcher;
 import edu.cmu.lti.oaqa.openqa.dso.passage.RDFSearcher;
 import edu.cmu.lti.oaqa.openqa.dso.passage.Searcher;
+import edu.cmu.lti.oaqa.openqa.dso.passage.WikiLocalRetrievalCache;
 
 public class PassageRetrieval extends AbstractPassageRetrieval{
 
@@ -23,7 +27,8 @@ public class PassageRetrieval extends AbstractPassageRetrieval{
 	
 	private double[] keytermsIDF;
 
-	private LocalCorpusSearcher localSearcher;
+	private LocalCorpusSearcher localWikiSearcher;
+	private LocalCorpusSearcher localDSOSearcher;
 	//private WebDocumentSearcher webSearcher;
 	private RDFSearcher rdfSearcher;
 	
@@ -33,20 +38,24 @@ public class PassageRetrieval extends AbstractPassageRetrieval{
 
 	@Override
 	public void initialize() {
-		localSearcher = new LocalCorpusSearcher();
+		localWikiSearcher = new LocalCorpusSearcher();
+		localDSOSearcher=new LocalCorpusSearcher();
 		//webSearcher = new WebDocumentSearcher();
 		rdfSearcher = new RDFSearcher();
 		
-		searchers.add(localSearcher);
+		DSOLocalRetrievalCache dso_cache=new DSOLocalRetrievalCache();
+		WikiLocalRetrievalCache wiki_cache=new WikiLocalRetrievalCache();
+		
+		searchers.add(localWikiSearcher);
+		searchers.add(localDSOSearcher);
 		searchers.add(rdfSearcher);
 		
-		try{
-			for(int i = 0 ; i < searchers.size(); i++){
-				searchers.get(i).initialize();
-			}
-		}catch(Exception e){
+		localWikiSearcher.initialize(wiki_cache.getInstance(), "/home/ruil/Downloads/Indexes/wikipedia");
+		localDSOSearcher.initialize(dso_cache.getInstance(), "xmirepo/dso/index");
+		try {
+			rdfSearcher.initialize(null, "");
+		} catch (JSONException e) {
 			e.printStackTrace();
-			System.exit(1);
 		}
 	}
 
@@ -55,24 +64,18 @@ public class PassageRetrieval extends AbstractPassageRetrieval{
 		List<RetrievalResult> mergedresults = new ArrayList<RetrievalResult>();
 		keytermsIDF = new double[keyterms.size()];
 		
-		for(Searcher searcher : searchers){
-			mergedresults.addAll(searcher.retrieveDocuments(keyterms, keyphrases, question, answerType));
-			
-			// TODO find a prettier way for integrating this
-			if(searcher instanceof LocalCorpusSearcher){
-				keytermsIDF = ((LocalCorpusSearcher) searcher).getKeytermIDF().get(0);
-			}
-		}
-		
-		
 		List<RetrievalResult> RDFpassages = rdfSearcher.retrieveDocuments(
 				keyterms, keyphrases, question, answerType);
 		mergedresults.addAll(RDFpassages);
 
-		List<RetrievalResult> localpassages = localSearcher.retrieveDocuments(
+		List<RetrievalResult> localWikipassages = localWikiSearcher.retrieveDocuments(
 				keyterms, keyphrases, question, answerType);
-		mergedresults.addAll(localpassages);
-		keytermsIDF = localSearcher.getKeytermIDF().get(0);
+		mergedresults.addAll(localWikipassages);
+		keytermsIDF = localWikiSearcher.getKeytermIDF().get(0);
+		
+		List<RetrievalResult> localDSOpassages = localDSOSearcher.retrieveDocuments(
+				keyterms, keyphrases, question, answerType);
+		mergedresults.addAll(localDSOpassages);
 
 //		List<RetrievalResult> webpassages = webSearcher.retrieveDocuments(
 //				keyterms, keyphrases, question);

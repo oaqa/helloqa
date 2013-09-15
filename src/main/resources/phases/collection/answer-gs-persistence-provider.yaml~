@@ -1,0 +1,5 @@
+class: edu.cmu.lti.oaqa.openqa.dso.framework.eval.TrecAnswerGoldStandardFilePersistenceProvider
+DataSet: IC
+PathPattern: classpath:/gs/dso-extension-answerkey.txt
+# small.answer dso-extension-answerkey.txt
+LineSyntax: (\d+)\ (.*)

@@ -97,6 +97,26 @@
 			<version>1.0</version>
 		</dependency>
 		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>racr-libx</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>uimaj-as-activemq</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>uima-as-core</artifactId>
+			<version>2.4</version>
+		</dependency>
+		<dependency>
+			<groupId>eij</groupId>
+			<artifactId>annotation-uima-jms</artifactId>
+			<version>1.0</version>
+		</dependency>						
+		<dependency>
 			<groupId>edu.cmu.minorthird</groupId>
 			<artifactId>minorthird</artifactId>
 			<version>20080611</version>

@@ -48,7 +48,7 @@ public class OnDemandAnnotator {
 		try {
 			URL resource = getClass()
 					.getResource(
-							"/edu/cmu/lti/oaqa/experimental_impl/xmiretriever/OnDemandAnnotationAggregate.xml");
+							"/edu/cmu/lti/oaqa/openqa/dso/xmiretriever/OnDemandAnnotationAggregate.xml");
 			XMLInputSource in = new XMLInputSource(resource);
 			ResourceSpecifier specifier = UIMAFramework.getXMLParser()
 					.parseResourceSpecifier(in);
