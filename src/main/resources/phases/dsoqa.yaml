@@ -9,6 +9,7 @@ collection-reader:
    inherit: phases.collection.known-size-fs-collection-reader
    dataset: IC
    file: /input/small.txt
+   # file: /input/dso-extension.txt
    # small.txt dso-extension.txt
 
 pipeline:
@@ -35,9 +36,14 @@ pipeline:
   - inherit: jdbc.sqlite.cse.phase  
     name: information-extractor
     options: |
-      - inherit: phases.ie.ie_main
-      - inherit: phases.ie.ie_sub
-      - inherit: phases.ie.ie_ext
+      - inherit: phases.ie.ephyra_main_type
+      # - inherit: phases.ie.xmi 
+      # - inherit: phases.ie.structured_sources
+      # - inherit: phases.ie.composite
+      # - inherit: phases.ie.ephyra_main_type
+      #- inherit: phases.ie.ephyra_sub_type
+      #- inherit: phases.ie.item_based_extension
+      #- inherit: phases.ie.infobox      
 
   - inherit: jdbc.sqlite.cse.phase  
     name: answer-generator
@@ -49,7 +55,7 @@ pipeline:
 post-process: 
   # Answer-evaluation results are stored in the same format
   # as the passage-evaluation results         
-  - inherit: phases.eval.answer-map-evaluator-consumer
+  - inherit: phases.eval.answer-evaluator-consumer
   - inherit: report.csv-report-generator
     builders: |
       - inherit: phases.report.map-report-component

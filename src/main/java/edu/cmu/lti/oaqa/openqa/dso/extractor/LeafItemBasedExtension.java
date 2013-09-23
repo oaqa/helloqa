@@ -7,15 +7,33 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
+import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import edu.cmu.lti.oaqa.openqa.dso.util.FilterUtils;
 import edu.cmu.lti.oaqa.openqa.dso.util.StopWords;
 
-public class CandidateExtractorExtension extends CandidateExtractorBase {
+public class LeafItemBasedExtension extends CandidateExtractorBase {
 	private static HashSet<String> tabooCandidateSet;
+	
+	public LeafItemBasedExtension(SupportingEvidenceArg arg) {
+		super(arg);
+		StopWords.getInstance();
+		tokens = getTokens(arg.getSentences());
+		// remove date type answer candidates because they are accurate.
+		tabooCandidateSet = new HashSet<String>();
+		int[] neId = NETagger.getNeIds("NEdate");
+		String[][] nes = NETagger.extractNes(tokens, neId[0]);
 
-	@Override
-	public String[][] getAnswerCandidates() {
-		return nes;
+		for (int i = 0; i < nes.length; i++) {
+			for (int j = 0; j < nes[i].length; j++) {
+				if (nes[i][j] != null && !nes[i][j].equals(""))
+					tabooCandidateSet.add(nes[i][j]);
+			}
+		}
+
+		tabooCandidateSet.addAll(generateTabooAnswerCandidates(tokens,
+				arg.getAnswerType()));
+
+		generateAnswerCandidates(arg.getAnswerType(), arg.getSentences(), arg.getKeywords(), arg.getQuestionText());
 	}
 
 	private void generateAnswerCandidates(String answerType,
@@ -44,28 +62,6 @@ public class CandidateExtractorExtension extends CandidateExtractorBase {
 			}
 		}
 		return refinedCandidates;
-	}
-
-	public CandidateExtractorExtension(String answerType, String[] sentences,
-			List<String> keyterms, String questionText) {
-		StopWords.getInstance();
-		tokens = getTokens(sentences);
-		// remove date type answer candidates because they are accurate.
-		tabooCandidateSet = new HashSet<String>();
-		int[] neId = NETagger.getNeIds("NEdate");
-		String[][] nes = NETagger.extractNes(tokens, neId[0]);
-
-		for (int i = 0; i < nes.length; i++) {
-			for (int j = 0; j < nes[i].length; j++) {
-				if (nes[i][j] != null && !nes[i][j].equals(""))
-					tabooCandidateSet.add(nes[i][j]);
-			}
-		}
-
-		tabooCandidateSet.addAll(generateTabooAnswerCandidates(tokens,
-				answerType));
-
-		generateAnswerCandidates(answerType, sentences, keyterms, questionText);
 	}
 
 	private HashSet<String> generateTabooAnswerCandidates(String[][] tokens,
@@ -199,6 +195,11 @@ public class CandidateExtractorExtension extends CandidateExtractorBase {
 		}
 
 		return answercandidates;
+	}
+
+	@Override
+	public String getTypeName() {
+		return "itemextension";
 	}
 
 }

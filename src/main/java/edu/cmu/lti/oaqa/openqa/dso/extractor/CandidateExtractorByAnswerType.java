@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
+import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import edu.cmu.lti.oaqa.openqa.dso.util.FilterUtils;
 
 import info.ephyra.nlp.NETagger;
@@ -11,10 +12,8 @@ import info.ephyra.nlp.OpenNLP;
 
 public abstract class CandidateExtractorByAnswerType extends CandidateExtractorBase {
 
-	public CandidateExtractorByAnswerType(String answerType, String[] sentences) {
-		if (NETypePatterns == null) {
-			initialize();
-		}
+	public CandidateExtractorByAnswerType(SupportingEvidenceArg arg) {
+		super(arg);
 	}
 
 	protected String[][] extractCandidatesUsingPatterns(int[] nePatternIds,
@@ -48,11 +47,6 @@ public abstract class CandidateExtractorByAnswerType extends CandidateExtractorB
 			}
 			nes[i]=neList.toArray(new String[neList.size()]);
 		}
-		return nes;
-	}
-
-	@Override
-	public String[][] getAnswerCandidates() {
 		return nes;
 	}
 

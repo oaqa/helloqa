@@ -1,4 +1,0 @@
-class: edu.cmu.lti.oaqa.openqa.dso.phase.ie.IE_Ext
-
-persistence-provider: |
-  inherit: ecd.default-log-persistence-provider

@@ -1,0 +1,3 @@
+class: edu.cmu.lti.oaqa.openqa.dso.framework.eval.DSOMeasureEvaluator
+persistence-provider: |
+  class: edu.cmu.lti.oaqa.openqa.dso.framework.eval.DSOEvalPersistenceProvider

@@ -35,12 +35,13 @@ import edu.cmu.lti.oaqa.ecd.BaseExperimentBuilder;
 import edu.cmu.lti.oaqa.ecd.phase.ProcessingStepUtils;
 import edu.cmu.lti.oaqa.ecd.phase.Trace;
 import edu.cmu.lti.oaqa.framework.eval.Key;
-import edu.cmu.lti.oaqa.framework.eval.retrieval.EvaluationAggregator;
 import edu.cmu.lti.oaqa.framework.types.ExperimentUUID;
 import edu.cmu.lti.oaqa.framework.types.ProcessingStep;
 import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
+import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.AnsGSJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.AnsJCasManipulator;
+import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.DocumentJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewManager;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewType;
 
@@ -98,6 +99,12 @@ public class AnswersEvalConsumer extends CasConsumer_ImplBase {
 			JCas candidateView = ViewManager.getView(jcas, ViewType.ANS);
 			JCas gsView = ViewManager.getView(jcas, ViewType.ANS_GS);
 			if (gsView != null) {
+				List<RetrievalResult> documents = DocumentJCasManipulator.loadDocuments(ViewManager.getView(jcas, ViewType.PASSAGE));
+				List<String> docs=new ArrayList<String>();
+				for(RetrievalResult doc:documents){
+					docs.add(doc.getText());
+				}
+				
 				ArrayList<String> gs = AnsGSJCasManipulator.loadAnsGS(gsView);
 				List<AnswerCandidate> _answ = (candidateView != null) ? AnsJCasManipulator
 						.loadAnswerCandidates(candidateView)
@@ -113,7 +120,7 @@ public class AnswersEvalConsumer extends CasConsumer_ImplBase {
 				for (EvaluationAggregator<String> aggregator : aggregators) {
 					Key key = new Key(experiment.getUuid(), trace,
 							experiment.getStageId());
-					aggregator.update(key, sequenceId, answ, gs, ordering,
+					aggregator.update(key, sequenceId, docs, answ, gs, ordering,
 							toIdString);
 				}
 			}

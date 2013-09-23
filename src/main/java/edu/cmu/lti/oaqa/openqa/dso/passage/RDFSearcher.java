@@ -8,10 +8,9 @@ import java.util.List;
 import java.util.Random;
 
 import org.json.JSONException;
-import org.json.JSONObject;
 
 import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
-import edu.cmu.lti.oaqa.openqa.dso.extractor.CandidateExtractorByInfoBox;
+import edu.cmu.lti.oaqa.openqa.dso.extractor.LeafInfoBoxBased;
 
 
 public class RDFSearcher implements Searcher{
@@ -20,7 +19,7 @@ public class RDFSearcher implements Searcher{
 
 		List<RetrievalResult> documents = new ArrayList<RetrievalResult>();
 		
-		CandidateExtractorByInfoBox extractorbyInfoBox = new CandidateExtractorByInfoBox();
+		LeafInfoBoxBased extractorbyInfoBox = new LeafInfoBoxBased(null);
 		List<String> infoBoxCandidates = extractorbyInfoBox
 				.getAnswerCandidates(keyterms, answerType);
 		

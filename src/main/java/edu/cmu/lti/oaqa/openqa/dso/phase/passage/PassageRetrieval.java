@@ -23,9 +23,6 @@ public class PassageRetrieval extends AbstractPassageRetrieval{
 		super.initialize(aContext);
 		initialize();
 	}
-	
-	
-	private double[] keytermsIDF;
 
 	private LocalCorpusSearcher localWikiSearcher;
 	private LocalCorpusSearcher localDSOSearcher;
@@ -62,7 +59,6 @@ public class PassageRetrieval extends AbstractPassageRetrieval{
 	public List<RetrievalResult> retrieveDocuments(List<String> keyterms,
 			List<String> keyphrases, String question, String answerType) {
 		List<RetrievalResult> mergedresults = new ArrayList<RetrievalResult>();
-		keytermsIDF = new double[keyterms.size()];
 		
 		List<RetrievalResult> RDFpassages = rdfSearcher.retrieveDocuments(
 				keyterms, keyphrases, question, answerType);
@@ -71,7 +67,6 @@ public class PassageRetrieval extends AbstractPassageRetrieval{
 		List<RetrievalResult> localWikipassages = localWikiSearcher.retrieveDocuments(
 				keyterms, keyphrases, question, answerType);
 		mergedresults.addAll(localWikipassages);
-		keytermsIDF = localWikiSearcher.getKeytermIDF().get(0);
 		
 		List<RetrievalResult> localDSOpassages = localDSOSearcher.retrieveDocuments(
 				keyterms, keyphrases, question, answerType);

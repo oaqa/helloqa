@@ -1,0 +1,8 @@
+class: edu.cmu.lti.oaqa.openqa.dso.phase.ie.InformationExtractor
+
+extractor: edu.cmu.lti.oaqa.openqa.dso.extractor.CompositeCandidateExtractor
+
+leaves: edu.cmu.lti.oaqa.openqa.dso.extractor.LeafEphyraMainType,edu.cmu.lti.oaqa.openqa.dso.extractor.LeafEphyraSubType, edu.cmu.lti.oaqa.openqa.dso.extractor.LeafItemBasedExtension
+
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider

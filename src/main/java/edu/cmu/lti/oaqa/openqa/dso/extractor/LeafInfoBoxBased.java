@@ -1,26 +1,23 @@
 package edu.cmu.lti.oaqa.openqa.dso.extractor;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
 import java.net.ResponseCache;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
+import edu.cmu.lti.oaqa.openqa.dso.answer.AnswerCandidateScorer;
+import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
 import edu.cmu.lti.oaqa.openqa.dso.data.InfoBoxResult;
+import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import edu.cmu.lti.oaqa.openqa.dso.xmiretriever.infobox.MyResponseCache;
 
-public class CandidateExtractorByInfoBox extends CandidateExtractorBase {
+public class LeafInfoBoxBased extends CandidateExtractorBase {
 	
 	static {
 		ResponseCache.setDefault(new MyResponseCache());
 	}
 
-	public CandidateExtractorByInfoBox() {
-		if (NETypePatterns == null) {
-			initialize();
-		}
+	public LeafInfoBoxBased(SupportingEvidenceArg arg) {
+		super(arg);
 	}
 
 	public List<String> getAnswerCandidates(List<String> keyterms,
@@ -89,9 +86,14 @@ public class CandidateExtractorByInfoBox extends CandidateExtractorBase {
 	}
 
 	@Override
-	public String[][] getAnswerCandidates() {
-		// TODO Auto-generated method stub
-		return null;
+	public String getTypeName() {
+		return "infobox";
+	}
+
+	@Override
+	public List<AnswerCandidate> getAnswerCandidates(SupportingEvidenceArg arg) {
+		return 	AnswerCandidateScorer.getAnswerCandidates(arg,
+				getTypeName(), nes);
 	}
 
 }

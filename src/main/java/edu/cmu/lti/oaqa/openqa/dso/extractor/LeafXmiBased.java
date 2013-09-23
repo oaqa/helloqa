@@ -17,13 +17,13 @@ import org.apache.uima.jcas.JCas;
 import org.gale.EntityMention;
 import org.gale.Sentence;
 
-import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
+import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import edu.cmu.lti.oaqa.openqa.dso.util.LogUtil;
 import edu.cmu.lti.oaqa.openqa.dso.xmiretriever.HashUtil;
 import edu.cmu.lti.oaqa.openqa.dso.xmiretriever.OnDemandAnnotator;
 import edu.cmu.lti.oaqa.openqa.dso.xmiretriever.XmiCASRetriever;
 
-public class CandidateExtractorByXmi extends CandidateExtractorBase {
+public class LeafXmiBased extends CandidateExtractorBase {
 	private static final Logger LOGGER = Logger.getLogger(LogUtil
 			.getInvokingClassName());
 	private static XmiCASRetriever xmiCasRetriever = new XmiCASRetriever();
@@ -43,7 +43,6 @@ public class CandidateExtractorByXmi extends CandidateExtractorBase {
 	
 	private static Map<String, String[]> typesMapping = new HashMap<String, String[]>();
 	
-	private List<String> candidates = new ArrayList<String>();
 	private String answerCandidates[][];
 	private String rawDocument;
 	private String[] sentenceArrays; 
@@ -64,7 +63,11 @@ public class CandidateExtractorByXmi extends CandidateExtractorBase {
 		typesMapping.put("NEmoney", new String[]{"CARDINAL:PRONOMINAL"});
 	}
 	
-	public CandidateExtractorByXmi(String answerType, RetrievalResult document) {
+	public LeafXmiBased(SupportingEvidenceArg arg) {
+		super(arg);
+		
+		String answerType=arg.getAnswerType();
+		String passage=arg.getPassages();
 		
 		String answerHierarchy[] = answerType.split("->");
 		
@@ -87,7 +90,7 @@ public class CandidateExtractorByXmi extends CandidateExtractorBase {
 			targetTypes = typesMapping.get(answerType);
 		}
 		
-		String docID = document.getDocID().toLowerCase();
+		String docID = arg.getPID().toLowerCase();
 		
 //		System.out.println("Article ID: " + docID);
 		
@@ -95,7 +98,7 @@ public class CandidateExtractorByXmi extends CandidateExtractorBase {
 		Matcher matcher = Pattern.compile("^(.+)-([0-9_]+?)$").matcher(docID);
 		
 		if(!matcher.matches()){
-			docID = "wikipedia-"+ docID + "_" + HashUtil.getHash(document.getText()); 
+			docID = "wikipedia-"+ docID + "_" + HashUtil.getHash(passage); 
 //			return;
 		}
 		
@@ -111,7 +114,7 @@ public class CandidateExtractorByXmi extends CandidateExtractorBase {
 			matcher.matches();
 			OnDemandAnnotator annotator = OnDemandAnnotator.getAnnotator();
 			try {
-				annotator.annotatedAndSave(document.getText(), matcher.group(1), matcher.group(2));
+				annotator.annotatedAndSave(passage, matcher.group(1), matcher.group(2));
 			} catch (AnalysisEngineProcessException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -126,7 +129,7 @@ public class CandidateExtractorByXmi extends CandidateExtractorBase {
 		}else{
 		}
 		
-		String candidatePassage = document.getText();
+		String candidatePassage =passage ;
 		
 		rawDocument = cas.getDocumentText();
 		
@@ -195,13 +198,6 @@ public class CandidateExtractorByXmi extends CandidateExtractorBase {
 			e.printStackTrace();
 		}
 	}
-//
-//	public List<String> getCandidates(){
-////		System.out.println(candidates);
-//		return candidates;
-//	}
-//	
-	
 	
 	public String getDocumentText() {
 		return rawDocument;
@@ -212,8 +208,8 @@ public class CandidateExtractorByXmi extends CandidateExtractorBase {
 	}
 
 	@Override
-	public String[][] getAnswerCandidates() {
-		return answerCandidates;
+	public String getTypeName() {
+		return "xmi";
 	}
 
 }

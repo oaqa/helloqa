@@ -1,4 +1,4 @@
 class: edu.cmu.lti.oaqa.openqa.dso.framework.eval.AnswersEvalConsumer
 name: answer-evaluator  
 aggregators: |
-  - inherit: phases.eval.answer-mrr-aggregator
+  - inherit: phases.eval.answer-aggregator

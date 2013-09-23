@@ -15,7 +15,7 @@ import edu.stanford.nlp.trees.tregex.TreeMatcher.TRegexTreeReaderFactory;
 import edu.stanford.nlp.trees.tregex.TregexMatcher;
 import edu.stanford.nlp.trees.tregex.TregexPattern;
 
-public class CandidateExtractorByRDF {
+public class LeafRDFBased {
 	private static final Logger LOGGER = Logger.getLogger(LogUtil
 			.getInvokingClassName());
 	private String sparqlServer;
@@ -26,7 +26,7 @@ public class CandidateExtractorByRDF {
 		initialize();
 	}
 
-	public CandidateExtractorByRDF(String sparqlServer, String indexLocation, boolean isServer) {
+	public LeafRDFBased(String sparqlServer, String indexLocation, boolean isServer) {
 		this.sparqlServer = sparqlServer;
 		this.indexLocation = indexLocation;
 		this.isServer = isServer;
@@ -80,7 +80,7 @@ public class CandidateExtractorByRDF {
 			RDFAnswerGenerator rdfAG = new RDFAnswerGenerator(sparqlServer,
 					isServer, indexLocation, targetEvent);
 			LOGGER.info("Mapping: "
-					+ Arrays.toString(rdfAG.semanticTargetMap
+					+ Arrays.toString(RDFAnswerGenerator.semanticTargetMap
 							.get(semanticTarget)));
 			List<String> propertiesForTarget = rdfAG
 					.getPropertiesForTarget(semanticTarget);

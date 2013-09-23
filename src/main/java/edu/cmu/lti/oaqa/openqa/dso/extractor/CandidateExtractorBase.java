@@ -7,13 +7,16 @@ import java.util.Map;
 
 import org.apache.log4j.Logger;
 
+import edu.cmu.lti.oaqa.openqa.dso.answer.AnswerCandidateScorer;
+import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
+import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import edu.cmu.lti.oaqa.openqa.dso.util.FileUtil;
 import edu.cmu.lti.oaqa.openqa.dso.util.LogUtil;
 
 
 import info.ephyra.nlp.NETagger;
 
-public abstract class CandidateExtractorBase {
+public abstract class CandidateExtractorBase implements ICandidateExtractor{
 	private static final Logger LOGGER = Logger.getLogger(LogUtil
 			.getInvokingClassName());
 
@@ -29,9 +32,16 @@ public abstract class CandidateExtractorBase {
 	protected static List<String> IncidentOntologyList;
 	protected static List<String> TerroristOntologyList;
 
-	public abstract String[][] getAnswerCandidates();
-
-	public static void initialize() {
+	public CandidateExtractorBase(SupportingEvidenceArg arg){
+		initialize();
+	}
+	
+	@Override
+	public void initialize() {
+		if (NETypePatterns != null) {
+			return;
+		}
+		
 		NETypePatterns = new HashMap<String, String>();
 		TerroristOrgOntologyHash = new HashMap<String, String>();
 		IncidentOntologyHash=new HashMap<String, String>();
@@ -102,8 +112,19 @@ public abstract class CandidateExtractorBase {
 		}
 
 	}
+	
+	@Override
+	public String[][] generateNEs() {
+		return nes;
+	}
+	
+	@Override
+	public List<AnswerCandidate> getAnswerCandidates(SupportingEvidenceArg arg) {
+		return 	AnswerCandidateScorer.getAnswerCandidates(arg,
+				getTypeName(), nes);
+	}
 
-	protected String[][] getTokens(String[] sentences) {
+	protected static String[][] getTokens(String[] sentences) {
 		String[][] tokens = new String[sentences.length][];
 		for (int i = 0; i < sentences.length; i++)
 			tokens[i] = NETagger.tokenize(sentences[i]);
@@ -111,7 +132,7 @@ public abstract class CandidateExtractorBase {
 		return tokens;
 	}
 
-	protected String[][] getMatchOntology(String[] sentences,
+	protected static String[][] getMatchOntology(String[] sentences,
 			String[][] tokens, List<String> ontologyList) {
 
 		for (int i = 0; i < sentences.length; i++) {

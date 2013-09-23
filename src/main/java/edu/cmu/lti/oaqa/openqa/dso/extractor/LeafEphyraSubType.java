@@ -5,15 +5,17 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 
-public class CandidateExtractorBySubAnswerType extends
+import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
+
+public class LeafEphyraSubType extends
 		CandidateExtractorByAnswerType {
 
-	public CandidateExtractorBySubAnswerType(String answerType,
-			String[] sentences) {
-		super(answerType, sentences);
+	public LeafEphyraSubType(SupportingEvidenceArg arg) {
+		super(arg);
 
+		String[] sentences=arg.getSentences();
 		// get IDs of taggers for most specific NE type that can be tagged
-		List<int[]> nePatterns = getNEType(answerType);
+		List<int[]> nePatterns = getNEType(arg.getAnswerType());
 
 		// extract NEs of that type
 		tokens = getTokens(sentences);
@@ -66,5 +68,10 @@ public class CandidateExtractorBySubAnswerType extends
 		}
 
 		return nes;
+	}
+
+	@Override
+	public String getTypeName() {
+		return "ephyra_sub_type";
 	}
 }

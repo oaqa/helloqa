@@ -1,4 +1,5 @@
 class: edu.cmu.lti.oaqa.openqa.dso.phase.ie.InformationExtractor
+extractor: edu.cmu.lti.oaqa.openqa.dso.extractor.LeafItemBasedExtension
 
 persistence-provider: |
   inherit: ecd.default-log-persistence-provider

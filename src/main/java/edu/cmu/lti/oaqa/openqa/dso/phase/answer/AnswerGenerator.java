@@ -20,6 +20,8 @@ import edu.cmu.lti.oaqa.openqa.dso.framework.base.AnswerGenerator_ImplBase;
 import edu.cmu.lti.oaqa.openqa.dso.util.LogUtil;
 
 public class AnswerGenerator extends AbstractAnswerGenerator {
+	
+	private static int CANDIDATE_NUM=100;
 
 	private static final Logger LOGGER = Logger.getLogger(LogUtil
 			.getInvokingClassName());
@@ -79,7 +81,7 @@ public class AnswerGenerator extends AbstractAnswerGenerator {
 				|| answerType.contains("NEdate")) {
 			if (finalAnswers.size() > 0) {
 				String firstanswer = finalAnswers.get(0).getText();
-				for (int i = 1; i < Math.min(5, finalAnswers.size()); i++) {
+				for (int i = 1; i < Math.min(CANDIDATE_NUM, finalAnswers.size()); i++) {
 					if (finalAnswers.get(i).getText()
 							.contains(" " + firstanswer)
 							|| finalAnswers.get(i).getText()
@@ -89,16 +91,6 @@ public class AnswerGenerator extends AbstractAnswerGenerator {
 					}
 				}
 			}
-
-			List<AnswerCandidate> refinedfinalAnswers = new ArrayList<AnswerCandidate>();
-			for (int k = 0; k < finalAnswers.size(); k++) {
-				String name = finalAnswers.get(k).getText();
-				String[] nameSeg = name.split(" ");
-				if (nameSeg.length > 1) {
-					refinedfinalAnswers.add(finalAnswers.get(k));
-				}
-			}
-			finalAnswers = refinedfinalAnswers;
 		}
 
 		StringBuilder sb = new StringBuilder();
@@ -109,7 +101,11 @@ public class AnswerGenerator extends AbstractAnswerGenerator {
 		}
 		LOGGER.info("  Final top answers: "
 				+ (sb.length() > 0 ? sb : "No answers found."));
-
+//
+//		AnswerCandidate candidate = new AnswerCandidate("15",
+//				new ArrayList<RetrievalResult>());
+//		finalAnswers.add(0, candidate);		
+		
 		return finalAnswers;
 	}
 

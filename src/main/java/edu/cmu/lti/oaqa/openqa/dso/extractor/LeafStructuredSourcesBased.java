@@ -3,6 +3,7 @@ package edu.cmu.lti.oaqa.openqa.dso.extractor;
 import java.util.ArrayList;
 import java.util.List;
 
+import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import edu.cmu.lti.oaqa.openqa.dso.structuredsources.GTDEvent;
 import edu.cmu.lti.oaqa.openqa.dso.structuredsources.GTDExtractor;
 import edu.cmu.lti.oaqa.openqa.dso.structuredsources.RANDExtractor;
@@ -12,13 +13,11 @@ import edu.cmu.lti.oaqa.openqa.dso.structuredsources.StructuredQuestionAnalyzer;
 import org.joda.time.DateTime;
 import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;
-public class CandidateExtractorByStructuredSources extends
+public class LeafStructuredSourcesBased extends
 		CandidateExtractorBase {
 
-	@Override
-	public String[][] getAnswerCandidates() {
-		// TODO Auto-generated method stub
-		return null;
+	public LeafStructuredSourcesBased(SupportingEvidenceArg arg) {
+		super(arg);
 	}
 
 	public List<String> getAnswerCandidates(String questionText,
@@ -94,6 +93,12 @@ public class CandidateExtractorByStructuredSources extends
 
 		return candidateAns;
 
+	}
+
+	@Override
+	public String getTypeName() {
+		// TODO Auto-generated method stub
+		return "structure";
 	}	
 
 }
