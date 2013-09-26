@@ -3,14 +3,14 @@ package edu.cmu.lti.oaqa.openqa.dso.answer;
 import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import info.ephyra.nlp.SnowballStemmer;
 public class SimilarityBigrams implements IAnswerScorer{
-	public double[] getScoreFromPassage(SupportingEvidenceArg arg) {
+	public double[] getScoreFromPassage(SupportingEvidenceArg arg, String passage) {
 
 		SnowballStemmer.create();
 
 		double[] scores = new double[arg.getNEs().length];
 		double currentNEScore = 0;
 
-		String stemedPassage = SnowballStemmer.stemAllTokens(arg.getPassages());
+		String stemedPassage = SnowballStemmer.stemAllTokens(passage);
 		for (String keyphrase : arg.getKeyphrases()) {
 			keyphrase = SnowballStemmer.stemAllTokens(keyphrase);
 			if (stemedPassage.contains(keyphrase)) {

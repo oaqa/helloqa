@@ -1,0 +1,12 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/Omagh_bombing>
+      dbpprop:date "3"^^<http://www.w3.org/2001/XMLSchema#int> , "15"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:fatalities "29"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:injuries "About 220 initially reported, later stories say over 300."@en ;
+      dbpprop:location <http://dbpedia.org/resource/Omagh> , <http://dbpedia.org/resource/Northern_Ireland> ;
+      dbpprop:perps <http://dbpedia.org/resource/Real_Irish_Republican_Army> ;
+      dbpprop:target <http://dbpedia.org/resource/Courthouse> ;
+      dbpprop:type <http://dbpedia.org/resource/Car_bomb> .

@@ -7,14 +7,13 @@ import java.util.Map;
 
 import org.apache.log4j.Logger;
 
-import edu.cmu.lti.oaqa.openqa.dso.answer.AnswerCandidateScorer;
-import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
 import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import edu.cmu.lti.oaqa.openqa.dso.util.FileUtil;
 import edu.cmu.lti.oaqa.openqa.dso.util.LogUtil;
 
 
 import info.ephyra.nlp.NETagger;
+import info.ephyra.nlp.OpenNLP;
 
 public abstract class CandidateExtractorBase implements ICandidateExtractor{
 	private static final Logger LOGGER = Logger.getLogger(LogUtil
@@ -112,17 +111,6 @@ public abstract class CandidateExtractorBase implements ICandidateExtractor{
 		}
 
 	}
-	
-	@Override
-	public String[][] generateNEs() {
-		return nes;
-	}
-	
-	@Override
-	public List<AnswerCandidate> getAnswerCandidates(SupportingEvidenceArg arg) {
-		return 	AnswerCandidateScorer.getAnswerCandidates(arg,
-				getTypeName(), nes);
-	}
 
 	protected static String[][] getTokens(String[] sentences) {
 		String[][] tokens = new String[sentences.length][];
@@ -177,4 +165,18 @@ public abstract class CandidateExtractorBase implements ICandidateExtractor{
 		}
 		return ne;
 	}
+	
+	private static final int MIN_SENTENCE_LENGTH = 3;
+
+	protected String[] detectSentences(String documentText) {
+		String[] sentences = OpenNLP.sentDetect(documentText);
+		List<String> refinedSentences = new ArrayList<String>();
+		for (String sentence : sentences) {
+			if (sentence.length() > MIN_SENTENCE_LENGTH) {
+				refinedSentences.add(sentence);
+			}
+		}
+		return refinedSentences.toArray(new String[refinedSentences.size()]);
+	}
+
 }

@@ -1,0 +1,11 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/Passover_massacre>
+      dbpprop:date "1170.0"^^<http://dbpedia.org/datatype/second> , "27"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:fatalities "30"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:injuries "140"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:location <http://dbpedia.org/resource/Netanya> ;
+      dbpprop:perps "Hamas claimed responsibility"@en ;
+      dbpprop:type <http://dbpedia.org/resource/Suicide_bomber> , <http://dbpedia.org/resource/Suicide_attack> .

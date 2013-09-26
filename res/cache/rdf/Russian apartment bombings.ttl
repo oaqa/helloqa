@@ -1,0 +1,11 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/Russian_apartment_bombings>
+      dbpprop:date "--09-04"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> ;
+      dbpprop:fatalities "293"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:injuries "More than 1,000"@en ;
+      dbpprop:location "Russia"@en ;
+      dbpprop:target "Apartment buildings"@en ;
+      dbpprop:type "Time bombings"@en .

@@ -2,10 +2,14 @@ package edu.cmu.lti.oaqa.openqa.dso.extractor;
 
 import info.ephyra.nlp.StanfordParser;
 import java.io.StringReader;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import org.apache.log4j.Logger;
 
+import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
+import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
+import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import edu.cmu.lti.oaqa.openqa.dso.rdfanswergenerator.RDFAnswerGenerator;
 import edu.cmu.lti.oaqa.openqa.dso.structuredsources.FieldAnalyser;
 import edu.cmu.lti.oaqa.openqa.dso.util.LogUtil;
@@ -15,23 +19,48 @@ import edu.stanford.nlp.trees.tregex.TreeMatcher.TRegexTreeReaderFactory;
 import edu.stanford.nlp.trees.tregex.TregexMatcher;
 import edu.stanford.nlp.trees.tregex.TregexPattern;
 
-public class LeafRDFBased {
+public class LeafRDFBased implements ICandidateExtractor{
 	private static final Logger LOGGER = Logger.getLogger(LogUtil
 			.getInvokingClassName());
-	private String sparqlServer;
-	private String indexLocation;
-	private boolean isServer;
+	private static String sparqlServer="http://gold.lti.cs.cmu.edu:8891/sparql";
+	private String indexLocation= "res/rdf_dbpedia_labels_indri_index";
+	private boolean isServer=false;
 	private static TRegexTreeReaderFactory trf;
-	static {
+
+	public LeafRDFBased(SupportingEvidenceArg arg) {
 		initialize();
 	}
 
-	public LeafRDFBased(String sparqlServer, String indexLocation, boolean isServer) {
-		this.sparqlServer = sparqlServer;
-		this.indexLocation = indexLocation;
-		this.isServer = isServer;
+	@Override
+	public String getTypeName() {
+		return "RDF";
 	}
 
+	@Override
+	public void initialize() {
+		if(trf!=null){
+			return;
+		}
+		try {
+			StanfordParser.initialize();
+			trf = new TRegexTreeReaderFactory();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+	@Override
+	public List<AnswerCandidate> getAnswerCandidates(SupportingEvidenceArg arg) {
+		String ans=getAnswerForQuestion(arg.getQuestionText());
+		List<AnswerCandidate> candidates=new ArrayList<AnswerCandidate>();
+		if(ans==null){
+			return candidates;
+		}
+		candidates.add(new AnswerCandidate(ans, new ArrayList<RetrievalResult>()));
+		return candidates;
+	}
+	
 	private String getAnswerType(String line) {
 		// if(line.contains("Where")) { //where did massacre happen
 		// return "location";
@@ -93,16 +122,6 @@ public class LeafRDFBased {
 		}
 	}
 
-	public static void initialize() {
-		try {
-			StanfordParser.initialize();
-			trf = new TRegexTreeReaderFactory();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
-
 	public String getTargetEvent(String question) {
 		StringBuffer buffer = new StringBuffer();
 		try {
@@ -127,8 +146,8 @@ public class LeafRDFBased {
 	}
 
 	public static void main(String args[]) throws Exception {
-		// String question = "When did Guildford pub bombings happen?";
-		// CandidateExtractorByRDF ceRDF = new CandidateExtractorByRDF();
-		// System.out.println(ceRDF.getAnswerForQuestion(question));
+//		 String question = "When did Guildford pub bombings happen?";
+//		 LeafRDFBased ceRDF = new LeafRDFBased();
+//		 System.out.println(ceRDF.getAnswerForQuestion(question));
 	}
 }

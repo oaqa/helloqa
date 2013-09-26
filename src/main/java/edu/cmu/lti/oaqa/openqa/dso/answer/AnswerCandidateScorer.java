@@ -19,7 +19,7 @@ public class AnswerCandidateScorer {
 	private static final double CANDIDATE_SUB_WEIGHT = 3;
 
 	public static List<AnswerCandidate> getAnswerCandidates(
-			SupportingEvidenceArg arg, String candidateType, String[][] nes) {
+			SupportingEvidenceArg arg, String candidateType, String[][] nes, String[] sentences, int rank) {
 
 		List<AnswerCandidate> candidates = new ArrayList<AnswerCandidate>();
 		if(nes==null){
@@ -29,12 +29,12 @@ public class AnswerCandidateScorer {
 		for (int i = 0; i < nes.length; i++) {
 			if (nes[i] != null && nes[i].length > 0) {
 				// update arg
-				arg.updateSupportingEvidenceArg(i, nes);
+				arg.updateSupportingEvidenceArg(i, nes, sentences);
 
 				// score nes
 				double[] evidenceScores = AnswerScorer
 						.getFusionUnigramProximityScore(arg);
-
+				
 				// distinct candidate of answer type, and candidate extension
 				if (candidateType.equals(CANDIDATE_EXTRACTOR_TYPE[1])) {
 					for (int k = 0; k < evidenceScores.length; k++) {
@@ -56,12 +56,15 @@ public class AnswerCandidateScorer {
 				// add NEs to candidates
 				int neCounter = 0;
 				for (String ne : nes[i]) {
+					if(ne==null){
+						continue;
+					}
 					ne = candidateNormalization(ne, arg.getAnswerType());
 					AnswerCandidate candidate = new AnswerCandidate(ne,
 							new ArrayList<RetrievalResult>());
 					candidate.setScore(AnswerScorer.normalization(
 							evidenceScores[neCounter],
-							arg.getKeywords().size(), arg.getRank()));
+							arg.getKeywords().size(), rank));
 					candidates.add(candidate);
 					neCounter++;
 				}

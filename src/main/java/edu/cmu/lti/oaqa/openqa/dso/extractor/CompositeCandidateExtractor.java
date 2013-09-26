@@ -28,20 +28,14 @@ public class CompositeCandidateExtractor implements ICandidateExtractor {
 	}
 
 	@Override
-	public String[][] generateNEs() {
-		return null;
-	}
-
-	@Override
 	public List<AnswerCandidate> getAnswerCandidates(SupportingEvidenceArg arg) {
 		List<AnswerCandidate> candidates = new ArrayList<AnswerCandidate>();
 		List<String[][]> previousNELs = new ArrayList<String[][]>();
 		for (ICandidateExtractor extractor : childCandidateExtractors) {
-			String[][] nes = extractor.generateNEs();
-			nes = AnswerCandidateScorer.refineNEs(previousNELs, nes);
-			candidates.addAll(AnswerCandidateScorer.getAnswerCandidates(arg,
-					extractor.getTypeName(), nes));
-			previousNELs.add(nes);
+			//String[][] nes = extractor.generateNEs();
+			//nes = AnswerCandidateScorer.refineNEs(previousNELs, nes);
+			//candidates.addAll();
+			//previousNELs.add(nes);
 		}
 		return candidates;
 	}

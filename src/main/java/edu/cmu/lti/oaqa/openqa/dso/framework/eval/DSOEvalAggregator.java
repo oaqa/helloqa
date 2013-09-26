@@ -76,22 +76,22 @@ public class DSOEvalAggregator extends Resource_ImplBase implements
 						accuracy = 1;
 					reciprocalRank = Math.max(reciprocalRank, 1 / (float) pos);
 					ansRecall = 1;
-					System.out.println("Match: " + oneAns + " for " + ans_pattern
-							+ " ReciprocalRank: " + reciprocalRank);
+					System.out.println("Match: " + oneAns + " for "
+							+ ans_pattern + " ReciprocalRank: "
+							+ reciprocalRank);
 				}
 				++pos;
 			}
 		}
-		
-		for(String passage:passages){
+
+		for (String passage : passages) {
 			for (String ans_pattern : gs) {
 				Pattern pattern = Pattern.compile(ans_pattern);
 				Matcher matcher = pattern.matcher(passage);
 				if (matcher.find()) {
-					passageRecall=1;
-				    System.out.println(matcher.group(0));
-				    break;
-				} 
+					passageRecall = 1;
+					break;
+				}
 			}
 		}
 

@@ -24,22 +24,22 @@ public class AnswerScorer {
 		return scores;
 	}
 
-	public static double[] getBigramScore(SupportingEvidenceArg arg) {
+	public static double[] getBigramScore(SupportingEvidenceArg arg, String passage) {
 		SimilarityBigrams bigrams = new SimilarityBigrams();
-		scores = bigrams.getScoreFromPassage(arg);
+		scores = bigrams.getScoreFromPassage(arg, passage);
 		if (scores.length > 0)
 			arg.setCombinedScore(scores[0]);
 		return scores;
 	}
 
-	public static double[] getFusionUnigramBigramScore(SupportingEvidenceArg arg) {
+	public static double[] getFusionUnigramBigramScore(SupportingEvidenceArg arg, String passage) {
 		scores = new double[arg.getNEs().length];
 
 		SimilarityUnigram unigram = new SimilarityUnigram();
 		double[] unigramScores = unigram.getScore(arg);
 
 		SimilarityBigrams bigrams = new SimilarityBigrams();
-		double[] bigramScores = bigrams.getScoreFromPassage(arg);
+		double[] bigramScores = bigrams.getScoreFromPassage(arg, passage);
 
 		for (int i = 0; i < arg.getNEs().length; i++) {
 			scores[i] = unigramScores[i] + bigramScores[i];
@@ -80,14 +80,14 @@ public class AnswerScorer {
 	}
 
 	public static double[] getFusionUnigramBigramPrximityScore(
-			SupportingEvidenceArg arg) {
+			SupportingEvidenceArg arg, String passage) {
 		scores = new double[arg.getNEs().length];
 
 		SimilarityUnigram unigram = new SimilarityUnigram();
 		double[] unigramScores = unigram.getScore(arg);
 
 		SimilarityBigrams bigrams = new SimilarityBigrams();
-		double[] bigramScores = bigrams.getScoreFromPassage(arg);
+		double[] bigramScores = bigrams.getScoreFromPassage(arg, passage);
 
 		for (int i = 0; i < arg.getNEs().length; i++) {
 			scores[i] = unigramScores[i] + bigramScores[i];
@@ -113,7 +113,7 @@ public class AnswerScorer {
 		double score = (Math.pow(evidenceScore / ((double) keytermSize), 2.0));
 		return score;
 	}
-
+	
 	public static double normalization(double evidenceScore,
 			double keytermSize, int rank) {
 		double passageRankNormScore = Math.pow(rank + LAMADA, BETA);

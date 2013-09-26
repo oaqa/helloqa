@@ -1,0 +1,12 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/Moscow_theater_hostage_crisis>
+      dbpprop:date "23"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:fatalities "At least 170 in total"@en ;
+      dbpprop:injuries "Over 700"@en ;
+      dbpprop:location <http://dbpedia.org/resource/Russia> , <http://dbpedia.org/resource/Moscow> ;
+      dbpprop:perps "Abu Bakar"@en , "Shamil Basayev"@en , "SPIR, Riyadus-Salikhin, IIPBMovsar Barayev(d)"@en ;
+      dbpprop:target "Dubrovka Theater"@en ;
+      dbpprop:type "hostage taking, threats of execution and subsequent response by Russian government"@en .

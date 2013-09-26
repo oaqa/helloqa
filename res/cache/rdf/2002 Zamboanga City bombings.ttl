@@ -1,0 +1,10 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/2002_Zamboanga_City_bombings>
+      dbpprop:fatalities "at least 11"@en ;
+      dbpprop:injuries "at least 180"@en ;
+      dbpprop:location "Four separate locations in Zamboanga City"@en ;
+      dbpprop:perps "unknown"@en ;
+      dbpprop:target "Two department stores, Fort Pillar shrine and a karaoke bar/restaurant opposite a military base."@en .

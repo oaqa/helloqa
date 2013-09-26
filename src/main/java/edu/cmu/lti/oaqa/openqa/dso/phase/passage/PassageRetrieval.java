@@ -27,7 +27,7 @@ public class PassageRetrieval extends AbstractPassageRetrieval{
 	private LocalCorpusSearcher localWikiSearcher;
 	private LocalCorpusSearcher localDSOSearcher;
 	//private WebDocumentSearcher webSearcher;
-	private RDFSearcher rdfSearcher;
+	//private RDFSearcher rdfSearcher;
 	
 	public static final int DOC_RETURN_SIZE = 50;
 	
@@ -38,31 +38,31 @@ public class PassageRetrieval extends AbstractPassageRetrieval{
 		localWikiSearcher = new LocalCorpusSearcher();
 		localDSOSearcher=new LocalCorpusSearcher();
 		//webSearcher = new WebDocumentSearcher();
-		rdfSearcher = new RDFSearcher();
+		//rdfSearcher = new RDFSearcher();
 		
 		DSOLocalRetrievalCache dso_cache=new DSOLocalRetrievalCache();
 		WikiLocalRetrievalCache wiki_cache=new WikiLocalRetrievalCache();
 		
 		searchers.add(localWikiSearcher);
 		searchers.add(localDSOSearcher);
-		searchers.add(rdfSearcher);
+		//searchers.add(rdfSearcher);
 		
 		localWikiSearcher.initialize(wiki_cache.getInstance(), "/home/ruil/Downloads/Indexes/wikipedia");
 		localDSOSearcher.initialize(dso_cache.getInstance(), "xmirepo/dso/index");
-		try {
-			rdfSearcher.initialize(null, "");
-		} catch (JSONException e) {
-			e.printStackTrace();
-		}
+//		try {
+//			rdfSearcher.initialize(null, "");
+//		} catch (JSONException e) {
+//			e.printStackTrace();
+//		}
 	}
 
 	public List<RetrievalResult> retrieveDocuments(List<String> keyterms,
 			List<String> keyphrases, String question, String answerType) {
 		List<RetrievalResult> mergedresults = new ArrayList<RetrievalResult>();
 		
-		List<RetrievalResult> RDFpassages = rdfSearcher.retrieveDocuments(
-				keyterms, keyphrases, question, answerType);
-		mergedresults.addAll(RDFpassages);
+//		List<RetrievalResult> RDFpassages = rdfSearcher.retrieveDocuments(
+//				keyterms, keyphrases, question, answerType);
+//		mergedresults.addAll(RDFpassages);
 
 		List<RetrievalResult> localWikipassages = localWikiSearcher.retrieveDocuments(
 				keyterms, keyphrases, question, answerType);

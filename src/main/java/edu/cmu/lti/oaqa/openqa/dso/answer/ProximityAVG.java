@@ -13,6 +13,9 @@ public class ProximityAVG implements IAnswerScorer{
 		int[] nesPosition = new int[nesLength];
 		int currentNEPosition = 0;
 		for (int i = 0; i < nesLength; i++) {
+			if(arg.getNEs()==null||arg.getNEs()[i]==null){
+				continue;
+			}
 			nesPosition[i] = sentenceText.indexOf(arg.getNEs()[i].toLowerCase(),
 					currentNEPosition);
 			if (nesPosition[i] == -1) {

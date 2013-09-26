@@ -4,14 +4,14 @@ import java.net.ResponseCache;
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.cmu.lti.oaqa.openqa.dso.answer.AnswerCandidateScorer;
 import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
 import edu.cmu.lti.oaqa.openqa.dso.data.InfoBoxResult;
+import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
 import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import edu.cmu.lti.oaqa.openqa.dso.xmiretriever.infobox.MyResponseCache;
 
 public class LeafInfoBoxBased extends CandidateExtractorBase {
-	
+
 	static {
 		ResponseCache.setDefault(new MyResponseCache());
 	}
@@ -53,13 +53,13 @@ public class LeafInfoBoxBased extends CandidateExtractorBase {
 			candidates.add(infoBox.getInjuries());
 		} else if (answerType.contains("NETerroristOrganization")) {
 			// perps: no necessary to use infobox for perps
-			//candidates.add(infoBox.getPerps());
-		}else if (answerType.contains("NEattacktype")) {
+			// candidates.add(infoBox.getPerps());
+		} else if (answerType.contains("NEattacktype")) {
 			// perps: no necessary to use infobox for perps
 			candidates.add(infoBox.getType());
 		}
 	}
-	
+
 	private static List<String> getIncidentByKeyterms(List<String> keyterms) {
 		List<String> incidentResult = new ArrayList<String>();
 		List<String> lowercaseKeyterms = new ArrayList<String>();
@@ -92,8 +92,18 @@ public class LeafInfoBoxBased extends CandidateExtractorBase {
 
 	@Override
 	public List<AnswerCandidate> getAnswerCandidates(SupportingEvidenceArg arg) {
-		return 	AnswerCandidateScorer.getAnswerCandidates(arg,
-				getTypeName(), nes);
+		List<AnswerCandidate> candidates = new ArrayList<AnswerCandidate>();
+		List<String> neLs = getAnswerCandidates(arg.getKeywords(),
+				arg.getAnswerType());
+		for (String ne : neLs) {
+			if (ne == null || ne.isEmpty() || ne.equals("")) {
+				continue;
+			}
+			AnswerCandidate candidate = new AnswerCandidate(ne.trim(),
+					new ArrayList<RetrievalResult>());
+			candidate.setScore(10);
+			candidates.add(candidate);
+		}
+		return candidates;
 	}
-
 }

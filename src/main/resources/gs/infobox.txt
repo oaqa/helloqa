@@ -1,0 +1,100 @@
+1 Special Purpose Islamic Regiment|SPIR, Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs|Riyadus-Salikhin, Islamic International Brigade|IIPB
+2 23&acirc;&euro;&ldquo;26 October 2002
+3 Special Purpose Islamic Regiment|SPIR, Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs|Riyadus-Salikhin, Islamic International Brigade|IIPB
+4 Special Purpose Islamic Regiment|SPIR, Riyadus-Salikhin Reconnaissance and Sabotage Battalion of Chechen Martyrs|Riyadus-Salikhin, Islamic International Brigade|IIPB
+5 (.*?)220(.*?)
+6 Car bomb
+7 Russia|Moscow(.*?)
+8 Courthouse
+9 Hotels, office buildings, banks, etc.
+10 Moscow, Russia
+11 Real Irish Republican Army(.*?)|(.*)?RIRA(.*?)
+12 (.*?)220(.*?)
+13 (.*?)1000(.*?)
+14 (.*?)1000(.*?)
+15 Low-income apartment buildings
+16 Time bombings
+17 
+18 September 4&acirc;&euro;&ldquo;16, 1999
+19 
+20 
+21 13 car bombs (RDX) containing Fragmentation (weaponry)|shrapnel.
+22 Real Irish Republican Army(.*?)|(.*)?RIRA(.*?)
+23 (.*?)April 20, 1999
+24 Real Irish Republican Army(.*?)|(.*)?RIRA(.*?)
+25 Columbine, Colorado|Columbine, Colorado, United States|Littleton, United States
+26 15 August 1998
+27 Omagh, Northern Ireland
+28 Two department stores, Fort Pillar shrine and a karaoke bar/restaurant opposite a military base.
+29 suicide bombing
+30 Eric Harris and Dylan Klebold
+31 at least 180 
+32 24
+33 
+34 Eric Harris and Dylan Klebold
+35 unknown (Moro Islamic Liberation Front|MILF, Abu Sayyaf, and Jemaah Islamiyah suspected)
+36 Eric Harris and Dylan Klebold
+37 at least 180
+38 Students and faculty at Columbine High School|Civilians
+39 Vantaa, Finland (near Helsinki)|(.*?)Shopping mall(.*?)
+40 unknown (Moro Islamic Liberation Front|MILF, Abu Sayyaf, and Jemaah Islamiyah suspected)
+41 24
+42 School shooting, mass murder, massacre, murder-suicide, suicide attack, shootout, improvised explosive device|attempted bombing|Armed Assault
+43 713
+44 257
+45 Underworld criminal groups affliated with Islamic groups with training in Pakistan (D-Company)
+46 Underworld criminal groups affliated with Islamic groups with training in Pakistan (D-Company)
+47 Underworld criminal groups affliated with Islamic groups with training in Pakistan (D-Company)
+48 12 March 1993|(.*?)March 12(.*?)
+49 Bombay(.*?)
+50 Israeli embassy
+51 242|250
+52 October 11, 2002
+53 242|250
+54 Petri Erkki Tapio Gerdt
+55 Petri Erkki Tapio Gerdt
+56 
+57 Shopping mall
+58 suicide bomber
+59 Jerusalem, British Mandate for Palestine|Mandate Palestine
+60 
+61 July 22, 1946
+62 Buenos Aires, Argentina
+63 March 17(.*?)
+64 Petri Erkki Tapio Gerdt
+65 Hizballah|Hezbollah
+66 166
+67 Hizballah|Hezbollah
+68 166
+69 Hizballah|Hezbollah
+70 bombing
+71 91
+72 
+73 Irgun
+74 Hamas(.*?)
+75 Irgun
+76 Hamas(.*?)
+77 Irgun
+78 (.*?)700(.*?)
+79 hostage taking, threats of execution and subsequent response by Russian government
+80 
+81 (.*?)700(.*?)
+82 unknown (Moro Islamic Liberation Front|MILF, Abu Sayyaf, and Jemaah Islamiyah suspected)
+83 Hamas
+84 March 27, 2002
+85 King David Hotel
+86 August 19, 2003
+87 Hamas(.*?)
+88 Four separate locations in Zamboanga City|Two department stores, Fort Pillar shrine and a karaoke bar/restaurant opposite a military base.
+89 Jerusalem(.*?)
+90 Dubrovka theater
+91 46
+92 Netanya
+93 Bomb
+94 (.*?)130(.*?)
+95 (.*?)130(.*?)
+96 Hamas
+97 Hamas
+98 Samarra(.*?)|Basra(.*?)
+99 
+100 suicide bombing

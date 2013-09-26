@@ -14,6 +14,7 @@ import edu.cmu.lti.oaqa.openqa.dso.framework.DSOLogEntry;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.AnswerTypeJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.DocumentJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.AnsJCasManipulator;
+import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ICEventJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.KeytermJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewManager;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewType;
@@ -22,7 +23,7 @@ public abstract class AbstractInformationExtractor extends AbstractLoggedCompone
 	public abstract void initialize();
 
 	public abstract List<AnswerCandidate> extractAnswerCandidates(
-			String questionText, String answerType, List<String> keyterms,
+			String icEvent, String questionText, String answerType, List<String> keyterms,
 			List<String> keyphrases, List<RetrievalResult> documents);
 
 	@Override
@@ -42,8 +43,10 @@ public abstract class AbstractInformationExtractor extends AbstractLoggedCompone
 			List<String> keyphrases = KeytermJCasManipulator
 					.loadKeyphrases(ViewManager.getView(jcas, ViewType.KEYTERM));
 	        List<RetrievalResult> documents = DocumentJCasManipulator.loadDocuments(ViewManager.getView(jcas, ViewType.PASSAGE));
+			String icEvent=ICEventJCasManipulator.loadIcEvent(ViewManager.getView(jcas, ViewType.IC_EVENT));
+			
 	        List<AnswerCandidate> ansCandidates = extractAnswerCandidates(
-	      		  questionText, answerType, keyterms, keyphrases, documents);
+	        		icEvent, questionText, answerType, keyterms, keyphrases, documents);
 	        
 	        AnsJCasManipulator.storeCandidates(ViewManager.getView(jcas, ViewType.IE), ansCandidates);
 

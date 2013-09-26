@@ -7,49 +7,68 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
+import edu.cmu.lti.oaqa.openqa.dso.answer.AnswerCandidateScorer;
+import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
+import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
 import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import edu.cmu.lti.oaqa.openqa.dso.util.FilterUtils;
 import edu.cmu.lti.oaqa.openqa.dso.util.StopWords;
 
 public class LeafItemBasedExtension extends CandidateExtractorBase {
 	private static HashSet<String> tabooCandidateSet;
-	
+
 	public LeafItemBasedExtension(SupportingEvidenceArg arg) {
 		super(arg);
 		StopWords.getInstance();
-		tokens = getTokens(arg.getSentences());
-		// remove date type answer candidates because they are accurate.
-		tabooCandidateSet = new HashSet<String>();
-		int[] neId = NETagger.getNeIds("NEdate");
-		String[][] nes = NETagger.extractNes(tokens, neId[0]);
-
-		for (int i = 0; i < nes.length; i++) {
-			for (int j = 0; j < nes[i].length; j++) {
-				if (nes[i][j] != null && !nes[i][j].equals(""))
-					tabooCandidateSet.add(nes[i][j]);
-			}
-		}
-
-		tabooCandidateSet.addAll(generateTabooAnswerCandidates(tokens,
-				arg.getAnswerType()));
-
-		generateAnswerCandidates(arg.getAnswerType(), arg.getSentences(), arg.getKeywords(), arg.getQuestionText());
 	}
 
-	private void generateAnswerCandidates(String answerType,
-			String[] sentences, List<String> keyterms, String questionText) {
+	@Override
+	public List<AnswerCandidate> getAnswerCandidates(SupportingEvidenceArg arg) {
+		List<AnswerCandidate> candidates = new ArrayList<AnswerCandidate>();
 
-		nes = new String[sentences.length][];
+		int rank = 1;
+		for (RetrievalResult document : arg.getPassages()) {
+			// split search result into sentences and tokenize sentences
+			String documentText = document.getText().replace(" ... ", " ! ");
 
-		if (activeAnswerExtractor(answerType)) {
-			for (int i = 0; i < sentences.length; i++) {
-				List<String> candidates = new ArrayList<String>();
-				candidates = getAnwserCandidates(sentences[i], keyterms,
-						questionText);
-				candidates=filter(candidates);
-				nes[i] = candidates.toArray(new String[candidates.size()]);
+			// get refined sentence
+			String[] sentences = detectSentences(documentText);
+
+			tokens = getTokens(sentences);
+
+			// remove date type answer candidates because they are accurate.
+			tabooCandidateSet = new HashSet<String>();
+			int[] neId = NETagger.getNeIds("NEdate");
+			String[][] nes = NETagger.extractNes(tokens, neId[0]);
+
+			for (int i = 0; i < nes.length; i++) {
+				for (int j = 0; j < nes[i].length; j++) {
+					if (nes[i][j] != null && !nes[i][j].equals(""))
+						tabooCandidateSet.add(nes[i][j]);
+				}
 			}
+
+			tabooCandidateSet.addAll(generateTabooAnswerCandidates(tokens,
+					arg.getAnswerType()));
+
+			nes = new String[sentences.length][];
+
+			if (activeAnswerExtractor(arg.getAnswerType())) {
+				for (int i = 0; i < sentences.length; i++) {
+					List<String> _nes = new ArrayList<String>();
+					_nes = getAnwserCandidates(sentences[i], arg.getKeywords(),
+							arg.getQuestionText());
+					_nes = filter(_nes);
+					nes[i] = candidates.toArray(new String[_nes.size()]);
+				}
+			}
+
+			candidates.addAll(AnswerCandidateScorer.getAnswerCandidates(arg,
+					getTypeName(), nes, sentences, rank));
+			rank++;
 		}
+
+		return candidates;
 	}
 
 	private List<String> filter(List<String> candidates) {

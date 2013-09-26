@@ -1,0 +1,13 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/Columbine_High_School_massacre>
+      dbpprop:date "1999-04-20"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      dbpprop:fatalities "15"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:injuries "21"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:location "Columbine, Colorado, U.S."@en ;
+      dbpprop:perps <http://dbpedia.org/resource/Eric_Harris_and_Dylan_Klebold> ;
+      dbpprop:target "Students and faculty at Columbine High School."@en ;
+      dbpprop:type "School shooting, mass murder, massacre, murder-suicide, fire, suicide attack, shootout, attempted bombing, late car explosion"@en ;
+      dbpprop:weapons "Intratec TEC-DC9, Hi-Point 995 Carbine, Savage 67H pump-action shotgun, Stevens 311D double barreled sawed-off shotgun, 99 explosives, 4 knives"@en .

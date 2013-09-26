@@ -1,0 +1,12 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/King_David_Hotel_bombing>
+      dbpprop:date "1946-07-22"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      dbpprop:fatalities "91"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:injuries "46"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:location <http://dbpedia.org/resource/British_Mandate_for_Palestine> , <http://dbpedia.org/resource/Jerusalem> , <http://dbpedia.org/resource/British_Mandate_for_Palestine_(legal_instrument)> ;
+      dbpprop:perps <http://dbpedia.org/resource/Irgun> ;
+      dbpprop:target <http://dbpedia.org/resource/King_David_Hotel> ;
+      dbpprop:type <http://dbpedia.org/resource/Bomb> .

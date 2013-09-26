@@ -4,49 +4,43 @@ import java.util.List;
 
 public class SupportingEvidenceArg {
 
+	private String icEvent;
 	private String questionText;
 	private String answerType;
 	private String[] nes;
 	private List<String> keywords;
 	private List<String> keyphrases;
 
-	private String[] sentences;
-	private String passages;
+	private List<RetrievalResult> passages;
 	private String previousSentence;
 	private String currentSentence;
 	private String nextSentence;
 
 	private double combinedScore;
-	private int rank;
-	private String pID;
-	
 	private String classNames;
 
-	public SupportingEvidenceArg(String questionText, String answerType,
-			List<String> keywords, List<String> keyphrases, String pID, String passages, String[] sentences, int rank, String classNames) {
+	public SupportingEvidenceArg(String icEvent, String questionText, String answerType,
+			List<String> keywords, List<String> keyphrases,
+			List<RetrievalResult> passages, String classNames) {
+		this.icEvent=icEvent;
 		this.questionText = questionText;
 		this.answerType = answerType;
 
 		this.keywords = keywords;
 		this.keyphrases = keyphrases;
-		
+
 		this.passages = passages;
-		this.sentences=sentences;
-		
-		this.pID=pID;
-		this.rank=rank;
-		
-		this.classNames=classNames;
+		this.classNames = classNames;
 	}
 
 	public void setSentences(String previousSentence, String currentSentence,
-			String nextSentence){
+			String nextSentence) {
 		this.previousSentence = previousSentence;
 		this.currentSentence = currentSentence;
 		this.nextSentence = nextSentence;
 	}
-	
-	public void updateSupportingEvidenceArg(int index, String[][] nes) {
+
+	public void updateSupportingEvidenceArg(int index, String[][] nes, String[] sentences) {
 		// window -1, +1
 		String previousSentence = "", currentSentence = "", nextSentence = "";
 		if (index - 1 >= 0) {
@@ -56,13 +50,9 @@ public class SupportingEvidenceArg {
 		if (index + 1 < sentences.length) {
 			nextSentence = sentences[index + 1];
 		}
-		
+
 		setSentences(previousSentence, currentSentence, nextSentence);
 		setNEs(nes[index]);
-	}
-	
-	public String[] getSentences(){
-		return sentences;
 	}
 
 	public String getAnswerType() {
@@ -105,7 +95,7 @@ public class SupportingEvidenceArg {
 		this.questionText = questionText;
 	}
 
-	public String getPassages() {
+	public List<RetrievalResult> getPassages() {
 		return passages;
 	}
 
@@ -128,16 +118,12 @@ public class SupportingEvidenceArg {
 	public void setCombinedScore(double score) {
 		combinedScore = score;
 	}
-	
-	public String getPID(){
-		return pID;
-	}
-	
-	public int getRank(){
-		return rank;
-	}
-	
-	public String getClassNames(){
+
+	public String getClassNames() {
 		return this.classNames;
+	}
+	
+	public String getICEvent(){
+		return icEvent;
 	}
 }

@@ -1,0 +1,11 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpprop:  <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/21_April_2004_Basra_bombings>
+      dbpprop:date "2004-04-21"^^<http://www.w3.org/2001/XMLSchema#date> ;
+      dbpprop:fatalities "74"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:injuries "100"^^<http://www.w3.org/2001/XMLSchema#int> ;
+      dbpprop:location <http://dbpedia.org/resource/Iraq> , <http://dbpedia.org/resource/Basra> ;
+      dbpprop:target "Police stations"@en ;
+      dbpprop:type "car bombs"@en .

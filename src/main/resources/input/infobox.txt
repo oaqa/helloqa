@@ -1,0 +1,100 @@
+1|Who were the perpetrators in Moscow theater hostage crisis?
+2|When did Moscow theater hostage crisis happen?
+3|Who was the mastermind of Moscow theater hostage crisis?
+4|Who was responsible for Moscow theater hostage crisis?
+5|How many people were wounded in Omagh bombing?
+6|What was the attack type of Omagh bombing?
+7|Where did Russian apartment bombings happen?
+8|What was/were the target(s) of Omagh bombing
+9|What was/were the target(s) of 1993 Bombay bombings
+10|Where did Moscow theater hostage crisis happen?
+11|Who was the mastermind of Omagh bombing?
+12|How many people were injured in Omagh bombing?
+13|How many people were wounded in Russian apartment bombings?
+14|How many people were injured in Russian apartment bombings?
+15|What was/were the target(s) of Russian apartment bombings
+16|What was the attack type of Russian apartment bombings?
+17|Who were the perpetrators in Russian apartment bombings?
+18|When did Russian apartment bombings happen?
+19|Who was the mastermind of Russian apartment bombings?
+20|Who was responsible for Russian apartment bombings?
+21|What was the attack type of 1993 Bombay bombings?
+22|Who was responsible for Omagh bombing?
+23|When did Columbine High School massacre happen?
+24|Who were the perpetrators in Omagh bombing?
+25|Where did Columbine High School massacre happen?
+26|When did Omagh bombing happen?
+27|Where did Omagh bombing happen?
+28|What was/were the target(s) of 2002 Zamboanga City bombings
+29|What was the attack type of 1992 Israeli Embassy attack in Buenos Aires?
+30|Who was the mastermind of Columbine High School massacre?
+31|How many people were wounded in 2002 Zamboanga City bombings?
+32|How many people were injured in Columbine High School massacre?
+33|What was the attack type of 2002 Zamboanga City bombings?
+34|Who were the perpetrators in Columbine High School massacre?
+35|Who was the mastermind of 2002 Zamboanga City bombings?
+36|Who was responsible for Columbine High School massacre?
+37|How many people were injured in 2002 Zamboanga City bombings?
+38|What was/were the target(s) of Columbine High School massacre
+39|Where did Myyrmanni bombing happen?
+40|Who was responsible for 2002 Zamboanga City bombings?
+41|How many people were wounded in Columbine High School massacre?
+42|What was the attack type of Columbine High School massacre?
+43|How many people were wounded in 1993 Bombay bombings?
+44|How many people were injured in 1993 Bombay bombings?
+45|Who was the mastermind of 1993 Bombay bombings?
+46|Who was responsible for 1993 Bombay bombings?
+47|Who were the perpetrators in 1993 Bombay bombings?
+48|When did 1993 Bombay bombings happen?
+49|Where did 1993 Bombay bombings happen?
+50|What was/were the target(s) of 1992 Israeli Embassy attack in Buenos Aires
+51|How many people were wounded in 1992 Israeli Embassy attack in Buenos Aires?
+52|When did Myyrmanni bombing happen?
+53|How many people were injured in 1992 Israeli Embassy attack in Buenos Aires?
+54|Who was responsible for Myyrmanni bombing?
+55|Who were the perpetrators in Myyrmanni bombing?
+56|How many people were wounded in Passover massacre?
+57|What was/were the target(s) of Myyrmanni bombing
+58|What was the attack type of Passover massacre?
+59|Where did King David Hotel bombing happen?
+60|What was/were the target(s) of Passover massacre
+61|When did King David Hotel bombing happen?
+62|Where did 1992 Israeli Embassy attack in Buenos Aires happen?
+63|When did 1992 Israeli Embassy attack in Buenos Aires happen?
+64|Who was the mastermind of Myyrmanni bombing?
+65|Who were the perpetrators in 1992 Israeli Embassy attack in Buenos Aires?
+66|How many people were injured in Myyrmanni bombing?
+67|Who was responsible for 1992 Israeli Embassy attack in Buenos Aires?
+68|How many people were wounded in Myyrmanni bombing?
+69|Who was the mastermind of 1992 Israeli Embassy attack in Buenos Aires?
+70|What was the attack type of Myyrmanni bombing?
+71|How many people were injured in King David Hotel bombing?
+72|How many people were injured in Passover massacre?
+73|Who was the mastermind of King David Hotel bombing?
+74|Who was the mastermind of Passover massacre?
+75|Who was responsible for King David Hotel bombing?
+76|Who was responsible for Passover massacre?
+77|Who were the perpetrators in King David Hotel bombing?
+78|How many people were wounded in Moscow theater hostage crisis?
+79|What was the attack type of Moscow theater hostage crisis?
+80|When did 2002 Zamboanga City bombings happen?
+81|How many people were injured in Moscow theater hostage crisis?
+82|Who were the perpetrators in 2002 Zamboanga City bombings?
+83|Who were the perpetrators in Shmuel HaNavi bus bombing?
+84|When did Passover massacre happen?
+85|What was/were the target(s) of King David Hotel bombing
+86|When did Shmuel HaNavi bus bombing happen?
+87|Who were the perpetrators in Passover massacre?
+88|Where did 2002 Zamboanga City bombings happen?
+89|Where did Shmuel HaNavi bus bombing happen?
+90|What was/were the target(s) of Moscow theater hostage crisis
+91|How many people were wounded in King David Hotel bombing?
+92|Where did Passover massacre happen?
+93|What was the attack type of King David Hotel bombing?
+94|How many people were wounded in Shmuel HaNavi bus bombing?
+95|How many people were injured in Shmuel HaNavi bus bombing?
+96|Who was the mastermind of Shmuel HaNavi bus bombing?
+97|Who was responsible for Shmuel HaNavi bus bombing?
+98|Where did 21 April 2004 Basra bombings happen?
+99|What was/were the target(s) of Shmuel HaNavi bus bombing
+100|What was the attack type of Shmuel HaNavi bus bombing?
