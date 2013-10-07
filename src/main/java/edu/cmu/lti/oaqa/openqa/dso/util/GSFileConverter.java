@@ -73,8 +73,24 @@ public class GSFileConverter {
 		}
 	}
 	
+	static void Question(){
+		HashMap<String, String> questionMap=new HashMap<String, String>();
+		ArrayList<String> lines=FileUtil.readFile("/home/ruil/workspace/git/helloqa/src/main/resources/gs/dso-extension-psg.txt");
+		
+		int index=1;
+		for(String line:lines){
+			String[] temp=line.split("	");
+			if(temp.length==2){
+				System.out.println(index+" "+temp[temp.length-1]);
+			}
+			index++;
+		}
+	}
+	
+	
+	
 	public static void main(String[] args) {
-		TREC2CSE_QUestion();
+		Question();
 	}
 
 }

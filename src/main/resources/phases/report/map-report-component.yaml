@@ -1,8 +1,8 @@
 class: edu.cmu.lti.oaqa.framework.report.DatabaseReportComponentBuilder
 keys: evaluator,traceId
-headers: Evaluator,Configuration,AnsMRR,AnsAcc,AnsRecall,PassageRecall,Count
-fields: evaluator,traceId,ans_mrr,ans_acc,ans_recall,passage_recall,count
-formats: "%s,%s,%.4f,%.4f,%.4f,%.4f,%d"
+headers: Evaluator,Configuration,AnsMRR,AnsAcc,AnsRecall,PassageRecall,AnsError,IEError,PassageError,Count
+fields: evaluator,traceId,ans_mrr,ans_acc,ans_recall,passage_recall,ans_err,ie_err,psg_err,count
+formats: "%s,%s,%.4f,%.4f,%.4f,%.4f,%.4f,%.4f,%.4f,%d"
 query: |
-  SELECT evaluator,traceId,ans_mrr,ans_acc,ans_recall,passage_recall,count FROM dso_eval 
+  SELECT evaluator,traceId,ans_mrr,ans_acc,ans_recall,passage_recall,ans_err,ie_err,psg_err,count FROM dso_eval 
   WHERE experimentId = ? AND stage = ?

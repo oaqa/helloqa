@@ -56,7 +56,7 @@ public class PassageRetrieval extends AbstractPassageRetrieval{
 //		}
 	}
 
-	public List<RetrievalResult> retrieveDocuments(List<String> keyterms,
+	public List<RetrievalResult> retrieveDocuments(String qid, List<String> keyterms,
 			List<String> keyphrases, String question, String answerType) {
 		List<RetrievalResult> mergedresults = new ArrayList<RetrievalResult>();
 		

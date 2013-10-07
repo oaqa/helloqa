@@ -40,7 +40,7 @@ public class InformationExtractor extends AbstractInformationExtractor {
 	}
 
 	@Override
-	public List<AnswerCandidate> extractAnswerCandidates(String icEvent, String questionText,
+	public List<AnswerCandidate> extractAnswerCandidates(String qid, String icEvent, String questionText,
 			String answerType, List<String> keyterms, List<String> keyphrases,
 			List<RetrievalResult> documents) {
 

@@ -19,12 +19,14 @@ import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.KeytermJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewManager;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewType;
 
-public abstract class AbstractInformationExtractor extends AbstractLoggedComponent {
+public abstract class AbstractInformationExtractor extends
+		AbstractLoggedComponent {
 	public abstract void initialize();
 
-	public abstract List<AnswerCandidate> extractAnswerCandidates(
-			String icEvent, String questionText, String answerType, List<String> keyterms,
-			List<String> keyphrases, List<RetrievalResult> documents);
+	public abstract List<AnswerCandidate> extractAnswerCandidates(String qid,
+			String icEvent, String questionText, String answerType,
+			List<String> keyterms, List<String> keyphrases,
+			List<RetrievalResult> documents);
 
 	@Override
 	public final void process(JCas jcas) throws AnalysisEngineProcessException {
@@ -33,22 +35,28 @@ public abstract class AbstractInformationExtractor extends AbstractLoggedCompone
 			// prepare input
 			InputElement input = ((InputElement) BaseJCasHelper.getAnnotation(
 					jcas, InputElement.type));
+			String qid = input.getSequenceId();
 			String questionText = input.getQuestion();
 
-			String answerType = AnswerTypeJCasManipulator.loadAnswerType(
-					ViewManager.getView(jcas, ViewType.ANS_TYPE));
+			String answerType = AnswerTypeJCasManipulator
+					.loadAnswerType(ViewManager
+							.getView(jcas, ViewType.ANS_TYPE));
 
-	        List<String> keyterms = KeytermJCasManipulator
+			List<String> keyterms = KeytermJCasManipulator
 					.loadKeyterms(ViewManager.getView(jcas, ViewType.KEYTERM));
 			List<String> keyphrases = KeytermJCasManipulator
 					.loadKeyphrases(ViewManager.getView(jcas, ViewType.KEYTERM));
-	        List<RetrievalResult> documents = DocumentJCasManipulator.loadDocuments(ViewManager.getView(jcas, ViewType.PASSAGE));
-			String icEvent=ICEventJCasManipulator.loadIcEvent(ViewManager.getView(jcas, ViewType.IC_EVENT));
-			
-	        List<AnswerCandidate> ansCandidates = extractAnswerCandidates(
-	        		icEvent, questionText, answerType, keyterms, keyphrases, documents);
-	        
-	        AnsJCasManipulator.storeCandidates(ViewManager.getView(jcas, ViewType.IE), ansCandidates);
+			List<RetrievalResult> documents = DocumentJCasManipulator
+					.loadDocuments(ViewManager.getView(jcas, ViewType.PASSAGE));
+			String icEvent = ICEventJCasManipulator.loadIcEvent(ViewManager
+					.getView(jcas, ViewType.IC_EVENT));
+
+			List<AnswerCandidate> ansCandidates = extractAnswerCandidates(qid,
+					icEvent, questionText, answerType, keyterms, keyphrases,
+					documents);
+
+			AnsJCasManipulator.storeCandidates(
+					ViewManager.getView(jcas, ViewType.IE), ansCandidates);
 
 		} catch (Exception e) {
 			throw new AnalysisEngineProcessException(e);

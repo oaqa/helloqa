@@ -1,4 +1,4 @@
-1|In what country did the Marriott Hotel bombing happen in 2009?
+1|In what country did the Marriott Hotel bombing happen?
 2|Who is now being called "bin Laden of the Internet"?
 3|What is the target in the original plan in World Trade Center bombing in 2006?
 4|What is the most similar incident according to September 11 attacks?
@@ -31,11 +31,11 @@
 31|Who is the mastermind of USS Cole incident?
 32|What organization directed the attack of USS Cole bombing?
 33|Did Al Qaeda carry out similar attack before USS Cole?
-34|What was the target of a similar attack carry out by Al Qaeda before USS Cole?
+34|When was the target of a similar attack carry out by Al Qaeda before USS Cole?
 35|In what city did the World Trade Center bombing take place in 1993?
 36|Which government was judge liable for the USS Cole bombing?
 37|Did Al Qaeda carry out similar attacks before September 11 attacks?
-38|Who was the mastermind behind the Limburg bombings?
+38|Who was the mastermind behind the USS Cole bombing?
 39|How much money did U.S. federal judge Kimba Wood released to pay for the victims of USS Cole?
 40|How many years in prison did Abu Bakar Baasyir serve?
 41|Where was Kuala Lumpur al-Qaeda Summit hold?
@@ -43,9 +43,8 @@
 43|How much oil spilled into the sea as a result of the Limburg incident?
 44|In which city was Umar Patek arrested in 2011?
 45|Who financed the attack of World Trade Center bombing?
-46|What were the explosives used in the Bali bombings in 2002 in Indonesia?
+46|Which car was used for the car bomb in the Bali bombings in 2002 in Indonesia?
 47|How much money was Ramzi Yousef funded for World Trade Center bombing?
 48|What is Abu Bakar Bashir's role in Jemaah Islamiyah?
 49|When did Ramzi Yousef arrive in the United States?
 50|How much money did the U.S. government offered for rewarding for Umar Patek's arrest?
-51|For what juridical notion was Ramzi Yousef allowed into the United States?

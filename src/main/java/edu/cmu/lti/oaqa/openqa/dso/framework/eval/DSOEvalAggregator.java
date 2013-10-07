@@ -100,8 +100,19 @@ public class DSOEvalAggregator extends Resource_ImplBase implements
 		System.out.println("Answer recall: " + ansRecall);
 		System.out.println("Passage recall: " + passageRecall);
 
-		return new DSOMeasureCounts(reciprocalRank, accuracy, ansRecall,
-				passageRecall, 1);
-	}
+		/*
+		 * Earliest Module Error
+		 */
+		float psgErr = 0, ieErr = 0, ansErr = 0;
+		if (passageRecall == 0) {
+			psgErr += 1;
+		} else if (ansRecall == 0) {
+			ieErr += 1;
+		} else if (accuracy == 0) {
+			ansErr += 1;
+		}
 
+		return new DSOMeasureCounts(reciprocalRank, accuracy, ansRecall,
+				passageRecall, ansErr, ieErr, psgErr, 1);
+	}
 }

@@ -19,10 +19,12 @@ public class SupportingEvidenceArg {
 	private double combinedScore;
 	private String classNames;
 
-	public SupportingEvidenceArg(String icEvent, String questionText, String answerType,
-			List<String> keywords, List<String> keyphrases,
+	private String[] gsCandidates;
+
+	public SupportingEvidenceArg(String icEvent, String questionText,
+			String answerType, List<String> keywords, List<String> keyphrases,
 			List<RetrievalResult> passages, String classNames) {
-		this.icEvent=icEvent;
+		this.icEvent = icEvent;
 		this.questionText = questionText;
 		this.answerType = answerType;
 
@@ -40,7 +42,8 @@ public class SupportingEvidenceArg {
 		this.nextSentence = nextSentence;
 	}
 
-	public void updateSupportingEvidenceArg(int index, String[][] nes, String[] sentences) {
+	public void updateSupportingEvidenceArg(int index, String[][] nes,
+			String[] sentences) {
 		// window -1, +1
 		String previousSentence = "", currentSentence = "", nextSentence = "";
 		if (index - 1 >= 0) {
@@ -61,6 +64,14 @@ public class SupportingEvidenceArg {
 
 	public void setAnsType(String answerType) {
 		this.answerType = answerType;
+	}
+
+	public void setGsCandidates(String[] gsCandidates) {
+		this.gsCandidates = gsCandidates;
+	}
+
+	public String[] getGsCandidates() {
+		return this.gsCandidates;
 	}
 
 	public String[] getNEs() {
@@ -122,8 +133,8 @@ public class SupportingEvidenceArg {
 	public String getClassNames() {
 		return this.classNames;
 	}
-	
-	public String getICEvent(){
+
+	public String getICEvent() {
 		return icEvent;
 	}
 }

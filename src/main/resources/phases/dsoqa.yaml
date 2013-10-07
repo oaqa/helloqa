@@ -8,7 +8,7 @@ persistence-provider:
 collection-reader:
    inherit: phases.collection.known-size-fs-collection-reader
    dataset: IC
-   file: /input/infobox.txt
+   file: /input/small.txt
    # file: /input/small.txt
    # small.txt dso-extension.txt
    # infobox.txt
@@ -37,7 +37,7 @@ pipeline:
   - inherit: jdbc.sqlite.cse.phase  
     name: information-extractor
     options: |
-      # - inherit: phases.ie.ephyra_main_type
+      - inherit: phases.ie.ephyra_main_type
       # - inherit: phases.ie.xmi 
       #- inherit: phases.ie.structured_sources
       #- inherit: phases.ie.composite
@@ -45,7 +45,7 @@ pipeline:
       # - inherit: phases.ie.ephyra_sub_type
       #- inherit: phases.ie.item_based_extension
       #- inherit: phases.ie.infobox   
-      - inherit: phases.ie.rdf    
+      #- inherit: phases.ie.rdf    
 
   - inherit: jdbc.sqlite.cse.phase  
     name: answer-generator

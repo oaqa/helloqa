@@ -18,7 +18,7 @@ import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewType;
 public abstract class AbstractPassageRetrieval extends AbstractLoggedComponent {
 	public abstract void initialize();
 
-	public abstract List<RetrievalResult> retrieveDocuments(List<String> keyterms,
+	public abstract List<RetrievalResult> retrieveDocuments(String qid, List<String> keyterms,
 			List<String> keyphrases, String question, String answerType);
 
 	public void process(JCas jcas) throws AnalysisEngineProcessException {
@@ -26,6 +26,7 @@ public abstract class AbstractPassageRetrieval extends AbstractLoggedComponent {
 
 			InputElement input = ((InputElement) BaseJCasHelper.getAnnotation(
 					jcas, InputElement.type));
+			String qid=input.getSequenceId();
 			String questionText = input.getQuestion();
 			List<String> keyterms = KeytermJCasManipulator
 					.loadKeyterms(ViewManager.getView(jcas, ViewType.KEYTERM));
@@ -35,7 +36,7 @@ public abstract class AbstractPassageRetrieval extends AbstractLoggedComponent {
 					.loadAnswerType(ViewManager
 							.getView(jcas, ViewType.ANS_TYPE));
 
-			List<RetrievalResult> documents = retrieveDocuments(keyterms,
+			List<RetrievalResult> documents = retrieveDocuments(qid, keyterms,
 					keyphrases, questionText, answerType);
 
 			DocumentJCasManipulator.storeDocuments(

@@ -84,13 +84,24 @@ public class DSOMeasureEvaluator extends Resource_ImplBase implements
 		float ans_acc = counts.getAnsAcc() / counts.getCount();
 		System.out.println("Acc:++++++++++++++: " + counts.getAnsAcc());
 		float ans_recall = counts.getsAnsRecall() / counts.getCount();
-		System.out.println("Recall:++++++++++++++: " + counts.getsAnsRecall());
+		System.out.println("AnsRecall:++++++++++++++: " + counts.getsAnsRecall());
 		float passage_recall = counts.getsPassageRecall() / counts.getCount();
-		System.out.println("Recall:++++++++++++++: "
+		System.out.println("PsgRecall:++++++++++++++: "
 				+ counts.getsPassageRecall());
-
+		
+		float sum=counts.getsAnsErr()+ counts.getsIEErr()+counts.getsPsgErr();
+		float ans_err=0, ie_err=0, psg_err=0;
+		if(sum!=0){
+			ans_err = counts.getsAnsErr() / sum;
+			ie_err = counts.getsIEErr() / sum;
+			psg_err = counts.getsPsgErr() / sum;
+		}
+		System.out.println("Acc Err:++++++++++++++: " + counts.getsAnsErr()+" ++++: "+ans_err);
+		System.out.println("IE Err:++++++++++++++: " + counts.getsIEErr()+" ++++: "+ie_err);
+		System.out.println("Psg Err:++++++++++++++: " + counts.getsPsgErr()+" ++++: "+psg_err);
+		
 		return new DSOEvaluationData(ans_mrr, ans_acc, ans_recall,
-				passage_recall, counts.getCount());
+				passage_recall, ans_err, ie_err, psg_err, counts.getCount());
 	}
 
 	private void update(Key key, DSOMeasureCounts cnt) {
@@ -99,6 +110,7 @@ public class DSOMeasureEvaluator extends Resource_ImplBase implements
 			globals = new DSOMeasureCounts();
 			countMap.put(key, globals);
 		}
+		
 		globals.update(cnt);
 	}
 

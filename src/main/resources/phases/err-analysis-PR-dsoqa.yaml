@@ -1,0 +1,63 @@
+configuration: 
+  name: dsoqa
+  author: oaqa
+  
+persistence-provider:
+  inherit: phases.db.local-persistence-provider
+
+collection-reader:
+   inherit: phases.collection.known-size-fs-collection-reader
+   dataset: IC
+   file: /input/small.txt
+   # file: /input/small.txt
+   # small.txt dso-extension.txt
+   # infobox.txt
+
+pipeline:
+  - inherit: jdbc.sqlite.cse.phase  
+    name: answertype-extractor
+    options: |
+      - inherit: phases.AnswerTypeExtractor
+
+  - inherit: jdbc.sqlite.cse.phase  
+    name: keyterm-extractor
+    options: |
+      - inherit: phases.KeytermExtractor
+
+  - inherit: jdbc.sqlite.cse.phase  
+    name: ic-event-extractor
+    options: |
+      - inherit: phases.ICEventExtractor
+
+  - inherit: jdbc.sqlite.cse.phase  
+    name: passage-retrieval
+    options: |
+      - inherit: phases.pr.Err-Analysis-PassageRetrieval
+
+  - inherit: jdbc.sqlite.cse.phase  
+    name: information-extractor
+    options: |
+      - inherit: phases.ie.ephyra_main_type
+      # - inherit: phases.ie.xmi 
+      #- inherit: phases.ie.structured_sources
+      #- inherit: phases.ie.composite
+      #- inherit: phases.ie.ephyra_main_type
+      # - inherit: phases.ie.ephyra_sub_type
+      #- inherit: phases.ie.item_based_extension
+      #- inherit: phases.ie.infobox   
+      #- inherit: phases.ie.rdf    
+
+  - inherit: jdbc.sqlite.cse.phase  
+    name: answer-generator
+    options: |
+      - inherit: phases.AnswerGenerator
+
+  - inherit: phases.eval.answer-aggregator-consumer
+  
+post-process: 
+  # Answer-evaluation results are stored in the same format
+  # as the passage-evaluation results         
+  - inherit: phases.eval.answer-evaluator-consumer
+  - inherit: report.csv-report-generator
+    builders: |
+      - inherit: phases.report.map-report-component

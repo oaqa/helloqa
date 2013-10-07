@@ -1,4 +1,4 @@
-﻿1 Indonesia
+﻿1 Pakistan
 2 Anwar al-Awlaki
 3 United Nations headquarters
 4 1993 World Trade Center bombing
@@ -30,9 +30,9 @@
 30 Ramzi Yousef
 31 Abd al-Rahim al-Nashiri
 32 Al-Qaeda
-33 Yes
-34 USS The Sullivans (DDG-68)
-35 New\s?York
+33 3 January 2000
+34 USS The Sullivans
+35 New York
 36 Sudan
 37 Yes
 38 Abd al-Rahim al-Nashiri
@@ -41,11 +41,10 @@
 41 Malaysia
 42 plastic
 43 90,000 barrels
-44 Abbottabad
+44 Abbottabad|Abbotabad
 45 Khaled Sheikh Mohammed
-46 plastic
+46 Mitsubishi van|Mitsubishi L300
 47 $1,400
 48 spiritual head
 49 1992
 50 $1 million
-51 political asylum

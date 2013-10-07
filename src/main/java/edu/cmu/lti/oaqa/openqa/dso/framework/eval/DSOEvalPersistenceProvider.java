@@ -68,10 +68,13 @@ public class DSOEvalPersistenceProvider extends
 						ps.setFloat(5, counts.getAnsAcc());
 						ps.setFloat(6, counts.getsAnsRecall());
 						ps.setFloat(7, counts.getsPassageRecall());
-						ps.setFloat(8, counts.getCount());
-						ps.setString(9, sequenceId);
-						ps.setInt(10, key.getStage());
-						ps.setString(11, trace.getTraceHash());
+						ps.setFloat(8, counts.getAnsAcc());
+						ps.setFloat(9, counts.getsIEErr());
+						ps.setFloat(10, counts.getsPsgErr());
+						ps.setFloat(11, counts.getCount());
+						ps.setString(12, sequenceId);
+						ps.setInt(13, key.getStage());
+						ps.setString(14, trace.getTraceHash());
 					}
 				});
 	}
@@ -89,7 +92,9 @@ public class DSOEvalPersistenceProvider extends
 				DSOMeasureCounts cnt = new DSOMeasureCounts(
 						rs.getFloat("ans_mrr"), rs.getFloat("ans_acc"),
 						rs.getFloat("ans_recall"),
-						rs.getFloat("passage_recall"), rs.getInt("count"));
+						rs.getFloat("passage_recall"), rs.getFloat("ans_err"),
+						rs.getFloat("ie_err"), rs.getFloat("psg_err"),
+						rs.getInt("count"));
 				counts.put(key, cnt);
 			}
 		};
@@ -133,9 +138,12 @@ public class DSOEvalPersistenceProvider extends
 						ps.setFloat(5, eval.getAnsAcc());
 						ps.setFloat(6, eval.getAnsRecall());
 						ps.setFloat(7, eval.getPassageRecall());
-						ps.setFloat(8, eval.getCount());
-						ps.setInt(9, key.getStage());
-						ps.setString(10, trace.getTraceHash());
+						ps.setFloat(8, eval.getsAnsErr());
+						ps.setFloat(9, eval.getsIEErr());
+						ps.setFloat(10, eval.getsPsgErr());
+						ps.setFloat(11, eval.getCount());
+						ps.setInt(12, key.getStage());
+						ps.setString(13, trace.getTraceHash());
 					}
 				});
 	}
@@ -144,8 +152,8 @@ public class DSOEvalPersistenceProvider extends
 		StringBuilder query = new StringBuilder();
 		query.append("INSERT INTO dso_aggregates");
 		query.append(" (experimentId, traceId, aggregator, ");
-		query.append("ans_mrr, ans_acc, ans_recall, passage_recall, count, sequenceId, stage,traceHash) ");
-		query.append(" VALUES (?,?,?,?,?,?,?,?,?,?,?)");
+		query.append("ans_mrr, ans_acc, ans_recall, passage_recall, ans_err,ie_err,psg_err,count, sequenceId, stage,traceHash) ");
+		query.append(" VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)");
 		return query.toString();
 	}
 
@@ -159,7 +167,7 @@ public class DSOEvalPersistenceProvider extends
 	private String getSelectAggregates() {
 		StringBuilder query = new StringBuilder();
 		query.append("SELECT experimentId, traceId, ");
-		query.append(" ans_mrr, ans_acc, ans_recall, passage_recall, count, stage ");
+		query.append(" ans_mrr, ans_acc, ans_recall, passage_recall, ans_err,ie_err,psg_err,count, stage ");
 		query.append(" FROM dso_aggregates WHERE experimentId = ? AND stage = ?");
 		return query.toString();
 	}
@@ -175,8 +183,8 @@ public class DSOEvalPersistenceProvider extends
 		StringBuilder query = new StringBuilder();
 		query.append("INSERT INTO dso_eval");
 		query.append(" (experimentId, traceId, evaluator, ");
-		query.append(" ans_mrr, ans_acc, ans_recall, passage_recall, count,stage,traceHash) ");
-		query.append(" VALUES (?,?,?,?,?,?,?,?,?,?)");
+		query.append(" ans_mrr, ans_acc, ans_recall, passage_recall, ans_err,ie_err,psg_err,count,stage,traceHash) ");
+		query.append(" VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)");
 		return query.toString();
 	}
 
