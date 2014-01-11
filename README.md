@@ -32,3 +32,15 @@ You're now ready to run the pipeline.
 3.  Expand "launches" and right-click on test.launch > Run As > test.  This
 launch should now be the default behavior whenever you click the "Run" button
 in the toolbar while you're in the helloqa project.
+
+## Running the Pipeline (commandline)
+
+As an alternative, you may run the project outside of Eclipse:
+
+1.  Issue the command `mvn compile assembly:single` to build the project.
+
+2.  To run the pipeline, issue the command
+
+	java -Djava.library.path=lib/ -jar target/helloqa-1.0.4-SNAPSHOT-jar-with-dependencies.jar  phases.err-analysis-IE-dsoqa
+
+You may vary the last argument, see the src/main/resources/phases/ directory.
