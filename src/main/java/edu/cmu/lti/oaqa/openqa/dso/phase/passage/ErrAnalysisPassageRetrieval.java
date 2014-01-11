@@ -3,6 +3,7 @@ package edu.cmu.lti.oaqa.openqa.dso.phase.passage;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.io.File;
 
 import org.apache.uima.UimaContext;
 import org.apache.uima.resource.ResourceInitializationException;
@@ -37,19 +38,21 @@ public class ErrAnalysisPassageRetrieval extends AbstractPassageRetrieval {
 
 	@Override
 	public void initialize() {
-		localWikiSearcher = new LocalCorpusSearcher();
-		localDSOSearcher = new LocalCorpusSearcher();
+		String wikiIndex = "/home/ruil/Downloads/Indexes/wikipedia";
+		if (new File(wikiIndex).isFile()) {
+			localWikiSearcher = new LocalCorpusSearcher();
+			WikiLocalRetrievalCache wiki_cache = new WikiLocalRetrievalCache();
+			localWikiSearcher.initialize(wiki_cache.getInstance(), wikiIndex);
+			searchers.add(localWikiSearcher);
+		}
 
-		DSOLocalRetrievalCache dso_cache = new DSOLocalRetrievalCache();
-		WikiLocalRetrievalCache wiki_cache = new WikiLocalRetrievalCache();
-
-		searchers.add(localWikiSearcher);
-		searchers.add(localDSOSearcher);
-
-		localWikiSearcher.initialize(wiki_cache.getInstance(),
-				"/home/ruil/Downloads/Indexes/wikipedia");
-		localDSOSearcher.initialize(dso_cache.getInstance(),
-				"xmirepo/dso/index");
+		String DSOIndex = "xmirepo/dso/index";
+		if (new File(DSOIndex).isFile()) {
+			localDSOSearcher = new LocalCorpusSearcher();
+			DSOLocalRetrievalCache dso_cache = new DSOLocalRetrievalCache();
+			localDSOSearcher.initialize(dso_cache.getInstance(), DSOIndex);
+			searchers.add(localDSOSearcher);
+		}
 
 		String filePathName = "src/main/resources/gs/dso-extension-psg.txt";
 		List<String> lines = FileUtil.readFile(filePathName);
@@ -73,13 +76,17 @@ public class ErrAnalysisPassageRetrieval extends AbstractPassageRetrieval {
 			String answerType) {
 		List<RetrievalResult> mergedresults = new ArrayList<RetrievalResult>();
 
-		List<RetrievalResult> localWikipassages = localWikiSearcher
-				.retrieveDocuments(keyterms, keyphrases, question, answerType);
-		mergedresults.addAll(localWikipassages);
+		if (localWikiSearcher != null) {
+			List<RetrievalResult> localWikipassages = localWikiSearcher
+					.retrieveDocuments(keyterms, keyphrases, question, answerType);
+			mergedresults.addAll(localWikipassages);
+		}
 
-		List<RetrievalResult> localDSOpassages = localDSOSearcher
-				.retrieveDocuments(keyterms, keyphrases, question, answerType);
-		mergedresults.addAll(localDSOpassages);
+		if (localDSOSearcher != null) {
+			List<RetrievalResult> localDSOpassages = localDSOSearcher
+					.retrieveDocuments(keyterms, keyphrases, question, answerType);
+			mergedresults.addAll(localDSOpassages);
+		}
 
 		RetrievalResult gspassage = readGsPsgs(qid);
 		mergedresults.add(gspassage);
