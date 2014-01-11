@@ -41,7 +41,7 @@ public class ErrAnalysisInformationExtractor extends AbstractInformationExtracto
 
 	@Override
 	public void initialize() {
-		String filePathName = "/home/ruil/workspace/git/helloqa/src/main/resources/gs/dso-extension-answerkey.txt";
+		String filePathName = "src/main/resources/gs/dso-extension-answerkey.txt";
 		List<String> lines = FileUtil.readFile(filePathName);
 		for (int i = 0; i < lines.size(); i++) {
 			String psggs = lines.get(i);

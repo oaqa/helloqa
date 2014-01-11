@@ -51,7 +51,7 @@ public class ErrAnalysisPassageRetrieval extends AbstractPassageRetrieval {
 		localDSOSearcher.initialize(dso_cache.getInstance(),
 				"xmirepo/dso/index");
 
-		String filePathName = "/home/ruil/workspace/git/helloqa/src/main/resources/gs/dso-extension-psg.txt";
+		String filePathName = "src/main/resources/gs/dso-extension-psg.txt";
 		List<String> lines = FileUtil.readFile(filePathName);
 		for (int i = 0; i < lines.size(); i++) {
 			String psggs = lines.get(i);

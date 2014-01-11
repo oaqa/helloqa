@@ -75,7 +75,7 @@ public class GSFileConverter {
 	
 	static void Question(){
 		HashMap<String, String> questionMap=new HashMap<String, String>();
-		ArrayList<String> lines=FileUtil.readFile("/home/ruil/workspace/git/helloqa/src/main/resources/gs/dso-extension-psg.txt");
+		ArrayList<String> lines=FileUtil.readFile("src/main/resources/gs/dso-extension-psg.txt");
 		
 		int index=1;
 		for(String line:lines){
