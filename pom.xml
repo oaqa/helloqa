@@ -45,7 +45,7 @@
 		</repository>
 		<repository>
 			<id>oaqa-thirdparty</id>
-			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/oaqa-thirdparty</url>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/thirdparty</url>
 		</repository>
 	</repositories>
 
