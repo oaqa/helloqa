@@ -45,7 +45,7 @@
 		</repository>
 		<repository>
 			<id>oaqa-thirdparty</id>
-			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/oaqa-thirdparty</url>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/thirdparty</url>
 		</repository>
 	</repositories>
 
@@ -233,6 +233,19 @@
 						</configuration>
 					</execution>
 				</executions>
+			</plugin>
+			<plugin>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifest>
+							<mainClass>edu.cmu.lti.oaqa.ecd.driver.ECDDriver</mainClass>
+						</manifest>
+					</archive>
+					<descriptorRefs>
+						<descriptorRef>jar-with-dependencies</descriptorRef>
+					</descriptorRefs>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>

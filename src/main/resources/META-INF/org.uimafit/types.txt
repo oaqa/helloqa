@@ -1,1 +1,2 @@
 classpath*:edu/cmu/lti/oaqa/OAQATypes.xml
+classpath*:edu/cmu/lti/oaqa/frameworkTypesDescriptor.xml
