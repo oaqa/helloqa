@@ -35,12 +35,9 @@ in the toolbar while you're in the helloqa project.
 
 ## Running the Pipeline (commandline)
 
-As an alternative, you may run the project outside of Eclipse:
+As an alternative, you may run the project outside of Eclipse. Simply
+issue the command:
 
-1.  Issue the command `mvn compile assembly:single` to build the project.
-
-2.  To run the pipeline, issue the command
-
-	java -Djava.library.path=lib/ -jar target/helloqa-1.0.4-SNAPSHOT-jar-with-dependencies.jar  phases.err-analysis-IE-dsoqa
+	mvn exec:exec -Dexec.args="-Djava.library.path=lib/ -classpath %classpath edu.cmu.lti.oaqa.ecd.driver.ECDDriver phases.err-analysis-IE-dsoqa"
 
 You may vary the last argument, see the src/main/resources/phases/ directory.
