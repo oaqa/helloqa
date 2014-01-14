@@ -5,10 +5,10 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 
-import edu.cmu.lti.oaqa.openqa.dso.answer.AnswerCandidateScorer;
 import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
 import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
 import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
+import edu.cmu.lti.oaqa.openqa.dso.scorer.AnswerCandidateScorer;
 
 public class LeafEphyraSubType extends
 		CandidateExtractorByAnswerType {
@@ -33,6 +33,8 @@ public class LeafEphyraSubType extends
 			String[] sentences = detectSentences(documentText);
 
 			tokens = getTokens(sentences);
+			
+			arg.setPsg(document.getDocID(), sentences);
 
 			List<List<String>> nesLists = new ArrayList<List<String>>();
 			for (int i = 0; i < sentences.length; i++) {
@@ -56,7 +58,7 @@ public class LeafEphyraSubType extends
 			}
 
 			candidates.addAll(AnswerCandidateScorer.getAnswerCandidates(arg,
-					getTypeName(), nes, sentences, rank));
+					getTypeName(), nes, rank));
 			rank++;
 		}
 

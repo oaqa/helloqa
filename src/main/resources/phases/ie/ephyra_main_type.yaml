@@ -1,5 +1,6 @@
 class: edu.cmu.lti.oaqa.openqa.dso.phase.ie.InformationExtractor
 extractor: edu.cmu.lti.oaqa.openqa.dso.extractor.LeafEphyraMainType
+scorer: edu.cmu.lti.oaqa.openqa.dso.scorer.CompositeAnswerScorer
 
 persistence-provider: |
   inherit: ecd.default-log-persistence-provider

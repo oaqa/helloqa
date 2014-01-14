@@ -47,12 +47,17 @@ public class AnsJCasManipulator {
 				Answer a = (Answer) answerList.get(i);
 				AnswerCandidate candidate = new AnswerCandidate(a);
 				candidate.setFeatureLables(featureLabels);
+				String[] dists=new String[a.getKeytermDistances().size()];
+				for(int j=0;j<dists.length;j++){
+					dists[j]=a.getKeytermDistances(j);
+				}
+				candidate.setKeytermDistances(dists);
 				result.add(candidate);
 			}
 		}
 		return result;
 	}
-	
+
 	/**
 	 * Store (overwrite) answers into a view
 	 * 
@@ -77,8 +82,16 @@ public class AnsJCasManipulator {
 		for (int i = 0; i < answers.size(); i++) {
 			AnswerCandidate candidate = answers.get(i);
 			Answer a = new Answer(view);
-			// a.addToIndexes();
+			a.addToIndexes();
+
 			a.setText(candidate.getText());
+
+			StringArray strArray=new StringArray(view, candidate.getKeytermDistances().length);
+			strArray.addToIndexes();
+			for (int j = 0; j < candidate.getKeytermDistances().length; j++) {
+				strArray.set(j, candidate.getKeytermDistances()[j]);
+			}
+			a.setKeytermDistances(strArray);
 
 			int featureNum = 0;
 			double[] features = candidate.getFeatures();
@@ -106,7 +119,6 @@ public class AnsJCasManipulator {
 			}
 			a.setSearchResultList(hitList);
 			a.setScore(candidate.getScore());
-			a.addToIndexes();
 
 			answerArray.set(i, a);
 		}

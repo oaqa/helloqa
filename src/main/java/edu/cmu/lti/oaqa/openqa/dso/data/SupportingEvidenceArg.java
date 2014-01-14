@@ -12,12 +12,17 @@ public class SupportingEvidenceArg {
 	private List<String> keyphrases;
 
 	private List<RetrievalResult> passages;
+	
+	private String psgID;
+	private String[] currentPsgSentences;
+	
 	private String previousSentence;
 	private String currentSentence;
 	private String nextSentence;
 
 	private double combinedScore;
-	private String classNames;
+	private String extractorClassNames;
+	private String scorerClassNames;
 
 	private String[] gsCandidates;
 
@@ -32,26 +37,25 @@ public class SupportingEvidenceArg {
 		this.keyphrases = keyphrases;
 
 		this.passages = passages;
-		this.classNames = classNames;
+		this.extractorClassNames = classNames;
 	}
 
-	public void setSentences(String previousSentence, String currentSentence,
+	private void setSentences(String previousSentence, String currentSentence,
 			String nextSentence) {
 		this.previousSentence = previousSentence;
 		this.currentSentence = currentSentence;
 		this.nextSentence = nextSentence;
 	}
 
-	public void updateSupportingEvidenceArg(int index, String[][] nes,
-			String[] sentences) {
+	public void updateSupportingEvidenceArg(int index, String[][] nes) {
 		// window -1, +1
 		String previousSentence = "", currentSentence = "", nextSentence = "";
 		if (index - 1 >= 0) {
-			previousSentence = sentences[index - 1];
+			previousSentence = this.currentPsgSentences[index - 1];
 		}
-		currentSentence = sentences[index];
-		if (index + 1 < sentences.length) {
-			nextSentence = sentences[index + 1];
+		currentSentence = this.currentPsgSentences[index];
+		if (index + 1 < this.currentPsgSentences.length) {
+			nextSentence = this.currentPsgSentences[index + 1];
 		}
 
 		setSentences(previousSentence, currentSentence, nextSentence);
@@ -62,6 +66,15 @@ public class SupportingEvidenceArg {
 		return answerType;
 	}
 
+	public void setPsg(String psgID, String[] sentences){
+		this.psgID=psgID;
+		this.currentPsgSentences=sentences;
+	}
+	
+	public String getPsgID(){
+		return this.psgID;
+	}
+	
 	public void setAnsType(String answerType) {
 		this.answerType = answerType;
 	}
@@ -109,6 +122,10 @@ public class SupportingEvidenceArg {
 	public List<RetrievalResult> getPassages() {
 		return passages;
 	}
+	
+	public String[] getPassageSentences(){
+		return this.currentPsgSentences;
+	}
 
 	public String getPreviousSentence() {
 		return previousSentence;
@@ -131,7 +148,7 @@ public class SupportingEvidenceArg {
 	}
 
 	public String getClassNames() {
-		return this.classNames;
+		return this.extractorClassNames;
 	}
 
 	public String getICEvent() {

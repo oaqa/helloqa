@@ -3,7 +3,6 @@ package edu.cmu.lti.oaqa.openqa.dso.extractor;
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.cmu.lti.oaqa.openqa.dso.answer.AnswerCandidateScorer;
 import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
 import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
 import edu.cmu.lti.oaqa.openqa.dso.util.ClassUtil;
@@ -18,7 +17,7 @@ public class CompositeCandidateExtractor implements ICandidateExtractor {
 		initialize();
 		this.classNames=arg.getClassNames().split(",");
 		for(String className:this.classNames){
-			childCandidateExtractors.add(ClassUtil.factory(className, arg));
+			childCandidateExtractors.add(ClassUtil.extractorFactory(className, arg));
 		}
 	}
 

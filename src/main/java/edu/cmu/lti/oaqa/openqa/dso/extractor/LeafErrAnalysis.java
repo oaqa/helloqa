@@ -5,10 +5,10 @@ import java.util.ArrayList;
 
 import java.util.List;
 
-import edu.cmu.lti.oaqa.openqa.dso.answer.AnswerCandidateScorer;
 import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
 import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
 import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
+import edu.cmu.lti.oaqa.openqa.dso.scorer.AnswerCandidateScorer;
 
 public class LeafErrAnalysis extends CandidateExtractorBase {
 	public LeafErrAnalysis(SupportingEvidenceArg arg) {
@@ -27,13 +27,20 @@ public class LeafErrAnalysis extends CandidateExtractorBase {
 			// get refined sentence
 			String[] sentences = detectSentences(documentText);
 			
+			arg.setPsg(document.getDocID(), sentences);
+			
 			nes=new String[sentences.length][];
 			for(int i=0;i<sentences.length;i++){
 				nes[i]=extractCandidateByGoldStandard(arg.getGsCandidates(),sentences[i].toLowerCase());
 			}
 
-			candidates.addAll(AnswerCandidateScorer.getAnswerCandidates(arg,
-					getTypeName(), nes, sentences, rank));
+			List<AnswerCandidate> currentCandidates = AnswerCandidateScorer.getAnswerCandidates(arg,
+					getTypeName(), nes, rank);
+			for (AnswerCandidate candidate : currentCandidates) {
+				candidate.addRetrievalResult(document);
+			}
+			
+			candidates.addAll(currentCandidates);
 			rank++;
 		}
 

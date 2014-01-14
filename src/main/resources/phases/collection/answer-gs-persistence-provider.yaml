@@ -1,6 +1,7 @@
 class: edu.cmu.lti.oaqa.openqa.dso.framework.eval.TrecAnswerGoldStandardFilePersistenceProvider
 DataSet: IC
-PathPattern: classpath:/gs/dso-extension-answerkey.txt
+PathPattern: classpath:/gs/LOC-Question-key.txt
+# PathPattern: classpath:/gs/dso-extension-answerkey.txt
 # PathPattern: classpath:/gs/small.answer
 # PathPattern: classpath:/gs/infobox.txt
 # small.answer dso-extension-answerkey.txt infobox.txt

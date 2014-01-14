@@ -49,7 +49,7 @@ public class InformationExtractor extends AbstractInformationExtractor {
 				answerType, keyterms, keyphrases, documents,
 				this.leafClassNames);
 
-		ICandidateExtractor candidateExtractor = ClassUtil.factory(
+		ICandidateExtractor candidateExtractor = ClassUtil.extractorFactory(
 				extractClassName, arg);
 		List<AnswerCandidate> candidates = candidateExtractor
 				.getAnswerCandidates(arg);

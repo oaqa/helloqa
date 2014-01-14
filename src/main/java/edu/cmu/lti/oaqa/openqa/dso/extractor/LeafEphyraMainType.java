@@ -3,17 +3,17 @@ package edu.cmu.lti.oaqa.openqa.dso.extractor;
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.cmu.lti.oaqa.openqa.dso.answer.AnswerCandidateScorer;
 import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
 import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
 import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
+import edu.cmu.lti.oaqa.openqa.dso.scorer.AnswerCandidateScorer;
 
 public class LeafEphyraMainType extends CandidateExtractorByAnswerType {
 
 	public LeafEphyraMainType(SupportingEvidenceArg arg) {
 		super(arg);
 	}
-	
+
 	@Override
 	public List<AnswerCandidate> getAnswerCandidates(SupportingEvidenceArg arg) {
 		List<AnswerCandidate> candidates = new ArrayList<AnswerCandidate>();
@@ -28,6 +28,8 @@ public class LeafEphyraMainType extends CandidateExtractorByAnswerType {
 
 			// get refined sentence
 			String[] sentences = detectSentences(documentText);
+
+			arg.setPsg(document.getDocID(), sentences);
 
 			tokens = getTokens(sentences);
 			if (nePatterns.size() > 0) {
@@ -46,8 +48,13 @@ public class LeafEphyraMainType extends CandidateExtractorByAnswerType {
 				nes = getMatchOntology(sentences, nes, TerroristOntologyList);
 			}
 
-			candidates.addAll(AnswerCandidateScorer.getAnswerCandidates(arg,
-					getTypeName(), nes, sentences, rank));
+			List<AnswerCandidate> currentCandidates = AnswerCandidateScorer
+					.getAnswerCandidates(arg, getTypeName(), nes, rank);
+			for (AnswerCandidate candidate : currentCandidates) {
+				candidate.addRetrievalResult(document);
+			}
+
+			candidates.addAll(currentCandidates);
 			rank++;
 		}
 

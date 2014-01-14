@@ -14,7 +14,7 @@ import org.apache.uima.cas.Feature;
 import org.apache.uima.jcas.tcas.Annotation_Type;
 
 /** The Question Analysis supertype that defines the attributes common to all question analysis results.
- * Updated by JCasGen Tue Aug 27 18:06:53 EDT 2013
+ * Updated by JCasGen Mon Oct 21 21:41:35 EDT 2013
  * @generated */
 public class OAQAAnnotation_Type extends Annotation_Type {
   /** @generated */

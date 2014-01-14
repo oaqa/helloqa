@@ -3,16 +3,10 @@ package edu.cmu.lti.oaqa.openqa.dso.phase.keyterm;
 import info.ephyra.nlp.NETagger;
 import info.ephyra.nlp.OpenNLP;
 import info.ephyra.nlp.SnowballStemmer;
-import info.ephyra.nlp.StanfordNeTagger;
-import info.ephyra.nlp.StanfordParser;
 import info.ephyra.nlp.indices.FunctionWords;
 import info.ephyra.nlp.indices.IrregularVerbs;
-import info.ephyra.nlp.semantics.ontologies.WordNet;
 import info.ephyra.questionanalysis.KeywordExtractor;
 import info.ephyra.questionanalysis.QuestionNormalizer;
-import info.ephyra.questionanalysis.Term;
-import info.ephyra.questionanalysis.TermExtractor;
-import info.ephyra.util.Dictionary;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -27,11 +21,10 @@ import org.apache.uima.resource.ResourceInitializationException;
 import edu.cmu.lti.oaqa.ecd.log.AbstractLoggedComponent;
 import edu.cmu.lti.oaqa.framework.BaseJCasHelper;
 import edu.cmu.lti.oaqa.framework.types.InputElement;
-import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.JCasManipulator;
+import edu.cmu.lti.oaqa.openqa.dso.extractor.StanfordNER;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.KeytermJCasManipulator;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewManager;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewType;
-import edu.cmu.lti.oaqa.openqa.dso.question.QuestionParser;
 import edu.cmu.lti.oaqa.openqa.dso.util.LogUtil;
 
 public class KeytermExtractor extends AbstractLoggedComponent {
@@ -56,8 +49,9 @@ public class KeytermExtractor extends AbstractLoggedComponent {
 
 	public static final String NER_LIST_PATH = "res/ephyra/nlp/netagger/lists/";
 	public static final String NER_REGEX_PATH = "res/ephyra/nlp/netagger/patterns.lst";
-	public static final String NER_STANFORD_PATH = "res/ephyra/nlp/netagger/stanford/ner-eng-ie.crf-3-all2006-distsim.ser.gz";
-
+	//public static final String NER_STANFORD_PATH = "res/ephyra/nlp/netagger/stanford/ner-eng-ie.crf-3-all2006-distsim.ser.gz";
+	public static final String NER_STANFORD_PATH = StanfordNER.defaultSerializedClassifier;
+	
 	public void initialize() {
 		// tokenizer
 		if (!OpenNLP.createTokenizer(TOKENIZER_PATH))
@@ -88,8 +82,8 @@ public class KeytermExtractor extends AbstractLoggedComponent {
 		// named entity recognizers
 		NETagger.loadListTaggers(NER_LIST_PATH);
 		NETagger.loadRegExTaggers(NER_REGEX_PATH);
-		if (!StanfordNeTagger.isInitialized()
-				&& !StanfordNeTagger.init(NER_STANFORD_PATH))
+		if (!StanfordNER.isInitialized()
+				&& !StanfordNER.init(NER_STANFORD_PATH))
 			LOGGER.fatal("Could not initialize NE tagger.");
 
 		// function words
@@ -125,23 +119,10 @@ public class KeytermExtractor extends AbstractLoggedComponent {
 
 			// extract bigrams
 			List<String> keyphrases = new ArrayList<String>();
-			QuestionParser questionParse = new QuestionParser();
-			questionParse.initialize(questionText);
-			keyphrases = questionParse.getBigrams();
 
-			// extract phrases based on WordNet and named entities
-			String[][] nes = TermExtractor.getNes(questionText);
-			Dictionary wordNet = new WordNet();
-			Term[] terms = TermExtractor.getTerms(verbMod, qn, nes,
-					new Dictionary[] { wordNet });
-
-			List<String> keyNERs = new ArrayList<String>(terms.length);
-			for (int i = 0; i < terms.length; i++) {
-				keyNERs.add(terms[i].getText().replace("\"", ""));
-			}
-			LOGGER.info("  Phrases:  " + keyNERs);
-
-			// keyphrases=keyNERs;
+			keyphrases = KeytermParser.parseBigrams(keyterms);
+			LOGGER.info("  Bigrams: " + Arrays.toString(keyterms.toArray(new String[keyterms.size()])));
+			
 			// Save result into a view
 			KeytermJCasManipulator.storeKeyTermsAndPhrases(ViewManager.getView(jcas, ViewType.KEYTERM), keyterms,
 					keyphrases);

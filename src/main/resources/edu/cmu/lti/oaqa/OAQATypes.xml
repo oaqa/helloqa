@@ -295,8 +295,8 @@ $Id:$</description>
           <rangeTypeName>uima.cas.Double</rangeTypeName>
         </featureDescription>
         <featureDescription>
-          <name>variants</name>
-          <description>Array of candidate answer variant ids that were merged into this final answer.</description>
+          <name>keytermDistances</name>
+          <description/>
           <rangeTypeName>uima.cas.StringArray</rangeTypeName>
         </featureDescription>
         <featureDescription>

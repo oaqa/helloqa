@@ -3,6 +3,7 @@ package edu.cmu.lti.oaqa.openqa.dso.framework.eval;
 import java.sql.SQLException;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -17,6 +18,7 @@ import com.google.common.collect.Ordering;
 import edu.cmu.lti.oaqa.ecd.BaseExperimentBuilder;
 import edu.cmu.lti.oaqa.framework.eval.Key;
 import edu.cmu.lti.oaqa.framework.eval.retrieval.EvaluationHelper;
+import edu.cmu.lti.oaqa.openqa.dso.util.FileUtil;
 
 public class DSOEvalAggregator extends Resource_ImplBase implements
 		EvaluationAggregator<String> {
@@ -46,7 +48,9 @@ public class DSOEvalAggregator extends Resource_ImplBase implements
 			List<String> answ, List<String> gs, Ordering<String> ordering,
 			Function<String, String> toIdString)
 			throws AnalysisEngineProcessException {
+
 		DSOMeasureCounts cnt = count(docs, answ, gs, ordering, toIdString);
+		printErrorAnalysisInfo(key, sequenceId, docs, answ, gs, cnt);
 		try {
 			persistence.deleteAggrEval(key, sequenceId);
 			persistence.insertPartialCounts(key, sequenceId, cnt);
@@ -55,11 +59,33 @@ public class DSOEvalAggregator extends Resource_ImplBase implements
 		}
 	}
 
+	private void printErrorAnalysisInfo(Key key, String sequenceId,
+			List<String> docs, List<String> answ, List<String> gs, DSOMeasureCounts cnt) {
+		StringBuilder builder = new StringBuilder();
+
+		for(int i=0;i<gs.size();i++){
+			builder.append("AnswerKey: "+"\"" + gs.get(i) + "\", ");
+		}
+		builder.append("\n\n");
+		builder.append("Accuracy: " + cnt.getAnsAcc() + "\n");
+		builder.append("Answer recall: " + cnt.getsAnsRecall() + "\n");
+		builder.append("Passage recall: " + cnt.getsPassageRecall() + "\n");
+		builder.append("\n");
+		for (int i = 0; i < answ.size(); i++) {
+			builder.append("\"" + answ.get(i) + "\", ");
+		}
+		builder.append("\n\n");
+		for (int i = 0; i < docs.size(); i++) {
+			builder.append(docs.get(i) + "\n\n");
+		}
+		FileUtil.writeToFile("errany/" + key.getExperiment() + "-" + sequenceId + ".txt",
+				builder);
+	}
+
 	private DSOMeasureCounts count(List<String> passages, List<String> answ,
 			List<String> gs, Ordering<String> ordering,
 			Function<String, String> toIdString) {
 		EvaluationHelper.getStringSet(gs, toIdString);
-
 		int pos = 1;
 		float reciprocalRank = 0;
 		float accuracy = 0;

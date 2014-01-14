@@ -15,9 +15,9 @@ import edu.cmu.lti.oaqa.openqa.dso.structuredsources.FieldAnalyser;
 import edu.cmu.lti.oaqa.openqa.dso.util.LogUtil;
 import edu.stanford.nlp.trees.Tree;
 import edu.stanford.nlp.trees.TreeReader;
-import edu.stanford.nlp.trees.tregex.TreeMatcher.TRegexTreeReaderFactory;
 import edu.stanford.nlp.trees.tregex.TregexMatcher;
 import edu.stanford.nlp.trees.tregex.TregexPattern;
+import edu.stanford.nlp.trees.tregex.TregexPattern.TRegexTreeReaderFactory;
 
 public class LeafRDFBased implements ICandidateExtractor{
 	private static final Logger LOGGER = Logger.getLogger(LogUtil

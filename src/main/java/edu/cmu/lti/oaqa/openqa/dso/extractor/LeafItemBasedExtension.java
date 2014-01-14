@@ -7,10 +7,10 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
-import edu.cmu.lti.oaqa.openqa.dso.answer.AnswerCandidateScorer;
 import edu.cmu.lti.oaqa.openqa.dso.data.AnswerCandidate;
 import edu.cmu.lti.oaqa.openqa.dso.data.RetrievalResult;
 import edu.cmu.lti.oaqa.openqa.dso.data.SupportingEvidenceArg;
+import edu.cmu.lti.oaqa.openqa.dso.scorer.AnswerCandidateScorer;
 import edu.cmu.lti.oaqa.openqa.dso.util.FilterUtils;
 import edu.cmu.lti.oaqa.openqa.dso.util.StopWords;
 
@@ -35,6 +35,8 @@ public class LeafItemBasedExtension extends CandidateExtractorBase {
 			String[] sentences = detectSentences(documentText);
 
 			tokens = getTokens(sentences);
+			
+			arg.setPsg(document.getDocID(), sentences);
 
 			// remove date type answer candidates because they are accurate.
 			tabooCandidateSet = new HashSet<String>();
@@ -64,7 +66,7 @@ public class LeafItemBasedExtension extends CandidateExtractorBase {
 			}
 
 			candidates.addAll(AnswerCandidateScorer.getAnswerCandidates(arg,
-					getTypeName(), nes, sentences, rank));
+					getTypeName(), nes, rank));
 			rank++;
 		}
 

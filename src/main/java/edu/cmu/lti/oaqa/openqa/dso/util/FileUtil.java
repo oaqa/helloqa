@@ -8,7 +8,6 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.List;
 
 public class FileUtil {
 	public static ArrayList<String> readFile(String filePathName) {
@@ -51,7 +50,7 @@ public class FileUtil {
 		return lines;
 	}
 
-	public static void writeToFile(String filename, StringBuffer buffer) {
+	public static void writeToFile(String filename, StringBuilder buffer) {
 		BufferedWriter bufferedWriter = null;
 
 		try {

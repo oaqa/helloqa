@@ -19,6 +19,7 @@ public class AnswerCandidate implements Comparable<AnswerCandidate> {
 	private String[] featureLabels;
 	private double score;
 	private List<RetrievalResult> retrievalResultList;
+	private String[] keytermDistances;
 
 	/**
 	 * Default Constructor
@@ -249,11 +250,36 @@ public class AnswerCandidate implements Comparable<AnswerCandidate> {
 	}
 
 	/**
+	 * Get KeytermDistance
+	 * 
+	 * @return array of KeytermDistance
+	 */
+	public String[] getKeytermDistances() {
+		return this.keytermDistances;
+	}
+
+	/**
+	 * Set KeytermDistance
+	 * 
+	 * @param KeytermDistance
+	 *            array of KeytermDistance
+	 */
+	public void setKeytermDistances(String[] dists) {
+		this.keytermDistances = dists;
+	}
+
+	/**
 	 * Necessary function to make this object comparable (used in sorting by
 	 * score).
 	 */
 	public int compareTo(AnswerCandidate o) {
 		// Used in sorting, compares only by answer score
-		return (int) ((this.score - o.getScore()) * 100000000);
+		if (this.score - o.score > 0) {
+			return 1;
+		} else if (this.score - o.score < 0) {
+			return -1;
+		} else {
+			return 0;
+		}
 	}
 }

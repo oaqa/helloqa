@@ -8,7 +8,8 @@ persistence-provider:
 collection-reader:
    inherit: phases.collection.known-size-fs-collection-reader
    dataset: IC
-   file: /input/small.txt
+   file: /input/LOC-Questions.txt
+   # file: /input/small.txt
    # file: /input/small.txt
    # small.txt dso-extension.txt
    # infobox.txt
@@ -32,12 +33,13 @@ pipeline:
   - inherit: jdbc.sqlite.cse.phase  
     name: passage-retrieval
     options: |
-      - inherit: phases.PassageRetrieval
+      - inherit: phases.pr.PassageRetrieval
 
   - inherit: jdbc.sqlite.cse.phase  
     name: information-extractor
     options: |
-      - inherit: phases.ie.ephyra_main_type
+      - inherit: phases.ie.stanford_ner
+      # - inherit: phases.ie.ephyra_main_type
       # - inherit: phases.ie.xmi 
       #- inherit: phases.ie.structured_sources
       #- inherit: phases.ie.composite

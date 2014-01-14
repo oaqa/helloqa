@@ -41,7 +41,8 @@ public class ErrAnalysisInformationExtractor extends AbstractInformationExtracto
 
 	@Override
 	public void initialize() {
-		String filePathName = "/home/ruil/workspace/git/helloqa/src/main/resources/gs/dso-extension-answerkey.txt";
+		//String filePathName = "/home/ruil/workspace/git/helloqa/src/main/resources/gs/dso-extension-answerkey.txt";
+		String filePathName = "/home/ruil/workspace/git/helloqa/src/main/resources/gs/LOC-Question-key.txt";
 		List<String> lines = FileUtil.readFile(filePathName);
 		for (int i = 0; i < lines.size(); i++) {
 			String psggs = lines.get(i);
@@ -67,7 +68,7 @@ public class ErrAnalysisInformationExtractor extends AbstractInformationExtracto
 				answerType, keyterms, keyphrases, documents,
 				this.leafClassNames);
 
-		ICandidateExtractor candidateExtractor = ClassUtil.factory(
+		ICandidateExtractor candidateExtractor = ClassUtil.extractorFactory(
 				extractClassName, arg);
 		List<AnswerCandidate> candidates = candidateExtractor
 				.getAnswerCandidates(arg);
