@@ -32,7 +32,7 @@ pipeline:
   - inherit: jdbc.sqlite.cse.phase  
     name: passage-retrieval
     options: |
-      - inherit: phases.PassageRetrieval
+      - inherit: phases.pr.PassageRetrieval
 
   - inherit: jdbc.sqlite.cse.phase  
     name: information-extractor
