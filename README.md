@@ -38,6 +38,6 @@ in the toolbar while you're in the helloqa project.
 As an alternative, you may run the project outside of Eclipse. Simply
 issue the command:
 
-	mvn exec:exec -Dexec.args="-Djava.library.path=lib/ -classpath %classpath edu.cmu.lti.oaqa.ecd.driver.ECDDriver phases.err-analysis-IE-dsoqa"
+	mvn exec:exec -Dexec.executable=java -Dexec.args="-Djava.library.path=lib/ -classpath %classpath edu.cmu.lti.oaqa.ecd.driver.ECDDriver phases.err-analysis-IE-dsoqa"
 
 You may vary the last argument, see the src/main/resources/phases/ directory.
