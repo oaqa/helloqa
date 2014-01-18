@@ -11,7 +11,7 @@ import org.apache.uima.jcas.cas.TOP;
 
 
 /** The base class for OAQA feature structures that are not Annotations.
- * Updated by JCasGen Mon Oct 21 21:41:35 EDT 2013
+ * Updated by JCasGen Thu Jan 16 23:10:26 EST 2014
  * XML source: /home/ruil/workspace/git/helloqa/src/main/resources/edu/cmu/lti/oaqa/OAQATypes.xml
  * @generated */
 public class OAQATop extends TOP {
@@ -88,6 +88,24 @@ public class OAQATop extends TOP {
     if (OAQATop_Type.featOkTst && ((OAQATop_Type)jcasType).casFeat_probability == null)
       jcasType.jcas.throwFeatMissing("probability", "org.oaqa.dso.model.OAQATop");
     jcasType.ll_cas.ll_setFloatValue(addr, ((OAQATop_Type)jcasType).casFeatCode_probability, v);}    
+   
+    
+  //*--------------*
+  //* Feature: implementingWrapper
+
+  /** getter for implementingWrapper - gets 
+   * @generated */
+  public String getImplementingWrapper() {
+    if (OAQATop_Type.featOkTst && ((OAQATop_Type)jcasType).casFeat_implementingWrapper == null)
+      jcasType.jcas.throwFeatMissing("implementingWrapper", "org.oaqa.dso.model.OAQATop");
+    return jcasType.ll_cas.ll_getStringValue(addr, ((OAQATop_Type)jcasType).casFeatCode_implementingWrapper);}
+    
+  /** setter for implementingWrapper - sets  
+   * @generated */
+  public void setImplementingWrapper(String v) {
+    if (OAQATop_Type.featOkTst && ((OAQATop_Type)jcasType).casFeat_implementingWrapper == null)
+      jcasType.jcas.throwFeatMissing("implementingWrapper", "org.oaqa.dso.model.OAQATop");
+    jcasType.ll_cas.ll_setStringValue(addr, ((OAQATop_Type)jcasType).casFeatCode_implementingWrapper, v);}    
   }
 
     

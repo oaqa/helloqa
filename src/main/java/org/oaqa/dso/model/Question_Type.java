@@ -12,10 +12,12 @@ import org.apache.uima.cas.Type;
 import org.apache.uima.cas.impl.FeatureImpl;
 import org.apache.uima.cas.Feature;
 
+import org.oaqa.dso.model.gerp.GerpAnnotation_Type;
+
 /** The Question and any associated meta-data.
- * Updated by JCasGen Mon Oct 21 21:41:35 EDT 2013
+ * Updated by JCasGen Thu Jan 16 23:10:26 EST 2014
  * @generated */
-public class Question_Type extends OAQAAnnotation_Type {
+public class Question_Type extends GerpAnnotation_Type {
   /** @generated */
   @Override
   protected FSGenerator getFSGenerator() {return fsGenerator;}
@@ -78,6 +80,42 @@ public class Question_Type extends OAQAAnnotation_Type {
     ll_cas.ll_setStringValue(addr, casFeatCode_source, v);}
     
   
+ 
+  /** @generated */
+  final Feature casFeat_text;
+  /** @generated */
+  final int     casFeatCode_text;
+  /** @generated */ 
+  public String getText(int addr) {
+        if (featOkTst && casFeat_text == null)
+      jcas.throwFeatMissing("text", "org.oaqa.dso.model.Question");
+    return ll_cas.ll_getStringValue(addr, casFeatCode_text);
+  }
+  /** @generated */    
+  public void setText(int addr, String v) {
+        if (featOkTst && casFeat_text == null)
+      jcas.throwFeatMissing("text", "org.oaqa.dso.model.Question");
+    ll_cas.ll_setStringValue(addr, casFeatCode_text, v);}
+    
+  
+ 
+  /** @generated */
+  final Feature casFeat_questionType;
+  /** @generated */
+  final int     casFeatCode_questionType;
+  /** @generated */ 
+  public String getQuestionType(int addr) {
+        if (featOkTst && casFeat_questionType == null)
+      jcas.throwFeatMissing("questionType", "org.oaqa.dso.model.Question");
+    return ll_cas.ll_getStringValue(addr, casFeatCode_questionType);
+  }
+  /** @generated */    
+  public void setQuestionType(int addr, String v) {
+        if (featOkTst && casFeat_questionType == null)
+      jcas.throwFeatMissing("questionType", "org.oaqa.dso.model.Question");
+    ll_cas.ll_setStringValue(addr, casFeatCode_questionType, v);}
+    
+  
 
 
 
@@ -94,6 +132,14 @@ public class Question_Type extends OAQAAnnotation_Type {
  
     casFeat_source = jcas.getRequiredFeatureDE(casType, "source", "uima.cas.String", featOkTst);
     casFeatCode_source  = (null == casFeat_source) ? JCas.INVALID_FEATURE_CODE : ((FeatureImpl)casFeat_source).getCode();
+
+ 
+    casFeat_text = jcas.getRequiredFeatureDE(casType, "text", "uima.cas.String", featOkTst);
+    casFeatCode_text  = (null == casFeat_text) ? JCas.INVALID_FEATURE_CODE : ((FeatureImpl)casFeat_text).getCode();
+
+ 
+    casFeat_questionType = jcas.getRequiredFeatureDE(casType, "questionType", "org.oaqa.dso.model.QuestionClass", featOkTst);
+    casFeatCode_questionType  = (null == casFeat_questionType) ? JCas.INVALID_FEATURE_CODE : ((FeatureImpl)casFeat_questionType).getCode();
 
   }
 }

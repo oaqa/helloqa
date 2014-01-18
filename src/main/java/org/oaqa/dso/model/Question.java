@@ -9,11 +9,14 @@ import org.apache.uima.jcas.cas.TOP_Type;
 
 
 
+import org.oaqa.dso.model.gerp.GerpAnnotation;
+
+
 /** The Question and any associated meta-data.
- * Updated by JCasGen Mon Oct 21 21:41:35 EDT 2013
+ * Updated by JCasGen Thu Jan 16 23:10:26 EST 2014
  * XML source: /home/ruil/workspace/git/helloqa/src/main/resources/edu/cmu/lti/oaqa/OAQATypes.xml
  * @generated */
-public class Question extends OAQAAnnotation {
+public class Question extends GerpAnnotation {
   /** @generated
    * @ordered 
    */
@@ -95,6 +98,42 @@ public class Question extends OAQAAnnotation {
     if (Question_Type.featOkTst && ((Question_Type)jcasType).casFeat_source == null)
       jcasType.jcas.throwFeatMissing("source", "org.oaqa.dso.model.Question");
     jcasType.ll_cas.ll_setStringValue(addr, ((Question_Type)jcasType).casFeatCode_source, v);}    
+   
+    
+  //*--------------*
+  //* Feature: text
+
+  /** getter for text - gets 
+   * @generated */
+  public String getText() {
+    if (Question_Type.featOkTst && ((Question_Type)jcasType).casFeat_text == null)
+      jcasType.jcas.throwFeatMissing("text", "org.oaqa.dso.model.Question");
+    return jcasType.ll_cas.ll_getStringValue(addr, ((Question_Type)jcasType).casFeatCode_text);}
+    
+  /** setter for text - sets  
+   * @generated */
+  public void setText(String v) {
+    if (Question_Type.featOkTst && ((Question_Type)jcasType).casFeat_text == null)
+      jcasType.jcas.throwFeatMissing("text", "org.oaqa.dso.model.Question");
+    jcasType.ll_cas.ll_setStringValue(addr, ((Question_Type)jcasType).casFeatCode_text, v);}    
+   
+    
+  //*--------------*
+  //* Feature: questionType
+
+  /** getter for questionType - gets 
+   * @generated */
+  public String getQuestionType() {
+    if (Question_Type.featOkTst && ((Question_Type)jcasType).casFeat_questionType == null)
+      jcasType.jcas.throwFeatMissing("questionType", "org.oaqa.dso.model.Question");
+    return jcasType.ll_cas.ll_getStringValue(addr, ((Question_Type)jcasType).casFeatCode_questionType);}
+    
+  /** setter for questionType - sets  
+   * @generated */
+  public void setQuestionType(String v) {
+    if (Question_Type.featOkTst && ((Question_Type)jcasType).casFeat_questionType == null)
+      jcasType.jcas.throwFeatMissing("questionType", "org.oaqa.dso.model.Question");
+    jcasType.ll_cas.ll_setStringValue(addr, ((Question_Type)jcasType).casFeatCode_questionType, v);}    
   }
 
     

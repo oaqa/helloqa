@@ -11,7 +11,7 @@ import org.apache.uima.jcas.tcas.Annotation;
 
 
 /** The Question Analysis supertype that defines the attributes common to all question analysis results.
- * Updated by JCasGen Mon Oct 21 21:41:35 EDT 2013
+ * Updated by JCasGen Thu Jan 16 23:10:26 EST 2014
  * XML source: /home/ruil/workspace/git/helloqa/src/main/resources/edu/cmu/lti/oaqa/OAQATypes.xml
  * @generated */
 public class OAQAAnnotation extends Annotation {
@@ -96,6 +96,24 @@ public class OAQAAnnotation extends Annotation {
     if (OAQAAnnotation_Type.featOkTst && ((OAQAAnnotation_Type)jcasType).casFeat_probability == null)
       jcasType.jcas.throwFeatMissing("probability", "org.oaqa.dso.model.OAQAAnnotation");
     jcasType.ll_cas.ll_setFloatValue(addr, ((OAQAAnnotation_Type)jcasType).casFeatCode_probability, v);}    
+   
+    
+  //*--------------*
+  //* Feature: implementingWrapper
+
+  /** getter for implementingWrapper - gets 
+   * @generated */
+  public String getImplementingWrapper() {
+    if (OAQAAnnotation_Type.featOkTst && ((OAQAAnnotation_Type)jcasType).casFeat_implementingWrapper == null)
+      jcasType.jcas.throwFeatMissing("implementingWrapper", "org.oaqa.dso.model.OAQAAnnotation");
+    return jcasType.ll_cas.ll_getStringValue(addr, ((OAQAAnnotation_Type)jcasType).casFeatCode_implementingWrapper);}
+    
+  /** setter for implementingWrapper - sets  
+   * @generated */
+  public void setImplementingWrapper(String v) {
+    if (OAQAAnnotation_Type.featOkTst && ((OAQAAnnotation_Type)jcasType).casFeat_implementingWrapper == null)
+      jcasType.jcas.throwFeatMissing("implementingWrapper", "org.oaqa.dso.model.OAQAAnnotation");
+    jcasType.ll_cas.ll_setStringValue(addr, ((OAQAAnnotation_Type)jcasType).casFeatCode_implementingWrapper, v);}    
   }
 
     

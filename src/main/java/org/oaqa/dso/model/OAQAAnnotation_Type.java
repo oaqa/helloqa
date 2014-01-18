@@ -14,7 +14,7 @@ import org.apache.uima.cas.Feature;
 import org.apache.uima.jcas.tcas.Annotation_Type;
 
 /** The Question Analysis supertype that defines the attributes common to all question analysis results.
- * Updated by JCasGen Mon Oct 21 21:41:35 EDT 2013
+ * Updated by JCasGen Thu Jan 16 23:10:26 EST 2014
  * @generated */
 public class OAQAAnnotation_Type extends Annotation_Type {
   /** @generated */
@@ -79,6 +79,24 @@ public class OAQAAnnotation_Type extends Annotation_Type {
     ll_cas.ll_setFloatValue(addr, casFeatCode_probability, v);}
     
   
+ 
+  /** @generated */
+  final Feature casFeat_implementingWrapper;
+  /** @generated */
+  final int     casFeatCode_implementingWrapper;
+  /** @generated */ 
+  public String getImplementingWrapper(int addr) {
+        if (featOkTst && casFeat_implementingWrapper == null)
+      jcas.throwFeatMissing("implementingWrapper", "org.oaqa.dso.model.OAQAAnnotation");
+    return ll_cas.ll_getStringValue(addr, casFeatCode_implementingWrapper);
+  }
+  /** @generated */    
+  public void setImplementingWrapper(int addr, String v) {
+        if (featOkTst && casFeat_implementingWrapper == null)
+      jcas.throwFeatMissing("implementingWrapper", "org.oaqa.dso.model.OAQAAnnotation");
+    ll_cas.ll_setStringValue(addr, casFeatCode_implementingWrapper, v);}
+    
+  
 
 
 
@@ -95,6 +113,10 @@ public class OAQAAnnotation_Type extends Annotation_Type {
  
     casFeat_probability = jcas.getRequiredFeatureDE(casType, "probability", "uima.cas.Float", featOkTst);
     casFeatCode_probability  = (null == casFeat_probability) ? JCas.INVALID_FEATURE_CODE : ((FeatureImpl)casFeat_probability).getCode();
+
+ 
+    casFeat_implementingWrapper = jcas.getRequiredFeatureDE(casType, "implementingWrapper", "uima.cas.String", featOkTst);
+    casFeatCode_implementingWrapper  = (null == casFeat_implementingWrapper) ? JCas.INVALID_FEATURE_CODE : ((FeatureImpl)casFeat_implementingWrapper).getCode();
 
   }
 }

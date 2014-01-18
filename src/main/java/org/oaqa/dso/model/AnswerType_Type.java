@@ -12,10 +12,12 @@ import org.apache.uima.cas.Type;
 import org.apache.uima.cas.impl.FeatureImpl;
 import org.apache.uima.cas.Feature;
 
+import org.oaqa.dso.model.gerp.GerpAnnotation_Type;
+
 /** A Named Entity type that represents the type of the answer being sought.
- * Updated by JCasGen Mon Oct 21 21:41:35 EDT 2013
+ * Updated by JCasGen Thu Jan 16 23:10:26 EST 2014
  * @generated */
-public class AnswerType_Type extends OAQAAnnotation_Type {
+public class AnswerType_Type extends GerpAnnotation_Type {
   /** @generated */
   @Override
   protected FSGenerator getFSGenerator() {return fsGenerator;}
