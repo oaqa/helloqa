@@ -10,7 +10,7 @@ import org.apache.uima.jcas.cas.TOP_Type;
 
 
 /** A semantic role label.
- * Updated by JCasGen Thu Jan 16 23:10:26 EST 2014
+ * Updated by JCasGen Sat Feb 01 16:04:48 EST 2014
  * XML source: /home/ruil/workspace/git/helloqa/src/main/resources/edu/cmu/lti/oaqa/OAQATypes.xml
  * @generated */
 public class SemanticRole extends OAQAAnnotation {

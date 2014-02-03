@@ -13,7 +13,7 @@ import org.apache.uima.cas.impl.FeatureImpl;
 import org.apache.uima.cas.Feature;
 
 /** An object that holds a query and results for a search (text search, fact search, KB search, etc.)
- * Updated by JCasGen Thu Jan 16 23:10:26 EST 2014
+ * Updated by JCasGen Mon Feb 03 02:19:48 EST 2014
  * @generated */
 public class Search_Type extends OAQATop_Type {
   /** @generated */

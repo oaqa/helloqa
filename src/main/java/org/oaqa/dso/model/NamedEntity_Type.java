@@ -13,7 +13,7 @@ import org.apache.uima.cas.impl.FeatureImpl;
 import org.apache.uima.cas.Feature;
 
 /** A named entity with one or more URIs that identify or define the named entity.  The URIs could reference any source that defines or disambiguates the named entity.
- * Updated by JCasGen Thu Jan 16 23:10:26 EST 2014
+ * Updated by JCasGen Mon Feb 03 02:19:48 EST 2014
  * @generated */
 public class NamedEntity_Type extends OAQAAnnotation_Type {
   /** @generated */

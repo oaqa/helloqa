@@ -2,10 +2,10 @@
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <stringAttribute key="bad_container_name" value="/edu.cmu.lti.oaqa.openqa.HelloQA/launchers"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/helloqa"/>
+<listEntry value="/uima-ecd/src/main/java/edu/cmu/lti/oaqa/ecd/driver/ECDDriver.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
-<listEntry value="4"/>
+<listEntry value="1"/>
 </listAttribute>
 <mapAttribute key="org.eclipse.debug.core.preferred_launchers">
 <mapEntry key="[debug]" value="org.eclipse.jdt.launching.localJavaApplication"/>

@@ -13,7 +13,7 @@ import org.apache.uima.cas.impl.FeatureImpl;
 import org.apache.uima.cas.Feature;
 
 /** A semantic role label.
- * Updated by JCasGen Thu Jan 16 23:10:26 EST 2014
+ * Updated by JCasGen Sat Feb 01 16:04:48 EST 2014
  * @generated */
 public class SemanticRole_Type extends OAQAAnnotation_Type {
   /** @generated */

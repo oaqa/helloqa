@@ -167,18 +167,6 @@ $Id:$</description>
       </features>
     </typeDescription>
     <typeDescription>
-      <name>org.oaqa.dso.model.SemanticRole</name>
-      <description>A semantic role label.</description>
-      <supertypeName>org.oaqa.dso.model.OAQAAnnotation</supertypeName>
-      <features>
-        <featureDescription>
-          <name>label</name>
-          <description>The semantic role label.</description>
-          <rangeTypeName>uima.cas.String</rangeTypeName>
-        </featureDescription>
-      </features>
-    </typeDescription>
-    <typeDescription>
       <name>org.oaqa.dso.model.Question</name>
       <description>The Question and any associated meta-data.</description>
       <supertypeName>org.oaqa.dso.model.gerp.GerpAnnotation</supertypeName>
@@ -236,7 +224,7 @@ $Id:$</description>
     <typeDescription>
       <name>org.oaqa.dso.model.SearchResult</name>
       <description>A search result.</description>
-      <supertypeName>org.oaqa.dso.model.OAQATop</supertypeName>
+      <supertypeName>org.oaqa.dso.model.gerp.GerpTop</supertypeName>
       <features>
         <featureDescription>
           <name>uri</name>
@@ -989,6 +977,55 @@ $Id:$</description>
           <name>score</name>
           <description/>
           <rangeTypeName>uima.cas.Float</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+  <typeDescription>
+      <name>org.oaqa.dso.model.Keyterm</name>
+      <description/>
+      <supertypeName>org.oaqa.dso.model.gerp.GerpAnnotation</supertypeName>
+    </typeDescription>
+  <typeDescription>
+      <name>org.oaqa.dso.model.nlp.Parse</name>
+      <description/>
+      <supertypeName>org.oaqa.dso.model.gerp.GerpTop</supertypeName>
+      <features>
+        <featureDescription>
+          <name>unigrams</name>
+          <description/>
+          <rangeTypeName>uima.cas.FSList</rangeTypeName>
+          <elementType>org.oaqa.dso.model.nlp.Token</elementType>
+        </featureDescription>
+        <featureDescription>
+          <name>bigrams</name>
+          <description/>
+          <rangeTypeName>uima.cas.FSList</rangeTypeName>
+          <elementType>org.oaqa.dso.model.nlp.Token</elementType>
+        </featureDescription>
+      </features>
+    </typeDescription>
+    <typeDescription>
+      <name>org.oaqa.dso.model.nlp.Token</name>
+      <description/>
+      <supertypeName>org.oaqa.dso.model.gerp.GerpAnnotation</supertypeName>
+    <features>
+        <featureDescription>
+          <name>text</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+  <typeDescription>
+      <name>org.oaqa.dso.model.SearchResultList</name>
+      <description/>
+      <supertypeName>org.oaqa.dso.model.gerp.GerpTop</supertypeName>
+      <features>
+        <featureDescription>
+          <name>passageList</name>
+          <description/>
+          <rangeTypeName>uima.cas.FSArray</rangeTypeName>
+          <elementType>org.oaqa.dso.model.SearchResult</elementType>
         </featureDescription>
       </features>
     </typeDescription>

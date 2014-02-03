@@ -8,14 +8,18 @@ import org.apache.uima.jcas.JCasRegistry;
 import org.apache.uima.jcas.cas.TOP_Type;
 
 import org.apache.uima.jcas.cas.FSArray;
+import org.oaqa.dso.model.gerp.GerpTop;
 import org.apache.uima.jcas.cas.FSList;
 
 
+import org.oaqa.dso.model.gerp.GerpAnnotation;
+
+
 /** A search result.
- * Updated by JCasGen Thu Jan 16 23:10:26 EST 2014
+ * Updated by JCasGen Mon Feb 03 02:19:48 EST 2014
  * XML source: /home/ruil/workspace/git/helloqa/src/main/resources/edu/cmu/lti/oaqa/OAQATypes.xml
  * @generated */
-public class SearchResult extends OAQATop {
+public class SearchResult extends GerpTop {
   /** @generated
    * @ordered 
    */
