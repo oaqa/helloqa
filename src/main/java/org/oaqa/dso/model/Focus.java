@@ -10,7 +10,7 @@ import org.apache.uima.jcas.cas.TOP_Type;
 
 
 /** The phrase in the question that indicates the answer variable.
- * Updated by JCasGen Mon Feb 03 02:19:48 EST 2014
+ * Updated by JCasGen Tue Feb 04 21:53:59 EST 2014
  * XML source: /home/ruil/workspace/git/helloqa/src/main/resources/edu/cmu/lti/oaqa/OAQATypes.xml
  * @generated */
 public class Focus extends OAQAAnnotation {

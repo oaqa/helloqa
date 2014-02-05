@@ -26,12 +26,6 @@ public class RedundancyBasedAnswerGenerator extends AbstractAnswerGenerator {
 	private static final Logger LOGGER = Logger.getLogger(LogUtil
 			.getInvokingClassName());
 
-	public void initialize(UimaContext aContext)
-			throws ResourceInitializationException {
-		super.initialize(aContext);
-		initialize();
-	}
-	
 	/**
 	 * Generates a final list of answers by simply sorting the candidates by
 	 * their frequencies in descending order.
@@ -90,12 +84,6 @@ public class RedundancyBasedAnswerGenerator extends AbstractAnswerGenerator {
 //		finalAnswers.add(0, candidate);		
 		
 		return finalAnswers;
-	}
-
-	@Override
-	public void initialize() {
-		// TODO Auto-generated method stub
-		
 	}
 
 }

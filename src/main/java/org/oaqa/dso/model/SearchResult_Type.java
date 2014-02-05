@@ -17,7 +17,7 @@ import org.oaqa.dso.model.gerp.GerpTop_Type;
 import org.oaqa.dso.model.gerp.GerpAnnotation_Type;
 
 /** A search result.
- * Updated by JCasGen Mon Feb 03 02:19:48 EST 2014
+ * Updated by JCasGen Tue Feb 04 21:53:59 EST 2014
  * @generated */
 public class SearchResult_Type extends GerpTop_Type {
   /** @generated */

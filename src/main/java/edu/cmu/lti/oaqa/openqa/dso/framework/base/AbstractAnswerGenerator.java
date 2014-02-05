@@ -17,9 +17,7 @@ import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewManager;
 import edu.cmu.lti.oaqa.openqa.dso.framework.jcas.ViewType;
 
 public abstract class AbstractAnswerGenerator extends AbstractLoggedComponent {
-
-	public abstract void initialize();
-
+	
 	public abstract List<AnswerCandidate> generateFinalAnswers(
 			String answerType, List<String> keyterms, List<RetrievalResult> documents,
 			List<AnswerCandidate> answerCandidates);
