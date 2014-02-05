@@ -15,7 +15,7 @@ import org.apache.uima.cas.Feature;
 import org.oaqa.dso.model.gerp.GerpAnnotation_Type;
 
 /** A Named Entity type that represents the type of the answer being sought.
- * Updated by JCasGen Tue Feb 04 21:53:59 EST 2014
+ * Updated by JCasGen Tue Feb 04 22:31:41 EST 2014
  * @generated */
 public class AnswerType_Type extends GerpAnnotation_Type {
   /** @generated */

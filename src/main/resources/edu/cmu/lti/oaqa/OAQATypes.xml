@@ -946,7 +946,7 @@ $Id:$</description>
       </features>
     </typeDescription>
   <typeDescription>
-      <name>org.oaqa.dso.model.nlp.Parse</name>
+      <name>org.oaqa.dso.model.Parse</name>
       <description/>
       <supertypeName>org.oaqa.dso.model.gerp.GerpTop</supertypeName>
       <features>
@@ -965,7 +965,7 @@ $Id:$</description>
       </features>
     </typeDescription>
     <typeDescription>
-      <name>org.oaqa.dso.model.nlp.Token</name>
+      <name>org.oaqa.dso.model.Token</name>
       <description/>
       <supertypeName>org.oaqa.dso.model.gerp.GerpAnnotation</supertypeName>
     <features>

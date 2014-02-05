@@ -12,7 +12,7 @@ import org.apache.uima.jcas.cas.StringList;
 
 
 /** A query concept in the abstract search query model.
- * Updated by JCasGen Tue Feb 04 21:53:59 EST 2014
+ * Updated by JCasGen Tue Feb 04 22:31:41 EST 2014
  * XML source: /home/ruil/workspace/git/helloqa/src/main/resources/edu/cmu/lti/oaqa/OAQATypes.xml
  * @generated */
 public class QueryConcept extends OAQATop {
